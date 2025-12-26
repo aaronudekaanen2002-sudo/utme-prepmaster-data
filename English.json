@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "English Language",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best completes each sentence or answers the question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the option that best completes the sentence:\nHe was punished because he ______ the school rules.",
+      "options": [
+        { "key": "A", "text": "break" },
+        { "key": "B", "text": "broke" },
+        { "key": "C", "text": "breaking" },
+        { "key": "D", "text": "breaks" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Choose the word that is nearest in meaning to the underlined word:\nThe boy was *brave* in the face of danger.",
+      "options": [
+        { "key": "A", "text": "Cowardly" },
+        { "key": "B", "text": "Fearful" },
+        { "key": "C", "text": "Bold" },
+        { "key": "D", "text": "Weak" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Choose the option that has the same vowel sound as the underlined letters:\n*fate*",
+      "options": [
+        { "key": "A", "text": "cat" },
+        { "key": "B", "text": "late" },
+        { "key": "C", "text": "cut" },
+        { "key": "D", "text": "cot" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Choose the option that best completes the sentence:\nNeither the teacher nor the students ______ present.",
+      "options": [
+        { "key": "A", "text": "was" },
+        { "key": "B", "text": "is" },
+        { "key": "C", "text": "were" },
+        { "key": "D", "text": "are" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Choose the option that best interprets the proverb:\n\"A stitch in time saves nine.\"",
+      "options": [
+        { "key": "A", "text": "Sewing is important" },
+        { "key": "B", "text": "Time should be managed" },
+        { "key": "C", "text": "Early action prevents bigger problems" },
+        { "key": "D", "text": "Clothing should be repaired" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
