@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Commerce",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Commerce is mainly concerned with",
+      "options": [
+        { "key": "A", "text": "Manufacturing of goods" },
+        { "key": "B", "text": "Distribution and exchange of goods and services" },
+        { "key": "C", "text": "Extraction of raw materials" },
+        { "key": "D", "text": "Consumption of goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT an aid to trade?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Manufacturing" },
+        { "key": "D", "text": "Insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "The document sent by a buyer to a seller to show return of goods is called",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Receipt" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Credit note" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following retailers sells goods directly from the manufacturer to consumers?",
+      "options": [
+        { "key": "A", "text": "Wholesaler" },
+        { "key": "B", "text": "Middleman" },
+        { "key": "C", "text": "Multiple shop" },
+        { "key": "D", "text": "Broker" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Trade between two or more countries is known as",
+      "options": [
+        { "key": "A", "text": "Internal trade" },
+        { "key": "B", "text": "Home trade" },
+        { "key": "C", "text": "Foreign trade" },
+        { "key": "D", "text": "Retail trade" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
