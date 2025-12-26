@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Chemistry",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best completes each statement."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following subatomic particles has no electric charge?",
+      "options": [
+        { "key": "A", "text": "Proton" },
+        { "key": "B", "text": "Electron" },
+        { "key": "C", "text": "Neutron" },
+        { "key": "D", "text": "Ion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "The atomic number of an element is equal to the number of",
+      "options": [
+        { "key": "A", "text": "neutrons" },
+        { "key": "B", "text": "electrons in a neutral atom" },
+        { "key": "C", "text": "protons and neutrons" },
+        { "key": "D", "text": "nucleons" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following processes is a chemical change?",
+      "options": [
+        { "key": "A", "text": "Melting of ice" },
+        { "key": "B", "text": "Boiling of water" },
+        { "key": "C", "text": "Rusting of iron" },
+        { "key": "D", "text": "Dissolving sugar in water" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "When a dilute acid reacts with a metal, the gas produced is",
+      "options": [
+        { "key": "A", "text": "Oxygen" },
+        { "key": "B", "text": "Carbon dioxide" },
+        { "key": "C", "text": "Hydrogen" },
+        { "key": "D", "text": "Nitrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following substances is classified as an alkali?",
+      "options": [
+        { "key": "A", "text": "Sodium hydroxide" },
+        { "key": "B", "text": "Copper(II) sulphate" },
+        { "key": "C", "text": "Hydrochloric acid" },
+        { "key": "D", "text": "Ammonium chloride" }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}
