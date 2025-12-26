@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Civic Education",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Nigerian Constitution is best described as",
+      "options": [
+        { "key": "A", "text": "A religious document" },
+        { "key": "B", "text": "The supreme law of the land" },
+        { "key": "C", "text": "A military decree" },
+        { "key": "D", "text": "A party manifesto" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a fundamental human right?",
+      "options": [
+        { "key": "A", "text": "Right to life" },
+        { "key": "B", "text": "Right to education" },
+        { "key": "C", "text": "Right to personal liberty" },
+        { "key": "D", "text": "Right to vote" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "One major duty of a Nigerian citizen is to",
+      "options": [
+        { "key": "A", "text": "Obey the constitution" },
+        { "key": "B", "text": "Travel abroad" },
+        { "key": "C", "text": "Own a business" },
+        { "key": "D", "text": "Become wealthy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following promotes national unity?",
+      "options": [
+        { "key": "A", "text": "Ethnic discrimination" },
+        { "key": "B", "text": "Religious intolerance" },
+        { "key": "C", "text": "Rule of law" },
+        { "key": "D", "text": "Corruption" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "The Independent National Electoral Commission (INEC) is responsible for",
+      "options": [
+        { "key": "A", "text": "Making laws" },
+        { "key": "B", "text": "Judging court cases" },
+        { "key": "C", "text": "Conducting elections" },
+        { "key": "D", "text": "Maintaining law and order" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
