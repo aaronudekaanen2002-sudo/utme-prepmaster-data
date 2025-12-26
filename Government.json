@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Government",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Government is best defined as the",
+      "options": [
+        { "key": "A", "text": "institution through which laws are made and enforced" },
+        { "key": "B", "text": "association of political parties" },
+        { "key": "C", "text": "group of civil servants" },
+        { "key": "D", "text": "system of economic organization" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a feature of democracy?",
+      "options": [
+        { "key": "A", "text": "Rule of law" },
+        { "key": "B", "text": "Free and fair elections" },
+        { "key": "C", "text": "Supremacy of the constitution" },
+        { "key": "D", "text": "Absolute power of the ruler" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "The main function of the legislature is to",
+      "options": [
+        { "key": "A", "text": "interpret the law" },
+        { "key": "B", "text": "enforce the law" },
+        { "key": "C", "text": "make laws" },
+        { "key": "D", "text": "adjudicate disputes" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a feature of a federal system of government?",
+      "options": [
+        { "key": "A", "text": "Concentration of powers at the centre" },
+        { "key": "B", "text": "Division of powers between central and regional governments" },
+        { "key": "C", "text": "Unitary constitution" },
+        { "key": "D", "text": "Abolition of local government" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "One major function of political parties is to",
+      "options": [
+        { "key": "A", "text": "interpret the constitution" },
+        { "key": "B", "text": "train civil servants" },
+        { "key": "C", "text": "present candidates for elections" },
+        { "key": "D", "text": "settle judicial cases" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
