@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Agricultural Science",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a function of agricultural extension services?",
+      "options": [
+        { "key": "A", "text": "Providing loans to farmers" },
+        { "key": "B", "text": "Teaching farmers improved farming methods" },
+        { "key": "C", "text": "Selling farm produce" },
+        { "key": "D", "text": "Importing farm machinery" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following soil types has the highest water-holding capacity?",
+      "options": [
+        { "key": "A", "text": "Sandy soil" },
+        { "key": "B", "text": "Loamy soil" },
+        { "key": "C", "text": "Clay soil" },
+        { "key": "D", "text": "Gravel soil" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "The practice of growing two or more crops on the same piece of land at the same time is called",
+      "options": [
+        { "key": "A", "text": "Crop rotation" },
+        { "key": "B", "text": "Monocropping" },
+        { "key": "C", "text": "Mixed cropping" },
+        { "key": "D", "text": "Shifting cultivation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an example of a leguminous crop?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Rice" },
+        { "key": "C", "text": "Cowpea" },
+        { "key": "D", "text": "Millet" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "The removal of unwanted plants from a farm is known as",
+      "options": [
+        { "key": "A", "text": "Mulching" },
+        { "key": "B", "text": "Weeding" },
+        { "key": "C", "text": "Irrigation" },
+        { "key": "D", "text": "Harvesting" }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}
