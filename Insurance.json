@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Insurance",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Insurance can best be described as a contract between",
+      "options": [
+        { "key": "A", "text": "Buyer and seller" },
+        { "key": "B", "text": "Employer and employee" },
+        { "key": "C", "text": "Insurer and insured" },
+        { "key": "D", "text": "Bank and customer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "The person who takes out an insurance policy is known as the",
+      "options": [
+        { "key": "A", "text": "Beneficiary" },
+        { "key": "B", "text": "Insurer" },
+        { "key": "C", "text": "Insured" },
+        { "key": "D", "text": "Underwriter" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "The periodic payment made by the insured to the insurer is called",
+      "options": [
+        { "key": "A", "text": "Claim" },
+        { "key": "B", "text": "Premium" },
+        { "key": "C", "text": "Dividend" },
+        { "key": "D", "text": "Indemnity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a principle of insurance?",
+      "options": [
+        { "key": "A", "text": "Utmost good faith" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Contribution" },
+        { "key": "D", "text": "Profit maximization" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "Insurance that provides compensation in the event of death is known as",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Life insurance" },
+        { "key": "D", "text": "Accident insurance" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
