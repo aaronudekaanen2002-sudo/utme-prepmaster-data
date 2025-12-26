@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Fine Arts",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a two-dimensional art form?",
+      "options": [
+        { "key": "A", "text": "Sculpture" },
+        { "key": "B", "text": "Ceramics" },
+        { "key": "C", "text": "Painting" },
+        { "key": "D", "text": "Architecture" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "The art of making images using pieces of colored glass is known as",
+      "options": [
+        { "key": "A", "text": "Mosaic" },
+        { "key": "B", "text": "Stained glass" },
+        { "key": "C", "text": "Weaving" },
+        { "key": "D", "text": "Carving" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following elements of art refers to lightness or darkness of a color?",
+      "options": [
+        { "key": "A", "text": "Texture" },
+        { "key": "B", "text": "Tone" },
+        { "key": "C", "text": "Shape" },
+        { "key": "D", "text": "Line" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "The process of cutting or shaping materials such as wood or stone to form objects is called",
+      "options": [
+        { "key": "A", "text": "Modeling" },
+        { "key": "B", "text": "Casting" },
+        { "key": "C", "text": "Carving" },
+        { "key": "D", "text": "Weaving" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following Nigerian artists is known for modern African art?",
+      "options": [
+        { "key": "A", "text": "Ben Enwonwu" },
+        { "key": "B", "text": "Wole Soyinka" },
+        { "key": "C", "text": "Chinua Achebe" },
+        { "key": "D", "text": "Hubert Ogunde" }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}
