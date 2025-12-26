@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Economics",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Economics is best defined as the study of",
+      "options": [
+        { "key": "A", "text": "money and banking" },
+        { "key": "B", "text": "production and consumption of goods" },
+        { "key": "C", "text": "how scarce resources are allocated to satisfy unlimited wants" },
+        { "key": "D", "text": "trade between countries" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a factor of production?",
+      "options": [
+        { "key": "A", "text": "Land" },
+        { "key": "B", "text": "Labour" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Money" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "The reward for labour is known as",
+      "options": [
+        { "key": "A", "text": "Interest" },
+        { "key": "B", "text": "Rent" },
+        { "key": "C", "text": "Wages" },
+        { "key": "D", "text": "Profit" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "When demand increases and supply remains constant, the price will",
+      "options": [
+        { "key": "A", "text": "fall" },
+        { "key": "B", "text": "remain the same" },
+        { "key": "C", "text": "rise" },
+        { "key": "D", "text": "be zero" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "The opportunity cost of a choice is the value of",
+      "options": [
+        { "key": "A", "text": "all available alternatives" },
+        { "key": "B", "text": "the next best alternative forgone" },
+        { "key": "C", "text": "money spent" },
+        { "key": "D", "text": "goods consumed" }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}
