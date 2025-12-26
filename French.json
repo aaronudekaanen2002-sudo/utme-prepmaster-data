@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "French",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct French translation for: \"Good morning\"",
+      "options": [
+        { "key": "A", "text": "Bonsoir" },
+        { "key": "B", "text": "Bonne nuit" },
+        { "key": "C", "text": "Bonjour" },
+        { "key": "D", "text": "Salut" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following means \"Thank you\" in French?",
+      "options": [
+        { "key": "A", "text": "Pardon" },
+        { "key": "B", "text": "Merci" },
+        { "key": "C", "text": "S’il vous plaît" },
+        { "key": "D", "text": "Au revoir" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct translation for: \"My name is John\"",
+      "options": [
+        { "key": "A", "text": "Je suis John" },
+        { "key": "B", "text": "Mon nom John" },
+        { "key": "C", "text": "Je m'appelle John" },
+        { "key": "D", "text": "Je nomme John" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following means \"Goodbye\" in French?",
+      "options": [
+        { "key": "A", "text": "Salut" },
+        { "key": "B", "text": "Bonsoir" },
+        { "key": "C", "text": "Au revoir" },
+        { "key": "D", "text": "Merci" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is the correct plural form of \"le livre\"?",
+      "options": [
+        { "key": "A", "text": "les livre" },
+        { "key": "B", "text": "le livres" },
+        { "key": "C", "text": "les livres" },
+        { "key": "D", "text": "des livre" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
