@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Physics",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following quantities is a vector?",
+      "options": [
+        { "key": "A", "text": "Speed" },
+        { "key": "B", "text": "Mass" },
+        { "key": "C", "text": "Velocity" },
+        { "key": "D", "text": "Temperature" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "The SI unit of force is",
+      "options": [
+        { "key": "A", "text": "Joule" },
+        { "key": "B", "text": "Newton" },
+        { "key": "C", "text": "Watt" },
+        { "key": "D", "text": "Pascal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following devices is used to measure electric current?",
+      "options": [
+        { "key": "A", "text": "Voltmeter" },
+        { "key": "B", "text": "Galvanometer" },
+        { "key": "C", "text": "Ammeter" },
+        { "key": "D", "text": "Ohmmeter" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "The phenomenon responsible for the formation of a shadow is",
+      "options": [
+        { "key": "A", "text": "Reflection" },
+        { "key": "B", "text": "Refraction" },
+        { "key": "C", "text": "Diffraction" },
+        { "key": "D", "text": "Rectilinear propagation of light" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a unit of electrical resistance?",
+      "options": [
+        { "key": "A", "text": "Volt" },
+        { "key": "B", "text": "Ampere" },
+        { "key": "C", "text": "Ohm" },
+        { "key": "D", "text": "Coulomb" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
