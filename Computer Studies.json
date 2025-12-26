@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Computer Studies",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is an example of an input device?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Keyboard" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "The part of the computer that performs arithmetic and logical operations is the",
+      "options": [
+        { "key": "A", "text": "Control Unit" },
+        { "key": "B", "text": "Memory Unit" },
+        { "key": "C", "text": "Arithmetic Logic Unit" },
+        { "key": "D", "text": "Input Unit" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is used to store data permanently?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "Cache memory" },
+        { "key": "C", "text": "Hard disk" },
+        { "key": "D", "text": "Registers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "The full meaning of CPU is",
+      "options": [
+        { "key": "A", "text": "Central Processing Unit" },
+        { "key": "B", "text": "Computer Processing Unit" },
+        { "key": "C", "text": "Central Program Unit" },
+        { "key": "D", "text": "Computer Program Utility" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT an example of application software?",
+      "options": [
+        { "key": "A", "text": "Microsoft Word" },
+        { "key": "B", "text": "Microsoft Excel" },
+        { "key": "C", "text": "Windows OS" },
+        { "key": "D", "text": "PowerPoint" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
