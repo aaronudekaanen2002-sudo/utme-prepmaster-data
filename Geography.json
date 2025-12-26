@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Geography",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is NOT a layer of the atmosphere?",
+      "options": [
+        { "key": "A", "text": "Troposphere" },
+        { "key": "B", "text": "Stratosphere" },
+        { "key": "C", "text": "Mesosphere" },
+        { "key": "D", "text": "Lithosphere" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "The instrument used for measuring rainfall is the",
+      "options": [
+        { "key": "A", "text": "Barometer" },
+        { "key": "B", "text": "Hygrometer" },
+        { "key": "C", "text": "Rain gauge" },
+        { "key": "D", "text": "Anemometer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following lines divides the Earth into two equal halves?",
+      "options": [
+        { "key": "A", "text": "Prime Meridian" },
+        { "key": "B", "text": "Tropic of Cancer" },
+        { "key": "C", "text": "Arctic Circle" },
+        { "key": "D", "text": "Equator" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "The movement of people from one place to another with the intention of settling is called",
+      "options": [
+        { "key": "A", "text": "Transportation" },
+        { "key": "B", "text": "Urbanization" },
+        { "key": "C", "text": "Migration" },
+        { "key": "D", "text": "Industrialization" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a natural vegetation type found in Northern Nigeria?",
+      "options": [
+        { "key": "A", "text": "Mangrove forest" },
+        { "key": "B", "text": "Rainforest" },
+        { "key": "C", "text": "Savanna" },
+        { "key": "D", "text": "Swamp forest" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
