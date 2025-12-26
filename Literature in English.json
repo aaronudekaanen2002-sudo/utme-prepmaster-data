@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Literature in English",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is NOT a genre of literature?",
+      "options": [
+        { "key": "A", "text": "Drama" },
+        { "key": "B", "text": "Poetry" },
+        { "key": "C", "text": "Prose" },
+        { "key": "D", "text": "Grammar" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "The main character in a literary work is known as the",
+      "options": [
+        { "key": "A", "text": "Antagonist" },
+        { "key": "B", "text": "Protagonist" },
+        { "key": "C", "text": "Narrator" },
+        { "key": "D", "text": "Playwright" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a type of drama?",
+      "options": [
+        { "key": "A", "text": "Novel" },
+        { "key": "B", "text": "Lyric" },
+        { "key": "C", "text": "Tragedy" },
+        { "key": "D", "text": "Epic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "The figure of speech in which human qualities are given to non-living things is called",
+      "options": [
+        { "key": "A", "text": "Simile" },
+        { "key": "B", "text": "Metaphor" },
+        { "key": "C", "text": "Personification" },
+        { "key": "D", "text": "Hyperbole" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "A poem that expresses strong personal feelings of the poet is known as",
+      "options": [
+        { "key": "A", "text": "Epic" },
+        { "key": "B", "text": "Ballad" },
+        { "key": "C", "text": "Lyric" },
+        { "key": "D", "text": "Dirge" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
