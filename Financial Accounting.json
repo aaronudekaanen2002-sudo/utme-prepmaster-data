@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Financial Accounting",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following records is used to record credit purchases in a business?",
+      "options": [
+        { "key": "A", "text": "Sales journal" },
+        { "key": "B", "text": "Purchases journal" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "General ledger" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following assets has the longest useful life?",
+      "options": [
+        { "key": "A", "text": "Office stationery" },
+        { "key": "B", "text": "Motor vehicle" },
+        { "key": "C", "text": "Goodwill" },
+        { "key": "D", "text": "Machinery" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "The document sent by a seller to a buyer showing goods sold is called",
+      "options": [
+        { "key": "A", "text": "Receipt" },
+        { "key": "B", "text": "Invoice" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Credit note" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following items is recorded on the debit side of a cash book?",
+      "options": [
+        { "key": "A", "text": "Cash paid out" },
+        { "key": "B", "text": "Discount allowed" },
+        { "key": "C", "text": "Cash received" },
+        { "key": "D", "text": "Returns outwards" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Depreciation is best defined as",
+      "options": [
+        { "key": "A", "text": "Increase in value of an asset" },
+        { "key": "B", "text": "Reduction in capital" },
+        { "key": "C", "text": "Loss in value of a fixed asset over time" },
+        { "key": "D", "text": "Cost of maintaining an asset" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
