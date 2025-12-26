@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Christian Religious Studies",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the Bible, who was the first man created by God?",
+      "options": [
+        { "key": "A", "text": "Abraham" },
+        { "key": "B", "text": "Adam" },
+        { "key": "C", "text": "Noah" },
+        { "key": "D", "text": "Moses" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which book of the Bible contains the Ten Commandments?",
+      "options": [
+        { "key": "A", "text": "Genesis" },
+        { "key": "B", "text": "Exodus" },
+        { "key": "C", "text": "Leviticus" },
+        { "key": "D", "text": "Deuteronomy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Who betrayed Jesus Christ?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "John" },
+        { "key": "C", "text": "Judas Iscariot" },
+        { "key": "D", "text": "Thomas" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "The parable of the Good Samaritan teaches the lesson of",
+      "options": [
+        { "key": "A", "text": "Forgiveness" },
+        { "key": "B", "text": "Faith" },
+        { "key": "C", "text": "Love for one another" },
+        { "key": "D", "text": "Patience" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following was NOT one of Jesus’ disciples?",
+      "options": [
+        { "key": "A", "text": "Matthew" },
+        { "key": "B", "text": "Simon Peter" },
+        { "key": "C", "text": "Paul" },
+        { "key": "D", "text": "James" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
