@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Marketing",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Marketing is best defined as the",
+      "options": [
+        { "key": "A", "text": "Production of goods for consumers" },
+        { "key": "B", "text": "Exchange of goods and services to satisfy human wants" },
+        { "key": "C", "text": "Transportation of goods only" },
+        { "key": "D", "text": "Advertising of products alone" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT one of the elements of the marketing mix?",
+      "options": [
+        { "key": "A", "text": "Product" },
+        { "key": "B", "text": "Price" },
+        { "key": "C", "text": "Profit" },
+        { "key": "D", "text": "Promotion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "The activity of making products known to consumers is called",
+      "options": [
+        { "key": "A", "text": "Packaging" },
+        { "key": "B", "text": "Distribution" },
+        { "key": "C", "text": "Promotion" },
+        { "key": "D", "text": "Branding" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following pricing policies involves selling goods at a low price to attract customers?",
+      "options": [
+        { "key": "A", "text": "Skimming pricing" },
+        { "key": "B", "text": "Penetration pricing" },
+        { "key": "C", "text": "Cost-plus pricing" },
+        { "key": "D", "text": "Discount pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a function of marketing?",
+      "options": [
+        { "key": "A", "text": "Manufacturing goods" },
+        { "key": "B", "text": "Creating customer satisfaction" },
+        { "key": "C", "text": "Mining raw materials" },
+        { "key": "D", "text": "Building factories" }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}
