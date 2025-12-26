@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "History",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who was the first President of Nigeria?",
+      "options": [
+        { "key": "A", "text": "Nnamdi Azikiwe" },
+        { "key": "B", "text": "Obafemi Awolowo" },
+        { "key": "C", "text": "Ahmadu Bello" },
+        { "key": "D", "text": "Yakubu Gowon" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Nigeria gained independence from Britain in",
+      "options": [
+        { "key": "A", "text": "1957" },
+        { "key": "B", "text": "1958" },
+        { "key": "C", "text": "1960" },
+        { "key": "D", "text": "1963" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "The Sokoto Caliphate was founded by",
+      "options": [
+        { "key": "A", "text": "Usman dan Fodio" },
+        { "key": "B", "text": "Ahmadu Bello" },
+        { "key": "C", "text": "Muhammadu Buhari" },
+        { "key": "D", "text": "Shehu Shagari" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which Nigerian war took place between 1967 and 1970?",
+      "options": [
+        { "key": "A", "text": "World War I" },
+        { "key": "B", "text": "World War II" },
+        { "key": "C", "text": "Nigerian Civil War" },
+        { "key": "D", "text": "Jukun War" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "The Berlin Conference of 1884–1885 was mainly concerned with",
+      "options": [
+        { "key": "A", "text": "Slave trade abolition" },
+        { "key": "B", "text": "Partition of Africa" },
+        { "key": "C", "text": "Formation of ECOWAS" },
+        { "key": "D", "text": "Nigerian independence" }
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}
