@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "exam": "UTME",
+    "subject": "Biology",
+    "year": "General",
+    "time_minutes": 40,
+    "total_questions": 5,
+    "instructions": "Answer all questions. Choose the option that best answers each question."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the basic unit of life?",
+      "options": [
+        { "key": "A", "text": "Tissue" },
+        { "key": "B", "text": "Organ" },
+        { "key": "C", "text": "Cell" },
+        { "key": "D", "text": "System" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "The process by which green plants manufacture their food is called",
+      "options": [
+        { "key": "A", "text": "Respiration" },
+        { "key": "B", "text": "Transpiration" },
+        { "key": "C", "text": "Photosynthesis" },
+        { "key": "D", "text": "Excretion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following organisms is a decomposer?",
+      "options": [
+        { "key": "A", "text": "Grasshopper" },
+        { "key": "B", "text": "Frog" },
+        { "key": "C", "text": "Mushroom" },
+        { "key": "D", "text": "Lizard" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "The movement of water from cell to cell through a semi-permeable membrane is known as",
+      "options": [
+        { "key": "A", "text": "Diffusion" },
+        { "key": "B", "text": "Active transport" },
+        { "key": "C", "text": "Osmosis" },
+        { "key": "D", "text": "Translocation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT a function of the root?",
+      "options": [
+        { "key": "A", "text": "Anchorage" },
+        { "key": "B", "text": "Absorption of water" },
+        { "key": "C", "text": "Photosynthesis" },
+        { "key": "D", "text": "Storage of food" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
