@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "question": "Choose the word that is nearest in meaning to the underlined word:\nThe boy was *brave* in the face of danger.",
+      "question": "Choose the word that is nearest in meaning to the underlined word:\nThe boy was brave in the face of danger.",
       "options": [
         { "key": "A", "text": "Cowardly" },
         { "key": "B", "text": "Fearful" },
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "question": "Choose the option that has the same vowel sound as the underlined letters:\n*fate*",
+      "question": "Choose the option that has the same vowel sound as the underlined letters:\nfate",
       "options": [
         { "key": "A", "text": "cat" },
         { "key": "B", "text": "late" },
