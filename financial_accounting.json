@@ -62,6 +62,61 @@
         { "key": "D", "text": "Cost of maintaining an asset" }
       ],
       "correct_answer": "C"
-    }
-  ]
+    },
+    {
+    "id": 101,
+    "question": "Which of the following records is used to record credit purchases in a business?",
+    "options": [
+      { "key": "A", "text": "Sales journal" },
+      { "key": "B", "text": "Purchases journal" },
+      { "key": "C", "text": "Cash book" },
+      { "key": "D", "text": "General ledger" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 102,
+    "question": "The document prepared to correct errors discovered after posting entries to the ledger is called",
+    "options": [
+      { "key": "A", "text": "Trial balance" },
+      { "key": "B", "text": "Journal proper" },
+      { "key": "C", "text": "Petty cash book" },
+      { "key": "D", "text": "Cash book" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 103,
+    "question": "Which of the following items is classified as a current liability?",
+    "options": [
+      { "key": "A", "text": "Capital" },
+      { "key": "B", "text": "Long-term loan" },
+      { "key": "C", "text": "Bank overdraft" },
+      { "key": "D", "text": "Goodwill" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 104,
+    "question": "The principle which states that revenue should be matched with expenses incurred to generate it is known as",
+    "options": [
+      { "key": "A", "text": "Consistency principle" },
+      { "key": "B", "text": "Matching principle" },
+      { "key": "C", "text": "Prudence concept" },
+      { "key": "D", "text": "Money measurement concept" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following will increase the owner's capital in a business?",
+    "options": [
+      { "key": "A", "text": "Drawings" },
+      { "key": "B", "text": "Payment of expenses" },
+      { "key": "C", "text": "Profit earned" },
+      { "key": "D", "text": "Purchase of assets" }
+    ],
+    "correct_answer": "C"
+  }
+ ]
 }
