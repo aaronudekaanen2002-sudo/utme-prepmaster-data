@@ -4,7 +4,7 @@
     "subject": "English Language",
     "year": "General",
     "time_minutes": 40,
-    "total_questions": 55,
+    "total_questions": 105,
     "instructions": "Answer all questions. Choose the option that best completes each sentence or answers the question."
   },
   "questions": [
@@ -612,6 +612,565 @@
         {"key": "D", "text": "rare"}
       ],
       "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Choose the option that best completes the sentence:\nShe was angry because he _____ her advice.",
+      "options": [
+        { "key": "A", "text": "ignores" },
+        { "key": "B", "text": "ignored" },
+        { "key": "C", "text": "ignore" },
+        { "key": "D", "text": "ignoring" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Choose the word nearest in meaning to the underlined word:\nThe task was *arduous*.",
+      "options": [
+        { "key": "A", "text": "easy" },
+        { "key": "B", "text": "difficult" },
+        { "key": "C", "text": "short" },
+        { "key": "D", "text": "simple" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Choose the correct spelling.",
+      "options": [
+        { "key": "A", "text": "Definately" },
+        { "key": "B", "text": "Definitely" },
+        { "key": "C", "text": "Definitly" },
+        { "key": "D", "text": "Definate" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Choose the opposite of the word:\n*Expand*",
+      "options": [
+        { "key": "A", "text": "Increase" },
+        { "key": "B", "text": "Stretch" },
+        { "key": "C", "text": "Contract" },
+        { "key": "D", "text": "Improve" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 60,
+      "question": "Fill in the blank:\nHe arrived _____ than expected.",
+      "options": [
+        { "key": "A", "text": "early" },
+        { "key": "B", "text": "earlier" },
+        { "key": "C", "text": "earliest" },
+        { "key": "D", "text": "most early" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 61,
+      "question": "Choose the sentence with correct punctuation.",
+      "options": [
+        { "key": "A", "text": "Where are you going." },
+        { "key": "B", "text": "Where are you going?" },
+        { "key": "C", "text": "Where, are you going?" },
+        { "key": "D", "text": "Where are, you going?" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is an abstract noun?",
+      "options": [
+        { "key": "A", "text": "Chair" },
+        { "key": "B", "text": "Joy" },
+        { "key": "C", "text": "Book" },
+        { "key": "D", "text": "Table" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Choose the correct preposition:\nHe insisted _____ paying the bill.",
+      "options": [
+        { "key": "A", "text": "on" },
+        { "key": "B", "text": "in" },
+        { "key": "C", "text": "for" },
+        { "key": "D", "text": "with" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Choose the word nearest in meaning to:\n*Generous*",
+      "options": [
+        { "key": "A", "text": "Kind" },
+        { "key": "B", "text": "Selfish" },
+        { "key": "C", "text": "Greedy" },
+        { "key": "D", "text": "Cruel" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Choose the option that best completes the sentence:\nNeither the teacher nor the students _____ present.",
+      "options": [
+        { "key": "A", "text": "is" },
+        { "key": "B", "text": "was" },
+        { "key": "C", "text": "were" },
+        { "key": "D", "text": "are" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 66,
+      "question": "Which word has a different vowel sound?",
+      "options": [
+        { "key": "A", "text": "seat" },
+        { "key": "B", "text": "heat" },
+        { "key": "C", "text": "great" },
+        { "key": "D", "text": "beat" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Choose the correct verb form:\nShe _____ already finished the work.",
+      "options": [
+        { "key": "A", "text": "has" },
+        { "key": "B", "text": "have" },
+        { "key": "C", "text": "had" },
+        { "key": "D", "text": "having" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Choose the correct indirect speech:\nHe said, “I am tired.”",
+      "options": [
+        { "key": "A", "text": "He said he is tired." },
+        { "key": "B", "text": "He said he was tired." },
+        { "key": "C", "text": "He said I was tired." },
+        { "key": "D", "text": "He said he had tired." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Choose the word opposite in meaning to:\n*Transparent*",
+      "options": [
+        { "key": "A", "text": "Clear" },
+        { "key": "B", "text": "Opaque" },
+        { "key": "C", "text": "Bright" },
+        { "key": "D", "text": "Thin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Choose the correct article:\nHe bought _____ umbrella.",
+      "options": [
+        { "key": "A", "text": "a" },
+        { "key": "B", "text": "an" },
+        { "key": "C", "text": "the" },
+        { "key": "D", "text": "no article" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 71,
+      "question": "Choose the correct conjunction:\nI stayed at home _____ it was raining.",
+      "options": [
+        { "key": "A", "text": "but" },
+        { "key": "B", "text": "although" },
+        { "key": "C", "text": "because" },
+        { "key": "D", "text": "so" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 72,
+      "question": "Which of the following is a collective noun?",
+      "options": [
+        { "key": "A", "text": "Books" },
+        { "key": "B", "text": "Students" },
+        { "key": "C", "text": "Herd" },
+        { "key": "D", "text": "Chairs" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "Choose the correct tense:\nBy next year, she _____ the course.",
+      "options": [
+        { "key": "A", "text": "completes" },
+        { "key": "B", "text": "completed" },
+        { "key": "C", "text": "will complete" },
+        { "key": "D", "text": "will have completed" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "Choose the word that best completes the sentence:\nHe spoke _____ to the audience.",
+      "options": [
+        { "key": "A", "text": "confident" },
+        { "key": "B", "text": "confidence" },
+        { "key": "C", "text": "confidently" },
+        { "key": "D", "text": "confide" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Choose the correct plural form of “analysis”.",
+      "options": [
+        { "key": "A", "text": "analysises" },
+        { "key": "B", "text": "analysis" },
+        { "key": "C", "text": "analyses" },
+        { "key": "D", "text": "analysed" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 76,
+      "question": "Which sentence is imperative?",
+      "options": [
+        { "key": "A", "text": "She is cooking." },
+        { "key": "B", "text": "Please close the door." },
+        { "key": "C", "text": "He closed the door." },
+        { "key": "D", "text": "They are inside." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Choose the correct question tag:\nYou finished the work, _____?",
+      "options": [
+        { "key": "A", "text": "didn’t you" },
+        { "key": "B", "text": "don’t you" },
+        { "key": "C", "text": "won’t you" },
+        { "key": "D", "text": "aren’t you" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Choose the word nearest in meaning to:\n*Brief*",
+      "options": [
+        { "key": "A", "text": "Short" },
+        { "key": "B", "text": "Wide" },
+        { "key": "C", "text": "Long" },
+        { "key": "D", "text": "Tall" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "key": "A", "text": "He don't know me." },
+        { "key": "B", "text": "He doesn't knows me." },
+        { "key": "C", "text": "He doesn't know me." },
+        { "key": "D", "text": "He didn't knows me." }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Choose the correct form:\nShe is _____ intelligent student.",
+      "options": [
+        { "key": "A", "text": "a" },
+        { "key": "B", "text": "an" },
+        { "key": "C", "text": "the" },
+        { "key": "D", "text": "no article" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "Choose the word opposite in meaning to:\n*Victory*",
+      "options": [
+        { "key": "A", "text": "Win" },
+        { "key": "B", "text": "Success" },
+        { "key": "C", "text": "Defeat" },
+        { "key": "D", "text": "Joy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "Which literary device involves exaggeration?",
+      "options": [
+        { "key": "A", "text": "Irony" },
+        { "key": "B", "text": "Metaphor" },
+        { "key": "C", "text": "Hyperbole" },
+        { "key": "D", "text": "Simile" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "Choose the correct preposition:\nShe is married _____ a doctor.",
+      "options": [
+        { "key": "A", "text": "with" },
+        { "key": "B", "text": "to" },
+        { "key": "C", "text": "for" },
+        { "key": "D", "text": "by" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Choose the correct meaning of the proverb:\n“Too many cooks spoil the broth.”",
+      "options": [
+        { "key": "A", "text": "Cooking is difficult" },
+        { "key": "B", "text": "Many people ruin teamwork" },
+        { "key": "C", "text": "Food is expensive" },
+        { "key": "D", "text": "Cooks are important" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "Choose the correct plural:\nOne goose, two _____.",
+      "options": [
+        { "key": "A", "text": "gooses" },
+        { "key": "B", "text": "goose" },
+        { "key": "C", "text": "geese" },
+        { "key": "D", "text": "goosies" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 86,
+      "question": "Which word is an adverb?",
+      "options": [
+        { "key": "A", "text": "Quick" },
+        { "key": "B", "text": "Quickly" },
+        { "key": "C", "text": "Quickness" },
+        { "key": "D", "text": "Quicken" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Choose the correct form:\nThey _____ waiting since morning.",
+      "options": [
+        { "key": "A", "text": "are" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "have been" },
+        { "key": "D", "text": "had" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "Choose the word nearest in meaning to:\n*Ancient*",
+      "options": [
+        { "key": "A", "text": "Old" },
+        { "key": "B", "text": "Modern" },
+        { "key": "C", "text": "New" },
+        { "key": "D", "text": "Recent" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Which sentence is an exclamation?",
+      "options": [
+        { "key": "A", "text": "She is here." },
+        { "key": "B", "text": "What a beautiful day!" },
+        { "key": "C", "text": "Is she here?" },
+        { "key": "D", "text": "Close the door." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Choose the correct word:\nHe was accused _____ stealing.",
+      "options": [
+        { "key": "A", "text": "for" },
+        { "key": "B", "text": "with" },
+        { "key": "C", "text": "of" },
+        { "key": "D", "text": "about" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 91,
+      "question": "Choose the correct synonym for “swift”.",
+      "options": [
+        { "key": "A", "text": "Fast" },
+        { "key": "B", "text": "Slow" },
+        { "key": "C", "text": "Late" },
+        { "key": "D", "text": "Lazy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Choose the correct form:\nHe prefers tea _____ coffee.",
+      "options": [
+        { "key": "A", "text": "than" },
+        { "key": "B", "text": "to" },
+        { "key": "C", "text": "from" },
+        { "key": "D", "text": "over" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "Which word contains a silent letter?",
+      "options": [
+        { "key": "A", "text": "Honest" },
+        { "key": "B", "text": "House" },
+        { "key": "C", "text": "Happy" },
+        { "key": "D", "text": "Heavy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 94,
+      "question": "Choose the correct tense:\nShe _____ when I arrived.",
+      "options": [
+        { "key": "A", "text": "slept" },
+        { "key": "B", "text": "was sleeping" },
+        { "key": "C", "text": "has slept" },
+        { "key": "D", "text": "is sleeping" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "Choose the best option:\nThe news _____ shocking.",
+      "options": [
+        { "key": "A", "text": "are" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "is" },
+        { "key": "D", "text": "be" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 96,
+      "question": "Choose the word opposite in meaning to:\n*Flexible*",
+      "options": [
+        { "key": "A", "text": "Soft" },
+        { "key": "B", "text": "Rigid" },
+        { "key": "C", "text": "Light" },
+        { "key": "D", "text": "Thin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Which sentence contains a metaphor?",
+      "options": [
+        { "key": "A", "text": "He is as brave as a lion." },
+        { "key": "B", "text": "He is a lion in battle." },
+        { "key": "C", "text": "He runs fast." },
+        { "key": "D", "text": "He fought well." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Choose the correct sentence:",
+      "options": [
+        { "key": "A", "text": "Each of the boys have arrived." },
+        { "key": "B", "text": "Each of the boys has arrived." },
+        { "key": "C", "text": "Each boys has arrived." },
+        { "key": "D", "text": "Each boys have arrived." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Choose the word nearest in meaning to:\n*Reluctant*",
+      "options": [
+        { "key": "A", "text": "Eager" },
+        { "key": "B", "text": "Willing" },
+        { "key": "C", "text": "Unwilling" },
+        { "key": "D", "text": "Happy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Choose the correct option:\nShe ran _____ than anyone else.",
+      "options": [
+        { "key": "A", "text": "fast" },
+        { "key": "B", "text": "faster" },
+        { "key": "C", "text": "fastest" },
+        { "key": "D", "text": "more fast" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 101,
+      "question": "Choose the correct word:\nHe was absent _____ illness.",
+      "options": [
+        { "key": "A", "text": "due to" },
+        { "key": "B", "text": "because" },
+        { "key": "C", "text": "for" },
+        { "key": "D", "text": "with" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 102,
+      "question": "Which word is a conjunction?",
+      "options": [
+        { "key": "A", "text": "Run" },
+        { "key": "B", "text": "And" },
+        { "key": "C", "text": "Quickly" },
+        { "key": "D", "text": "Table" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Choose the correct option:\nWe arrived _____ the station early.",
+      "options": [
+        { "key": "A", "text": "to" },
+        { "key": "B", "text": "at" },
+        { "key": "C", "text": "in" },
+        { "key": "D", "text": "on" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Which sentence is conditional?",
+      "options": [
+        { "key": "A", "text": "I eat rice." },
+        { "key": "B", "text": "If it rains, I will stay indoors." },
+        { "key": "C", "text": "She is sleeping." },
+        { "key": "D", "text": "Close the door." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Choose the correct meaning of the proverb:\n“Actions speak louder than words.”",
+      "options": [
+        { "key": "A", "text": "Talking is important" },
+        { "key": "B", "text": "Words are powerful" },
+        { "key": "C", "text": "What you do matters more than what you say" },
+        { "key": "D", "text": "Silence is golden" }
+      ],
+      "correct_answer": "C"
     }
   ]
 }
