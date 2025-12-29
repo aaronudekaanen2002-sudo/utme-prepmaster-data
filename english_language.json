@@ -1171,6 +1171,566 @@
         { "key": "D", "text": "Silence is golden" }
       ],
       "correct_answer": "C"
+    },
+    
+    {
+      "id": 106,
+      "question": "Choose the option that best completes the sentence:\nHe was absent _____ the meeting yesterday.",
+      "options": [
+        { "key": "A", "text": "from" },
+        { "key": "B", "text": "at" },
+        { "key": "C", "text": "with" },
+        { "key": "D", "text": "in" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 107,
+      "question": "Choose the word nearest in meaning to:\n*Illuminate*",
+      "options": [
+        { "key": "A", "text": "Darken" },
+        { "key": "B", "text": "Brighten" },
+        { "key": "C", "text": "Hide" },
+        { "key": "D", "text": "Cover" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "Choose the correct spelling.",
+      "options": [
+        { "key": "A", "text": "Occassion" },
+        { "key": "B", "text": "Ocassion" },
+        { "key": "C", "text": "Occasion" },
+        { "key": "D", "text": "Ocasion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Choose the opposite in meaning to:\n*Scarce*",
+      "options": [
+        { "key": "A", "text": "Rare" },
+        { "key": "B", "text": "Plenty" },
+        { "key": "C", "text": "Small" },
+        { "key": "D", "text": "Limited" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 110,
+      "question": "Fill in the blank:\nShe speaks English _____ than her sister.",
+      "options": [
+        { "key": "A", "text": "well" },
+        { "key": "B", "text": "best" },
+        { "key": "C", "text": "better" },
+        { "key": "D", "text": "good" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 111,
+      "question": "Which of the following is a proper noun?",
+      "options": [
+        { "key": "A", "text": "city" },
+        { "key": "B", "text": "river" },
+        { "key": "C", "text": "Nigeria" },
+        { "key": "D", "text": "country" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Choose the correct tense:\nI _____ him before he moved abroad.",
+      "options": [
+        { "key": "A", "text": "see" },
+        { "key": "B", "text": "have seen" },
+        { "key": "C", "text": "had seen" },
+        { "key": "D", "text": "saw" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Choose the word nearest in meaning to:\n*Fragile*",
+      "options": [
+        { "key": "A", "text": "Strong" },
+        { "key": "B", "text": "Breakable" },
+        { "key": "C", "text": "Hard" },
+        { "key": "D", "text": "Solid" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Choose the correct sentence.",
+      "options": [
+        { "key": "A", "text": "She did not came early." },
+        { "key": "B", "text": "She did not come early." },
+        { "key": "C", "text": "She did not coming early." },
+        { "key": "D", "text": "She does not came early." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Choose the correct preposition:\nHe is interested _____ music.",
+      "options": [
+        { "key": "A", "text": "on" },
+        { "key": "B", "text": "with" },
+        { "key": "C", "text": "in" },
+        { "key": "D", "text": "for" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 116,
+      "question": "Which sentence is interrogative?",
+      "options": [
+        { "key": "A", "text": "She is reading." },
+        { "key": "B", "text": "Read your book." },
+        { "key": "C", "text": "Is she reading?" },
+        { "key": "D", "text": "She reads daily." }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Choose the correct plural form of “child”.",
+      "options": [
+        { "key": "A", "text": "childs" },
+        { "key": "B", "text": "childes" },
+        { "key": "C", "text": "children" },
+        { "key": "D", "text": "childrens" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 118,
+      "question": "Choose the word opposite in meaning to:\n*Permanent*",
+      "options": [
+        { "key": "A", "text": "Temporary" },
+        { "key": "B", "text": "Strong" },
+        { "key": "C", "text": "Long" },
+        { "key": "D", "text": "Stable" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 119,
+      "question": "Choose the correct article:\n_____ honest man was rewarded.",
+      "options": [
+        { "key": "A", "text": "A" },
+        { "key": "B", "text": "An" },
+        { "key": "C", "text": "The" },
+        { "key": "D", "text": "No article" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Choose the correct option:\nShe was tired, _____ she continued working.",
+      "options": [
+        { "key": "A", "text": "because" },
+        { "key": "B", "text": "but" },
+        { "key": "C", "text": "if" },
+        { "key": "D", "text": "unless" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 121,
+      "question": "Choose the word nearest in meaning to:\n*Obedient*",
+      "options": [
+        { "key": "A", "text": "Stubborn" },
+        { "key": "B", "text": "Disloyal" },
+        { "key": "C", "text": "Compliant" },
+        { "key": "D", "text": "Careless" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "Which word contains a silent letter?",
+      "options": [
+        { "key": "A", "text": "Knife" },
+        { "key": "B", "text": "Rain" },
+        { "key": "C", "text": "Ball" },
+        { "key": "D", "text": "Fish" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 123,
+      "question": "Choose the correct form:\nThey _____ playing football now.",
+      "options": [
+        { "key": "A", "text": "was" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "are" },
+        { "key": "D", "text": "is" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Choose the word opposite in meaning to:\n*Victory*",
+      "options": [
+        { "key": "A", "text": "Win" },
+        { "key": "B", "text": "Defeat" },
+        { "key": "C", "text": "Joy" },
+        { "key": "D", "text": "Pride" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "Which of the following is a conjunction?",
+      "options": [
+        { "key": "A", "text": "Quickly" },
+        { "key": "B", "text": "Beautiful" },
+        { "key": "C", "text": "Because" },
+        { "key": "D", "text": "Table" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 126,
+      "question": "Choose the correct question tag:\nYou are coming tomorrow, _____?",
+      "options": [
+        { "key": "A", "text": "aren't you" },
+        { "key": "B", "text": "won't you" },
+        { "key": "C", "text": "don't you" },
+        { "key": "D", "text": "didn't you" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 127,
+      "question": "Choose the correct meaning of the proverb:\n\"Better late than never.\"",
+      "options": [
+        { "key": "A", "text": "Time is not important" },
+        { "key": "B", "text": "It is better to delay" },
+        { "key": "C", "text": "Doing something late is better than not doing it" },
+        { "key": "D", "text": "Never act late" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "Choose the correct option:\nHe speaks _____ the truth always.",
+      "options": [
+        { "key": "A", "text": "much" },
+        { "key": "B", "text": "very" },
+        { "key": "C", "text": "many" },
+        { "key": "D", "text": "too" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 129,
+      "question": "Which sentence contains a simile?",
+      "options": [
+        { "key": "A", "text": "He is a tiger." },
+        { "key": "B", "text": "He is as strong as a tiger." },
+        { "key": "C", "text": "He fights strongly." },
+        { "key": "D", "text": "He has strength." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Choose the correct word:\nShe succeeded _____ hard work.",
+      "options": [
+        { "key": "A", "text": "because" },
+        { "key": "B", "text": "due to" },
+        { "key": "C", "text": "for" },
+        { "key": "D", "text": "with" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 131,
+      "question": "Choose the correct plural:\nOne mouse, two _____.",
+      "options": [
+        { "key": "A", "text": "mouses" },
+        { "key": "B", "text": "mouse" },
+        { "key": "C", "text": "mice" },
+        { "key": "D", "text": "meese" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 132,
+      "question": "Choose the word nearest in meaning to:\n*Resolve*",
+      "options": [
+        { "key": "A", "text": "Decide" },
+        { "key": "B", "text": "Refuse" },
+        { "key": "C", "text": "Delay" },
+        { "key": "D", "text": "Ignore" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 133,
+      "question": "Choose the correct sentence:",
+      "options": [
+        { "key": "A", "text": "The police is here." },
+        { "key": "B", "text": "The police are here." },
+        { "key": "C", "text": "A police are here." },
+        { "key": "D", "text": "Police is here." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Choose the correct form:\nI wish I _____ taller.",
+      "options": [
+        { "key": "A", "text": "am" },
+        { "key": "B", "text": "was" },
+        { "key": "C", "text": "were" },
+        { "key": "D", "text": "will be" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Choose the correct option:\nShe speaks English _____ fluently.",
+      "options": [
+        { "key": "A", "text": "more" },
+        { "key": "B", "text": "much" },
+        { "key": "C", "text": "very" },
+        { "key": "D", "text": "most" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 136,
+      "question": "Choose the word opposite in meaning to:\n*Success*",
+      "options": [
+        { "key": "A", "text": "Failure" },
+        { "key": "B", "text": "Win" },
+        { "key": "C", "text": "Joy" },
+        { "key": "D", "text": "Gain" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "Which of the following is an interjection?",
+      "options": [
+        { "key": "A", "text": "Run" },
+        { "key": "B", "text": "Quickly" },
+        { "key": "C", "text": "Wow!" },
+        { "key": "D", "text": "Table" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "Choose the correct tense:\nShe _____ since morning.",
+      "options": [
+        { "key": "A", "text": "works" },
+        { "key": "B", "text": "worked" },
+        { "key": "C", "text": "has been working" },
+        { "key": "D", "text": "is working" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Choose the correct option:\nThe boy ran _____ than the girl.",
+      "options": [
+        { "key": "A", "text": "fast" },
+        { "key": "B", "text": "faster" },
+        { "key": "C", "text": "fastest" },
+        { "key": "D", "text": "more fast" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Choose the correct meaning of the proverb:\n\"A bird in hand is worth two in the bush.\"",
+      "options": [
+        { "key": "A", "text": "Birds are valuable" },
+        { "key": "B", "text": "Take what you have rather than risk it" },
+        { "key": "C", "text": "Hunting is dangerous" },
+        { "key": "D", "text": "Two is better than one" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 141,
+      "question": "Choose the correct word:\nHe is capable _____ doing the job.",
+      "options": [
+        { "key": "A", "text": "of" },
+        { "key": "B", "text": "for" },
+        { "key": "C", "text": "with" },
+        { "key": "D", "text": "on" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 142,
+      "question": "Which word is a pronoun?",
+      "options": [
+        { "key": "A", "text": "Run" },
+        { "key": "B", "text": "Happiness" },
+        { "key": "C", "text": "They" },
+        { "key": "D", "text": "Teacher" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "Choose the correct sentence:",
+      "options": [
+        { "key": "A", "text": "She has finished her work." },
+        { "key": "B", "text": "She have finished her work." },
+        { "key": "C", "text": "She finishing her work." },
+        { "key": "D", "text": "She finish her work." }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "Choose the word nearest in meaning to:\n*Accurate*",
+      "options": [
+        { "key": "A", "text": "Wrong" },
+        { "key": "B", "text": "Careless" },
+        { "key": "C", "text": "Correct" },
+        { "key": "D", "text": "Vague" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 145,
+      "question": "Choose the correct option:\nThe man, _____ son won the prize, is my uncle.",
+      "options": [
+        { "key": "A", "text": "who" },
+        { "key": "B", "text": "whose" },
+        { "key": "C", "text": "which" },
+        { "key": "D", "text": "whom" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 146,
+      "question": "Choose the word opposite in meaning to:\n*Brave*",
+      "options": [
+        { "key": "A", "text": "Bold" },
+        { "key": "B", "text": "Fearless" },
+        { "key": "C", "text": "Cowardly" },
+        { "key": "D", "text": "Strong" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Which sentence is passive?",
+      "options": [
+        { "key": "A", "text": "The boy kicked the ball." },
+        { "key": "B", "text": "The ball was kicked by the boy." },
+        { "key": "C", "text": "The boy is kicking the ball." },
+        { "key": "D", "text": "The boy kicks the ball." }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Choose the correct word:\nShe has lived here _____ five years.",
+      "options": [
+        { "key": "A", "text": "since" },
+        { "key": "B", "text": "for" },
+        { "key": "C", "text": "during" },
+        { "key": "D", "text": "from" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "Choose the word nearest in meaning to:\n*Assist*",
+      "options": [
+        { "key": "A", "text": "Help" },
+        { "key": "B", "text": "Disturb" },
+        { "key": "C", "text": "Prevent" },
+        { "key": "D", "text": "Delay" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 150,
+      "question": "Choose the correct option:\nHardly had he arrived _____ it began to rain.",
+      "options": [
+        { "key": "A", "text": "than" },
+        { "key": "B", "text": "when" },
+        { "key": "C", "text": "while" },
+        { "key": "D", "text": "so" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 151,
+      "question": "Choose the correct meaning of:\n*Once bitten, twice shy.*",
+      "options": [
+        { "key": "A", "text": "People learn from experience" },
+        { "key": "B", "text": "Bites are dangerous" },
+        { "key": "C", "text": "Fear is natural" },
+        { "key": "D", "text": "Mistakes are unavoidable" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "Which word is a verb?",
+      "options": [
+        { "key": "A", "text": "Joyful" },
+        { "key": "B", "text": "Happiness" },
+        { "key": "C", "text": "Run" },
+        { "key": "D", "text": "Quickly" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "Choose the correct option:\nNeither the boys nor the girl _____ present.",
+      "options": [
+        { "key": "A", "text": "are" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "is" },
+        { "key": "D", "text": "be" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "Choose the correct option:\nThis is the _____ book I have ever read.",
+      "options": [
+        { "key": "A", "text": "more interesting" },
+        { "key": "B", "text": "most interesting" },
+        { "key": "C", "text": "very interesting" },
+        { "key": "D", "text": "much interesting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Choose the correct sentence:",
+      "options": [
+        { "key": "A", "text": "She enjoys to read novels." },
+        { "key": "B", "text": "She enjoys reading novels." },
+        { "key": "C", "text": "She enjoyed read novels." },
+        { "key": "D", "text": "She enjoy reading novels." }
+      ],
+      "correct_answer": "B"
     }
   ]
 }
