@@ -1731,6 +1731,230 @@
         { "key": "D", "text": "She enjoy reading novels." }
       ],
       "correct_answer": "B"
-    }
-  ]
-}
+   },
+    
+   {
+    "id": 156,
+    "question": "Choose the option that best completes the sentence: He has lived here ______ 2010.",
+    "options": [
+      { "key": "A", "text": "since" },
+      { "key": "B", "text": "for" },
+      { "key": "C", "text": "from" },
+      { "key": "D", "text": "during" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "id": 157,
+    "question": "Choose the option that is nearest in meaning to the underlined word: The manager was *furious* about the delay.",
+    "options": [
+      { "key": "A", "text": "Calm" },
+      { "key": "B", "text": "Angry" },
+      { "key": "C", "text": "Happy" },
+      { "key": "D", "text": "Confused" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 158,
+    "question": "Choose the correct plural form of the word: Analysis",
+    "options": [
+      { "key": "A", "text": "Analysises" },
+      { "key": "B", "text": "Analysis" },
+      { "key": "C", "text": "Analyses" },
+      { "key": "D", "text": "Analys" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 159,
+    "question": "Choose the option that best completes the sentence: Neither Musa nor his friends ______ arrived.",
+    "options": [
+      { "key": "A", "text": "has" },
+      { "key": "B", "text": "is" },
+      { "key": "C", "text": "have" },
+      { "key": "D", "text": "was" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 160,
+    "question": "Choose the word opposite in meaning to *scarce*.",
+    "options": [
+      { "key": "A", "text": "Rare" },
+      { "key": "B", "text": "Plentiful" },
+      { "key": "C", "text": "Few" },
+      { "key": "D", "text": "Limited" }
+    ],
+    "correct_answer": "B"
+  },
+
+  {
+    "id": 161,
+    "question": "Choose the option that best completes the sentence: The book is ______ the table.",
+    "options": [
+      { "key": "A", "text": "in" },
+      { "key": "B", "text": "on" },
+      { "key": "C", "text": "at" },
+      { "key": "D", "text": "into" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 162,
+    "question": "Choose the option that best interprets the proverb: \"Too many cooks spoil the broth.\"",
+    "options": [
+      { "key": "A", "text": "Many people help success" },
+      { "key": "B", "text": "Cooking is difficult" },
+      { "key": "C", "text": "Too many people cause confusion" },
+      { "key": "D", "text": "Food should be shared" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 163,
+    "question": "Choose the word that has a different stress pattern.",
+    "options": [
+      { "key": "A", "text": "Teacher" },
+      { "key": "B", "text": "Doctor" },
+      { "key": "C", "text": "Farmer" },
+      { "key": "D", "text": "Police" }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "id": 164,
+    "question": "Choose the option that best completes the sentence: She was punished for ______ the rules.",
+    "options": [
+      { "key": "A", "text": "break" },
+      { "key": "B", "text": "broke" },
+      { "key": "C", "text": "breaking" },
+      { "key": "D", "text": "breaks" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 165,
+    "question": "Choose the option that is nearest in meaning to *assist*.",
+    "options": [
+      { "key": "A", "text": "Help" },
+      { "key": "B", "text": "Disturb" },
+      { "key": "C", "text": "Prevent" },
+      { "key": "D", "text": "Ignore" }
+    ],
+    "correct_answer": "A"
+  },
+
+  {
+    "id": 166,
+    "question": "Choose the word opposite in meaning to *accept*.",
+    "options": [
+      { "key": "A", "text": "Receive" },
+      { "key": "B", "text": "Reject" },
+      { "key": "C", "text": "Take" },
+      { "key": "D", "text": "Admit" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 167,
+    "question": "Choose the option that best completes the sentence: The police ______ the suspect yesterday.",
+    "options": [
+      { "key": "A", "text": "arrest" },
+      { "key": "B", "text": "arrests" },
+      { "key": "C", "text": "arrested" },
+      { "key": "D", "text": "arresting" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 168,
+    "question": "Choose the option that best completes the sentence: He is good ______ Mathematics.",
+    "options": [
+      { "key": "A", "text": "in" },
+      { "key": "B", "text": "on" },
+      { "key": "C", "text": "at" },
+      { "key": "D", "text": "for" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 169,
+    "question": "Choose the word that is nearest in meaning to *brief*.",
+    "options": [
+      { "key": "A", "text": "Short" },
+      { "key": "B", "text": "Long" },
+      { "key": "C", "text": "Slow" },
+      { "key": "D", "text": "Hard" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "id": 170,
+    "question": "Choose the option that best completes the sentence: If I ______ you, I would apologize.",
+    "options": [
+      { "key": "A", "text": "was" },
+      { "key": "B", "text": "were" },
+      { "key": "C", "text": "am" },
+      { "key": "D", "text": "be" }
+    ],
+    "correct_answer": "B"
+  },
+
+  {
+    "id": 171,
+    "question": "Choose the word opposite in meaning to *ancient*.",
+    "options": [
+      { "key": "A", "text": "Old" },
+      { "key": "B", "text": "Modern" },
+      { "key": "C", "text": "Past" },
+      { "key": "D", "text": "Historic" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Choose the option that best completes the sentence: Hardly had he arrived ______ it started raining.",
+    "options": [
+      { "key": "A", "text": "when" },
+      { "key": "B", "text": "than" },
+      { "key": "C", "text": "while" },
+      { "key": "D", "text": "then" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "id": 173,
+    "question": "Choose the option that best interprets the proverb: \"A bird in hand is worth two in the bush.\"",
+    "options": [
+      { "key": "A", "text": "Birds are valuable" },
+      { "key": "B", "text": "Greed is bad" },
+      { "key": "C", "text": "What you have is better than what you hope for" },
+      { "key": "D", "text": "Hunting is difficult" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 174,
+    "question": "Choose the option that best completes the sentence: She prefers rice ______ yam.",
+    "options": [
+      { "key": "A", "text": "than" },
+      { "key": "B", "text": "to" },
+      { "key": "C", "text": "from" },
+      { "key": "D", "text": "over" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 175,
+    "question": "Choose the word nearest in meaning to *cautious*.",
+    "options": [
+      { "key": "A", "text": "Careless" },
+      { "key": "B", "text": "Careful" },
+      { "key": "C", "text": "Fast" },
+      { "key": "D", "text": "Brave" }
+    ],
+    "correct_answer": "B"
+  }
+
+]
