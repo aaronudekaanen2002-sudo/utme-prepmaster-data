@@ -62,6 +62,556 @@
         { "key": "D", "text": "Clothing should be repaired" }
       ],
       "correct_answer": "C"
+    },
+    {
+      "id": 1,
+      "question": "Choose the word that best completes the sentence:\nHe promised to _____ the job by tomorrow.",
+      "options": [
+        {"key": "A", "text": "finish"},
+        {"key": "B", "text": "finishing"},
+        {"key": "C", "text": "finished"},
+        {"key": "D", "text": "finishes"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Choose the word nearest in meaning to the underlined word:\nThe lecture was *tedious*.",
+      "options": [
+        {"key": "A", "text": "boring"},
+        {"key": "B", "text": "short"},
+        {"key": "C", "text": "interesting"},
+        {"key": "D", "text": "brief"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "The opposite of \"scarce\" is:",
+      "options": [
+        {"key": "A", "text": "plentiful"},
+        {"key": "B", "text": "limited"},
+        {"key": "C", "text": "rare"},
+        {"key": "D", "text": "insufficient"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Choose the option that best completes the proverb:\nA stitch in time saves _____.",
+      "options": [
+        {"key": "A", "text": "ten"},
+        {"key": "B", "text": "nine"},
+        {"key": "C", "text": "time"},
+        {"key": "D", "text": "cost"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        {"key": "A", "text": "She don’t like apples."},
+        {"key": "B", "text": "She doesn’t like apples."},
+        {"key": "C", "text": "She isn’t likes apples."},
+        {"key": "D", "text": "She not likes apples."}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Choose the word that is opposite in meaning to “generous”.",
+      "options": [
+        {"key": "A", "text": "stingy"},
+        {"key": "B", "text": "kind"},
+        {"key": "C", "text": "giving"},
+        {"key": "D", "text": "charitable"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Identify the part of speech of the underlined word in the sentence:\nShe was *happily* married.",
+      "options": [
+        {"key": "A", "text": "Adjective"},
+        {"key": "B", "text": "Adverb"},
+        {"key": "C", "text": "Verb"},
+        {"key": "D", "text": "Noun"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct question tag:\nYou are coming, _____?",
+      "options": [
+        {"key": "A", "text": "aren’t you"},
+        {"key": "B", "text": "don’t you"},
+        {"key": "C", "text": "isn’t it"},
+        {"key": "D", "text": "will you"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Fill the blank with the correct preposition:\nHe apologized _____ his mistake.",
+      "options": [
+        {"key": "A", "text": "for"},
+        {"key": "B", "text": "to"},
+        {"key": "C", "text": "with"},
+        {"key": "D", "text": "about"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which word has a different vowel sound?\nA. coat  B. goat  C. though  D. cough",
+      "options": [
+        {"key": "A", "text": "coat"},
+        {"key": "B", "text": "goat"},
+        {"key": "C", "text": "though"},
+        {"key": "D", "text": "cough"}
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Choose the word closest in meaning to “resilient”.",
+      "options": [
+        {"key": "A", "text": "weak"},
+        {"key": "B", "text": "tough"},
+        {"key": "C", "text": "fragile"},
+        {"key": "D", "text": "late"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct passive form:\nThey built the house in 1990.",
+      "options": [
+        {"key": "A", "text": "The house was built in 1990."},
+        {"key": "B", "text": "The house built in 1990."},
+        {"key": "C", "text": "The house was build in 1990."},
+        {"key": "D", "text": "The house is built in 1990."}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct spelling.",
+      "options": [
+        {"key": "A", "text": "Accomodate"},
+        {"key": "B", "text": "Acommodate"},
+        {"key": "C", "text": "Accommodate"},
+        {"key": "D", "text": "Acommadate"}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Choose the best word to complete the sentence:\nShe _____ the letter before she left.",
+      "options": [
+        {"key": "A", "text": "writes"},
+        {"key": "B", "text": "wrote"},
+        {"key": "C", "text": "written"},
+        {"key": "D", "text": "has wrote"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Choose the option that completes the sentence:\nIf I _____ time, I would travel more.",
+      "options": [
+        {"key": "A", "text": "have"},
+        {"key": "B", "text": "had"},
+        {"key": "C", "text": "has"},
+        {"key": "D", "text": "will have"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following sentences is correct?",
+      "options": [
+        {"key": "A", "text": "I have seen him yesterday."},
+        {"key": "B", "text": "I seen him yesterday."},
+        {"key": "C", "text": "I saw him yesterday."},
+        {"key": "D", "text": "I have saw him yesterday."}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Choose the word opposite in meaning to “scarce”.",
+      "options": [
+        {"key": "A", "text": "plentiful"},
+        {"key": "B", "text": "rare"},
+        {"key": "C", "text": "little"},
+        {"key": "D", "text": "few"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Choose the option that best completes the sentence:\nEveryone _____ invited to the party.",
+      "options": [
+        {"key": "A", "text": "is"},
+        {"key": "B", "text": "are"},
+        {"key": "C", "text": "were"},
+        {"key": "D", "text": "be"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct conjunction:\nShe studies hard _____ she wants to pass.",
+      "options": [
+        {"key": "A", "text": "because"},
+        {"key": "B", "text": "although"},
+        {"key": "C", "text": "but"},
+        {"key": "D", "text": "so"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct comparative form: \nShe is _____ than her sister.",
+      "options": [
+        {"key": "A", "text": "more tall"},
+        {"key": "B", "text": "taller"},
+        {"key": "C", "text": "tallest"},
+        {"key": "D", "text": "most tall"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is a correct sentence?",
+      "options": [
+        {"key": "A", "text": "He go to school every day."},
+        {"key": "B", "text": "He goes to school every day."},
+        {"key": "C", "text": "He going to school every day."},
+        {"key": "D", "text": "He gone to school every day."}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Choose the best word to complete:\nThe book _____ on the table.",
+      "options": [
+        {"key": "A", "text": "lies"},
+        {"key": "B", "text": "lay"},
+        {"key": "C", "text": "lie"},
+        {"key": "D", "text": "lied"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Which expresses future intention?",
+      "options": [
+        {"key": "A", "text": "She is reading now."},
+        {"key": "B", "text": "She will study tomorrow."},
+        {"key": "C", "text": "She studies every day."},
+        {"key": "D", "text": "She studied yesterday."}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct meaning:\nA “hyperbole” is a:",
+      "options": [
+        {"key": "A", "text": "type of metaphor"},
+        {"key": "B", "text": "figure of speech that exaggerates"},
+        {"key": "C", "text": "poetic device"},
+        {"key": "D", "text": "historical term"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Which sentence uses the present perfect tense?",
+      "options": [
+        {"key": "A", "text": "I ate lunch."},
+        {"key": "B", "text": "I have eaten lunch."},
+        {"key": "C", "text": "I am eating lunch."},
+        {"key": "D", "text": "I will eat lunch."}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct homophone:\n_____ you hear the news?",
+      "options": [
+        {"key": "A", "text": "Did"},
+        {"key": "B", "text": "DID"},
+        {"key": "C", "text": "Died"},
+        {"key": "D", "text": "Deed"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Choose the best word to complete:\nHe is good _____ mathematics.",
+      "options": [
+        {"key": "A", "text": "in"},
+        {"key": "B", "text": "on"},
+        {"key": "C", "text": "with"},
+        {"key": "D", "text": "about"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which of these is an abstract noun?",
+      "options": [
+        {"key": "A", "text": "Happiness"},
+        {"key": "B", "text": "Chair"},
+        {"key": "C", "text": "School"},
+        {"key": "D", "text": "Tree"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word closest in meaning to 'ancient'.",
+      "options": [
+        {"key": "A", "text": "old"},
+        {"key": "B", "text": "modern"},
+        {"key": "C", "text": "recent"},
+        {"key": "D", "text": "new"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct structure:\nShe asked _____ help.",
+      "options": [
+        {"key": "A", "text": "for"},
+        {"key": "B", "text": "to"},
+        {"key": "C", "text": "of"},
+        {"key": "D", "text": "about"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Which one is an interrogative sentence?",
+      "options": [
+        {"key": "A", "text": "Run quick!"},
+        {"key": "B", "text": "Are you coming?"},
+        {"key": "C", "text": "He runs daily."},
+        {"key": "D", "text": "He ran fast."}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Choose the option that expresses ability.",
+      "options": [
+        {"key": "A", "text": "She can swim."},
+        {"key": "B", "text": "She must swim."},
+        {"key": "C", "text": "She should swim."},
+        {"key": "D", "text": "She will swim."}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is an exclamation?",
+      "options": [
+        {"key": "A", "text": "What a day!"},
+        {"key": "B", "text": "He runs fast."},
+        {"key": "C", "text": "She sleeps."},
+        {"key": "D", "text": "I study daily."}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Select the correct synonym for “big”.",
+      "options": [
+        {"key": "A", "text": "tiny"},
+        {"key": "B", "text": "large"},
+        {"key": "C", "text": "small"},
+        {"key": "D", "text": "slim"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct tense:\nHe _____ the test last week.",
+      "options": [
+        {"key": "A", "text": "has taken"},
+        {"key": "B", "text": "took"},
+        {"key": "C", "text": "takes"},
+        {"key": "D", "text": "take"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is correctly punctuated?",
+      "options": [
+        {"key": "A", "text": "Lets eat, grandma."},
+        {"key": "B", "text": "Let's eat grandma."},
+        {"key": "C", "text": "Let's eat, grandma."},
+        {"key": "D", "text": "Lets eat grandma"}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses the article correctly?",
+      "options": [
+        {"key": "A", "text": "She is a honest person."},
+        {"key": "B", "text": "He bought the apple."},
+        {"key": "C", "text": "He saw an owl."},
+        {"key": "D", "text": "He saw a elephant."}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct plural of “child”.",
+      "options": [
+        {"key": "A", "text": "childs"},
+        {"key": "B", "text": "childes"},
+        {"key": "C", "text": "children"},
+        {"key": "D", "text": "childrens"}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "What is the antonym of “optimistic”?",
+      "options": [
+        {"key": "A", "text": "hopeful"},
+        {"key": "B", "text": "pessimistic"},
+        {"key": "C", "text": "positive"},
+        {"key": "D", "text": "sure"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Complete the sentence:\nI will call you _____ I arrive.",
+      "options": [
+        {"key": "A", "text": "unless"},
+        {"key": "B", "text": "when"},
+        {"key": "C", "text": "because"},
+        {"key": "D", "text": "so"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which sentence uses correct word order?",
+      "options": [
+        {"key": "A", "text": "Never I have seen it."},
+        {"key": "B", "text": "I never have seen it."},
+        {"key": "C", "text": "I have never seen it."},
+        {"key": "D", "text": "Never seen I it."}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Select the correct form of the verb:\nHe _____ to Lagos every month.",
+      "options": [
+        {"key": "A", "text": "go"},
+        {"key": "B", "text": "goes"},
+        {"key": "C", "text": "gone"},
+        {"key": "D", "text": "going"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which word shows degree?",
+      "options": [
+        {"key": "A", "text": "very"},
+        {"key": "B", "text": "walk"},
+        {"key": "C", "text": "run"},
+        {"key": "D", "text": "eat"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Choose the correct meaning of “ambiguous”.",
+      "options": [
+        {"key": "A", "text": "unclear"},
+        {"key": "B", "text": "clear"},
+        {"key": "C", "text": "obvious"},
+        {"key": "D", "text": "certain"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which sentence is imperative?",
+      "options": [
+        {"key": "A", "text": "You should go."},
+        {"key": "B", "text": "Please stop."},
+        {"key": "C", "text": "He left early."},
+        {"key": "D", "text": "They went together."}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Select the correct preposition:\nShe walked _____ the park.",
+      "options": [
+        {"key": "A", "text": "through"},
+        {"key": "B", "text": "on"},
+        {"key": "C", "text": "in"},
+        {"key": "D", "text": "about"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which sentence contains a simile?",
+      "options": [
+        {"key": "A", "text": "He is brave as a lion."},
+        {"key": "B", "text": "He runs fast."},
+        {"key": "C", "text": "He is brave."},
+        {"key": "D", "text": "He fought well."}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which word is a collective noun?",
+      "options": [
+        {"key": "A", "text": "flock"},
+        {"key": "B", "text": "book"},
+        {"key": "C", "text": "chair"},
+        {"key": "D", "text": "tree"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Choose the correct verb form:\nBy this time tomorrow, I _____ my homework.",
+      "options": [
+        {"key": "A", "text": "will complete"},
+        {"key": "B", "text": "will have completed"},
+        {"key": "C", "text": "completed"},
+        {"key": "D", "text": "have completed"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "What is the antonym of “scarcity”?",
+      "options": [
+        {"key": "A", "text": "plenty"},
+        {"key": "B", "text": "lack"},
+        {"key": "C", "text": "few"},
+        {"key": "D", "text": "rare"}
+      ],
+      "correct_answer": "A"
     }
   ]
 }
