@@ -4,7 +4,7 @@
     "subject": "Government",
     "year": "General",
     "time_minutes": 40,
-    "total_questions": 5,
+    "total_questions": 220,
     "instructions": "Answer all questions. Choose the option that best answers each question."
   },
   "questions": [
@@ -62,6 +62,2345 @@
         { "key": "D", "text": "settle judicial cases" }
       ],
       "correct_answer": "C"
+    },
+
+    {
+      "id": 6,
+      "question": "Government can best be defined as",
+      "options": [
+        { "key": "A", "text": "An association of traders" },
+        { "key": "B", "text": "A machinery through which the state is ruled" },
+        { "key": "C", "text": "A group of political parties" },
+        { "key": "D", "text": "A body of traditional rulers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a feature of a state?",
+      "options": [
+        { "key": "A", "text": "Political party" },
+        { "key": "B", "text": "Territory" },
+        { "key": "C", "text": "Constitution" },
+        { "key": "D", "text": "Cabinet" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "The main purpose of a constitution is to",
+      "options": [
+        { "key": "A", "text": "Enrich political leaders" },
+        { "key": "B", "text": "Limit the powers of government" },
+        { "key": "C", "text": "Promote dictatorship" },
+        { "key": "D", "text": "Encourage military rule" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which arm of government interprets the law?",
+      "options": [
+        { "key": "A", "text": "Legislature" },
+        { "key": "B", "text": "Executive" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "Civil service" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "A system of government where power is concentrated in one person is",
+      "options": [
+        { "key": "A", "text": "Democracy" },
+        { "key": "B", "text": "Federalism" },
+        { "key": "C", "text": "Autocracy" },
+        { "key": "D", "text": "Confederation" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 11,
+      "question": "Which of the following best describes democracy?",
+      "options": [
+        { "key": "A", "text": "Rule by soldiers" },
+        { "key": "B", "text": "Rule by a few elites" },
+        { "key": "C", "text": "Government by the people" },
+        { "key": "D", "text": "Rule by monarchs" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "The head of government in a parliamentary system is the",
+      "options": [
+        { "key": "A", "text": "President" },
+        { "key": "B", "text": "Prime Minister" },
+        { "key": "C", "text": "Chief Justice" },
+        { "key": "D", "text": "Senate President" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following promotes political participation?",
+      "options": [
+        { "key": "A", "text": "Military rule" },
+        { "key": "B", "text": "One-party system" },
+        { "key": "C", "text": "Free and fair elections" },
+        { "key": "D", "text": "Censorship of press" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "A federal system of government emphasizes",
+      "options": [
+        { "key": "A", "text": "Centralization of power" },
+        { "key": "B", "text": "Division of powers" },
+        { "key": "C", "text": "Absolute authority" },
+        { "key": "D", "text": "Traditional leadership" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is NOT a function of government?",
+      "options": [
+        { "key": "A", "text": "Maintenance of law and order" },
+        { "key": "B", "text": "Provision of social services" },
+        { "key": "C", "text": "Making profits" },
+        { "key": "D", "text": "Defense of the state" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "The principle of separation of powers was advocated by",
+      "options": [
+        { "key": "A", "text": "John Locke" },
+        { "key": "B", "text": "Montesquieu" },
+        { "key": "C", "text": "Karl Marx" },
+        { "key": "D", "text": "Plato" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a characteristic of presidential system?",
+      "options": [
+        { "key": "A", "text": "Fusion of powers" },
+        { "key": "B", "text": "Collective responsibility" },
+        { "key": "C", "text": "Fixed tenure of office" },
+        { "key": "D", "text": "Ceremonial president" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Fundamental human rights are usually contained in the",
+      "options": [
+        { "key": "A", "text": "Party manifesto" },
+        { "key": "B", "text": "Constitution" },
+        { "key": "C", "text": "Court rules" },
+        { "key": "D", "text": "Electoral act" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is an agent of political socialization?",
+      "options": [
+        { "key": "A", "text": "School" },
+        { "key": "B", "text": "Court" },
+        { "key": "C", "text": "Police" },
+        { "key": "D", "text": "Prison" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "The primary responsibility of the legislature is to",
+      "options": [
+        { "key": "A", "text": "Interpret laws" },
+        { "key": "B", "text": "Enforce laws" },
+        { "key": "C", "text": "Make laws" },
+        { "key": "D", "text": "Punish offenders" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 21,
+      "question": "Which electoral system allows voters to choose one candidate?",
+      "options": [
+        { "key": "A", "text": "Proportional representation" },
+        { "key": "B", "text": "Indirect election" },
+        { "key": "C", "text": "Secret ballot" },
+        { "key": "D", "text": "Simple majority system" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "Political apathy refers to",
+      "options": [
+        { "key": "A", "text": "Active participation in politics" },
+        { "key": "B", "text": "Indifference to political activities" },
+        { "key": "C", "text": "Opposition to government" },
+        { "key": "D", "text": "Strong party loyalty" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which body conducts elections in Nigeria?",
+      "options": [
+        { "key": "A", "text": "EFCC" },
+        { "key": "B", "text": "INEC" },
+        { "key": "C", "text": "NPC" },
+        { "key": "D", "text": "ICPC" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "The armed forces are primarily responsible for",
+      "options": [
+        { "key": "A", "text": "Law making" },
+        { "key": "B", "text": "External defense" },
+        { "key": "C", "text": "Judicial interpretation" },
+        { "key": "D", "text": "Election conduct" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following best describes a pressure group?",
+      "options": [
+        { "key": "A", "text": "An organization that seeks political power" },
+        { "key": "B", "text": "A group that influences government decisions" },
+        { "key": "C", "text": "A traditional authority" },
+        { "key": "D", "text": "A ruling party" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 26,
+      "question": "The rule of law ensures",
+      "options": [
+        { "key": "A", "text": "Supremacy of individuals" },
+        { "key": "B", "text": "Equality before the law" },
+        { "key": "C", "text": "Military dominance" },
+        { "key": "D", "text": "Executive supremacy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which country practices confederal system?",
+      "options": [
+        { "key": "A", "text": "Nigeria" },
+        { "key": "B", "text": "USA" },
+        { "key": "C", "text": "Former USSR" },
+        { "key": "D", "text": "France" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "One major advantage of federalism is",
+      "options": [
+        { "key": "A", "text": "Duplication of authority" },
+        { "key": "B", "text": "Concentration of power" },
+        { "key": "C", "text": "Promotion of unity in diversity" },
+        { "key": "D", "text": "Weak central government" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following limits the powers of government?",
+      "options": [
+        { "key": "A", "text": "Constitution" },
+        { "key": "B", "text": "Political party" },
+        { "key": "C", "text": "Police" },
+        { "key": "D", "text": "Army" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Civil servants are expected to be",
+      "options": [
+        { "key": "A", "text": "Partisan" },
+        { "key": "B", "text": "Neutral" },
+        { "key": "C", "text": "Political" },
+        { "key": "D", "text": "Elected" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 31,
+      "question": "Which institution resolves disputes between citizens?",
+      "options": [
+        { "key": "A", "text": "Legislature" },
+        { "key": "B", "text": "Executive" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "Police" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "Which of these is a merit of democracy?",
+      "options": [
+        { "key": "A", "text": "Suppression of opposition" },
+        { "key": "B", "text": "Popular participation" },
+        { "key": "C", "text": "Absolute rule" },
+        { "key": "D", "text": "Censorship" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "The supremacy of the constitution means that",
+      "options": [
+        { "key": "A", "text": "The army is supreme" },
+        { "key": "B", "text": "The judiciary is supreme" },
+        { "key": "C", "text": "The constitution is the highest law" },
+        { "key": "D", "text": "The president is supreme" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is NOT an arm of government?",
+      "options": [
+        { "key": "A", "text": "Executive" },
+        { "key": "B", "text": "Legislature" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "Press" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 35,
+      "question": "The main duty of the executive is to",
+      "options": [
+        { "key": "A", "text": "Make laws" },
+        { "key": "B", "text": "Interpret laws" },
+        { "key": "C", "text": "Implement laws" },
+        { "key": "D", "text": "Judge offenders" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 36,
+      "question": "Political parties exist mainly to",
+      "options": [
+        { "key": "A", "text": "Provide security" },
+        { "key": "B", "text": "Win political power" },
+        { "key": "C", "text": "Enforce laws" },
+        { "key": "D", "text": "Interpret constitution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following encourages free elections?",
+      "options": [
+        { "key": "A", "text": "Intimidation" },
+        { "key": "B", "text": "Rigging" },
+        { "key": "C", "text": "Secret ballot" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Citizenship is best acquired through",
+      "options": [
+        { "key": "A", "text": "Election" },
+        { "key": "B", "text": "Naturalization" },
+        { "key": "C", "text": "Appointment" },
+        { "key": "D", "text": "Nomination" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which body checks the excesses of the executive?",
+      "options": [
+        { "key": "A", "text": "Judiciary" },
+        { "key": "B", "text": "Military" },
+        { "key": "C", "text": "Police" },
+        { "key": "D", "text": "Civil service" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which right allows citizens to express opinions?",
+      "options": [
+        { "key": "A", "text": "Right to vote" },
+        { "key": "B", "text": "Right to life" },
+        { "key": "C", "text": "Freedom of expression" },
+        { "key": "D", "text": "Right to property" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 41,
+      "question": "Which is a major feature of military rule?",
+      "options": [
+        { "key": "A", "text": "Rule of law" },
+        { "key": "B", "text": "Supremacy of constitution" },
+        { "key": "C", "text": "Decree-making" },
+        { "key": "D", "text": "Free elections" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which body advises the president in Nigeria?",
+      "options": [
+        { "key": "A", "text": "National Assembly" },
+        { "key": "B", "text": "Federal Executive Council" },
+        { "key": "C", "text": "Supreme Court" },
+        { "key": "D", "text": "INEC" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following promotes national integration?",
+      "options": [
+        { "key": "A", "text": "Tribalism" },
+        { "key": "B", "text": "Federal character principle" },
+        { "key": "C", "text": "Ethnic politics" },
+        { "key": "D", "text": "Nepotism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following best defines sovereignty?",
+      "options": [
+        { "key": "A", "text": "Freedom of speech" },
+        { "key": "B", "text": "Supreme authority of a state" },
+        { "key": "C", "text": "Political participation" },
+        { "key": "D", "text": "Fundamental rights" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which body hears election petitions?",
+      "options": [
+        { "key": "A", "text": "INEC" },
+        { "key": "B", "text": "Police" },
+        { "key": "C", "text": "Election tribunal" },
+        { "key": "D", "text": "National Assembly" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 46,
+      "question": "Which is a civic responsibility of citizens?",
+      "options": [
+        { "key": "A", "text": "Paying taxes" },
+        { "key": "B", "text": "Owning property" },
+        { "key": "C", "text": "Holding public office" },
+        { "key": "D", "text": "Joining the army" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following undermines democracy?",
+      "options": [
+        { "key": "A", "text": "Free press" },
+        { "key": "B", "text": "Rule of law" },
+        { "key": "C", "text": "Electoral violence" },
+        { "key": "D", "text": "Independent judiciary" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is a source of Nigerian constitution?",
+      "options": [
+        { "key": "A", "text": "Customs" },
+        { "key": "B", "text": "Judicial precedents" },
+        { "key": "C", "text": "Colonial constitutions" },
+        { "key": "D", "text": "Political manifestos" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "Which principle ensures no arm of government is supreme?",
+      "options": [
+        { "key": "A", "text": "Checks and balances" },
+        { "key": "B", "text": "Federalism" },
+        { "key": "C", "text": "Unitarism" },
+        { "key": "D", "text": "Confederation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following best describes a constitution?",
+      "options": [
+        { "key": "A", "text": "Party rule book" },
+        { "key": "B", "text": "Supreme law of a state" },
+        { "key": "C", "text": "Court judgement" },
+        { "key": "D", "text": "Military decree" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 56,
+      "question": "Which of the following best describes a unitary system of government?",
+      "options": [
+        { "key": "A", "text": "Power shared between levels of government" },
+        { "key": "B", "text": "Power concentrated in one central authority" },
+        { "key": "C", "text": "Loose association of states" },
+        { "key": "D", "text": "Autonomous regions" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "The main objective of political parties is to",
+      "options": [
+        { "key": "A", "text": "Form pressure groups" },
+        { "key": "B", "text": "Educate citizens only" },
+        { "key": "C", "text": "Control government power" },
+        { "key": "D", "text": "Win elections and form government" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 58,
+      "question": "Which of the following is an advantage of federalism?",
+      "options": [
+        { "key": "A", "text": "Encourages secession" },
+        { "key": "B", "text": "Ensures ethnic domination" },
+        { "key": "C", "text": "Allows local initiative" },
+        { "key": "D", "text": "Weakens central authority" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Which principle ensures fairness in the distribution of public offices in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Rule of law" },
+        { "key": "B", "text": "Federal character principle" },
+        { "key": "C", "text": "Separation of powers" },
+        { "key": "D", "text": "Checks and balances" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "The main duty of the judiciary is to",
+      "options": [
+        { "key": "A", "text": "Make laws" },
+        { "key": "B", "text": "Execute laws" },
+        { "key": "C", "text": "Interpret laws" },
+        { "key": "D", "text": "Conduct elections" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 61,
+      "question": "Which of the following limits the power of elected representatives?",
+      "options": [
+        { "key": "A", "text": "Political parties" },
+        { "key": "B", "text": "Constitution" },
+        { "key": "C", "text": "Civil service" },
+        { "key": "D", "text": "Electoral commission" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "In a democracy, sovereignty belongs to the",
+      "options": [
+        { "key": "A", "text": "President" },
+        { "key": "B", "text": "Parliament" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "People" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is a characteristic of an unwritten constitution?",
+      "options": [
+        { "key": "A", "text": "Rigid" },
+        { "key": "B", "text": "Contained in one document" },
+        { "key": "C", "text": "Flexible" },
+        { "key": "D", "text": "Supreme law" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Which of the following encourages accountability in government?",
+      "options": [
+        { "key": "A", "text": "Rule of law" },
+        { "key": "B", "text": "Military decrees" },
+        { "key": "C", "text": "Censorship" },
+        { "key": "D", "text": "Autocracy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Which of the following best describes a coalition government?",
+      "options": [
+        { "key": "A", "text": "Government formed by one party" },
+        { "key": "B", "text": "Government formed by many parties" },
+        { "key": "C", "text": "Military government" },
+        { "key": "D", "text": "Traditional government" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 66,
+      "question": "Which of the following is a function of the civil service?",
+      "options": [
+        { "key": "A", "text": "Making laws" },
+        { "key": "B", "text": "Formulating policies" },
+        { "key": "C", "text": "Implementing government policies" },
+        { "key": "D", "text": "Interpreting laws" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Citizenship by naturalization applies to",
+      "options": [
+        { "key": "A", "text": "Citizens by birth" },
+        { "key": "B", "text": "Foreigners granted citizenship" },
+        { "key": "C", "text": "Traditional rulers" },
+        { "key": "D", "text": "Elected officers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Which body is responsible for constitutional amendment in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Supreme Court" },
+        { "key": "B", "text": "Federal Executive Council" },
+        { "key": "C", "text": "National Assembly" },
+        { "key": "D", "text": "INEC" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following best explains political culture?",
+      "options": [
+        { "key": "A", "text": "Citizens’ political attitudes and beliefs" },
+        { "key": "B", "text": "Military traditions" },
+        { "key": "C", "text": "Economic activities" },
+        { "key": "D", "text": "Ethnic customs" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following promotes good governance?",
+      "options": [
+        { "key": "A", "text": "Corruption" },
+        { "key": "B", "text": "Transparency" },
+        { "key": "C", "text": "Political violence" },
+        { "key": "D", "text": "Oppression" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 71,
+      "question": "Which type of election involves voters choosing representatives?",
+      "options": [
+        { "key": "A", "text": "Direct election" },
+        { "key": "B", "text": "Indirect election" },
+        { "key": "C", "text": "Referendum" },
+        { "key": "D", "text": "Opinion poll" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "The supremacy of the constitution implies that",
+      "options": [
+        { "key": "A", "text": "The executive is supreme" },
+        { "key": "B", "text": "The legislature is supreme" },
+        { "key": "C", "text": "All laws derive validity from it" },
+        { "key": "D", "text": "The military controls it" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is NOT a feature of democracy?",
+      "options": [
+        { "key": "A", "text": "Free elections" },
+        { "key": "B", "text": "Respect for rights" },
+        { "key": "C", "text": "Political participation" },
+        { "key": "D", "text": "Rule by force" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "Which of the following bodies ensures internal party discipline?",
+      "options": [
+        { "key": "A", "text": "INEC" },
+        { "key": "B", "text": "Party executive" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "Police" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Which right allows citizens to form associations?",
+      "options": [
+        { "key": "A", "text": "Right to vote" },
+        { "key": "B", "text": "Freedom of association" },
+        { "key": "C", "text": "Right to life" },
+        { "key": "D", "text": "Right to privacy" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "Which of the following promotes national unity?",
+      "options": [
+        { "key": "A", "text": "Ethnic loyalty" },
+        { "key": "B", "text": "Federal character principle" },
+        { "key": "C", "text": "Religious intolerance" },
+        { "key": "D", "text": "Political violence" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "A referendum is best described as",
+      "options": [
+        { "key": "A", "text": "An election of representatives" },
+        { "key": "B", "text": "A vote on a specific issue" },
+        { "key": "C", "text": "A military decree" },
+        { "key": "D", "text": "Judicial ruling" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Which of the following best describes public opinion?",
+      "options": [
+        { "key": "A", "text": "Views of government officials" },
+        { "key": "B", "text": "Aggregate views of the people" },
+        { "key": "C", "text": "Court judgements" },
+        { "key": "D", "text": "Party ideologies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following is a merit of a written constitution?",
+      "options": [
+        { "key": "A", "text": "Flexibility" },
+        { "key": "B", "text": "Clarity and certainty" },
+        { "key": "C", "text": "Easy amendment" },
+        { "key": "D", "text": "Uncodified nature" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Which of the following helps prevent abuse of power?",
+      "options": [
+        { "key": "A", "text": "Absolute authority" },
+        { "key": "B", "text": "Checks and balances" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "One-party system" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "Which institution enforces laws?",
+      "options": [
+        { "key": "A", "text": "Judiciary" },
+        { "key": "B", "text": "Legislature" },
+        { "key": "C", "text": "Executive" },
+        { "key": "D", "text": "INEC" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "Which system allows states to have their own constitutions?",
+      "options": [
+        { "key": "A", "text": "Unitary" },
+        { "key": "B", "text": "Federal" },
+        { "key": "C", "text": "Confederal" },
+        { "key": "D", "text": "Autocratic" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Political legitimacy refers to",
+      "options": [
+        { "key": "A", "text": "Use of force to rule" },
+        { "key": "B", "text": "Acceptance of authority by citizens" },
+        { "key": "C", "text": "Control by the military" },
+        { "key": "D", "text": "Party supremacy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Which of the following is NOT a method of acquiring citizenship?",
+      "options": [
+        { "key": "A", "text": "Birth" },
+        { "key": "B", "text": "Registration" },
+        { "key": "C", "text": "Naturalization" },
+        { "key": "D", "text": "Election" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following best defines national interest?",
+      "options": [
+        { "key": "A", "text": "Interest of political parties" },
+        { "key": "B", "text": "Interest of ruling elites" },
+        { "key": "C", "text": "Overall interest of the state" },
+        { "key": "D", "text": "Interest of foreign nations" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 86,
+      "question": "The major function of pressure groups is to",
+      "options": [
+        { "key": "A", "text": "Form government" },
+        { "key": "B", "text": "Influence government policies" },
+        { "key": "C", "text": "Conduct elections" },
+        { "key": "D", "text": "Interpret laws" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Which arm of government is responsible for policy execution?",
+      "options": [
+        { "key": "A", "text": "Legislature" },
+        { "key": "B", "text": "Judiciary" },
+        { "key": "C", "text": "Executive" },
+        { "key": "D", "text": "Electoral commission" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "The doctrine of separation of powers was proposed by",
+      "options": [
+        { "key": "A", "text": "Karl Marx" },
+        { "key": "B", "text": "Montesquieu" },
+        { "key": "C", "text": "John Locke" },
+        { "key": "D", "text": "Plato" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following is NOT a feature of federalism?",
+      "options": [
+        { "key": "A", "text": "Division of powers" },
+        { "key": "B", "text": "Written constitution" },
+        { "key": "C", "text": "Centralized authority" },
+        { "key": "D", "text": "Autonomy of units" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 90,
+      "question": "Which of the following ensures supremacy of the constitution?",
+      "options": [
+        { "key": "A", "text": "Military decree" },
+        { "key": "B", "text": "Judicial review" },
+        { "key": "C", "text": "Party manifesto" },
+        { "key": "D", "text": "Cabinet decisions" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 91,
+      "question": "Citizenship acquired by birth applies to",
+      "options": [
+        { "key": "A", "text": "Foreign residents" },
+        { "key": "B", "text": "Children of Nigerian parents" },
+        { "key": "C", "text": "Naturalized citizens" },
+        { "key": "D", "text": "Immigrants" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Which electoral system allows the winner to take all?",
+      "options": [
+        { "key": "A", "text": "Proportional representation" },
+        { "key": "B", "text": "Simple majority system" },
+        { "key": "C", "text": "Indirect election" },
+        { "key": "D", "text": "Referendum" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "The head of government in a presidential system is the",
+      "options": [
+        { "key": "A", "text": "Prime Minister" },
+        { "key": "B", "text": "Chief Justice" },
+        { "key": "C", "text": "President" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following promotes political participation?",
+      "options": [
+        { "key": "A", "text": "Political apathy" },
+        { "key": "B", "text": "Free and fair elections" },
+        { "key": "C", "text": "Censorship" },
+        { "key": "D", "text": "Military rule" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 95,
+      "question": "Which of the following best defines sovereignty?",
+      "options": [
+        { "key": "A", "text": "Legislative authority" },
+        { "key": "B", "text": "Supreme power of the state" },
+        { "key": "C", "text": "Judicial independence" },
+        { "key": "D", "text": "Party dominance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "The main function of INEC is to",
+      "options": [
+        { "key": "A", "text": "Interpret the constitution" },
+        { "key": "B", "text": "Conduct elections" },
+        { "key": "C", "text": "Make laws" },
+        { "key": "D", "text": "Maintain law and order" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Which of the following is an essential element of the state?",
+      "options": [
+        { "key": "A", "text": "Political party" },
+        { "key": "B", "text": "Population" },
+        { "key": "C", "text": "Election" },
+        { "key": "D", "text": "Civil service" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "The rule of law emphasizes",
+      "options": [
+        { "key": "A", "text": "Equality before the law" },
+        { "key": "B", "text": "Military authority" },
+        { "key": "C", "text": "Executive dominance" },
+        { "key": "D", "text": "One-party system" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following best defines nationalism?",
+      "options": [
+        { "key": "A", "text": "Love for foreign countries" },
+        { "key": "B", "text": "Loyalty to one's nation" },
+        { "key": "C", "text": "Military loyalty" },
+        { "key": "D", "text": "Party allegiance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 100,
+      "question": "Which institution is responsible for maintaining internal security?",
+      "options": [
+        { "key": "A", "text": "Customs service" },
+        { "key": "B", "text": "Police" },
+        { "key": "C", "text": "Legislature" },
+        { "key": "D", "text": "INEC" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 101,
+      "question": "Which of the following is a disadvantage of a unitary system?",
+      "options": [
+        { "key": "A", "text": "Strong central authority" },
+        { "key": "B", "text": "Slow decision-making" },
+        { "key": "C", "text": "Local autonomy" },
+        { "key": "D", "text": "Uniform policy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Which type of government is ruled by a single person with absolute power?",
+      "options": [
+        { "key": "A", "text": "Democracy" },
+        { "key": "B", "text": "Oligarchy" },
+        { "key": "C", "text": "Autocracy" },
+        { "key": "D", "text": "Federalism" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Which of the following is a civic responsibility?",
+      "options": [
+        { "key": "A", "text": "Freedom of speech" },
+        { "key": "B", "text": "Right to life" },
+        { "key": "C", "text": "Voting in elections" },
+        { "key": "D", "text": "Freedom of movement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 104,
+      "question": "A written constitution is usually",
+      "options": [
+        { "key": "A", "text": "Flexible" },
+        { "key": "B", "text": "Uncodified" },
+        { "key": "C", "text": "Rigid" },
+        { "key": "D", "text": "Customary" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following promotes national integration?",
+      "options": [
+        { "key": "A", "text": "Ethnic loyalty" },
+        { "key": "B", "text": "Political intolerance" },
+        { "key": "C", "text": "Federal character principle" },
+        { "key": "D", "text": "Regional rivalry" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 106,
+      "question": "Which organ checks the excesses of the executive?",
+      "options": [
+        { "key": "A", "text": "Judiciary" },
+        { "key": "B", "text": "Military" },
+        { "key": "C", "text": "Police" },
+        { "key": "D", "text": "Civil service" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 107,
+      "question": "Political apathy refers to",
+      "options": [
+        { "key": "A", "text": "Active participation" },
+        { "key": "B", "text": "Lack of interest in politics" },
+        { "key": "C", "text": "Campaign activities" },
+        { "key": "D", "text": "Party loyalty" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "Which of the following best describes civil society organizations?",
+      "options": [
+        { "key": "A", "text": "Government agencies" },
+        { "key": "B", "text": "Political parties" },
+        { "key": "C", "text": "Independent groups promoting public interest" },
+        { "key": "D", "text": "Military institutions" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Which form of government combines features of federal and unitary systems?",
+      "options": [
+        { "key": "A", "text": "Confederal" },
+        { "key": "B", "text": "Parliamentary" },
+        { "key": "C", "text": "Presidential" },
+        { "key": "D", "text": "Hybrid" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 110,
+      "question": "Which right allows citizens to express opinions freely?",
+      "options": [
+        { "key": "A", "text": "Right to vote" },
+        { "key": "B", "text": "Freedom of expression" },
+        { "key": "C", "text": "Right to privacy" },
+        { "key": "D", "text": "Freedom of movement" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 111,
+      "question": "Which of the following best describes a political party?",
+      "options": [
+        { "key": "A", "text": "A pressure group" },
+        { "key": "B", "text": "An organization seeking to control government" },
+        { "key": "C", "text": "A social club" },
+        { "key": "D", "text": "A trade union" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "One major function of the judiciary is to",
+      "options": [
+        { "key": "A", "text": "Make laws" },
+        { "key": "B", "text": "Interpret laws" },
+        { "key": "C", "text": "Execute laws" },
+        { "key": "D", "text": "Conduct elections" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 113,
+      "question": "Which of the following is a feature of democracy?",
+      "options": [
+        { "key": "A", "text": "Rule by force" },
+        { "key": "B", "text": "Supremacy of the people" },
+        { "key": "C", "text": "One-party rule" },
+        { "key": "D", "text": "Military authority" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "The main duty of citizens in a democracy is to",
+      "options": [
+        { "key": "A", "text": "Obey only elected leaders" },
+        { "key": "B", "text": "Participate in governance" },
+        { "key": "C", "text": "Rule the country" },
+        { "key": "D", "text": "Interpret the law" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Which principle ensures that no arm of government is too powerful?",
+      "options": [
+        { "key": "A", "text": "Federal character" },
+        { "key": "B", "text": "Checks and balances" },
+        { "key": "C", "text": "Collective responsibility" },
+        { "key": "D", "text": "Rule of law" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 116,
+      "question": "Which of the following promotes good governance?",
+      "options": [
+        { "key": "A", "text": "Corruption" },
+        { "key": "B", "text": "Transparency" },
+        { "key": "C", "text": "Political intimidation" },
+        { "key": "D", "text": "Election rigging" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 117,
+      "question": "A government controlled by the wealthy is called",
+      "options": [
+        { "key": "A", "text": "Oligarchy" },
+        { "key": "B", "text": "Aristocracy" },
+        { "key": "C", "text": "Plutocracy" },
+        { "key": "D", "text": "Democracy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 118,
+      "question": "Which of the following is NOT a function of political parties?",
+      "options": [
+        { "key": "A", "text": "Political education" },
+        { "key": "B", "text": "Recruitment of leaders" },
+        { "key": "C", "text": "Policy formulation" },
+        { "key": "D", "text": "Judicial interpretation" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 119,
+      "question": "Which organ of government approves public expenditure?",
+      "options": [
+        { "key": "A", "text": "Executive" },
+        { "key": "B", "text": "Judiciary" },
+        { "key": "C", "text": "Legislature" },
+        { "key": "D", "text": "Civil service" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "Public opinion refers to",
+      "options": [
+        { "key": "A", "text": "Personal beliefs" },
+        { "key": "B", "text": "Views held by the majority of citizens" },
+        { "key": "C", "text": "Party ideology" },
+        { "key": "D", "text": "Military decisions" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 121,
+      "question": "Which institution safeguards fundamental human rights?",
+      "options": [
+        { "key": "A", "text": "Police" },
+        { "key": "B", "text": "Judiciary" },
+        { "key": "C", "text": "Political parties" },
+        { "key": "D", "text": "Legislature" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 122,
+      "question": "The main objective of pressure groups is to",
+      "options": [
+        { "key": "A", "text": "Form a government" },
+        { "key": "B", "text": "Influence public policy" },
+        { "key": "C", "text": "Conduct elections" },
+        { "key": "D", "text": "Interpret the constitution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 123,
+      "question": "Which of the following defines legitimacy?",
+      "options": [
+        { "key": "A", "text": "Use of force" },
+        { "key": "B", "text": "Public acceptance of authority" },
+        { "key": "C", "text": "Military takeover" },
+        { "key": "D", "text": "Judicial power" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 124,
+      "question": "Which voting method involves voters choosing candidates secretly?",
+      "options": [
+        { "key": "A", "text": "Open ballot" },
+        { "key": "B", "text": "Secret ballot" },
+        { "key": "C", "text": "Indirect voting" },
+        { "key": "D", "text": "Voice voting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "Which feature best distinguishes a constitution?",
+      "options": [
+        { "key": "A", "text": "Party manifesto" },
+        { "key": "B", "text": "Supreme law of the land" },
+        { "key": "C", "text": "Judicial ruling" },
+        { "key": "D", "text": "Government policy" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 126,
+      "question": "Which body is responsible for law enforcement?",
+      "options": [
+        { "key": "A", "text": "Army" },
+        { "key": "B", "text": "Police" },
+        { "key": "C", "text": "Courts" },
+        { "key": "D", "text": "Legislature" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "Which political system encourages citizens' participation?",
+      "options": [
+        { "key": "A", "text": "Autocracy" },
+        { "key": "B", "text": "Democracy" },
+        { "key": "C", "text": "Oligarchy" },
+        { "key": "D", "text": "Military rule" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Which of the following is a civil right?",
+      "options": [
+        { "key": "A", "text": "Right to vote" },
+        { "key": "B", "text": "Freedom of speech" },
+        { "key": "C", "text": "Payment of tax" },
+        { "key": "D", "text": "National service" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 129,
+      "question": "Which of the following strengthens democracy?",
+      "options": [
+        { "key": "A", "text": "Free press" },
+        { "key": "B", "text": "Censorship" },
+        { "key": "C", "text": "Intimidation" },
+        { "key": "D", "text": "One-party rule" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 130,
+      "question": "Which term describes equal treatment before the law?",
+      "options": [
+        { "key": "A", "text": "Justice" },
+        { "key": "B", "text": "Rule of law" },
+        { "key": "C", "text": "Legitimacy" },
+        { "key": "D", "text": "Authority" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 131,
+      "question": "Which body approves constitutional amendments?",
+      "options": [
+        { "key": "A", "text": "Executive" },
+        { "key": "B", "text": "Legislature" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "Civil service" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Which system allows citizens to vote directly on issues?",
+      "options": [
+        { "key": "A", "text": "Representative democracy" },
+        { "key": "B", "text": "Direct democracy" },
+        { "key": "C", "text": "Presidential system" },
+        { "key": "D", "text": "Federal system" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "Which of the following is an agent of political socialization?",
+      "options": [
+        { "key": "A", "text": "Family" },
+        { "key": "B", "text": "Courts" },
+        { "key": "C", "text": "Army" },
+        { "key": "D", "text": "Cabinet" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 134,
+      "question": "Which factor most influences political awareness?",
+      "options": [
+        { "key": "A", "text": "Education" },
+        { "key": "B", "text": "Age" },
+        { "key": "C", "text": "Gender" },
+        { "key": "D", "text": "Religion" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 135,
+      "question": "The main purpose of a constitution is to",
+      "options": [
+        { "key": "A", "text": "punish offenders" },
+        { "key": "B", "text": "guide the activities of government" },
+        { "key": "C", "text": "promote trade" },
+        { "key": "D", "text": "increase population" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 136,
+      "question": "The principle of separation of powers was propounded by",
+      "options": [
+        { "key": "A", "text": "Plato" },
+        { "key": "B", "text": "Karl Marx" },
+        { "key": "C", "text": "Montesquieu" },
+        { "key": "D", "text": "Aristotle" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 137,
+      "question": "Which organ of government interprets the law?",
+      "options": [
+        { "key": "A", "text": "Executive" },
+        { "key": "B", "text": "Legislature" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "Police" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "A system of government in which power is shared between central and state governments is known as",
+      "options": [
+        { "key": "A", "text": "unitary system" },
+        { "key": "B", "text": "confederal system" },
+        { "key": "C", "text": "federal system" },
+        { "key": "D", "text": "presidential system" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Fundamental human rights are usually stated in the",
+      "options": [
+        { "key": "A", "text": "criminal code" },
+        { "key": "B", "text": "constitution" },
+        { "key": "C", "text": "electoral law" },
+        { "key": "D", "text": "penal code" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Which of the following is a feature of a democratic government?",
+      "options": [
+        { "key": "A", "text": "Rule by force" },
+        { "key": "B", "text": "One-party rule" },
+        { "key": "C", "text": "Popular participation" },
+        { "key": "D", "text": "Military control" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 141,
+      "question": "The process by which citizens choose their leaders is called",
+      "options": [
+        { "key": "A", "text": "election" },
+        { "key": "B", "text": "legislation" },
+        { "key": "C", "text": "impeachment" },
+        { "key": "D", "text": "coalition" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 142,
+      "question": "The head of government in a presidential system is the",
+      "options": [
+        { "key": "A", "text": "Prime Minister" },
+        { "key": "B", "text": "Chief Justice" },
+        { "key": "C", "text": "President" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "Which of the following best describes pressure groups?",
+      "options": [
+        { "key": "A", "text": "They contest elections" },
+        { "key": "B", "text": "They seek to influence government policies" },
+        { "key": "C", "text": "They form governments" },
+        { "key": "D", "text": "They make laws" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "The legislature is primarily responsible for",
+      "options": [
+        { "key": "A", "text": "execution of laws" },
+        { "key": "B", "text": "interpretation of laws" },
+        { "key": "C", "text": "making laws" },
+        { "key": "D", "text": "maintaining peace" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 145,
+      "question": "An independent judiciary ensures",
+      "options": [
+        { "key": "A", "text": "rule of law" },
+        { "key": "B", "text": "dictatorship" },
+        { "key": "C", "text": "military rule" },
+        { "key": "D", "text": "absolute power" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 146,
+      "question": "Which of the following is NOT a function of political parties?",
+      "options": [
+        { "key": "A", "text": "Educating voters" },
+        { "key": "B", "text": "Forming government" },
+        { "key": "C", "text": "Providing security" },
+        { "key": "D", "text": "Recruiting leaders" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "The arm of government responsible for day-to-day administration is the",
+      "options": [
+        { "key": "A", "text": "Judiciary" },
+        { "key": "B", "text": "Legislature" },
+        { "key": "C", "text": "Executive" },
+        { "key": "D", "text": "Electoral body" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 148,
+      "question": "The supremacy of the constitution means that the constitution is",
+      "options": [
+        { "key": "A", "text": "inferior to parliament" },
+        { "key": "B", "text": "above all other laws" },
+        { "key": "C", "text": "controlled by the president" },
+        { "key": "D", "text": "temporary" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "Which body conducts elections in Nigeria?",
+      "options": [
+        { "key": "A", "text": "NPC" },
+        { "key": "B", "text": "INEC" },
+        { "key": "C", "text": "EFCC" },
+        { "key": "D", "text": "ICPC" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 150,
+      "question": "Citizenship can be acquired through all EXCEPT",
+      "options": [
+        { "key": "A", "text": "birth" },
+        { "key": "B", "text": "registration" },
+        { "key": "C", "text": "naturalization" },
+        { "key": "D", "text": "employment" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 151,
+      "question": "The military taking over government illegally is known as",
+      "options": [
+        { "key": "A", "text": "impeachment" },
+        { "key": "B", "text": "election" },
+        { "key": "C", "text": "coup d’état" },
+        { "key": "D", "text": "referendum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 152,
+      "question": "One major advantage of federalism is that it",
+      "options": [
+        { "key": "A", "text": "promotes dictatorship" },
+        { "key": "B", "text": "encourages unity in diversity" },
+        { "key": "C", "text": "weakens the states" },
+        { "key": "D", "text": "abolishes local government" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 153,
+      "question": "The rule of law emphasizes",
+      "options": [
+        { "key": "A", "text": "equality before the law" },
+        { "key": "B", "text": "military supremacy" },
+        { "key": "C", "text": "party dominance" },
+        { "key": "D", "text": "executive immunity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 154,
+      "question": "Which of the following best defines sovereignty?",
+      "options": [
+        { "key": "A", "text": "External control" },
+        { "key": "B", "text": "Supreme authority of the state" },
+        { "key": "C", "text": "Colonial rule" },
+        { "key": "D", "text": "Judicial power" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "A constitution derived from conventions and customs is known as",
+      "options": [
+        { "key": "A", "text": "written constitution" },
+        { "key": "B", "text": "rigid constitution" },
+        { "key": "C", "text": "unwritten constitution" },
+        { "key": "D", "text": "federal constitution" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 156,
+      "question": "A government run by the few rich people is called",
+      "options": [
+        { "key": "A", "text": "democracy" },
+        { "key": "B", "text": "aristocracy" },
+        { "key": "C", "text": "plutocracy" },
+        { "key": "D", "text": "oligarchy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "The act of removing an elected official from office through lawful means is called",
+      "options": [
+        { "key": "A", "text": "recall" },
+        { "key": "B", "text": "referendum" },
+        { "key": "C", "text": "coalition" },
+        { "key": "D", "text": "census" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 158,
+      "question": "Which of the following is a civic responsibility?",
+      "options": [
+        { "key": "A", "text": "Freedom of speech" },
+        { "key": "B", "text": "Right to life" },
+        { "key": "C", "text": "Voting in elections" },
+        { "key": "D", "text": "Right to fair hearing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "Public opinion refers to",
+      "options": [
+        { "key": "A", "text": "decisions of the courts" },
+        { "key": "B", "text": "views held by the majority of citizens" },
+        { "key": "C", "text": "government policies" },
+        { "key": "D", "text": "party manifestos" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Which institution enforces laws in a state?",
+      "options": [
+        { "key": "A", "text": "Legislature" },
+        { "key": "B", "text": "Judiciary" },
+        { "key": "C", "text": "Executive" },
+        { "key": "D", "text": "Media" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 161,
+      "question": "A situation where one party wins all seats is known as",
+      "options": [
+        { "key": "A", "text": "multi-party system" },
+        { "key": "B", "text": "coalition government" },
+        { "key": "C", "text": "one-party dominance" },
+        { "key": "D", "text": "referendum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "Which of the following promotes accountability in government?",
+      "options": [
+        { "key": "A", "text": "Censorship" },
+        { "key": "B", "text": "Free press" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "Martial law" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "A written constitution is usually",
+      "options": [
+        { "key": "A", "text": "uncertain" },
+        { "key": "B", "text": "scattered" },
+        { "key": "C", "text": "clearly documented" },
+        { "key": "D", "text": "based on customs only" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "Which of the following is a feature of authoritarian government?",
+      "options": [
+        { "key": "A", "text": "Free elections" },
+        { "key": "B", "text": "Rule of law" },
+        { "key": "C", "text": "Centralized power" },
+        { "key": "D", "text": "Separation of powers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "The main duty of citizens in a democracy is to",
+      "options": [
+        { "key": "A", "text": "rule the state" },
+        { "key": "B", "text": "pay bribes" },
+        { "key": "C", "text": "participate in governance" },
+        { "key": "D", "text": "avoid politics" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 166,
+      "question": "Which term describes the supreme power of the people?",
+      "options": [
+        { "key": "A", "text": "Autocracy" },
+        { "key": "B", "text": "Democracy" },
+        { "key": "C", "text": "Theocracy" },
+        { "key": "D", "text": "Oligarchy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "The judiciary is independent when it is free from",
+      "options": [
+        { "key": "A", "text": "judicial review" },
+        { "key": "B", "text": "executive control" },
+        { "key": "C", "text": "constitutional provisions" },
+        { "key": "D", "text": "legal procedures" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "Which of these is a pressure group?",
+      "options": [
+        { "key": "A", "text": "INEC" },
+        { "key": "B", "text": "NLC" },
+        { "key": "C", "text": "Police" },
+        { "key": "D", "text": "Court" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "The authority to make laws in a country rests with the",
+      "options": [
+        { "key": "A", "text": "Executive" },
+        { "key": "B", "text": "Judiciary" },
+        { "key": "C", "text": "Legislature" },
+        { "key": "D", "text": "Media" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 170,
+      "question": "Which of the following promotes national unity?",
+      "options": [
+        { "key": "A", "text": "Ethnic loyalty" },
+        { "key": "B", "text": "Federal character" },
+        { "key": "C", "text": "Tribalism" },
+        { "key": "D", "text": "Nepotism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 171,
+      "question": "A government controlled by religious leaders is called",
+      "options": [
+        { "key": "A", "text": "democracy" },
+        { "key": "B", "text": "theocracy" },
+        { "key": "C", "text": "oligarchy" },
+        { "key": "D", "text": "plutocracy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Which right allows citizens to criticize government policies?",
+      "options": [
+        { "key": "A", "text": "Right to life" },
+        { "key": "B", "text": "Freedom of expression" },
+        { "key": "C", "text": "Right to vote" },
+        { "key": "D", "text": "Right to fair hearing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "The conduct of population census is important for",
+      "options": [
+        { "key": "A", "text": "law making" },
+        { "key": "B", "text": "economic planning" },
+        { "key": "C", "text": "judicial review" },
+        { "key": "D", "text": "foreign policy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Which level of government is closest to the people?",
+      "options": [
+        { "key": "A", "text": "Federal" },
+        { "key": "B", "text": "State" },
+        { "key": "C", "text": "Local" },
+        { "key": "D", "text": "Regional" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "The supremacy of the constitution guarantees",
+      "options": [
+        { "key": "A", "text": "absolute monarchy" },
+        { "key": "B", "text": "rule of law" },
+        { "key": "C", "text": "military dominance" },
+        { "key": "D", "text": "party dictatorship" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 176,
+      "question": "The principle of collective responsibility operates in a",
+      "options": [
+        { "key": "A", "text": "presidential system" },
+        { "key": "B", "text": "unitary system" },
+        { "key": "C", "text": "parliamentary system" },
+        { "key": "D", "text": "confederal system" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "The term franchise in politics refers to the",
+      "options": [
+        { "key": "A", "text": "right to vote" },
+        { "key": "B", "text": "right to contest elections" },
+        { "key": "C", "text": "right to rule" },
+        { "key": "D", "text": "right to protest" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 178,
+      "question": "Which of the following best describes a referendum?",
+      "options": [
+        { "key": "A", "text": "A court ruling" },
+        { "key": "B", "text": "A military decree" },
+        { "key": "C", "text": "A popular vote on an issue" },
+        { "key": "D", "text": "A parliamentary debate" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 179,
+      "question": "The major function of the opposition party is to",
+      "options": [
+        { "key": "A", "text": "support government blindly" },
+        { "key": "B", "text": "check the excesses of government" },
+        { "key": "C", "text": "control the judiciary" },
+        { "key": "D", "text": "conduct elections" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "Political apathy refers to citizens'",
+      "options": [
+        { "key": "A", "text": "active participation" },
+        { "key": "B", "text": "interest in politics" },
+        { "key": "C", "text": "lack of interest in politics" },
+        { "key": "D", "text": "political education" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 181,
+      "question": "Which arm of government approves government expenditure?",
+      "options": [
+        { "key": "A", "text": "Judiciary" },
+        { "key": "B", "text": "Legislature" },
+        { "key": "C", "text": "Executive" },
+        { "key": "D", "text": "Civil service" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "A state is best defined as a",
+      "options": [
+        { "key": "A", "text": "group of people sharing culture" },
+        { "key": "B", "text": "political organization with defined territory" },
+        { "key": "C", "text": "collection of ethnic groups" },
+        { "key": "D", "text": "religious association" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "Which of the following is NOT a feature of democracy?",
+      "options": [
+        { "key": "A", "text": "Free elections" },
+        { "key": "B", "text": "Rule of law" },
+        { "key": "C", "text": "One-man rule" },
+        { "key": "D", "text": "Majority rule" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 184,
+      "question": "The cabinet is made up of",
+      "options": [
+        { "key": "A", "text": "judges" },
+        { "key": "B", "text": "law makers" },
+        { "key": "C", "text": "ministers" },
+        { "key": "D", "text": "traditional rulers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 185,
+      "question": "Which political ideology emphasizes public ownership of resources?",
+      "options": [
+        { "key": "A", "text": "Capitalism" },
+        { "key": "B", "text": "Communism" },
+        { "key": "C", "text": "Feudalism" },
+        { "key": "D", "text": "Liberalism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 186,
+      "question": "The term bicameral legislature means",
+      "options": [
+        { "key": "A", "text": "one chamber legislature" },
+        { "key": "B", "text": "two chamber legislature" },
+        { "key": "C", "text": "three chamber legislature" },
+        { "key": "D", "text": "military legislature" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 187,
+      "question": "Which of the following promotes political stability?",
+      "options": [
+        { "key": "A", "text": "Corruption" },
+        { "key": "B", "text": "Ethnic conflict" },
+        { "key": "C", "text": "Good governance" },
+        { "key": "D", "text": "Military intervention" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 188,
+      "question": "A written constitution is easier to",
+      "options": [
+        { "key": "A", "text": "ignore" },
+        { "key": "B", "text": "amend secretly" },
+        { "key": "C", "text": "interpret" },
+        { "key": "D", "text": "change arbitrarily" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "Which of the following is a feature of military government?",
+      "options": [
+        { "key": "A", "text": "Free press" },
+        { "key": "B", "text": "Suspension of constitution" },
+        { "key": "C", "text": "Independent judiciary" },
+        { "key": "D", "text": "Popular elections" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 190,
+      "question": "The duty of paying taxes is a",
+      "options": [
+        { "key": "A", "text": "fundamental right" },
+        { "key": "B", "text": "political privilege" },
+        { "key": "C", "text": "civic obligation" },
+        { "key": "D", "text": "judicial function" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 191,
+      "question": "Which of the following is a merit of federalism?",
+      "options": [
+        { "key": "A", "text": "Duplication of authority" },
+        { "key": "B", "text": "Unequal development" },
+        { "key": "C", "text": "Local autonomy" },
+        { "key": "D", "text": "High cost of government" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 192,
+      "question": "The body responsible for conducting population census is",
+      "options": [
+        { "key": "A", "text": "INEC" },
+        { "key": "B", "text": "NPC" },
+        { "key": "C", "text": "EFCC" },
+        { "key": "D", "text": "ICPC" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "Which of the following best describes nationalism?",
+      "options": [
+        { "key": "A", "text": "Love for one's country" },
+        { "key": "B", "text": "Hatred for foreigners" },
+        { "key": "C", "text": "Religious loyalty" },
+        { "key": "D", "text": "Military loyalty" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "The head of state in a parliamentary system is usually a",
+      "options": [
+        { "key": "A", "text": "prime minister" },
+        { "key": "B", "text": "president" },
+        { "key": "C", "text": "monarch or ceremonial president" },
+        { "key": "D", "text": "chief justice" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Which institution safeguards the constitution?",
+      "options": [
+        { "key": "A", "text": "Executive" },
+        { "key": "B", "text": "Judiciary" },
+        { "key": "C", "text": "Legislature" },
+        { "key": "D", "text": "Police" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 196,
+      "question": "A government controlled by a few elites is known as",
+      "options": [
+        { "key": "A", "text": "oligarchy" },
+        { "key": "B", "text": "democracy" },
+        { "key": "C", "text": "plutocracy" },
+        { "key": "D", "text": "theocracy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 197,
+      "question": "Which of the following best describes impeachment?",
+      "options": [
+        { "key": "A", "text": "Judicial punishment" },
+        { "key": "B", "text": "Lawful removal from office" },
+        { "key": "C", "text": "Military takeover" },
+        { "key": "D", "text": "Election process" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 198,
+      "question": "Which of the following ensures accountability in governance?",
+      "options": [
+        { "key": "A", "text": "Censorship" },
+        { "key": "B", "text": "Free and fair elections" },
+        { "key": "C", "text": "Martial law" },
+        { "key": "D", "text": "Autocratic rule" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "An organized body that seeks to influence government policies is a",
+      "options": [
+        { "key": "A", "text": "political party" },
+        { "key": "B", "text": "pressure group" },
+        { "key": "C", "text": "court" },
+        { "key": "D", "text": "ministry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "Which of the following best defines citizenship?",
+      "options": [
+        { "key": "A", "text": "Permanent residence" },
+        { "key": "B", "text": "Legal membership of a state" },
+        { "key": "C", "text": "Political activity" },
+        { "key": "D", "text": "Ethnic identity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 201,
+      "question": "The main objective of the rule of law is to ensure",
+      "options": [
+        { "key": "A", "text": "executive supremacy" },
+        { "key": "B", "text": "equality before the law" },
+        { "key": "C", "text": "military control" },
+        { "key": "D", "text": "party loyalty" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 202,
+      "question": "Which type of constitution is difficult to amend?",
+      "options": [
+        { "key": "A", "text": "Flexible constitution" },
+        { "key": "B", "text": "Written constitution" },
+        { "key": "C", "text": "Rigid constitution" },
+        { "key": "D", "text": "Unwritten constitution" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 203,
+      "question": "The doctrine of checks and balances prevents",
+      "options": [
+        { "key": "A", "text": "corruption" },
+        { "key": "B", "text": "abuse of power" },
+        { "key": "C", "text": "law making" },
+        { "key": "D", "text": "elections" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 204,
+      "question": "Which branch of government implements laws?",
+      "options": [
+        { "key": "A", "text": "Judiciary" },
+        { "key": "B", "text": "Legislature" },
+        { "key": "C", "text": "Executive" },
+        { "key": "D", "text": "Electoral body" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 205,
+      "question": "The main function of civil service is to",
+      "options": [
+        { "key": "A", "text": "make laws" },
+        { "key": "B", "text": "implement government policies" },
+        { "key": "C", "text": "interpret laws" },
+        { "key": "D", "text": "conduct elections" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 206,
+      "question": "Which electoral system allows voters to choose individual candidates?",
+      "options": [
+        { "key": "A", "text": "Proportional representation" },
+        { "key": "B", "text": "Simple majority system" },
+        { "key": "C", "text": "Party list system" },
+        { "key": "D", "text": "Quota system" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 207,
+      "question": "Which of the following ensures political tolerance?",
+      "options": [
+        { "key": "A", "text": "One-party rule" },
+        { "key": "B", "text": "Free press" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "Emergency powers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 208,
+      "question": "The power to nullify unconstitutional laws is called",
+      "options": [
+        { "key": "A", "text": "judicial review" },
+        { "key": "B", "text": "legislation" },
+        { "key": "C", "text": "impeachment" },
+        { "key": "D", "text": "veto" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 209,
+      "question": "Which of the following defines political culture?",
+      "options": [
+        { "key": "A", "text": "Economic beliefs" },
+        { "key": "B", "text": "Attitudes of citizens towards politics" },
+        { "key": "C", "text": "Religious practices" },
+        { "key": "D", "text": "Ethnic traditions" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 210,
+      "question": "Which political system gives more power to the centre?",
+      "options": [
+        { "key": "A", "text": "Federal system" },
+        { "key": "B", "text": "Confederal system" },
+        { "key": "C", "text": "Unitary system" },
+        { "key": "D", "text": "Presidential system" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 211,
+      "question": "The main duty of the legislature is to",
+      "options": [
+        { "key": "A", "text": "execute laws" },
+        { "key": "B", "text": "interpret laws" },
+        { "key": "C", "text": "make laws" },
+        { "key": "D", "text": "enforce laws" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 212,
+      "question": "Which of the following is an advantage of democracy?",
+      "options": [
+        { "key": "A", "text": "Slow decision making" },
+        { "key": "B", "text": "Participation of citizens" },
+        { "key": "C", "text": "High cost of elections" },
+        { "key": "D", "text": "Political rivalry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 213,
+      "question": "Which body settles disputes between the government and citizens?",
+      "options": [
+        { "key": "A", "text": "Legislature" },
+        { "key": "B", "text": "Executive" },
+        { "key": "C", "text": "Judiciary" },
+        { "key": "D", "text": "Police" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 214,
+      "question": "The major aim of political parties is to",
+      "options": [
+        { "key": "A", "text": "control the judiciary" },
+        { "key": "B", "text": "win political power" },
+        { "key": "C", "text": "control the media" },
+        { "key": "D", "text": "censor citizens" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 215,
+      "question": "Which right allows citizens to assemble peacefully?",
+      "options": [
+        { "key": "A", "text": "Right to life" },
+        { "key": "B", "text": "Freedom of association" },
+        { "key": "C", "text": "Right to vote" },
+        { "key": "D", "text": "Right to privacy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 216,
+      "question": "A government ruled by one person with absolute power is called",
+      "options": [
+        { "key": "A", "text": "democracy" },
+        { "key": "B", "text": "monarchy" },
+        { "key": "C", "text": "dictatorship" },
+        { "key": "D", "text": "oligarchy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 217,
+      "question": "The process of changing a constitution is known as",
+      "options": [
+        { "key": "A", "text": "review" },
+        { "key": "B", "text": "amendment" },
+        { "key": "C", "text": "ratification" },
+        { "key": "D", "text": "abolition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 218,
+      "question": "Which political ideology supports private ownership of property?",
+      "options": [
+        { "key": "A", "text": "Communism" },
+        { "key": "B", "text": "Socialism" },
+        { "key": "C", "text": "Capitalism" },
+        { "key": "D", "text": "Totalitarianism" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 219,
+      "question": "Which of the following strengthens democracy?",
+      "options": [
+        { "key": "A", "text": "Electoral malpractice" },
+        { "key": "B", "text": "Corruption" },
+        { "key": "C", "text": "Civic education" },
+        { "key": "D", "text": "Military intervention" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 220,
+      "question": "The ultimate power in a democratic state belongs to the",
+      "options": [
+        { "key": "A", "text": "judiciary" },
+        { "key": "B", "text": "military" },
+        { "key": "C", "text": "people" },
+        { "key": "D", "text": "executive" }
+      ],
+      "correct_answer": "C"
     }
   ]
-}
+}  
