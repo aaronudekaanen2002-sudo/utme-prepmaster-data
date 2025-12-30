@@ -3,7 +3,7 @@
     "exam": "UTME",
     "subject": "Mathematics",
     "year": "General",
-    "time_minutes": 40,
+    "time_minutes": 200,
     "total_questions": 5,
     "instructions": "Answer all questions. Choose the option that best answers each question."
   },
