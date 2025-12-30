@@ -64,7 +64,7 @@
       "correct_answer": "C"
     },
     {
-    "id": 101,
+    "id": 6,
     "question": "Which of the following records is used to record credit purchases in a business?",
     "options": [
       { "key": "A", "text": "Sales journal" },
@@ -75,7 +75,7 @@
     "correct_answer": "B"
   },
   {
-    "id": 102,
+    "id": 7,
     "question": "The document prepared to correct errors discovered after posting entries to the ledger is called",
     "options": [
       { "key": "A", "text": "Trial balance" },
@@ -86,7 +86,7 @@
     "correct_answer": "B"
   },
   {
-    "id": 103,
+    "id": 8,
     "question": "Which of the following items is classified as a current liability?",
     "options": [
       { "key": "A", "text": "Capital" },
@@ -97,7 +97,7 @@
     "correct_answer": "C"
   },
   {
-    "id": 104,
+    "id": 9,
     "question": "The principle which states that revenue should be matched with expenses incurred to generate it is known as",
     "options": [
       { "key": "A", "text": "Consistency principle" },
@@ -108,7 +108,7 @@
     "correct_answer": "B"
   },
   {
-    "id": 105,
+    "id": 10,
     "question": "Which of the following will increase the owner's capital in a business?",
     "options": [
       { "key": "A", "text": "Drawings" },
@@ -117,6 +117,2132 @@
       { "key": "D", "text": "Purchase of assets" }
     ],
     "correct_answer": "C"
-  }
- ]
-}
+  },
+  {
+      "id": 11,
+      "question": "Which of the following books is used to record cash transactions?",
+      "options": [
+        { "key": "A", "text": "Sales journal" },
+        { "key": "B", "text": "Purchases journal" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "General ledger" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Which accounting concept assumes that a business will continue to operate indefinitely?",
+      "options": [
+        { "key": "A", "text": "Consistency concept" },
+        { "key": "B", "text": "Going concern concept" },
+        { "key": "C", "text": "Prudence concept" },
+        { "key": "D", "text": "Money measurement concept" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Capital introduced by the owner increases the",
+      "options": [
+        { "key": "A", "text": "assets only" },
+        { "key": "B", "text": "liabilities only" },
+        { "key": "C", "text": "capital account" },
+        { "key": "D", "text": "expenses account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a current asset?",
+      "options": [
+        { "key": "A", "text": "Motor vehicle" },
+        { "key": "B", "text": "Goodwill" },
+        { "key": "C", "text": "Stock" },
+        { "key": "D", "text": "Land" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "The double entry principle states that",
+      "options": [
+        { "key": "A", "text": "every debit has a corresponding credit" },
+        { "key": "B", "text": "assets equal liabilities only" },
+        { "key": "C", "text": "profits equal cash" },
+        { "key": "D", "text": "expenses equal income" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 16,
+      "question": "Which of the following is recorded on the debit side of a cash book?",
+      "options": [
+        { "key": "A", "text": "Cash paid" },
+        { "key": "B", "text": "Discount allowed" },
+        { "key": "C", "text": "Cash received" },
+        { "key": "D", "text": "Returns outward" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "A trial balance is prepared to",
+      "options": [
+        { "key": "A", "text": "calculate profit" },
+        { "key": "B", "text": "detect arithmetical errors" },
+        { "key": "C", "text": "record transactions" },
+        { "key": "D", "text": "prepare invoices" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following errors is not revealed by a trial balance?",
+      "options": [
+        { "key": "A", "text": "Error of principle" },
+        { "key": "B", "text": "Error of casting" },
+        { "key": "C", "text": "Error of omission" },
+        { "key": "D", "text": "Error of addition" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "The document sent to a buyer showing goods sold is",
+      "options": [
+        { "key": "A", "text": "Receipt" },
+        { "key": "B", "text": "Invoice" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Credit note" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a fixed asset?",
+      "options": [
+        { "key": "A", "text": "Cash" },
+        { "key": "B", "text": "Stock" },
+        { "key": "C", "text": "Debtors" },
+        { "key": "D", "text": "Machinery" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 21,
+      "question": "Depreciation is charged in order to",
+      "options": [
+        { "key": "A", "text": "increase asset value" },
+        { "key": "B", "text": "provide for replacement" },
+        { "key": "C", "text": "reduce capital" },
+        { "key": "D", "text": "increase profit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following accounts is debited when rent is paid?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Capital account" },
+        { "key": "C", "text": "Rent account" },
+        { "key": "D", "text": "Creditor account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Goods returned to suppliers are recorded in the",
+      "options": [
+        { "key": "A", "text": "sales returns journal" },
+        { "key": "B", "text": "returns inward journal" },
+        { "key": "C", "text": "returns outward journal" },
+        { "key": "D", "text": "general journal" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Which account is credited when goods are sold for cash?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Sales account" },
+        { "key": "C", "text": "Purchases account" },
+        { "key": "D", "text": "Debtors account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "The excess of total assets over liabilities represents",
+      "options": [
+        { "key": "A", "text": "profit" },
+        { "key": "B", "text": "capital" },
+        { "key": "C", "text": "expenses" },
+        { "key": "D", "text": "revenue" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 26,
+      "question": "Bad debts are written off in order to",
+      "options": [
+        { "key": "A", "text": "increase profit" },
+        { "key": "B", "text": "reduce debtors" },
+        { "key": "C", "text": "increase assets" },
+        { "key": "D", "text": "increase capital" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is a liability?",
+      "options": [
+        { "key": "A", "text": "Stock" },
+        { "key": "B", "text": "Debtors" },
+        { "key": "C", "text": "Creditors" },
+        { "key": "D", "text": "Cash" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "The account used to record minor expenses is the",
+      "options": [
+        { "key": "A", "text": "cash book" },
+        { "key": "B", "text": "journal proper" },
+        { "key": "C", "text": "petty cash book" },
+        { "key": "D", "text": "ledger" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which financial statement shows the financial position of a business?",
+      "options": [
+        { "key": "A", "text": "Trading account" },
+        { "key": "B", "text": "Profit and loss account" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Cash flow statement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Closing stock is shown in the",
+      "options": [
+        { "key": "A", "text": "trading account only" },
+        { "key": "B", "text": "balance sheet only" },
+        { "key": "C", "text": "trading account and balance sheet" },
+        { "key": "D", "text": "profit and loss account" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 31,
+      "question": "Which principle requires revenue to be matched with expenses?",
+      "options": [
+        { "key": "A", "text": "Consistency principle" },
+        { "key": "B", "text": "Matching principle" },
+        { "key": "C", "text": "Prudence concept" },
+        { "key": "D", "text": "Going concern concept" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following increases owner's capital?",
+      "options": [
+        { "key": "A", "text": "Drawings" },
+        { "key": "B", "text": "Expenses" },
+        { "key": "C", "text": "Profit" },
+        { "key": "D", "text": "Loss" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "The book used to record transactions not entered elsewhere is",
+      "options": [
+        { "key": "A", "text": "cash book" },
+        { "key": "B", "text": "ledger" },
+        { "key": "C", "text": "journal proper" },
+        { "key": "D", "text": "trial balance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is an expense?",
+      "options": [
+        { "key": "A", "text": "Capital introduced" },
+        { "key": "B", "text": "Rent paid" },
+        { "key": "C", "text": "Loan received" },
+        { "key": "D", "text": "Cash at bank" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "The purpose of depreciation is to",
+      "options": [
+        { "key": "A", "text": "show market value" },
+        { "key": "B", "text": "allocate cost of asset" },
+        { "key": "C", "text": "increase asset value" },
+        { "key": "D", "text": "eliminate assets" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 36,
+      "question": "Which of the following is NOT a capital expenditure?",
+      "options": [
+        { "key": "A", "text": "Purchase of land" },
+        { "key": "B", "text": "Purchase of machinery" },
+        { "key": "C", "text": "Repair of building" },
+        { "key": "D", "text": "Purchase of vehicle" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "A creditor is a person to whom the business",
+      "options": [
+        { "key": "A", "text": "owes money" },
+        { "key": "B", "text": "lends money" },
+        { "key": "C", "text": "sells goods" },
+        { "key": "D", "text": "borrows money" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following items is used to correct errors?",
+      "options": [
+        { "key": "A", "text": "Trial balance" },
+        { "key": "B", "text": "Journal proper" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "Ledger" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which side of the ledger records assets?",
+      "options": [
+        { "key": "A", "text": "Credit" },
+        { "key": "B", "text": "Debit" },
+        { "key": "C", "text": "Either side" },
+        { "key": "D", "text": "None" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Income received in advance is treated as",
+      "options": [
+        { "key": "A", "text": "asset" },
+        { "key": "B", "text": "liability" },
+        { "key": "C", "text": "expense" },
+        { "key": "D", "text": "capital" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "The final accounts are prepared to determine",
+      "options": [
+        { "key": "A", "text": "errors only" },
+        { "key": "B", "text": "profit and financial position" },
+        { "key": "C", "text": "cash balance" },
+        { "key": "D", "text": "capital introduced" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which account is used to ascertain gross profit?",
+      "options": [
+        { "key": "A", "text": "Profit and loss account" },
+        { "key": "B", "text": "Trading account" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Cash account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Net profit is transferred to the",
+      "options": [
+        { "key": "A", "text": "capital account" },
+        { "key": "B", "text": "cash account" },
+        { "key": "C", "text": "expenses account" },
+        { "key": "D", "text": "stock account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is a real account?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Sales account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Expenses account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following reduces capital?",
+      "options": [
+        { "key": "A", "text": "Profit" },
+        { "key": "B", "text": "Additional capital" },
+        { "key": "C", "text": "Drawings" },
+        { "key": "D", "text": "Income" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 46,
+      "question": "Which statement shows cash inflows and outflows?",
+      "options": [
+        { "key": "A", "text": "Balance sheet" },
+        { "key": "B", "text": "Trading account" },
+        { "key": "C", "text": "Cash flow statement" },
+        { "key": "D", "text": "Profit and loss account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Which item appears on the debit side of profit and loss account?",
+      "options": [
+        { "key": "A", "text": "Commission received" },
+        { "key": "B", "text": "Rent received" },
+        { "key": "C", "text": "Salaries paid" },
+        { "key": "D", "text": "Interest received" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Provision for doubtful debts is created to",
+      "options": [
+        { "key": "A", "text": "increase debtors" },
+        { "key": "B", "text": "cover possible losses" },
+        { "key": "C", "text": "increase profit" },
+        { "key": "D", "text": "increase capital" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following represents owner's equity?",
+      "options": [
+        { "key": "A", "text": "Assets minus liabilities" },
+        { "key": "B", "text": "Assets plus liabilities" },
+        { "key": "C", "text": "Income minus expenses" },
+        { "key": "D", "text": "Liabilities minus assets" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Which accounting period concept requires preparation of accounts at regular intervals?",
+      "options": [
+        { "key": "A", "text": "Going concern" },
+        { "key": "B", "text": "Consistency" },
+        { "key": "C", "text": "Accounting period" },
+        { "key": "D", "text": "Prudence" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 51,
+      "question": "Which method of depreciation charges equal amount every year?",
+      "options": [
+        { "key": "A", "text": "Reducing balance method" },
+        { "key": "B", "text": "Straight line method" },
+        { "key": "C", "text": "Annuity method" },
+        { "key": "D", "text": "Revaluation method" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Which of the following is an intangible asset?",
+      "options": [
+        { "key": "A", "text": "Land" },
+        { "key": "B", "text": "Machinery" },
+        { "key": "C", "text": "Goodwill" },
+        { "key": "D", "text": "Stock" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "A debit balance in the cash book represents",
+      "options": [
+        { "key": "A", "text": "cash deficit" },
+        { "key": "B", "text": "cash surplus" },
+        { "key": "C", "text": "profit" },
+        { "key": "D", "text": "loss" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Which of the following errors affects trial balance?",
+      "options": [
+        { "key": "A", "text": "Error of principle" },
+        { "key": "B", "text": "Error of omission" },
+        { "key": "C", "text": "Error of commission" },
+        { "key": "D", "text": "Error of original entry" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "Which account records income earned but not yet received?",
+      "options": [
+        { "key": "A", "text": "Prepaid income" },
+        { "key": "B", "text": "Accrued income" },
+        { "key": "C", "text": "Deferred income" },
+        { "key": "D", "text": "Unearned income" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "Which of the following is used to control petty cash?",
+      "options": [
+        { "key": "A", "text": "Imprest system" },
+        { "key": "B", "text": "Ledger system" },
+        { "key": "C", "text": "Debit system" },
+        { "key": "D", "text": "Voucher system" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Which item is deducted from gross profit to obtain net profit?",
+      "options": [
+        { "key": "A", "text": "Closing stock" },
+        { "key": "B", "text": "Expenses" },
+        { "key": "C", "text": "Sales" },
+        { "key": "D", "text": "Opening stock" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Which document is prepared when goods are returned by a customer?",
+      "options": [
+        { "key": "A", "text": "Debit note" },
+        { "key": "B", "text": "Invoice" },
+        { "key": "C", "text": "Credit note" },
+        { "key": "D", "text": "Receipt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Which account is credited when bank overdraft increases?",
+      "options": [
+        { "key": "A", "text": "Bank account" },
+        { "key": "B", "text": "Cash account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Expenses account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Which statement summarizes all ledger balances?",
+      "options": [
+        { "key": "A", "text": "Balance sheet" },
+        { "key": "B", "text": "Trial balance" },
+        { "key": "C", "text": "Profit and loss account" },
+        { "key": "D", "text": "Cash book" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 61,
+      "question": "Which of the following is a personal account?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Capital account" },
+        { "key": "C", "text": "Debtor account" },
+        { "key": "D", "text": "Sales account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "The accounting equation is expressed as",
+      "options": [
+        { "key": "A", "text": "Assets = Capital + Expenses" },
+        { "key": "B", "text": "Assets = Liabilities + Capital" },
+        { "key": "C", "text": "Capital = Assets + Liabilities" },
+        { "key": "D", "text": "Assets = Income + Expenses" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Which account is debited when furniture is bought on credit?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Furniture account" },
+        { "key": "C", "text": "Creditor account" },
+        { "key": "D", "text": "Purchases account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "The total of the debit side of the trial balance must be equal to",
+      "options": [
+        { "key": "A", "text": "total expenses" },
+        { "key": "B", "text": "total income" },
+        { "key": "C", "text": "total assets" },
+        { "key": "D", "text": "total credit side" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 65,
+      "question": "Which of the following is treated as a current liability?",
+      "options": [
+        { "key": "A", "text": "Bank loan repayable in 10 years" },
+        { "key": "B", "text": "Capital" },
+        { "key": "C", "text": "Creditors" },
+        { "key": "D", "text": "Goodwill" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 66,
+      "question": "Which of the following does NOT affect cash book?",
+      "options": [
+        { "key": "A", "text": "Cash sales" },
+        { "key": "B", "text": "Cash purchases" },
+        { "key": "C", "text": "Credit sales" },
+        { "key": "D", "text": "Cash received" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Which account records goods bought for resale?",
+      "options": [
+        { "key": "A", "text": "Sales account" },
+        { "key": "B", "text": "Purchases account" },
+        { "key": "C", "text": "Stock account" },
+        { "key": "D", "text": "Returns outward" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is NOT an expense?",
+      "options": [
+        { "key": "A", "text": "Electricity bill" },
+        { "key": "B", "text": "Salaries" },
+        { "key": "C", "text": "Drawings" },
+        { "key": "D", "text": "Rent" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Goods withdrawn by the owner for personal use are recorded as",
+      "options": [
+        { "key": "A", "text": "expenses" },
+        { "key": "B", "text": "drawings" },
+        { "key": "C", "text": "liabilities" },
+        { "key": "D", "text": "assets" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is shown on the credit side of the trading account?",
+      "options": [
+        { "key": "A", "text": "Opening stock" },
+        { "key": "B", "text": "Purchases" },
+        { "key": "C", "text": "Sales" },
+        { "key": "D", "text": "Carriage inward" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 71,
+      "question": "An increase in expenses will result in",
+      "options": [
+        { "key": "A", "text": "increase in capital" },
+        { "key": "B", "text": "increase in profit" },
+        { "key": "C", "text": "reduction in profit" },
+        { "key": "D", "text": "increase in assets" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 72,
+      "question": "Which of the following accounts normally has a credit balance?",
+      "options": [
+        { "key": "A", "text": "Drawings account" },
+        { "key": "B", "text": "Expenses account" },
+        { "key": "C", "text": "Income account" },
+        { "key": "D", "text": "Asset account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following items appears in the profit and loss account?",
+      "options": [
+        { "key": "A", "text": "Opening stock" },
+        { "key": "B", "text": "Closing stock" },
+        { "key": "C", "text": "Rent received" },
+        { "key": "D", "text": "Machinery" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Which of these is a long-term liability?",
+      "options": [
+        { "key": "A", "text": "Trade creditors" },
+        { "key": "B", "text": "Accrued expenses" },
+        { "key": "C", "text": "Bank overdraft" },
+        { "key": "D", "text": "Mortgage loan" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "Carriage inward is added to",
+      "options": [
+        { "key": "A", "text": "sales" },
+        { "key": "B", "text": "purchases" },
+        { "key": "C", "text": "expenses" },
+        { "key": "D", "text": "closing stock" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "The imprest amount in petty cash system is",
+      "options": [
+        { "key": "A", "text": "fixed amount" },
+        { "key": "B", "text": "variable amount" },
+        { "key": "C", "text": "increasing amount" },
+        { "key": "D", "text": "decreasing amount" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Which of the following transactions will reduce assets?",
+      "options": [
+        { "key": "A", "text": "Cash sales" },
+        { "key": "B", "text": "Payment of expenses" },
+        { "key": "C", "text": "Capital introduced" },
+        { "key": "D", "text": "Goods sold on credit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Which of the following errors will affect profit?",
+      "options": [
+        { "key": "A", "text": "Error of casting" },
+        { "key": "B", "text": "Error of commission" },
+        { "key": "C", "text": "Error of omission" },
+        { "key": "D", "text": "Error of transposition" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Which account is credited when interest is received?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Interest received account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Drawings account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "The balance sheet is prepared on the principle of",
+      "options": [
+        { "key": "A", "text": "matching concept" },
+        { "key": "B", "text": "going concern" },
+        { "key": "C", "text": "dual aspect" },
+        { "key": "D", "text": "prudence" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 81,
+      "question": "Which of the following accounts will appear in the balance sheet?",
+      "options": [
+        { "key": "A", "text": "Salaries account" },
+        { "key": "B", "text": "Rent account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Purchases account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "Which of the following is an example of capital receipt?",
+      "options": [
+        { "key": "A", "text": "Sales" },
+        { "key": "B", "text": "Loan received" },
+        { "key": "C", "text": "Commission received" },
+        { "key": "D", "text": "Rent received" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Which book is used to record credit purchases?",
+      "options": [
+        { "key": "A", "text": "Sales journal" },
+        { "key": "B", "text": "Purchases journal" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "Ledger" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Which of these increases owner's equity?",
+      "options": [
+        { "key": "A", "text": "Expenses" },
+        { "key": "B", "text": "Loss" },
+        { "key": "C", "text": "Drawings" },
+        { "key": "D", "text": "Income" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following is a revenue expenditure?",
+      "options": [
+        { "key": "A", "text": "Purchase of building" },
+        { "key": "B", "text": "Purchase of machinery" },
+        { "key": "C", "text": "Payment of wages" },
+        { "key": "D", "text": "Purchase of vehicle" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 86,
+      "question": "Which item is added to opening capital to determine closing capital?",
+      "options": [
+        { "key": "A", "text": "Expenses" },
+        { "key": "B", "text": "Drawings" },
+        { "key": "C", "text": "Profit" },
+        { "key": "D", "text": "Loss" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Which of the following errors does not affect profit?",
+      "options": [
+        { "key": "A", "text": "Error of omission" },
+        { "key": "B", "text": "Error of principle" },
+        { "key": "C", "text": "Error of casting" },
+        { "key": "D", "text": "Error of commission" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "Which of the following will increase liabilities?",
+      "options": [
+        { "key": "A", "text": "Payment to creditors" },
+        { "key": "B", "text": "Cash purchase" },
+        { "key": "C", "text": "Loan obtained" },
+        { "key": "D", "text": "Cash sales" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "Which account is credited when commission is received?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Commission account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Expenses account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is prepared last?",
+      "options": [
+        { "key": "A", "text": "Trial balance" },
+        { "key": "B", "text": "Trading account" },
+        { "key": "C", "text": "Profit and loss account" },
+        { "key": "D", "text": "Balance sheet" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 91,
+      "question": "Which account shows the net result of trading?",
+      "options": [
+        { "key": "A", "text": "Trading account" },
+        { "key": "B", "text": "Profit and loss account" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Cash book" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Which of the following is an example of an asset?",
+      "options": [
+        { "key": "A", "text": "Bank overdraft" },
+        { "key": "B", "text": "Outstanding rent" },
+        { "key": "C", "text": "Debtors" },
+        { "key": "D", "text": "Loan" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following accounts is closed at the end of the year?",
+      "options": [
+        { "key": "A", "text": "Capital account" },
+        { "key": "B", "text": "Cash account" },
+        { "key": "C", "text": "Expenses account" },
+        { "key": "D", "text": "Assets account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following increases cash balance?",
+      "options": [
+        { "key": "A", "text": "Payment of rent" },
+        { "key": "B", "text": "Purchase of goods" },
+        { "key": "C", "text": "Cash sales" },
+        { "key": "D", "text": "Payment to creditors" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Which accounting concept advises caution in recording profits?",
+      "options": [
+        { "key": "A", "text": "Matching concept" },
+        { "key": "B", "text": "Consistency concept" },
+        { "key": "C", "text": "Prudence concept" },
+        { "key": "D", "text": "Going concern concept" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 96,
+      "question": "Which account records income earned but not yet received?",
+      "options": [
+        { "key": "A", "text": "Prepaid income" },
+        { "key": "B", "text": "Accrued income" },
+        { "key": "C", "text": "Deferred income" },
+        { "key": "D", "text": "Outstanding income" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "The balancing figure in the trading account represents",
+      "options": [
+        { "key": "A", "text": "net profit" },
+        { "key": "B", "text": "gross profit" },
+        { "key": "C", "text": "total expenses" },
+        { "key": "D", "text": "net loss" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Which of the following is added back to profit?",
+      "options": [
+        { "key": "A", "text": "Depreciation" },
+        { "key": "B", "text": "Drawings" },
+        { "key": "C", "text": "Expenses" },
+        { "key": "D", "text": "Loss" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following is NOT recorded in the journal proper?",
+      "options": [
+        { "key": "A", "text": "Opening entries" },
+        { "key": "B", "text": "Error correction" },
+        { "key": "C", "text": "Cash transactions" },
+        { "key": "D", "text": "Closing entries" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Which account is debited when bank charges occur?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Bank charges account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Income account" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 101,
+      "question": "Which of the following represents drawings?",
+      "options": [
+        { "key": "A", "text": "Goods bought for resale" },
+        { "key": "B", "text": "Goods taken by owner for use" },
+        { "key": "C", "text": "Goods returned by customers" },
+        { "key": "D", "text": "Goods purchased on credit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Which account is credited when capital is introduced?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Bank account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Income account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Which statement reveals errors before final accounts?",
+      "options": [
+        { "key": "A", "text": "Balance sheet" },
+        { "key": "B", "text": "Profit and loss account" },
+        { "key": "C", "text": "Trial balance" },
+        { "key": "D", "text": "Trading account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following is NOT an intangible asset?",
+      "options": [
+        { "key": "A", "text": "Patent" },
+        { "key": "B", "text": "Trademark" },
+        { "key": "C", "text": "Goodwill" },
+        { "key": "D", "text": "Building" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following shows business performance?",
+      "options": [
+        { "key": "A", "text": "Balance sheet" },
+        { "key": "B", "text": "Cash book" },
+        { "key": "C", "text": "Profit and loss account" },
+        { "key": "D", "text": "Ledger" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 106,
+      "question": "Which of the following will reduce profit?",
+      "options": [
+        { "key": "A", "text": "Increase in income" },
+        { "key": "B", "text": "Reduction in expenses" },
+        { "key": "C", "text": "Increase in expenses" },
+        { "key": "D", "text": "Capital introduced" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 107,
+      "question": "Which account records sales returns?",
+      "options": [
+        { "key": "A", "text": "Returns inward account" },
+        { "key": "B", "text": "Returns outward account" },
+        { "key": "C", "text": "Purchases account" },
+        { "key": "D", "text": "Sales account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 108,
+      "question": "Which of the following increases assets?",
+      "options": [
+        { "key": "A", "text": "Payment of salaries" },
+        { "key": "B", "text": "Cash purchase" },
+        { "key": "C", "text": "Cash sales" },
+        { "key": "D", "text": "Drawings" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Which of the following is NOT a purpose of bookkeeping?",
+      "options": [
+        { "key": "A", "text": "Record transactions" },
+        { "key": "B", "text": "Ascertain profit" },
+        { "key": "C", "text": "Prepare final accounts" },
+        { "key": "D", "text": "Detect fraud automatically" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 110,
+      "question": "Which book records daily business transactions first?",
+      "options": [
+        { "key": "A", "text": "Ledger" },
+        { "key": "B", "text": "Cash book" },
+        { "key": "C", "text": "Journal" },
+        { "key": "D", "text": "Trial balance" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 111,
+      "question": "Which of the following accounts is affected when goods are bought for cash?",
+      "options": [
+        { "key": "A", "text": "Cash and Purchases accounts" },
+        { "key": "B", "text": "Cash and Sales accounts" },
+        { "key": "C", "text": "Purchases and Sales accounts" },
+        { "key": "D", "text": "Debtors and Cash accounts" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 112,
+      "question": "The book used to record small cash payments is called",
+      "options": [
+        { "key": "A", "text": "Cash book" },
+        { "key": "B", "text": "Ledger" },
+        { "key": "C", "text": "Petty cash book" },
+        { "key": "D", "text": "Journal proper" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Which of the following transactions will increase capital?",
+      "options": [
+        { "key": "A", "text": "Drawings" },
+        { "key": "B", "text": "Loss made" },
+        { "key": "C", "text": "Profit earned" },
+        { "key": "D", "text": "Expenses paid" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "Which of the following is an example of a fictitious asset?",
+      "options": [
+        { "key": "A", "text": "Goodwill" },
+        { "key": "B", "text": "Stock" },
+        { "key": "C", "text": "Preliminary expenses" },
+        { "key": "D", "text": "Debtors" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "Which account is debited when rent is paid?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Rent account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Income account" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 116,
+      "question": "Which of the following is a fixed asset?",
+      "options": [
+        { "key": "A", "text": "Stock" },
+        { "key": "B", "text": "Debtors" },
+        { "key": "C", "text": "Machinery" },
+        { "key": "D", "text": "Cash" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Which of the following errors is disclosed by trial balance?",
+      "options": [
+        { "key": "A", "text": "Error of omission" },
+        { "key": "B", "text": "Error of principle" },
+        { "key": "C", "text": "Error of casting" },
+        { "key": "D", "text": "Error of commission" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 118,
+      "question": "The document issued to a buyer after returning goods is",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Receipt" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Credit note" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 119,
+      "question": "Which of the following is entered on the debit side of the cash book?",
+      "options": [
+        { "key": "A", "text": "Cash paid" },
+        { "key": "B", "text": "Cash received" },
+        { "key": "C", "text": "Discount allowed" },
+        { "key": "D", "text": "Returns outwards" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Which accounting concept assumes that a business will continue operating?",
+      "options": [
+        { "key": "A", "text": "Prudence" },
+        { "key": "B", "text": "Matching" },
+        { "key": "C", "text": "Going concern" },
+        { "key": "D", "text": "Consistency" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 121,
+      "question": "Which account is credited when interest on capital is charged?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Capital account" },
+        { "key": "C", "text": "Interest on capital account" },
+        { "key": "D", "text": "Income account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "Which of the following is an example of revenue income?",
+      "options": [
+        { "key": "A", "text": "Proceeds from sale of land" },
+        { "key": "B", "text": "Loan received" },
+        { "key": "C", "text": "Commission received" },
+        { "key": "D", "text": "Capital introduced" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "Which ledger account records individual customers?",
+      "options": [
+        { "key": "A", "text": "Sales ledger" },
+        { "key": "B", "text": "Purchases ledger" },
+        { "key": "C", "text": "General ledger" },
+        { "key": "D", "text": "Private ledger" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 124,
+      "question": "Which of the following will reduce owner's equity?",
+      "options": [
+        { "key": "A", "text": "Profit" },
+        { "key": "B", "text": "Capital introduced" },
+        { "key": "C", "text": "Drawings" },
+        { "key": "D", "text": "Income" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Which item is deducted when calculating net profit?",
+      "options": [
+        { "key": "A", "text": "Gross profit" },
+        { "key": "B", "text": "Expenses" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Sales" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 126,
+      "question": "Which of the following books records credit sales?",
+      "options": [
+        { "key": "A", "text": "Purchases journal" },
+        { "key": "B", "text": "Sales journal" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "General journal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "Which of the following is an example of current asset?",
+      "options": [
+        { "key": "A", "text": "Building" },
+        { "key": "B", "text": "Machinery" },
+        { "key": "C", "text": "Stock" },
+        { "key": "D", "text": "Goodwill" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "Which statement shows assets and liabilities?",
+      "options": [
+        { "key": "A", "text": "Trading account" },
+        { "key": "B", "text": "Profit and loss account" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Cash flow statement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "Which of the following accounts normally has a debit balance?",
+      "options": [
+        { "key": "A", "text": "Capital account" },
+        { "key": "B", "text": "Income account" },
+        { "key": "C", "text": "Expenses account" },
+        { "key": "D", "text": "Creditors account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 130,
+      "question": "What is the main purpose of depreciation?",
+      "options": [
+        { "key": "A", "text": "To increase asset value" },
+        { "key": "B", "text": "To spread cost of asset" },
+        { "key": "C", "text": "To reduce profit" },
+        { "key": "D", "text": "To show market value" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 131,
+      "question": "Which account is credited when goods are returned to suppliers?",
+      "options": [
+        { "key": "A", "text": "Purchases account" },
+        { "key": "B", "text": "Returns inward account" },
+        { "key": "C", "text": "Returns outward account" },
+        { "key": "D", "text": "Cash account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 132,
+      "question": "Which item is shown under current liabilities?",
+      "options": [
+        { "key": "A", "text": "Capital" },
+        { "key": "B", "text": "Bank overdraft" },
+        { "key": "C", "text": "Machinery" },
+        { "key": "D", "text": "Goodwill" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "Which of the following will increase gross profit?",
+      "options": [
+        { "key": "A", "text": "Increase in purchases" },
+        { "key": "B", "text": "Increase in sales" },
+        { "key": "C", "text": "Increase in expenses" },
+        { "key": "D", "text": "Increase in drawings" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Which account records discount allowed?",
+      "options": [
+        { "key": "A", "text": "Discount received account" },
+        { "key": "B", "text": "Discount allowed account" },
+        { "key": "C", "text": "Cash account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 135,
+      "question": "Which of the following is NOT a book of prime entry?",
+      "options": [
+        { "key": "A", "text": "Journal" },
+        { "key": "B", "text": "Cash book" },
+        { "key": "C", "text": "Ledger" },
+        { "key": "D", "text": "Sales journal" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 136,
+      "question": "Which of the following increases liabilities?",
+      "options": [
+        { "key": "A", "text": "Payment to creditors" },
+        { "key": "B", "text": "Cash purchases" },
+        { "key": "C", "text": "Loan obtained" },
+        { "key": "D", "text": "Cash sales" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 137,
+      "question": "Which of the following is an example of accrued expense?",
+      "options": [
+        { "key": "A", "text": "Rent prepaid" },
+        { "key": "B", "text": "Outstanding salaries" },
+        { "key": "C", "text": "Discount allowed" },
+        { "key": "D", "text": "Commission received" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "Which statement shows net profit transferred to capital?",
+      "options": [
+        { "key": "A", "text": "Trading account" },
+        { "key": "B", "text": "Profit and loss account" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Cash book" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Which account is debited when drawings are made?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Capital account" },
+        { "key": "C", "text": "Drawings account" },
+        { "key": "D", "text": "Income account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 140,
+      "question": "Which of the following is not a purpose of trial balance?",
+      "options": [
+        { "key": "A", "text": "Detect arithmetical errors" },
+        { "key": "B", "text": "Prepare final accounts" },
+        { "key": "C", "text": "Ascertain profit" },
+        { "key": "D", "text": "Check ledger accuracy" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 141,
+      "question": "Which account is credited when salaries are outstanding?",
+      "options": [
+        { "key": "A", "text": "Salaries account" },
+        { "key": "B", "text": "Outstanding salaries account" },
+        { "key": "C", "text": "Cash account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "Which item is recorded in the profit and loss account?",
+      "options": [
+        { "key": "A", "text": "Opening stock" },
+        { "key": "B", "text": "Closing stock" },
+        { "key": "C", "text": "Wages" },
+        { "key": "D", "text": "Purchases" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "Which of the following is an intangible asset?",
+      "options": [
+        { "key": "A", "text": "Motor vehicle" },
+        { "key": "B", "text": "Machinery" },
+        { "key": "C", "text": "Trademark" },
+        { "key": "D", "text": "Stock" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 144,
+      "question": "Which account is used to record bad debts?",
+      "options": [
+        { "key": "A", "text": "Debtors account" },
+        { "key": "B", "text": "Bad debts account" },
+        { "key": "C", "text": "Provision account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Which account is credited when bank interest is received?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Bank account" },
+        { "key": "C", "text": "Interest received account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 146,
+      "question": "Which of the following is not a capital expenditure?",
+      "options": [
+        { "key": "A", "text": "Purchase of land" },
+        { "key": "B", "text": "Purchase of machinery" },
+        { "key": "C", "text": "Payment of wages" },
+        { "key": "D", "text": "Purchase of building" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Which of the following accounts records money owed to suppliers?",
+      "options": [
+        { "key": "A", "text": "Debtors account" },
+        { "key": "B", "text": "Creditors account" },
+        { "key": "C", "text": "Purchases account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Which of the following shows business financial position?",
+      "options": [
+        { "key": "A", "text": "Cash book" },
+        { "key": "B", "text": "Trading account" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Profit and loss account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 149,
+      "question": "Which accounting period concept ensures consistency?",
+      "options": [
+        { "key": "A", "text": "Prudence" },
+        { "key": "B", "text": "Consistency" },
+        { "key": "C", "text": "Going concern" },
+        { "key": "D", "text": "Money measurement" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "Which of the following items is subtracted in trading account?",
+      "options": [
+        { "key": "A", "text": "Sales" },
+        { "key": "B", "text": "Opening stock" },
+        { "key": "C", "text": "Purchases" },
+        { "key": "D", "text": "Closing stock" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 151,
+      "question": "Which account shows profit or loss transferred?",
+      "options": [
+        { "key": "A", "text": "Capital account" },
+        { "key": "B", "text": "Expenses account" },
+        { "key": "C", "text": "Cash account" },
+        { "key": "D", "text": "Drawings account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "Which of the following increases owner's capital?",
+      "options": [
+        { "key": "A", "text": "Loss" },
+        { "key": "B", "text": "Drawings" },
+        { "key": "C", "text": "Profit" },
+        { "key": "D", "text": "Expenses" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "Which account records return of goods by customers?",
+      "options": [
+        { "key": "A", "text": "Returns outward" },
+        { "key": "B", "text": "Returns inward" },
+        { "key": "C", "text": "Purchases" },
+        { "key": "D", "text": "Sales" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 154,
+      "question": "Which of the following is NOT an asset?",
+      "options": [
+        { "key": "A", "text": "Stock" },
+        { "key": "B", "text": "Cash" },
+        { "key": "C", "text": "Bank overdraft" },
+        { "key": "D", "text": "Debtors" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 155,
+      "question": "Which of the following is an example of income?",
+      "options": [
+        { "key": "A", "text": "Rent paid" },
+        { "key": "B", "text": "Discount allowed" },
+        { "key": "C", "text": "Commission received" },
+        { "key": "D", "text": "Drawings" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 156,
+      "question": "Which of the following books records adjustment entries?",
+      "options": [
+        { "key": "A", "text": "Cash book" },
+        { "key": "B", "text": "Journal proper" },
+        { "key": "C", "text": "Sales journal" },
+        { "key": "D", "text": "Purchases journal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 157,
+      "question": "Which of the following affects net profit?",
+      "options": [
+        { "key": "A", "text": "Closing stock" },
+        { "key": "B", "text": "Expenses" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Assets" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 158,
+      "question": "Which accounting concept states revenue should match expenses?",
+      "options": [
+        { "key": "A", "text": "Going concern" },
+        { "key": "B", "text": "Matching" },
+        { "key": "C", "text": "Consistency" },
+        { "key": "D", "text": "Prudence" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "Which of the following is NOT a real account?",
+      "options": [
+        { "key": "A", "text": "Cash" },
+        { "key": "B", "text": "Building" },
+        { "key": "C", "text": "Furniture" },
+        { "key": "D", "text": "Capital" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 160,
+      "question": "Which of the following records summarizes all ledger balances?",
+      "options": [
+        { "key": "A", "text": "Journal" },
+        { "key": "B", "text": "Trial balance" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "Balance sheet" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 161,
+      "question": "Which of the following accounts records goods bought on credit?",
+      "options": [
+        { "key": "A", "text": "Sales journal" },
+        { "key": "B", "text": "Purchases journal" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "General ledger" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 162,
+      "question": "Which account is debited when cash is withdrawn from the bank for office use?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Bank account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Drawings account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 163,
+      "question": "Which of the following items is a current liability?",
+      "options": [
+        { "key": "A", "text": "Capital" },
+        { "key": "B", "text": "Mortgage loan" },
+        { "key": "C", "text": "Creditors" },
+        { "key": "D", "text": "Machinery" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "Which document is prepared to correct errors in previous entries?",
+      "options": [
+        { "key": "A", "text": "Trial balance" },
+        { "key": "B", "text": "Journal proper" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "Ledger" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "Which of the following accounts normally has a credit balance?",
+      "options": [
+        { "key": "A", "text": "Expenses account" },
+        { "key": "B", "text": "Assets account" },
+        { "key": "C", "text": "Income account" },
+        { "key": "D", "text": "Drawings account" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 166,
+      "question": "Which book is used to record credit purchases returns?",
+      "options": [
+        { "key": "A", "text": "Returns inward journal" },
+        { "key": "B", "text": "Returns outward journal" },
+        { "key": "C", "text": "Purchases journal" },
+        { "key": "D", "text": "Sales journal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "What is the main purpose of a trial balance?",
+      "options": [
+        { "key": "A", "text": "To calculate profit" },
+        { "key": "B", "text": "To prepare ledger accounts" },
+        { "key": "C", "text": "To test arithmetic accuracy" },
+        { "key": "D", "text": "To record transactions" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 168,
+      "question": "Which of the following is an example of capital expenditure?",
+      "options": [
+        { "key": "A", "text": "Purchase of stationery" },
+        { "key": "B", "text": "Payment of wages" },
+        { "key": "C", "text": "Purchase of machinery" },
+        { "key": "D", "text": "Payment of rent" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 169,
+      "question": "Which account records bad debts written off?",
+      "options": [
+        { "key": "A", "text": "Debtors account" },
+        { "key": "B", "text": "Bad debts account" },
+        { "key": "C", "text": "Provision account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 170,
+      "question": "Which of the following is NOT a book of original entry?",
+      "options": [
+        { "key": "A", "text": "Sales journal" },
+        { "key": "B", "text": "Cash book" },
+        { "key": "C", "text": "Ledger" },
+        { "key": "D", "text": "Purchases journal" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 171,
+      "question": "Which item is deducted to arrive at net profit?",
+      "options": [
+        { "key": "A", "text": "Gross profit" },
+        { "key": "B", "text": "Expenses" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Sales" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Which account is debited when a debtor pays cash?",
+      "options": [
+        { "key": "A", "text": "Debtor account" },
+        { "key": "B", "text": "Cash account" },
+        { "key": "C", "text": "Sales account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "Which statement shows income and expenses for a period?",
+      "options": [
+        { "key": "A", "text": "Balance sheet" },
+        { "key": "B", "text": "Trading account" },
+        { "key": "C", "text": "Profit and loss account" },
+        { "key": "D", "text": "Cash flow statement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 174,
+      "question": "Which of the following reduces profit?",
+      "options": [
+        { "key": "A", "text": "Increase in sales" },
+        { "key": "B", "text": "Decrease in expenses" },
+        { "key": "C", "text": "Increase in expenses" },
+        { "key": "D", "text": "Discount received" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Which of the following is an intangible asset?",
+      "options": [
+        { "key": "A", "text": "Land" },
+        { "key": "B", "text": "Machinery" },
+        { "key": "C", "text": "Goodwill" },
+        { "key": "D", "text": "Stock" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 176,
+      "question": "Which account records money owed by customers?",
+      "options": [
+        { "key": "A", "text": "Creditors account" },
+        { "key": "B", "text": "Debtors account" },
+        { "key": "C", "text": "Sales account" },
+        { "key": "D", "text": "Purchases account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 177,
+      "question": "Which accounting concept assumes the business is separate from the owner?",
+      "options": [
+        { "key": "A", "text": "Going concern" },
+        { "key": "B", "text": "Business entity" },
+        { "key": "C", "text": "Prudence" },
+        { "key": "D", "text": "Consistency" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 178,
+      "question": "Which of the following increases owner's capital?",
+      "options": [
+        { "key": "A", "text": "Drawings" },
+        { "key": "B", "text": "Loss" },
+        { "key": "C", "text": "Profit" },
+        { "key": "D", "text": "Expenses" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 179,
+      "question": "Which account records interest on loan?",
+      "options": [
+        { "key": "A", "text": "Capital account" },
+        { "key": "B", "text": "Interest on loan account" },
+        { "key": "C", "text": "Cash account" },
+        { "key": "D", "text": "Bank account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "Which of the following is NOT a liability?",
+      "options": [
+        { "key": "A", "text": "Creditors" },
+        { "key": "B", "text": "Loan" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Bank overdraft" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 181,
+      "question": "Which account is credited when cash is received from a debtor?",
+      "options": [
+        { "key": "A", "text": "Cash account" },
+        { "key": "B", "text": "Debtors account" },
+        { "key": "C", "text": "Sales account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "Which of the following shows net profit transferred?",
+      "options": [
+        { "key": "A", "text": "Capital account" },
+        { "key": "B", "text": "Expenses account" },
+        { "key": "C", "text": "Cash book" },
+        { "key": "D", "text": "Sales account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 183,
+      "question": "Which account records prepaid expenses?",
+      "options": [
+        { "key": "A", "text": "Expenses account" },
+        { "key": "B", "text": "Prepaid expenses account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Income account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Which item appears on the debit side of the cash book?",
+      "options": [
+        { "key": "A", "text": "Cash paid" },
+        { "key": "B", "text": "Cash received" },
+        { "key": "C", "text": "Returns outward" },
+        { "key": "D", "text": "Discount allowed" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 185,
+      "question": "Which of the following increases expenses?",
+      "options": [
+        { "key": "A", "text": "Rent paid" },
+        { "key": "B", "text": "Sales" },
+        { "key": "C", "text": "Capital introduced" },
+        { "key": "D", "text": "Commission received" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 186,
+      "question": "Which account shows goods returned by customers?",
+      "options": [
+        { "key": "A", "text": "Returns outward" },
+        { "key": "B", "text": "Returns inward" },
+        { "key": "C", "text": "Purchases" },
+        { "key": "D", "text": "Sales" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 187,
+      "question": "Which of the following is a source document?",
+      "options": [
+        { "key": "A", "text": "Ledger" },
+        { "key": "B", "text": "Trial balance" },
+        { "key": "C", "text": "Invoice" },
+        { "key": "D", "text": "Balance sheet" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 188,
+      "question": "Which account records owner’s withdrawals?",
+      "options": [
+        { "key": "A", "text": "Expenses account" },
+        { "key": "B", "text": "Drawings account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Cash account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 189,
+      "question": "Which of the following shows a firm's liquidity position?",
+      "options": [
+        { "key": "A", "text": "Profit and loss account" },
+        { "key": "B", "text": "Trading account" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Journal" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 190,
+      "question": "Which account is debited when expenses are paid?",
+      "options": [
+        { "key": "A", "text": "Expenses account" },
+        { "key": "B", "text": "Cash account" },
+        { "key": "C", "text": "Capital account" },
+        { "key": "D", "text": "Income account" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 191,
+      "question": "Which of the following is an example of income?",
+      "options": [
+        { "key": "A", "text": "Rent paid" },
+        { "key": "B", "text": "Commission received" },
+        { "key": "C", "text": "Drawings" },
+        { "key": "D", "text": "Purchase of assets" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 192,
+      "question": "Which concept ensures revenue is not overstated?",
+      "options": [
+        { "key": "A", "text": "Consistency" },
+        { "key": "B", "text": "Going concern" },
+        { "key": "C", "text": "Prudence" },
+        { "key": "D", "text": "Matching" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 193,
+      "question": "Which account records allowance for doubtful debts?",
+      "options": [
+        { "key": "A", "text": "Debtors account" },
+        { "key": "B", "text": "Provision for doubtful debts account" },
+        { "key": "C", "text": "Bad debts account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "Which item appears in the trading account?",
+      "options": [
+        { "key": "A", "text": "Salaries" },
+        { "key": "B", "text": "Rent" },
+        { "key": "C", "text": "Opening stock" },
+        { "key": "D", "text": "Commission received" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Which of the following is NOT a current asset?",
+      "options": [
+        { "key": "A", "text": "Cash" },
+        { "key": "B", "text": "Stock" },
+        { "key": "C", "text": "Debtors" },
+        { "key": "D", "text": "Motor vehicle" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 196,
+      "question": "Which account records interest received?",
+      "options": [
+        { "key": "A", "text": "Interest paid account" },
+        { "key": "B", "text": "Interest received account" },
+        { "key": "C", "text": "Bank account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "Which of the following is a fixed asset?",
+      "options": [
+        { "key": "A", "text": "Stock" },
+        { "key": "B", "text": "Debtors" },
+        { "key": "C", "text": "Machinery" },
+        { "key": "D", "text": "Cash" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 198,
+      "question": "Which account is credited when sales are made on credit?",
+      "options": [
+        { "key": "A", "text": "Sales account" },
+        { "key": "B", "text": "Debtors account" },
+        { "key": "C", "text": "Cash account" },
+        { "key": "D", "text": "Capital account" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 199,
+      "question": "Which item reduces owner's equity?",
+      "options": [
+        { "key": "A", "text": "Profit" },
+        { "key": "B", "text": "Capital introduced" },
+        { "key": "C", "text": "Drawings" },
+        { "key": "D", "text": "Income" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 200,
+      "question": "Which statement shows assets equal liabilities plus capital?",
+      "options": [
+        { "key": "A", "text": "Profit and loss account" },
+        { "key": "B", "text": "Trial balance" },
+        { "key": "C", "text": "Balance sheet" },
+        { "key": "D", "text": "Journal" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}   
