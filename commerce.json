@@ -3,7 +3,7 @@
     "exam": "UTME",
     "subject": "Commerce",
     "year": "General",
-    "time_minutes": 40,
+    "time_minutes": 205,
     "total_questions": 5,
     "instructions": "Answer all questions. Choose the option that best answers each question."
   },
@@ -62,6 +62,2246 @@
         { "key": "D", "text": "Retail trade" }
       ],
       "correct_answer": "C"
+    },
+
+    {
+      "id": 6,
+      "question": "Commerce can best be defined as the study of activities involved in the distribution of goods and services.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Not sure" },
+        { "key": "D", "text": "None of the above" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a branch of commerce?",
+      "options": [
+        { "key": "A", "text": "Manufacturing" },
+        { "key": "B", "text": "Agriculture" },
+        { "key": "C", "text": "Trade" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Trade is concerned with the buying and selling of goods and services.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Partially true" },
+        { "key": "D", "text": "Not applicable" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which type of trade involves buying and selling within the same country?",
+      "options": [
+        { "key": "A", "text": "Foreign trade" },
+        { "key": "B", "text": "Retail trade" },
+        { "key": "C", "text": "Domestic trade" },
+        { "key": "D", "text": "Import trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Import trade refers to the buying of goods from other countries.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Not defined" },
+        { "key": "D", "text": "None" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 11,
+      "question": "Which of the following is NOT an aid to trade?",
+      "options": [
+        { "key": "A", "text": "Banking" },
+        { "key": "B", "text": "Insurance" },
+        { "key": "C", "text": "Advertising" },
+        { "key": "D", "text": "Production" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 12,
+      "question": "Advertising mainly helps to create awareness of goods and services.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Sometimes" },
+        { "key": "D", "text": "Not sure" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Retailers sell goods in small quantities to final consumers.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Rarely" },
+        { "key": "D", "text": "Never" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an example of a retailer?",
+      "options": [
+        { "key": "A", "text": "Manufacturer" },
+        { "key": "B", "text": "Wholesaler" },
+        { "key": "C", "text": "Hawker" },
+        { "key": "D", "text": "Importer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Wholesalers buy goods directly from manufacturers.",
+      "options": [
+        { "key": "A", "text": "Always" },
+        { "key": "B", "text": "Sometimes" },
+        { "key": "C", "text": "Never" },
+        { "key": "D", "text": "Not sure" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 16,
+      "question": "Which document shows ownership of goods during transportation?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Bill of lading" },
+        { "key": "C", "text": "Receipt" },
+        { "key": "D", "text": "Waybill" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "The removal of trade restrictions among countries is known as",
+      "options": [
+        { "key": "A", "text": "Protectionism" },
+        { "key": "B", "text": "Free trade" },
+        { "key": "C", "text": "Tariff" },
+        { "key": "D", "text": "Quota" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a disadvantage of foreign trade?",
+      "options": [
+        { "key": "A", "text": "Availability of goods" },
+        { "key": "B", "text": "Foreign competition" },
+        { "key": "C", "text": "Specialization" },
+        { "key": "D", "text": "Wider market" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Insurance helps to spread business risks.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Not defined" },
+        { "key": "D", "text": "Uncertain" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following institutions provides long-term loans?",
+      "options": [
+        { "key": "A", "text": "Commercial banks" },
+        { "key": "B", "text": "Merchant banks" },
+        { "key": "C", "text": "Development banks" },
+        { "key": "D", "text": "Microfinance banks" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 21,
+      "question": "Trade between two countries is known as",
+      "options": [
+        { "key": "A", "text": "Retail trade" },
+        { "key": "B", "text": "Wholesale trade" },
+        { "key": "C", "text": "Foreign trade" },
+        { "key": "D", "text": "Domestic trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following facilitates payment in commerce?",
+      "options": [
+        { "key": "A", "text": "Transportation" },
+        { "key": "B", "text": "Insurance" },
+        { "key": "C", "text": "Banking" },
+        { "key": "D", "text": "Warehousing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Warehousing helps to store goods until they are needed.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Rarely" },
+        { "key": "D", "text": "Never" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is NOT a function of money?",
+      "options": [
+        { "key": "A", "text": "Medium of exchange" },
+        { "key": "B", "text": "Store of value" },
+        { "key": "C", "text": "Means of production" },
+        { "key": "D", "text": "Unit of account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which market deals with new issues of securities?",
+      "options": [
+        { "key": "A", "text": "Money market" },
+        { "key": "B", "text": "Capital market" },
+        { "key": "C", "text": "Commodity market" },
+        { "key": "D", "text": "Retail market" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 26,
+      "question": "Which of the following is a benefit of advertising?",
+      "options": [
+        { "key": "A", "text": "Increases cost" },
+        { "key": "B", "text": "Creates awareness" },
+        { "key": "C", "text": "Reduces demand" },
+        { "key": "D", "text": "Discourages buyers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "The final consumer buys goods for",
+      "options": [
+        { "key": "A", "text": "Resale" },
+        { "key": "B", "text": "Production" },
+        { "key": "C", "text": "Personal use" },
+        { "key": "D", "text": "Distribution" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "A cheque is mainly used for",
+      "options": [
+        { "key": "A", "text": "Cash payment" },
+        { "key": "B", "text": "Credit purchase" },
+        { "key": "C", "text": "Bank payment" },
+        { "key": "D", "text": "Insurance claim" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which type of insurance covers goods in transit?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Social insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following helps in price determination?",
+      "options": [
+        { "key": "A", "text": "Demand and supply" },
+        { "key": "B", "text": "Advertising only" },
+        { "key": "C", "text": "Insurance" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 31,
+      "question": "Which of the following encourages home industries?",
+      "options": [
+        { "key": "A", "text": "Free trade" },
+        { "key": "B", "text": "Dumping" },
+        { "key": "C", "text": "Protectionism" },
+        { "key": "D", "text": "Importation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "A wholesaler mainly sells to",
+      "options": [
+        { "key": "A", "text": "Consumers" },
+        { "key": "B", "text": "Retailers" },
+        { "key": "C", "text": "Farmers" },
+        { "key": "D", "text": "Government" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is a form of retail trade?",
+      "options": [
+        { "key": "A", "text": "Chain store" },
+        { "key": "B", "text": "Manufacturing" },
+        { "key": "C", "text": "Exporting" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Middlemen help to bridge the gap between producers and consumers.",
+      "options": [
+        { "key": "A", "text": "True" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Rarely" },
+        { "key": "D", "text": "Never" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following reduces business risks?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Insurance" },
+        { "key": "D", "text": "Warehousing" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 36,
+      "question": "The process of exchanging goods for goods is called",
+      "options": [
+        { "key": "A", "text": "Trade" },
+        { "key": "B", "text": "Barter" },
+        { "key": "C", "text": "Commerce" },
+        { "key": "D", "text": "Marketing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is NOT a characteristic of money?",
+      "options": [
+        { "key": "A", "text": "Durability" },
+        { "key": "B", "text": "Portability" },
+        { "key": "C", "text": "Bulkiness" },
+        { "key": "D", "text": "Acceptability" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Which sector produces raw materials?",
+      "options": [
+        { "key": "A", "text": "Secondary" },
+        { "key": "B", "text": "Tertiary" },
+        { "key": "C", "text": "Primary" },
+        { "key": "D", "text": "Commercial" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a service industry?",
+      "options": [
+        { "key": "A", "text": "Mining" },
+        { "key": "B", "text": "Farming" },
+        { "key": "C", "text": "Transportation" },
+        { "key": "D", "text": "Manufacturing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Which document acknowledges receipt of goods?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Receipt" },
+        { "key": "C", "text": "Quotation" },
+        { "key": "D", "text": "Bill of exchange" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "Which type of trade involves selling goods to other countries?",
+      "options": [
+        { "key": "A", "text": "Domestic trade" },
+        { "key": "B", "text": "Wholesale trade" },
+        { "key": "C", "text": "Export trade" },
+        { "key": "D", "text": "Retail trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a feature of large-scale retailing?",
+      "options": [
+        { "key": "A", "text": "Small capital" },
+        { "key": "B", "text": "Limited stock" },
+        { "key": "C", "text": "Self-service" },
+        { "key": "D", "text": "Personal contact" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "The Stock Exchange deals mainly in",
+      "options": [
+        { "key": "A", "text": "Goods" },
+        { "key": "B", "text": "Services" },
+        { "key": "C", "text": "Securities" },
+        { "key": "D", "text": "Foreign currencies" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following promotes international trade?",
+      "options": [
+        { "key": "A", "text": "Quota" },
+        { "key": "B", "text": "Tariff" },
+        { "key": "C", "text": "Free trade agreements" },
+        { "key": "D", "text": "Import ban" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Which factor determines the choice of transport?",
+      "options": [
+        { "key": "A", "text": "Distance" },
+        { "key": "B", "text": "Nature of goods" },
+        { "key": "C", "text": "Cost" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 46,
+      "question": "Which of the following is a benefit of specialization?",
+      "options": [
+        { "key": "A", "text": "Low output" },
+        { "key": "B", "text": "Higher efficiency" },
+        { "key": "C", "text": "Wastage of resources" },
+        { "key": "D", "text": "Unemployment" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which activity links producers to consumers?",
+      "options": [
+        { "key": "A", "text": "Production" },
+        { "key": "B", "text": "Consumption" },
+        { "key": "C", "text": "Commerce" },
+        { "key": "D", "text": "Manufacturing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is an example of e-commerce?",
+      "options": [
+        { "key": "A", "text": "Market trading" },
+        { "key": "B", "text": "Online shopping" },
+        { "key": "C", "text": "Door-to-door sales" },
+        { "key": "D", "text": "Roadside selling" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which institution controls money supply in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Commercial banks" },
+        { "key": "B", "text": "Central Bank of Nigeria" },
+        { "key": "C", "text": "Merchant banks" },
+        { "key": "D", "text": "Stock Exchange" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is a disadvantage of middlemen?",
+      "options": [
+        { "key": "A", "text": "Availability of goods" },
+        { "key": "B", "text": "Higher prices" },
+        { "key": "C", "text": "Risk bearing" },
+        { "key": "D", "text": "Market expansion" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 51,
+      "question": "Which of the following is a function of wholesalers?",
+      "options": [
+        { "key": "A", "text": "Breaking bulk" },
+        { "key": "B", "text": "Producing goods" },
+        { "key": "C", "text": "Consuming goods" },
+        { "key": "D", "text": "Advertising only" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Trade fairs are organized mainly to",
+      "options": [
+        { "key": "A", "text": "Sell goods directly" },
+        { "key": "B", "text": "Display goods" },
+        { "key": "C", "text": "Fix prices" },
+        { "key": "D", "text": "Restrict trade" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Which of the following is NOT a type of retailer?",
+      "options": [
+        { "key": "A", "text": "Departmental store" },
+        { "key": "B", "text": "Chain store" },
+        { "key": "C", "text": "Wholesaler" },
+        { "key": "D", "text": "Supermarket" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Which method of payment is safest for large transactions?",
+      "options": [
+        { "key": "A", "text": "Cash" },
+        { "key": "B", "text": "Cheque" },
+        { "key": "C", "text": "Electronic transfer" },
+        { "key": "D", "text": "Barter" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 55,
+      "question": "Commerce contributes to economic development by",
+      "options": [
+        { "key": "A", "text": "Reducing trade" },
+        { "key": "B", "text": "Encouraging production and exchange" },
+        { "key": "C", "text": "Discouraging specialization" },
+        { "key": "D", "text": "Limiting markets" }
+      ],
+      "correct_answer": "B"
+    },
+    
+    {
+      "id": 56,
+      "question": "Commerce is concerned mainly with",
+      "options": [
+        { "key": "A", "text": "Production of goods" },
+        { "key": "B", "text": "Distribution of goods and services" },
+        { "key": "C", "text": "Consumption of goods" },
+        { "key": "D", "text": "Manufacturing only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Which of the following is a major objective of commerce?",
+      "options": [
+        { "key": "A", "text": "Profit maximization" },
+        { "key": "B", "text": "Creation of scarcity" },
+        { "key": "C", "text": "Restriction of trade" },
+        { "key": "D", "text": "Elimination of middlemen" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Trade can be divided into",
+      "options": [
+        { "key": "A", "text": "Buying and selling" },
+        { "key": "B", "text": "Import and export" },
+        { "key": "C", "text": "Home trade and foreign trade" },
+        { "key": "D", "text": "Retail and import trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is an example of home trade?",
+      "options": [
+        { "key": "A", "text": "Importation of rice" },
+        { "key": "B", "text": "Export of cocoa" },
+        { "key": "C", "text": "Buying goods within Nigeria" },
+        { "key": "D", "text": "International shipping" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 60,
+      "question": "The movement of goods from producer to consumer is made possible by",
+      "options": [
+        { "key": "A", "text": "Manufacturing" },
+        { "key": "B", "text": "Commerce" },
+        { "key": "C", "text": "Mining" },
+        { "key": "D", "text": "Agriculture" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 61,
+      "question": "Which aid to trade provides capital for business activities?",
+      "options": [
+        { "key": "A", "text": "Insurance" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Banking" },
+        { "key": "D", "text": "Advertising" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "The primary function of advertising is to",
+      "options": [
+        { "key": "A", "text": "Reduce prices" },
+        { "key": "B", "text": "Create awareness" },
+        { "key": "C", "text": "Store goods" },
+        { "key": "D", "text": "Transport goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is NOT a form of retail trade?",
+      "options": [
+        { "key": "A", "text": "Supermarket" },
+        { "key": "B", "text": "Chain store" },
+        { "key": "C", "text": "Wholesaler" },
+        { "key": "D", "text": "Departmental store" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Retailers perform which of the following functions?",
+      "options": [
+        { "key": "A", "text": "Breaking bulk" },
+        { "key": "B", "text": "Manufacturing goods" },
+        { "key": "C", "text": "Exporting goods" },
+        { "key": "D", "text": "Mining raw materials" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Which trade involves buying goods from other countries?",
+      "options": [
+        { "key": "A", "text": "Domestic trade" },
+        { "key": "B", "text": "Retail trade" },
+        { "key": "C", "text": "Import trade" },
+        { "key": "D", "text": "Wholesale trade" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 66,
+      "question": "Which document is used to acknowledge goods returned?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Debit note" },
+        { "key": "C", "text": "Credit note" },
+        { "key": "D", "text": "Receipt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Which of the following is a disadvantage of foreign trade?",
+      "options": [
+        { "key": "A", "text": "Specialization" },
+        { "key": "B", "text": "Foreign competition" },
+        { "key": "C", "text": "Wider market" },
+        { "key": "D", "text": "Increased output" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Which type of insurance covers factory buildings?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Health insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following helps businesses to store goods?",
+      "options": [
+        { "key": "A", "text": "Warehousing" },
+        { "key": "B", "text": "Advertising" },
+        { "key": "C", "text": "Insurance" },
+        { "key": "D", "text": "Banking" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "A cheque is an instruction to",
+      "options": [
+        { "key": "A", "text": "Pay cash immediately" },
+        { "key": "B", "text": "Transfer ownership of goods" },
+        { "key": "C", "text": "A bank to pay a stated amount" },
+        { "key": "D", "text": "Insure goods" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 71,
+      "question": "Which market deals in short-term funds?",
+      "options": [
+        { "key": "A", "text": "Capital market" },
+        { "key": "B", "text": "Money market" },
+        { "key": "C", "text": "Commodity market" },
+        { "key": "D", "text": "Retail market" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Which of the following encourages specialization?",
+      "options": [
+        { "key": "A", "text": "Barter system" },
+        { "key": "B", "text": "Trade" },
+        { "key": "C", "text": "Subsistence farming" },
+        { "key": "D", "text": "Isolation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is NOT a function of wholesalers?",
+      "options": [
+        { "key": "A", "text": "Storage of goods" },
+        { "key": "B", "text": "Granting credit to retailers" },
+        { "key": "C", "text": "Selling in small quantities to consumers" },
+        { "key": "D", "text": "Price stabilization" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Which of the following determines demand?",
+      "options": [
+        { "key": "A", "text": "Price of goods" },
+        { "key": "B", "text": "Taste and fashion" },
+        { "key": "C", "text": "Income" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "Which type of trade involves wholesalers and retailers?",
+      "options": [
+        { "key": "A", "text": "Foreign trade" },
+        { "key": "B", "text": "Home trade" },
+        { "key": "C", "text": "Import trade" },
+        { "key": "D", "text": "Export trade" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "Which institution regulates banks in Nigeria?",
+      "options": [
+        { "key": "A", "text": "NDIC" },
+        { "key": "B", "text": "CBN" },
+        { "key": "C", "text": "SEC" },
+        { "key": "D", "text": "NSE" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Which of the following is an advantage of retail cooperatives?",
+      "options": [
+        { "key": "A", "text": "High prices" },
+        { "key": "B", "text": "Bulk purchasing" },
+        { "key": "C", "text": "Limited membership" },
+        { "key": "D", "text": "Restricted services" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "The ultimate aim of commerce is to",
+      "options": [
+        { "key": "A", "text": "Discourage production" },
+        { "key": "B", "text": "Satisfy human wants" },
+        { "key": "C", "text": "Limit exchange" },
+        { "key": "D", "text": "Create monopoly" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following is a feature of self-service stores?",
+      "options": [
+        { "key": "A", "text": "Personal selling" },
+        { "key": "B", "text": "Price bargaining" },
+        { "key": "C", "text": "Displayed price tags" },
+        { "key": "D", "text": "Door-to-door sales" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Which transport system is most suitable for bulky goods?",
+      "options": [
+        { "key": "A", "text": "Air" },
+        { "key": "B", "text": "Road" },
+        { "key": "C", "text": "Rail" },
+        { "key": "D", "text": "Courier" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 81,
+      "question": "Which form of business is owned by the government?",
+      "options": [
+        { "key": "A", "text": "Sole proprietorship" },
+        { "key": "B", "text": "Partnership" },
+        { "key": "C", "text": "Public corporation" },
+        { "key": "D", "text": "Co-operative" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "Which of the following is a means of promoting sales?",
+      "options": [
+        { "key": "A", "text": "Transportation" },
+        { "key": "B", "text": "Advertising" },
+        { "key": "C", "text": "Warehousing" },
+        { "key": "D", "text": "Insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Which document states prices of goods offered for sale?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Quotation" },
+        { "key": "C", "text": "Receipt" },
+        { "key": "D", "text": "Waybill" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Which of the following is a disadvantage of hawking?",
+      "options": [
+        { "key": "A", "text": "Low overhead cost" },
+        { "key": "B", "text": "High mobility" },
+        { "key": "C", "text": "Exposure to hazards" },
+        { "key": "D", "text": "Direct contact with customers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following helps to determine price?",
+      "options": [
+        { "key": "A", "text": "Demand" },
+        { "key": "B", "text": "Supply" },
+        { "key": "C", "text": "Government policy" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 86,
+      "question": "Which type of trade involves internet platforms?",
+      "options": [
+        { "key": "A", "text": "Wholesale trade" },
+        { "key": "B", "text": "Retail trade" },
+        { "key": "C", "text": "E-commerce" },
+        { "key": "D", "text": "Barter trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Which document is prepared by a buyer for returned goods?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Credit note" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Receipt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "Which of the following is a benefit of commerce to consumers?",
+      "options": [
+        { "key": "A", "text": "Scarcity of goods" },
+        { "key": "B", "text": "Availability of goods" },
+        { "key": "C", "text": "High prices" },
+        { "key": "D", "text": "Limited choice" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following represents ownership in a company?",
+      "options": [
+        { "key": "A", "text": "Debenture" },
+        { "key": "B", "text": "Bond" },
+        { "key": "C", "text": "Share" },
+        { "key": "D", "text": "Cheque" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is a function of the Central Bank?",
+      "options": [
+        { "key": "A", "text": "Issuing currency" },
+        { "key": "B", "text": "Retail banking" },
+        { "key": "C", "text": "Selling goods" },
+        { "key": "D", "text": "Granting personal loans" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 91,
+      "question": "Which of the following encourages import substitution?",
+      "options": [
+        { "key": "A", "text": "Free trade" },
+        { "key": "B", "text": "Tariff" },
+        { "key": "C", "text": "Dumping" },
+        { "key": "D", "text": "Globalization" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "The buying and selling of goods in large quantities is known as",
+      "options": [
+        { "key": "A", "text": "Retail trade" },
+        { "key": "B", "text": "Wholesale trade" },
+        { "key": "C", "text": "Foreign trade" },
+        { "key": "D", "text": "Home trade" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "Which market deals in long-term investment?",
+      "options": [
+        { "key": "A", "text": "Money market" },
+        { "key": "B", "text": "Capital market" },
+        { "key": "C", "text": "Retail market" },
+        { "key": "D", "text": "Local market" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following is an example of invisible trade?",
+      "options": [
+        { "key": "A", "text": "Export of oil" },
+        { "key": "B", "text": "Tourism" },
+        { "key": "C", "text": "Import of machines" },
+        { "key": "D", "text": "Sale of cocoa" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "Which of the following is a disadvantage of cheque payment?",
+      "options": [
+        { "key": "A", "text": "Risk of theft" },
+        { "key": "B", "text": "Delay in payment" },
+        { "key": "C", "text": "Ease of use" },
+        { "key": "D", "text": "Safety" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 96,
+      "question": "Which of the following best describes demand?",
+      "options": [
+        { "key": "A", "text": "Desire for goods only" },
+        { "key": "B", "text": "Ability to pay only" },
+        { "key": "C", "text": "Desire backed by ability to pay" },
+        { "key": "D", "text": "Need for goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 97,
+      "question": "Which of the following is a feature of sole proprietorship?",
+      "options": [
+        { "key": "A", "text": "Limited liability" },
+        { "key": "B", "text": "Separate legal entity" },
+        { "key": "C", "text": "Unlimited liability" },
+        { "key": "D", "text": "Many owners" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Which document shows details of goods sold on credit?",
+      "options": [
+        { "key": "A", "text": "Receipt" },
+        { "key": "B", "text": "Invoice" },
+        { "key": "C", "text": "Waybill" },
+        { "key": "D", "text": "Cheque" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following is an advantage of large-scale retailing?",
+      "options": [
+        { "key": "A", "text": "High prices" },
+        { "key": "B", "text": "Limited variety" },
+        { "key": "C", "text": "Economies of scale" },
+        { "key": "D", "text": "Personal selling" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Commerce helps producers by",
+      "options": [
+        { "key": "A", "text": "Providing raw materials" },
+        { "key": "B", "text": "Creating a market for goods" },
+        { "key": "C", "text": "Reducing output" },
+        { "key": "D", "text": "Eliminating profit" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 101,
+      "question": "Which of the following is NOT a feature of perfect competition?",
+      "options": [
+        { "key": "A", "text": "Many buyers and sellers" },
+        { "key": "B", "text": "Homogeneous products" },
+        { "key": "C", "text": "Price control by firms" },
+        { "key": "D", "text": "Free entry and exit" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 102,
+      "question": "The major purpose of warehousing is to",
+      "options": [
+        { "key": "A", "text": "Advertise goods" },
+        { "key": "B", "text": "Transport goods" },
+        { "key": "C", "text": "Store goods" },
+        { "key": "D", "text": "Finance trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Which factor affects consumer choice most?",
+      "options": [
+        { "key": "A", "text": "Weather" },
+        { "key": "B", "text": "Price" },
+        { "key": "C", "text": "Production method" },
+        { "key": "D", "text": "Government policy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following best promotes sales?",
+      "options": [
+        { "key": "A", "text": "High prices" },
+        { "key": "B", "text": "Poor packaging" },
+        { "key": "C", "text": "Good customer service" },
+        { "key": "D", "text": "Limited distribution" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Commerce plays an important role in national development by",
+      "options": [
+        { "key": "A", "text": "Reducing employment" },
+        { "key": "B", "text": "Promoting exchange and production" },
+        { "key": "C", "text": "Encouraging poverty" },
+        { "key": "D", "text": "Limiting markets" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 106,
+      "question": "Which of the following best explains exchange?",
+      "options": [
+        { "key": "A", "text": "Production of goods" },
+        { "key": "B", "text": "Transfer of goods for money" },
+        { "key": "C", "text": "Consumption of goods" },
+        { "key": "D", "text": "Manufacturing of goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Trade between Nigeria and Ghana is classified as",
+      "options": [
+        { "key": "A", "text": "Home trade" },
+        { "key": "B", "text": "Retail trade" },
+        { "key": "C", "text": "Foreign trade" },
+        { "key": "D", "text": "Internal trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "Which aid to trade covers risks of loss?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Insurance" },
+        { "key": "D", "text": "Warehousing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Retailers buy goods mainly from",
+      "options": [
+        { "key": "A", "text": "Consumers" },
+        { "key": "B", "text": "Manufacturers" },
+        { "key": "C", "text": "Wholesalers" },
+        { "key": "D", "text": "Agents only" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "The main function of a wholesaler is to",
+      "options": [
+        { "key": "A", "text": "Sell to final consumers" },
+        { "key": "B", "text": "Break bulk" },
+        { "key": "C", "text": "Produce goods" },
+        { "key": "D", "text": "Advertise goods" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 111,
+      "question": "Which type of trade involves buying and selling within a country?",
+      "options": [
+        { "key": "A", "text": "Foreign trade" },
+        { "key": "B", "text": "Import trade" },
+        { "key": "C", "text": "Home trade" },
+        { "key": "D", "text": "Export trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Which of the following is a function of banks?",
+      "options": [
+        { "key": "A", "text": "Storing goods" },
+        { "key": "B", "text": "Granting loans" },
+        { "key": "C", "text": "Selling goods" },
+        { "key": "D", "text": "Advertising products" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 113,
+      "question": "Which document is prepared by the seller to show goods sold?",
+      "options": [
+        { "key": "A", "text": "Receipt" },
+        { "key": "B", "text": "Invoice" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Credit note" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Which of the following is a form of invisible trade?",
+      "options": [
+        { "key": "A", "text": "Export of cocoa" },
+        { "key": "B", "text": "Import of machines" },
+        { "key": "C", "text": "Tourism services" },
+        { "key": "D", "text": "Sale of oil" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "Which of these is NOT a function of retailers?",
+      "options": [
+        { "key": "A", "text": "Providing information to consumers" },
+        { "key": "B", "text": "Selling in small quantities" },
+        { "key": "C", "text": "Producing goods" },
+        { "key": "D", "text": "After-sales service" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 116,
+      "question": "Which trade document shows goods returned by the buyer?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Receipt" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Quotation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "The major aim of advertising is to",
+      "options": [
+        { "key": "A", "text": "Store goods" },
+        { "key": "B", "text": "Transport goods" },
+        { "key": "C", "text": "Create awareness" },
+        { "key": "D", "text": "Insure goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 118,
+      "question": "Which market deals with long-term funds?",
+      "options": [
+        { "key": "A", "text": "Money market" },
+        { "key": "B", "text": "Commodity market" },
+        { "key": "C", "text": "Capital market" },
+        { "key": "D", "text": "Retail market" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "Which of the following promotes international trade?",
+      "options": [
+        { "key": "A", "text": "Tariffs" },
+        { "key": "B", "text": "Specialization" },
+        { "key": "C", "text": "Embargo" },
+        { "key": "D", "text": "Quota system" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Which institution controls monetary policy in Nigeria?",
+      "options": [
+        { "key": "A", "text": "SEC" },
+        { "key": "B", "text": "NSE" },
+        { "key": "C", "text": "CBN" },
+        { "key": "D", "text": "NDIC" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 121,
+      "question": "Which type of business organization is owned by one person?",
+      "options": [
+        { "key": "A", "text": "Partnership" },
+        { "key": "B", "text": "Co-operative society" },
+        { "key": "C", "text": "Sole proprietorship" },
+        { "key": "D", "text": "Public company" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "The risk borne by the owner alone is associated with",
+      "options": [
+        { "key": "A", "text": "Public companies" },
+        { "key": "B", "text": "Partnerships" },
+        { "key": "C", "text": "Sole proprietorship" },
+        { "key": "D", "text": "Co-operatives" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "Which of the following is a characteristic of partnership?",
+      "options": [
+        { "key": "A", "text": "Single ownership" },
+        { "key": "B", "text": "Limited liability" },
+        { "key": "C", "text": "Joint ownership" },
+        { "key": "D", "text": "Government ownership" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Which of the following is used to transfer money electronically?",
+      "options": [
+        { "key": "A", "text": "Cash" },
+        { "key": "B", "text": "Cheque" },
+        { "key": "C", "text": "E-payment" },
+        { "key": "D", "text": "Receipt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Which of these is a disadvantage of sole proprietorship?",
+      "options": [
+        { "key": "A", "text": "Quick decision making" },
+        { "key": "B", "text": "Unlimited liability" },
+        { "key": "C", "text": "Close customer contact" },
+        { "key": "D", "text": "Flexibility" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 126,
+      "question": "Which form of retailing involves selling from door to door?",
+      "options": [
+        { "key": "A", "text": "Mail order" },
+        { "key": "B", "text": "Hawking" },
+        { "key": "C", "text": "Supermarket" },
+        { "key": "D", "text": "Chain store" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "Which of the following is a benefit of warehousing?",
+      "options": [
+        { "key": "A", "text": "Encourages theft" },
+        { "key": "B", "text": "Creates time utility" },
+        { "key": "C", "text": "Increases scarcity" },
+        { "key": "D", "text": "Reduces production" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Which of the following helps to reduce business risks?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Insurance" },
+        { "key": "C", "text": "Transportation" },
+        { "key": "D", "text": "Trade" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 129,
+      "question": "Which of the following best explains demand?",
+      "options": [
+        { "key": "A", "text": "Need for goods" },
+        { "key": "B", "text": "Willingness to buy only" },
+        { "key": "C", "text": "Desire backed by ability to pay" },
+        { "key": "D", "text": "Availability of goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 130,
+      "question": "Which of the following affects supply?",
+      "options": [
+        { "key": "A", "text": "Price of goods" },
+        { "key": "B", "text": "Population" },
+        { "key": "C", "text": "Fashion" },
+        { "key": "D", "text": "Income" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 131,
+      "question": "Which of the following is a form of payment?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Cheque" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Quotation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Which of the following creates place utility?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Banking" },
+        { "key": "D", "text": "Insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "Which form of trade involves buying goods for resale?",
+      "options": [
+        { "key": "A", "text": "Production" },
+        { "key": "B", "text": "Trade" },
+        { "key": "C", "text": "Commerce" },
+        { "key": "D", "text": "Industry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "The buying and selling of goods in large quantities is called",
+      "options": [
+        { "key": "A", "text": "Retail trade" },
+        { "key": "B", "text": "Wholesale trade" },
+        { "key": "C", "text": "Foreign trade" },
+        { "key": "D", "text": "Internal trade" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 135,
+      "question": "Which of the following is a function of commerce?",
+      "options": [
+        { "key": "A", "text": "Mining raw materials" },
+        { "key": "B", "text": "Manufacturing goods" },
+        { "key": "C", "text": "Distribution of goods" },
+        { "key": "D", "text": "Farming" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 136,
+      "question": "Which of the following documents acknowledges payment?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Receipt" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Quotation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "Which institution regulates the Nigerian Stock Exchange?",
+      "options": [
+        { "key": "A", "text": "CBN" },
+        { "key": "B", "text": "SEC" },
+        { "key": "C", "text": "NDIC" },
+        { "key": "D", "text": "EFCC" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "Which of the following is a feature of self-service stores?",
+      "options": [
+        { "key": "A", "text": "Bargaining" },
+        { "key": "B", "text": "Fixed prices" },
+        { "key": "C", "text": "Credit sales" },
+        { "key": "D", "text": "Door-to-door selling" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 139,
+      "question": "Which of the following is a source of finance to businesses?",
+      "options": [
+        { "key": "A", "text": "Insurance" },
+        { "key": "B", "text": "Bank loan" },
+        { "key": "C", "text": "Advertising" },
+        { "key": "D", "text": "Warehousing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Which of the following best promotes foreign trade?",
+      "options": [
+        { "key": "A", "text": "Protectionism" },
+        { "key": "B", "text": "Specialization" },
+        { "key": "C", "text": "Tariffs" },
+        { "key": "D", "text": "Quota system" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 141,
+      "question": "Which of the following gives advice to businessmen?",
+      "options": [
+        { "key": "A", "text": "Bank" },
+        { "key": "B", "text": "Insurance company" },
+        { "key": "C", "text": "Chamber of commerce" },
+        { "key": "D", "text": "Retailer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 142,
+      "question": "Which type of insurance covers loss at sea?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Accident insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "Which of the following best describes supply?",
+      "options": [
+        { "key": "A", "text": "Goods available for sale at a price" },
+        { "key": "B", "text": "Goods demanded by consumers" },
+        { "key": "C", "text": "Need for goods" },
+        { "key": "D", "text": "Desire to consume" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "Which of the following is a disadvantage of installment buying?",
+      "options": [
+        { "key": "A", "text": "Immediate use of goods" },
+        { "key": "B", "text": "Higher total cost" },
+        { "key": "C", "text": "Flexible payment" },
+        { "key": "D", "text": "Convenience" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Which trade document is used to request price details?",
+      "options": [
+        { "key": "A", "text": "Receipt" },
+        { "key": "B", "text": "Quotation" },
+        { "key": "C", "text": "Invoice" },
+        { "key": "D", "text": "Waybill" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 146,
+      "question": "Which form of transport is fastest?",
+      "options": [
+        { "key": "A", "text": "Rail" },
+        { "key": "B", "text": "Road" },
+        { "key": "C", "text": "Air" },
+        { "key": "D", "text": "Sea" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Which of the following is a function of NDIC?",
+      "options": [
+        { "key": "A", "text": "Issuing currency" },
+        { "key": "B", "text": "Protecting bank customers" },
+        { "key": "C", "text": "Granting loans" },
+        { "key": "D", "text": "Advertising banks" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Which of the following is an advantage of foreign trade?",
+      "options": [
+        { "key": "A", "text": "Dumping" },
+        { "key": "B", "text": "Specialization" },
+        { "key": "C", "text": "Unemployment" },
+        { "key": "D", "text": "Trade imbalance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "Which of the following best describes a consumer?",
+      "options": [
+        { "key": "A", "text": "Producer of goods" },
+        { "key": "B", "text": "Final user of goods" },
+        { "key": "C", "text": "Middleman" },
+        { "key": "D", "text": "Wholesaler" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "Commerce contributes to employment by",
+      "options": [
+        { "key": "A", "text": "Discouraging production" },
+        { "key": "B", "text": "Creating jobs" },
+        { "key": "C", "text": "Increasing scarcity" },
+        { "key": "D", "text": "Reducing demand" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 151,
+      "question": "Which of the following best defines a market?",
+      "options": [
+        { "key": "A", "text": "A physical place only" },
+        { "key": "B", "text": "Buyers and sellers interaction" },
+        { "key": "C", "text": "A shop" },
+        { "key": "D", "text": "A warehouse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Which of the following increases demand?",
+      "options": [
+        { "key": "A", "text": "Increase in price" },
+        { "key": "B", "text": "Fall in income" },
+        { "key": "C", "text": "Increase in income" },
+        { "key": "D", "text": "Increase in taxes" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "Which of the following is NOT a form of money?",
+      "options": [
+        { "key": "A", "text": "Coins" },
+        { "key": "B", "text": "Notes" },
+        { "key": "C", "text": "Cheque" },
+        { "key": "D", "text": "Barter" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 154,
+      "question": "Which of the following best promotes customer loyalty?",
+      "options": [
+        { "key": "A", "text": "Poor service" },
+        { "key": "B", "text": "High prices" },
+        { "key": "C", "text": "Good customer service" },
+        { "key": "D", "text": "Limited goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 155,
+      "question": "Commerce helps the economy mainly by",
+      "options": [
+        { "key": "A", "text": "Restricting trade" },
+        { "key": "B", "text": "Facilitating exchange of goods and services" },
+        { "key": "C", "text": "Discouraging specialization" },
+        { "key": "D", "text": "Reducing consumption" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 156,
+      "question": "Commerce is concerned mainly with",
+      "options": [
+        { "key": "A", "text": "Production of goods" },
+        { "key": "B", "text": "Distribution of goods" },
+        { "key": "C", "text": "Extraction of raw materials" },
+        { "key": "D", "text": "Manufacturing processes" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 157,
+      "question": "Which activity completes production?",
+      "options": [
+        { "key": "A", "text": "Industry" },
+        { "key": "B", "text": "Advertising" },
+        { "key": "C", "text": "Commerce" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 158,
+      "question": "The movement of goods from producers to consumers is known as",
+      "options": [
+        { "key": "A", "text": "Production" },
+        { "key": "B", "text": "Consumption" },
+        { "key": "C", "text": "Distribution" },
+        { "key": "D", "text": "Specialization" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "Which of the following is an aid to trade?",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Banking" },
+        { "key": "C", "text": "Manufacturing" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Buying goods from another country is known as",
+      "options": [
+        { "key": "A", "text": "Export" },
+        { "key": "B", "text": "Import" },
+        { "key": "C", "text": "Re-export" },
+        { "key": "D", "text": "Entrepot trade" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 161,
+      "question": "Which document is issued by a buyer when goods are returned?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Receipt" },
+        { "key": "C", "text": "Debit note" },
+        { "key": "D", "text": "Credit note" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "Which of the following creates ownership utility?",
+      "options": [
+        { "key": "A", "text": "Transportation" },
+        { "key": "B", "text": "Warehousing" },
+        { "key": "C", "text": "Trade" },
+        { "key": "D", "text": "Insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 163,
+      "question": "Which is NOT a function of wholesalers?",
+      "options": [
+        { "key": "A", "text": "Bulk breaking" },
+        { "key": "B", "text": "Granting credit to retailers" },
+        { "key": "C", "text": "Selling directly to consumers" },
+        { "key": "D", "text": "Warehousing goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "The major function of insurance is to",
+      "options": [
+        { "key": "A", "text": "Prevent risks" },
+        { "key": "B", "text": "Eliminate loss" },
+        { "key": "C", "text": "Transfer risks" },
+        { "key": "D", "text": "Increase profit" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "Which trade involves buying and selling within a country?",
+      "options": [
+        { "key": "A", "text": "Foreign trade" },
+        { "key": "B", "text": "External trade" },
+        { "key": "C", "text": "Home trade" },
+        { "key": "D", "text": "Bilateral trade" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 166,
+      "question": "Which of the following is a function of the Central Bank?",
+      "options": [
+        { "key": "A", "text": "Accepting deposits from the public" },
+        { "key": "B", "text": "Issuing currency" },
+        { "key": "C", "text": "Selling goods" },
+        { "key": "D", "text": "Insuring goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "A business organization owned by shareholders is called",
+      "options": [
+        { "key": "A", "text": "Partnership" },
+        { "key": "B", "text": "Sole proprietorship" },
+        { "key": "C", "text": "Limited liability company" },
+        { "key": "D", "text": "Co-operative society" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 168,
+      "question": "Which of the following is an advantage of multiple shops?",
+      "options": [
+        { "key": "A", "text": "High prices" },
+        { "key": "B", "text": "Uniform prices" },
+        { "key": "C", "text": "Limited branches" },
+        { "key": "D", "text": "Poor management" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "Which market deals with short-term funds?",
+      "options": [
+        { "key": "A", "text": "Capital market" },
+        { "key": "B", "text": "Money market" },
+        { "key": "C", "text": "Commodity market" },
+        { "key": "D", "text": "Foreign exchange market" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 170,
+      "question": "Which of the following is a disadvantage of foreign trade?",
+      "options": [
+        { "key": "A", "text": "Specialization" },
+        { "key": "B", "text": "Dumping" },
+        { "key": "C", "text": "Increased employment" },
+        { "key": "D", "text": "Wider market" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 171,
+      "question": "Which document accompanies goods during transportation?",
+      "options": [
+        { "key": "A", "text": "Invoice" },
+        { "key": "B", "text": "Waybill" },
+        { "key": "C", "text": "Receipt" },
+        { "key": "D", "text": "Quotation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Which of the following best describes specialization?",
+      "options": [
+        { "key": "A", "text": "Producing all goods" },
+        { "key": "B", "text": "Concentrating on one type of work" },
+        { "key": "C", "text": "Buying goods in bulk" },
+        { "key": "D", "text": "Trading with other countries" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "Which activity creates time utility?",
+      "options": [
+        { "key": "A", "text": "Transportation" },
+        { "key": "B", "text": "Warehousing" },
+        { "key": "C", "text": "Advertising" },
+        { "key": "D", "text": "Trade" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Which of these is a characteristic of a co-operative society?",
+      "options": [
+        { "key": "A", "text": "Profit maximization" },
+        { "key": "B", "text": "Single ownership" },
+        { "key": "C", "text": "Democratic control" },
+        { "key": "D", "text": "Unlimited liability" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Which type of insurance covers loss by fire?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Accident insurance" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 176,
+      "question": "Which factor affects demand directly?",
+      "options": [
+        { "key": "A", "text": "Weather" },
+        { "key": "B", "text": "Price of goods" },
+        { "key": "C", "text": "Technology" },
+        { "key": "D", "text": "Cost of production" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 177,
+      "question": "Which of the following is a form of internal trade?",
+      "options": [
+        { "key": "A", "text": "Import trade" },
+        { "key": "B", "text": "Export trade" },
+        { "key": "C", "text": "Retail trade" },
+        { "key": "D", "text": "Entrepot trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 178,
+      "question": "Which of the following is NOT money?",
+      "options": [
+        { "key": "A", "text": "Currency note" },
+        { "key": "B", "text": "Coin" },
+        { "key": "C", "text": "Cheque" },
+        { "key": "D", "text": "Barter" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 179,
+      "question": "Which institution protects depositors in Nigeria?",
+      "options": [
+        { "key": "A", "text": "CBN" },
+        { "key": "B", "text": "SEC" },
+        { "key": "C", "text": "NDIC" },
+        { "key": "D", "text": "NSE" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 180,
+      "question": "Which of the following encourages sales most?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Warehousing" },
+        { "key": "C", "text": "Insurance" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 181,
+      "question": "Which of the following is a reward for labour?",
+      "options": [
+        { "key": "A", "text": "Rent" },
+        { "key": "B", "text": "Profit" },
+        { "key": "C", "text": "Wages" },
+        { "key": "D", "text": "Interest" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 182,
+      "question": "The buying and selling of shares takes place in the",
+      "options": [
+        { "key": "A", "text": "Money market" },
+        { "key": "B", "text": "Capital market" },
+        { "key": "C", "text": "Retail market" },
+        { "key": "D", "text": "Local market" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "Which of the following best describes inflation?",
+      "options": [
+        { "key": "A", "text": "Fall in prices" },
+        { "key": "B", "text": "Persistent rise in prices" },
+        { "key": "C", "text": "Increase in supply" },
+        { "key": "D", "text": "Decrease in money supply" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Which of the following is a function of retailers?",
+      "options": [
+        { "key": "A", "text": "Manufacturing goods" },
+        { "key": "B", "text": "Selling in small quantities" },
+        { "key": "C", "text": "Granting loans" },
+        { "key": "D", "text": "Issuing currency" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 185,
+      "question": "Which of the following helps to stabilize prices?",
+      "options": [
+        { "key": "A", "text": "Hoarding" },
+        { "key": "B", "text": "Warehousing" },
+        { "key": "C", "text": "Dumping" },
+        { "key": "D", "text": "Speculation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 186,
+      "question": "Which of the following is an advantage of division of labour?",
+      "options": [
+        { "key": "A", "text": "Low productivity" },
+        { "key": "B", "text": "Waste of time" },
+        { "key": "C", "text": "Increased efficiency" },
+        { "key": "D", "text": "Monotony" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 187,
+      "question": "Which document shows details of goods supplied?",
+      "options": [
+        { "key": "A", "text": "Receipt" },
+        { "key": "B", "text": "Invoice" },
+        { "key": "C", "text": "Waybill" },
+        { "key": "D", "text": "Cheque" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "Which of the following encourages international trade?",
+      "options": [
+        { "key": "A", "text": "Trade barriers" },
+        { "key": "B", "text": "Protectionism" },
+        { "key": "C", "text": "Comparative advantage" },
+        { "key": "D", "text": "Embargo" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "Which of these is a service rendered by banks?",
+      "options": [
+        { "key": "A", "text": "Transportation" },
+        { "key": "B", "text": "Granting overdraft" },
+        { "key": "C", "text": "Warehousing" },
+        { "key": "D", "text": "Advertising" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 190,
+      "question": "Which of the following is a feature of money?",
+      "options": [
+        { "key": "A", "text": "Bulky" },
+        { "key": "B", "text": "Durable" },
+        { "key": "C", "text": "Perishable" },
+        { "key": "D", "text": "Fixed supply" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 191,
+      "question": "Which economic activity involves extracting raw materials?",
+      "options": [
+        { "key": "A", "text": "Primary production" },
+        { "key": "B", "text": "Secondary production" },
+        { "key": "C", "text": "Tertiary production" },
+        { "key": "D", "text": "Commerce" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 192,
+      "question": "Which factor influences consumers’ choice most?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Price" },
+        { "key": "C", "text": "Location" },
+        { "key": "D", "text": "Storage" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "Which organization promotes trade and industry?",
+      "options": [
+        { "key": "A", "text": "CBN" },
+        { "key": "B", "text": "Chamber of Commerce" },
+        { "key": "C", "text": "NDIC" },
+        { "key": "D", "text": "SEC" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "Which method of payment uses electronic means?",
+      "options": [
+        { "key": "A", "text": "Cash" },
+        { "key": "B", "text": "Cheque" },
+        { "key": "C", "text": "POS transfer" },
+        { "key": "D", "text": "Barter" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Which trade restriction limits quantity imported?",
+      "options": [
+        { "key": "A", "text": "Tariff" },
+        { "key": "B", "text": "Quota" },
+        { "key": "C", "text": "Subsidy" },
+        { "key": "D", "text": "Dumping" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 196,
+      "question": "Which factor of production earns interest?",
+      "options": [
+        { "key": "A", "text": "Labour" },
+        { "key": "B", "text": "Capital" },
+        { "key": "C", "text": "Land" },
+        { "key": "D", "text": "Entrepreneur" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "Which type of shop sells a wide variety of goods?",
+      "options": [
+        { "key": "A", "text": "Single shop" },
+        { "key": "B", "text": "Specialty shop" },
+        { "key": "C", "text": "Departmental store" },
+        { "key": "D", "text": "Kiosk" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 198,
+      "question": "Which of the following is a function of advertising?",
+      "options": [
+        { "key": "A", "text": "Risk bearing" },
+        { "key": "B", "text": "Creating awareness" },
+        { "key": "C", "text": "Storing goods" },
+        { "key": "D", "text": "Issuing loans" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "Which activity provides credit facilities?",
+      "options": [
+        { "key": "A", "text": "Insurance" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Banking" },
+        { "key": "D", "text": "Warehousing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 200,
+      "question": "Commerce improves standard of living by",
+      "options": [
+        { "key": "A", "text": "Restricting trade" },
+        { "key": "B", "text": "Making goods available" },
+        { "key": "C", "text": "Increasing hoarding" },
+        { "key": "D", "text": "Reducing production" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 201,
+      "question": "Which document shows agreement on price?",
+      "options": [
+        { "key": "A", "text": "Quotation" },
+        { "key": "B", "text": "Invoice" },
+        { "key": "C", "text": "Receipt" },
+        { "key": "D", "text": "Waybill" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 202,
+      "question": "Which transport is most suitable for heavy goods?",
+      "options": [
+        { "key": "A", "text": "Road" },
+        { "key": "B", "text": "Air" },
+        { "key": "C", "text": "Sea" },
+        { "key": "D", "text": "Pipeline" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 203,
+      "question": "Which of the following helps to reduce business risk?",
+      "options": [
+        { "key": "A", "text": "Trade" },
+        { "key": "B", "text": "Insurance" },
+        { "key": "C", "text": "Advertising" },
+        { "key": "D", "text": "Warehousing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 204,
+      "question": "Which of these encourages saving?",
+      "options": [
+        { "key": "A", "text": "Low income" },
+        { "key": "B", "text": "High inflation" },
+        { "key": "C", "text": "High interest rate" },
+        { "key": "D", "text": "High prices" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 205,
+      "question": "Which of the following best explains profit?",
+      "options": [
+        { "key": "A", "text": "Total revenue" },
+        { "key": "B", "text": "Total cost" },
+        { "key": "C", "text": "Revenue minus cost" },
+        { "key": "D", "text": "Selling price" }
+      ],
+      "correct_answer": "C"
     }
   ]
-}
+}  
