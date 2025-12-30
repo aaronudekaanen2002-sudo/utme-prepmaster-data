@@ -62,6 +62,2246 @@
         { "key": "D", "text": "goods consumed" }
       ],
       "correct_answer": "B"
+    },
+
+    {
+      "id": 6,
+      "question": "Economics is best defined as the study of",
+      "options": [
+        { "key": "A", "text": "wealth creation only" },
+        { "key": "B", "text": "scarcity and choice" },
+        { "key": "C", "text": "money and banking" },
+        { "key": "D", "text": "production alone" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following best explains scarcity?",
+      "options": [
+        { "key": "A", "text": "Unlimited wants and limited resources" },
+        { "key": "B", "text": "Low population growth" },
+        { "key": "C", "text": "High level of production" },
+        { "key": "D", "text": "Abundance of resources" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Opportunity cost is the",
+      "options": [
+        { "key": "A", "text": "cost of all alternatives" },
+        { "key": "B", "text": "monetary cost of production" },
+        { "key": "C", "text": "value of the next best alternative foregone" },
+        { "key": "D", "text": "profit from a decision" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a factor of production?",
+      "options": [
+        { "key": "A", "text": "Land" },
+        { "key": "B", "text": "Labour" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Money" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 10,
+      "question": "The reward for labour as a factor of production is",
+      "options": [
+        { "key": "A", "text": "rent" },
+        { "key": "B", "text": "interest" },
+        { "key": "C", "text": "profit" },
+        { "key": "D", "text": "wages" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 11,
+      "question": "Which economic system allows private ownership of resources?",
+      "options": [
+        { "key": "A", "text": "Socialism" },
+        { "key": "B", "text": "Capitalism" },
+        { "key": "C", "text": "Communism" },
+        { "key": "D", "text": "Traditional economy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Demand is said to be effective when it is backed by",
+      "options": [
+        { "key": "A", "text": "desire only" },
+        { "key": "B", "text": "money only" },
+        { "key": "C", "text": "ability and willingness to pay" },
+        { "key": "D", "text": "availability of goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following causes a rightward shift of the demand curve?",
+      "options": [
+        { "key": "A", "text": "Increase in price of the commodity" },
+        { "key": "B", "text": "Decrease in income" },
+        { "key": "C", "text": "Increase in consumers' income" },
+        { "key": "D", "text": "Increase in supply" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "The law of demand states that",
+      "options": [
+        { "key": "A", "text": "price and demand move in the same direction" },
+        { "key": "B", "text": "price and demand move inversely" },
+        { "key": "C", "text": "supply equals demand" },
+        { "key": "D", "text": "demand is constant" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Elasticity of demand measures the responsiveness of",
+      "options": [
+        { "key": "A", "text": "supply to price" },
+        { "key": "B", "text": "price to income" },
+        { "key": "C", "text": "quantity demanded to price" },
+        { "key": "D", "text": "demand to supply" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "When demand is perfectly elastic, the demand curve is",
+      "options": [
+        { "key": "A", "text": "vertical" },
+        { "key": "B", "text": "horizontal" },
+        { "key": "C", "text": "upward sloping" },
+        { "key": "D", "text": "downward sloping" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Supply refers to the quantity of goods that producers are",
+      "options": [
+        { "key": "A", "text": "willing and able to sell at a given price" },
+        { "key": "B", "text": "forced to sell" },
+        { "key": "C", "text": "able to produce" },
+        { "key": "D", "text": "willing to consume" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "The law of supply shows the relationship between",
+      "options": [
+        { "key": "A", "text": "income and price" },
+        { "key": "B", "text": "price and quantity supplied" },
+        { "key": "C", "text": "cost and revenue" },
+        { "key": "D", "text": "supply and demand" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following leads to an increase in supply?",
+      "options": [
+        { "key": "A", "text": "Increase in cost of production" },
+        { "key": "B", "text": "Improved technology" },
+        { "key": "C", "text": "Increase in taxes" },
+        { "key": "D", "text": "Decrease in subsidies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Equilibrium price is the price at which",
+      "options": [
+        { "key": "A", "text": "supply exceeds demand" },
+        { "key": "B", "text": "demand exceeds supply" },
+        { "key": "C", "text": "quantity demanded equals quantity supplied" },
+        { "key": "D", "text": "profit is maximized" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 21,
+      "question": "A situation where demand exceeds supply is known as",
+      "options": [
+        { "key": "A", "text": "surplus" },
+        { "key": "B", "text": "equilibrium" },
+        { "key": "C", "text": "shortage" },
+        { "key": "D", "text": "balance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Production involves the process of",
+      "options": [
+        { "key": "A", "text": "creating utility" },
+        { "key": "B", "text": "consumption" },
+        { "key": "C", "text": "wasting resources" },
+        { "key": "D", "text": "distribution only" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is a feature of large-scale production?",
+      "options": [
+        { "key": "A", "text": "Low output" },
+        { "key": "B", "text": "High cost per unit" },
+        { "key": "C", "text": "Economies of scale" },
+        { "key": "D", "text": "Limited capital" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Division of labour leads to",
+      "options": [
+        { "key": "A", "text": "low efficiency" },
+        { "key": "B", "text": "increase in productivity" },
+        { "key": "C", "text": "wastage of time" },
+        { "key": "D", "text": "decrease in output" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Labour is said to be mobile when workers can",
+      "options": [
+        { "key": "A", "text": "refuse work" },
+        { "key": "B", "text": "move from one job or place to another" },
+        { "key": "C", "text": "work extra hours" },
+        { "key": "D", "text": "earn high wages" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 26,
+      "question": "Capital as a factor of production refers to",
+      "options": [
+        { "key": "A", "text": "money only" },
+        { "key": "B", "text": "man-made productive assets" },
+        { "key": "C", "text": "natural resources" },
+        { "key": "D", "text": "entrepreneurial skills" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Entrepreneurship involves the function of",
+      "options": [
+        { "key": "A", "text": "bearing risks" },
+        { "key": "B", "text": "providing land" },
+        { "key": "C", "text": "supplying labour" },
+        { "key": "D", "text": "paying wages" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "The reward for entrepreneurship is",
+      "options": [
+        { "key": "A", "text": "wages" },
+        { "key": "B", "text": "rent" },
+        { "key": "C", "text": "interest" },
+        { "key": "D", "text": "profit" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following best describes inflation?",
+      "options": [
+        { "key": "A", "text": "Fall in general price level" },
+        { "key": "B", "text": "Rise in general price level" },
+        { "key": "C", "text": "Increase in production" },
+        { "key": "D", "text": "Decrease in money supply" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "One major effect of inflation is that it",
+      "options": [
+        { "key": "A", "text": "increases purchasing power" },
+        { "key": "B", "text": "reduces purchasing power" },
+        { "key": "C", "text": "eliminates poverty" },
+        { "key": "D", "text": "raises value of money" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 31,
+      "question": "Deflation is a situation where there is a",
+      "options": [
+        { "key": "A", "text": "general rise in prices" },
+        { "key": "B", "text": "general fall in prices" },
+        { "key": "C", "text": "shortage of goods" },
+        { "key": "D", "text": "boom in the economy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Unemployment occurs when people are",
+      "options": [
+        { "key": "A", "text": "unable to work" },
+        { "key": "B", "text": "not willing to work" },
+        { "key": "C", "text": "willing and able to work but cannot find jobs" },
+        { "key": "D", "text": "students" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which type of unemployment occurs due to lack of skills?",
+      "options": [
+        { "key": "A", "text": "Seasonal unemployment" },
+        { "key": "B", "text": "Structural unemployment" },
+        { "key": "C", "text": "Cyclical unemployment" },
+        { "key": "D", "text": "Frictional unemployment" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Money performs all the following functions EXCEPT",
+      "options": [
+        { "key": "A", "text": "medium of exchange" },
+        { "key": "B", "text": "unit of account" },
+        { "key": "C", "text": "store of value" },
+        { "key": "D", "text": "factor of production" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 35,
+      "question": "One disadvantage of barter system is lack of",
+      "options": [
+        { "key": "A", "text": "money" },
+        { "key": "B", "text": "double coincidence of wants" },
+        { "key": "C", "text": "goods" },
+        { "key": "D", "text": "services" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 36,
+      "question": "Public expenditure refers to expenditure made by",
+      "options": [
+        { "key": "A", "text": "households" },
+        { "key": "B", "text": "private firms" },
+        { "key": "C", "text": "government" },
+        { "key": "D", "text": "foreign bodies" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Tax imposed on income is known as",
+      "options": [
+        { "key": "A", "text": "excise duty" },
+        { "key": "B", "text": "customs duty" },
+        { "key": "C", "text": "income tax" },
+        { "key": "D", "text": "sales tax" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Indirect tax is a tax that is",
+      "options": [
+        { "key": "A", "text": "paid directly to government" },
+        { "key": "B", "text": "non-transferable" },
+        { "key": "C", "text": "shifted to another person" },
+        { "key": "D", "text": "paid by workers only" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Budget deficit occurs when government expenditure is",
+      "options": [
+        { "key": "A", "text": "equal to revenue" },
+        { "key": "B", "text": "less than revenue" },
+        { "key": "C", "text": "greater than revenue" },
+        { "key": "D", "text": "zero" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "National income measures the",
+      "options": [
+        { "key": "A", "text": "total income of individuals only" },
+        { "key": "B", "text": "total value of goods and services produced in a country" },
+        { "key": "C", "text": "money supply in the economy" },
+        { "key": "D", "text": "foreign exchange earnings" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "Gross Domestic Product (GDP) is the value of goods and services produced",
+      "options": [
+        { "key": "A", "text": "by citizens only" },
+        { "key": "B", "text": "within a country" },
+        { "key": "C", "text": "outside the country" },
+        { "key": "D", "text": "by government only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Per capita income is obtained by dividing national income by",
+      "options": [
+        { "key": "A", "text": "labour force" },
+        { "key": "B", "text": "number of industries" },
+        { "key": "C", "text": "population" },
+        { "key": "D", "text": "government revenue" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "One advantage of specialization is that it",
+      "options": [
+        { "key": "A", "text": "reduces efficiency" },
+        { "key": "B", "text": "encourages unemployment" },
+        { "key": "C", "text": "leads to higher output" },
+        { "key": "D", "text": "wastes resources" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "The primary sector of production is concerned with",
+      "options": [
+        { "key": "A", "text": "manufacturing" },
+        { "key": "B", "text": "trade" },
+        { "key": "C", "text": "extractive activities" },
+        { "key": "D", "text": "services" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is an example of tertiary production?",
+      "options": [
+        { "key": "A", "text": "Mining" },
+        { "key": "B", "text": "Fishing" },
+        { "key": "C", "text": "Manufacturing" },
+        { "key": "D", "text": "Banking" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 46,
+      "question": "Consumer goods are goods that are",
+      "options": [
+        { "key": "A", "text": "used for further production" },
+        { "key": "B", "text": "consumed directly" },
+        { "key": "C", "text": "exported only" },
+        { "key": "D", "text": "stored permanently" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "A monopoly market structure is characterized by",
+      "options": [
+        { "key": "A", "text": "many sellers" },
+        { "key": "B", "text": "free entry" },
+        { "key": "C", "text": "single seller" },
+        { "key": "D", "text": "homogeneous products" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Perfect competition assumes",
+      "options": [
+        { "key": "A", "text": "product differentiation" },
+        { "key": "B", "text": "many buyers and sellers" },
+        { "key": "C", "text": "price control by sellers" },
+        { "key": "D", "text": "barriers to entry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "A fall in price of a commodity will lead to",
+      "options": [
+        { "key": "A", "text": "decrease in quantity demanded" },
+        { "key": "B", "text": "increase in quantity demanded" },
+        { "key": "C", "text": "decrease in supply" },
+        { "key": "D", "text": "no change in demand" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "One major objective of government economic planning is to",
+      "options": [
+        { "key": "A", "text": "discourage production" },
+        { "key": "B", "text": "worsen income distribution" },
+        { "key": "C", "text": "promote economic development" },
+        { "key": "D", "text": "eliminate private ownership" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 51,
+      "question": "Economic growth refers to an increase in",
+      "options": [
+        { "key": "A", "text": "population only" },
+        { "key": "B", "text": "national output over time" },
+        { "key": "C", "text": "unemployment level" },
+        { "key": "D", "text": "cost of living" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Capital flight refers to",
+      "options": [
+        { "key": "A", "text": "movement of labour" },
+        { "key": "B", "text": "importation of goods" },
+        { "key": "C", "text": "movement of capital out of a country" },
+        { "key": "D", "text": "increase in exports" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Trade between two countries is known as",
+      "options": [
+        { "key": "A", "text": "internal trade" },
+        { "key": "B", "text": "retail trade" },
+        { "key": "C", "text": "foreign trade" },
+        { "key": "D", "text": "domestic trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Export trade involves",
+      "options": [
+        { "key": "A", "text": "buying goods from other countries" },
+        { "key": "B", "text": "selling goods to other countries" },
+        { "key": "C", "text": "buying and selling within a country" },
+        { "key": "D", "text": "storage of goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "The balance of trade compares",
+      "options": [
+        { "key": "A", "text": "exports and imports of visible goods" },
+        { "key": "B", "text": "population and income" },
+        { "key": "C", "text": "revenue and expenditure" },
+        { "key": "D", "text": "savings and investment" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 56,
+      "question": "Which of the following best describes an economic problem?",
+      "options": [
+        { "key": "A", "text": "Unlimited resources" },
+        { "key": "B", "text": "Unlimited wants" },
+        { "key": "C", "text": "Scarcity of resources" },
+        { "key": "D", "text": "Low income level" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "A scale of preference shows",
+      "options": [
+        { "key": "A", "text": "consumer income" },
+        { "key": "B", "text": "ranking of wants in order of importance" },
+        { "key": "C", "text": "prices of commodities" },
+        { "key": "D", "text": "goods produced in an economy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Which of the following is NOT an economic activity?",
+      "options": [
+        { "key": "A", "text": "Farming for sale" },
+        { "key": "B", "text": "Manufacturing goods" },
+        { "key": "C", "text": "Providing banking services" },
+        { "key": "D", "text": "Sleeping at home" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 59,
+      "question": "The main purpose of production is to",
+      "options": [
+        { "key": "A", "text": "maximize cost" },
+        { "key": "B", "text": "satisfy human wants" },
+        { "key": "C", "text": "reduce income" },
+        { "key": "D", "text": "limit consumption" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Which factor of production is fixed in supply?",
+      "options": [
+        { "key": "A", "text": "Labour" },
+        { "key": "B", "text": "Capital" },
+        { "key": "C", "text": "Land" },
+        { "key": "D", "text": "Entrepreneur" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 61,
+      "question": "The reward for land is known as",
+      "options": [
+        { "key": "A", "text": "profit" },
+        { "key": "B", "text": "interest" },
+        { "key": "C", "text": "wages" },
+        { "key": "D", "text": "rent" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is an example of variable capital?",
+      "options": [
+        { "key": "A", "text": "Factory building" },
+        { "key": "B", "text": "Machinery" },
+        { "key": "C", "text": "Raw materials" },
+        { "key": "D", "text": "Land" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Labour efficiency can be increased through",
+      "options": [
+        { "key": "A", "text": "illiteracy" },
+        { "key": "B", "text": "training and education" },
+        { "key": "C", "text": "poor working conditions" },
+        { "key": "D", "text": "low wages" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Demand for a commodity refers to the quantity",
+      "options": [
+        { "key": "A", "text": "supplied at a given price" },
+        { "key": "B", "text": "consumed at zero price" },
+        { "key": "C", "text": "buyers are willing and able to buy at a given price" },
+        { "key": "D", "text": "available in the market" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "A rise in the price of a commodity will normally lead to",
+      "options": [
+        { "key": "A", "text": "increase in demand" },
+        { "key": "B", "text": "decrease in quantity demanded" },
+        { "key": "C", "text": "shift of supply curve leftward" },
+        { "key": "D", "text": "increase in income" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 66,
+      "question": "Which of the following can cause an increase in demand?",
+      "options": [
+        { "key": "A", "text": "Decrease in population" },
+        { "key": "B", "text": "Increase in income" },
+        { "key": "C", "text": "Increase in price" },
+        { "key": "D", "text": "Decrease in taste" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "A commodity with many substitutes tends to have",
+      "options": [
+        { "key": "A", "text": "inelastic demand" },
+        { "key": "B", "text": "unitary elasticity" },
+        { "key": "C", "text": "perfectly inelastic demand" },
+        { "key": "D", "text": "elastic demand" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 68,
+      "question": "Supply is influenced by all EXCEPT",
+      "options": [
+        { "key": "A", "text": "technology" },
+        { "key": "B", "text": "cost of production" },
+        { "key": "C", "text": "price of the commodity" },
+        { "key": "D", "text": "consumer income" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 69,
+      "question": "When supply exceeds demand, the price will tend to",
+      "options": [
+        { "key": "A", "text": "rise" },
+        { "key": "B", "text": "remain constant" },
+        { "key": "C", "text": "fall" },
+        { "key": "D", "text": "be fixed by government" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following indicates equilibrium?",
+      "options": [
+        { "key": "A", "text": "Excess supply" },
+        { "key": "B", "text": "Excess demand" },
+        { "key": "C", "text": "Quantity demanded equals quantity supplied" },
+        { "key": "D", "text": "Government intervention" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 71,
+      "question": "Price control by government often results in",
+      "options": [
+        { "key": "A", "text": "efficient allocation" },
+        { "key": "B", "text": "shortage of goods" },
+        { "key": "C", "text": "increase in supply" },
+        { "key": "D", "text": "market equilibrium" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Which market structure has differentiated products?",
+      "options": [
+        { "key": "A", "text": "Perfect competition" },
+        { "key": "B", "text": "Monopoly" },
+        { "key": "C", "text": "Monopolistic competition" },
+        { "key": "D", "text": "Duopoly" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "The main objective of a firm is to",
+      "options": [
+        { "key": "A", "text": "maximize profit" },
+        { "key": "B", "text": "minimize output" },
+        { "key": "C", "text": "increase taxes" },
+        { "key": "D", "text": "reduce sales" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "Which of the following is a feature of monopoly?",
+      "options": [
+        { "key": "A", "text": "Many sellers" },
+        { "key": "B", "text": "Free entry" },
+        { "key": "C", "text": "Price taker" },
+        { "key": "D", "text": "Price maker" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "The total satisfaction derived from consuming goods is called",
+      "options": [
+        { "key": "A", "text": "marginal utility" },
+        { "key": "B", "text": "total utility" },
+        { "key": "C", "text": "average utility" },
+        { "key": "D", "text": "consumer surplus" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "Marginal utility refers to the",
+      "options": [
+        { "key": "A", "text": "total satisfaction" },
+        { "key": "B", "text": "additional satisfaction from extra unit consumed" },
+        { "key": "C", "text": "utility of first unit" },
+        { "key": "D", "text": "price of commodity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "The law of diminishing marginal utility states that",
+      "options": [
+        { "key": "A", "text": "utility increases continuously" },
+        { "key": "B", "text": "utility remains constant" },
+        { "key": "C", "text": "additional satisfaction declines as consumption increases" },
+        { "key": "D", "text": "price determines utility" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "Money is important in modern economies mainly because it",
+      "options": [
+        { "key": "A", "text": "increases scarcity" },
+        { "key": "B", "text": "encourages barter" },
+        { "key": "C", "text": "facilitates exchange" },
+        { "key": "D", "text": "eliminates production" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following is NOT a characteristic of money?",
+      "options": [
+        { "key": "A", "text": "Durability" },
+        { "key": "B", "text": "Acceptability" },
+        { "key": "C", "text": "Perishability" },
+        { "key": "D", "text": "Divisibility" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Inflation reduces the value of",
+      "options": [
+        { "key": "A", "text": "goods" },
+        { "key": "B", "text": "labour" },
+        { "key": "C", "text": "money" },
+        { "key": "D", "text": "land" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 81,
+      "question": "One cause of inflation is",
+      "options": [
+        { "key": "A", "text": "increase in money supply" },
+        { "key": "B", "text": "decrease in demand" },
+        { "key": "C", "text": "increase in output" },
+        { "key": "D", "text": "budget surplus" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Fiscal policy involves the use of",
+      "options": [
+        { "key": "A", "text": "interest rate and money supply" },
+        { "key": "B", "text": "taxation and government spending" },
+        { "key": "C", "text": "exchange rate only" },
+        { "key": "D", "text": "wages and salaries" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Monetary policy is controlled by",
+      "options": [
+        { "key": "A", "text": "commercial banks" },
+        { "key": "B", "text": "central bank" },
+        { "key": "C", "text": "ministry of education" },
+        { "key": "D", "text": "private firms" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Which of the following is a direct tax?",
+      "options": [
+        { "key": "A", "text": "Sales tax" },
+        { "key": "B", "text": "Customs duty" },
+        { "key": "C", "text": "Income tax" },
+        { "key": "D", "text": "Excise duty" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Population growth can lead to",
+      "options": [
+        { "key": "A", "text": "reduced labour supply" },
+        { "key": "B", "text": "increase in labour force" },
+        { "key": "C", "text": "fall in consumption" },
+        { "key": "D", "text": "decrease in production" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 86,
+      "question": "Overpopulation occurs when",
+      "options": [
+        { "key": "A", "text": "resources exceed population" },
+        { "key": "B", "text": "population exceeds available resources" },
+        { "key": "C", "text": "birth rate is low" },
+        { "key": "D", "text": "death rate is high" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Economic development differs from growth because it includes",
+      "options": [
+        { "key": "A", "text": "increase in population only" },
+        { "key": "B", "text": "structural changes and improved living standards" },
+        { "key": "C", "text": "increase in price level" },
+        { "key": "D", "text": "foreign trade only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Balance of payments records",
+      "options": [
+        { "key": "A", "text": "domestic trade only" },
+        { "key": "B", "text": "all economic transactions with other countries" },
+        { "key": "C", "text": "exports only" },
+        { "key": "D", "text": "imports only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following promotes international trade?",
+      "options": [
+        { "key": "A", "text": "Protectionism" },
+        { "key": "B", "text": "Tariffs" },
+        { "key": "C", "text": "Specialization" },
+        { "key": "D", "text": "Import quotas" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "One benefit of international trade is that it",
+      "options": [
+        { "key": "A", "text": "reduces competition" },
+        { "key": "B", "text": "limits choice" },
+        { "key": "C", "text": "encourages specialization" },
+        { "key": "D", "text": "causes inflation" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 91,
+      "question": "The value of a country's currency relative to others is known as",
+      "options": [
+        { "key": "A", "text": "interest rate" },
+        { "key": "B", "text": "exchange rate" },
+        { "key": "C", "text": "inflation rate" },
+        { "key": "D", "text": "tax rate" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "A favourable balance of trade occurs when",
+      "options": [
+        { "key": "A", "text": "imports exceed exports" },
+        { "key": "B", "text": "exports equal imports" },
+        { "key": "C", "text": "exports exceed imports" },
+        { "key": "D", "text": "imports are zero" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following reduces unemployment?",
+      "options": [
+        { "key": "A", "text": "Economic recession" },
+        { "key": "B", "text": "Industrialization" },
+        { "key": "C", "text": "Population decline" },
+        { "key": "D", "text": "Inflation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "One major problem of developing countries is",
+      "options": [
+        { "key": "A", "text": "excess capital" },
+        { "key": "B", "text": "technological advancement" },
+        { "key": "C", "text": "low level of industrialization" },
+        { "key": "D", "text": "high income" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Human capital development involves investment in",
+      "options": [
+        { "key": "A", "text": "machinery" },
+        { "key": "B", "text": "education and health" },
+        { "key": "C", "text": "land" },
+        { "key": "D", "text": "buildings" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 96,
+      "question": "Which sector provides services?",
+      "options": [
+        { "key": "A", "text": "Primary sector" },
+        { "key": "B", "text": "Secondary sector" },
+        { "key": "C", "text": "Tertiary sector" },
+        { "key": "D", "text": "Extractive sector" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 97,
+      "question": "The Central Bank controls commercial banks through",
+      "options": [
+        { "key": "A", "text": "price fixing" },
+        { "key": "B", "text": "credit control measures" },
+        { "key": "C", "text": "export promotion" },
+        { "key": "D", "text": "subsidies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Which of the following is NOT a function of money?",
+      "options": [
+        { "key": "A", "text": "Medium of exchange" },
+        { "key": "B", "text": "Unit of account" },
+        { "key": "C", "text": "Standard of deferred payment" },
+        { "key": "D", "text": "Measure of scarcity" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 99,
+      "question": "Savings refers to income that is",
+      "options": [
+        { "key": "A", "text": "spent on consumption" },
+        { "key": "B", "text": "used for import" },
+        { "key": "C", "text": "set aside for future use" },
+        { "key": "D", "text": "taxed by government" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Investment involves the use of savings for",
+      "options": [
+        { "key": "A", "text": "consumption" },
+        { "key": "B", "text": "speculation only" },
+        { "key": "C", "text": "production of capital goods" },
+        { "key": "D", "text": "wasting resources" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 101,
+      "question": "Economic recession refers to a period of",
+      "options": [
+        { "key": "A", "text": "economic boom" },
+        { "key": "B", "text": "increase in output" },
+        { "key": "C", "text": "decline in economic activities" },
+        { "key": "D", "text": "stable prices" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 102,
+      "question": "Which of the following best describes capital?",
+      "options": [
+        { "key": "A", "text": "Natural resources" },
+        { "key": "B", "text": "Human effort" },
+        { "key": "C", "text": "Man-made productive assets" },
+        { "key": "D", "text": "Entrepreneurial ability" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Trade without the use of money is known as",
+      "options": [
+        { "key": "A", "text": "credit trade" },
+        { "key": "B", "text": "foreign trade" },
+        { "key": "C", "text": "barter trade" },
+        { "key": "D", "text": "retail trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following is a feature of capitalism?",
+      "options": [
+        { "key": "A", "text": "Government ownership of resources" },
+        { "key": "B", "text": "Private ownership of resources" },
+        { "key": "C", "text": "Central planning" },
+        { "key": "D", "text": "Equal distribution of income" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "The main aim of economic planning is to",
+      "options": [
+        { "key": "A", "text": "reduce production" },
+        { "key": "B", "text": "allocate resources efficiently" },
+        { "key": "C", "text": "discourage investment" },
+        { "key": "D", "text": "eliminate private sector" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 106,
+      "question": "Economics is best defined as the study of",
+      "options": [
+        { "key": "A", "text": "money and banks" },
+        { "key": "B", "text": "human behavior in relation to scarce resources" },
+        { "key": "C", "text": "government policies only" },
+        { "key": "D", "text": "wealth of nations" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Scarcity exists because",
+      "options": [
+        { "key": "A", "text": "resources are unlimited" },
+        { "key": "B", "text": "human wants are limited" },
+        { "key": "C", "text": "resources are limited relative to wants" },
+        { "key": "D", "text": "prices are high" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "The concept of opportunity cost refers to",
+      "options": [
+        { "key": "A", "text": "money cost" },
+        { "key": "B", "text": "cost of production" },
+        { "key": "C", "text": "next best alternative forgone" },
+        { "key": "D", "text": "total expenditure" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Which of the following is NOT a basic economic problem?",
+      "options": [
+        { "key": "A", "text": "What to produce" },
+        { "key": "B", "text": "How to produce" },
+        { "key": "C", "text": "For whom to produce" },
+        { "key": "D", "text": "Where to advertise" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 110,
+      "question": "Free goods are goods that are",
+      "options": [
+        { "key": "A", "text": "abundant and have no price" },
+        { "key": "B", "text": "scarce" },
+        { "key": "C", "text": "produced by firms" },
+        { "key": "D", "text": "sold in the market" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 111,
+      "question": "Which factor of production organizes other factors?",
+      "options": [
+        { "key": "A", "text": "Land" },
+        { "key": "B", "text": "Labour" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Entrepreneur" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 112,
+      "question": "The reward for labour is",
+      "options": [
+        { "key": "A", "text": "rent" },
+        { "key": "B", "text": "profit" },
+        { "key": "C", "text": "interest" },
+        { "key": "D", "text": "wages" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 113,
+      "question": "An increase in population will generally lead to",
+      "options": [
+        { "key": "A", "text": "reduced demand" },
+        { "key": "B", "text": "increased demand" },
+        { "key": "C", "text": "constant demand" },
+        { "key": "D", "text": "zero demand" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Demand curve slopes downward because of",
+      "options": [
+        { "key": "A", "text": "law of supply" },
+        { "key": "B", "text": "law of diminishing marginal utility" },
+        { "key": "C", "text": "scarcity" },
+        { "key": "D", "text": "inflation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Elastic demand means that",
+      "options": [
+        { "key": "A", "text": "quantity demanded responds greatly to price changes" },
+        { "key": "B", "text": "price does not affect demand" },
+        { "key": "C", "text": "supply is fixed" },
+        { "key": "D", "text": "demand is constant" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 116,
+      "question": "The equilibrium price is determined by",
+      "options": [
+        { "key": "A", "text": "government" },
+        { "key": "B", "text": "consumers" },
+        { "key": "C", "text": "interaction of demand and supply" },
+        { "key": "D", "text": "producers alone" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "A price ceiling may result in",
+      "options": [
+        { "key": "A", "text": "surplus" },
+        { "key": "B", "text": "shortage" },
+        { "key": "C", "text": "equilibrium" },
+        { "key": "D", "text": "high profit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Which market structure has a single seller?",
+      "options": [
+        { "key": "A", "text": "Perfect competition" },
+        { "key": "B", "text": "Oligopoly" },
+        { "key": "C", "text": "Monopolistic competition" },
+        { "key": "D", "text": "Monopoly" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 119,
+      "question": "Consumer surplus is the difference between",
+      "options": [
+        { "key": "A", "text": "price paid and cost" },
+        { "key": "B", "text": "total utility and total cost" },
+        { "key": "C", "text": "price willing to pay and price paid" },
+        { "key": "D", "text": "income and expenditure" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "Money serves as a unit of account because it",
+      "options": [
+        { "key": "A", "text": "stores value" },
+        { "key": "B", "text": "measures value of goods" },
+        { "key": "C", "text": "facilitates barter" },
+        { "key": "D", "text": "reduces scarcity" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 121,
+      "question": "Inflation benefits mainly",
+      "options": [
+        { "key": "A", "text": "creditors" },
+        { "key": "B", "text": "wage earners" },
+        { "key": "C", "text": "debtors" },
+        { "key": "D", "text": "pensioners" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "A regressive tax places a higher burden on",
+      "options": [
+        { "key": "A", "text": "the rich" },
+        { "key": "B", "text": "high-income earners" },
+        { "key": "C", "text": "low-income earners" },
+        { "key": "D", "text": "companies" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "The Central Bank acts as a banker to",
+      "options": [
+        { "key": "A", "text": "private individuals" },
+        { "key": "B", "text": "commercial banks" },
+        { "key": "C", "text": "foreign traders" },
+        { "key": "D", "text": "students" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 124,
+      "question": "Economic growth is measured by",
+      "options": [
+        { "key": "A", "text": "population size" },
+        { "key": "B", "text": "GDP increase" },
+        { "key": "C", "text": "inflation rate" },
+        { "key": "D", "text": "exchange rate" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "Division of labour leads to",
+      "options": [
+        { "key": "A", "text": "lower productivity" },
+        { "key": "B", "text": "wastage of time" },
+        { "key": "C", "text": "increase in efficiency" },
+        { "key": "D", "text": "unemployment" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 126,
+      "question": "Balance of trade refers to",
+      "options": [
+        { "key": "A", "text": "difference between total receipts and payments" },
+        { "key": "B", "text": "difference between exports and imports" },
+        { "key": "C", "text": "total exports" },
+        { "key": "D", "text": "total imports" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "One disadvantage of population growth is",
+      "options": [
+        { "key": "A", "text": "large labour force" },
+        { "key": "B", "text": "market expansion" },
+        { "key": "C", "text": "strain on resources" },
+        { "key": "D", "text": "economic development" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "Industrialization promotes development by",
+      "options": [
+        { "key": "A", "text": "reducing output" },
+        { "key": "B", "text": "increasing unemployment" },
+        { "key": "C", "text": "creating jobs" },
+        { "key": "D", "text": "increasing inflation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "The tertiary sector is concerned with",
+      "options": [
+        { "key": "A", "text": "farming" },
+        { "key": "B", "text": "mining" },
+        { "key": "C", "text": "manufacturing" },
+        { "key": "D", "text": "services" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 130,
+      "question": "A mixed economy is characterized by",
+      "options": [
+        { "key": "A", "text": "private ownership only" },
+        { "key": "B", "text": "government ownership only" },
+        { "key": "C", "text": "combination of private and public ownership" },
+        { "key": "D", "text": "absence of government" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 131,
+      "question": "Economic planning is necessary mainly to",
+      "options": [
+        { "key": "A", "text": "waste resources" },
+        { "key": "B", "text": "ensure efficient resource allocation" },
+        { "key": "C", "text": "reduce production" },
+        { "key": "D", "text": "increase imports" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Unemployment refers to people who",
+      "options": [
+        { "key": "A", "text": "are unwilling to work" },
+        { "key": "B", "text": "are unable to find jobs despite being willing and able to work" },
+        { "key": "C", "text": "are students" },
+        { "key": "D", "text": "are retired" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "One function of commercial banks is to",
+      "options": [
+        { "key": "A", "text": "print money" },
+        { "key": "B", "text": "accept deposits" },
+        { "key": "C", "text": "control inflation" },
+        { "key": "D", "text": "fix prices" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Specialization encourages",
+      "options": [
+        { "key": "A", "text": "low output" },
+        { "key": "B", "text": "inefficiency" },
+        { "key": "C", "text": "exchange" },
+        { "key": "D", "text": "scarcity" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Which tax is imposed on imported goods?",
+      "options": [
+        { "key": "A", "text": "Income tax" },
+        { "key": "B", "text": "Sales tax" },
+        { "key": "C", "text": "Customs duty" },
+        { "key": "D", "text": "Property tax" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 136,
+      "question": "A major aim of fiscal policy is to",
+      "options": [
+        { "key": "A", "text": "control population" },
+        { "key": "B", "text": "stabilize the economy" },
+        { "key": "C", "text": "increase exports only" },
+        { "key": "D", "text": "reduce labour force" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "Economic indicators include",
+      "options": [
+        { "key": "A", "text": "GDP and inflation" },
+        { "key": "B", "text": "weather and climate" },
+        { "key": "C", "text": "population only" },
+        { "key": "D", "text": "school enrollment" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 138,
+      "question": "Public goods are characterized by",
+      "options": [
+        { "key": "A", "text": "rival consumption" },
+        { "key": "B", "text": "excludability" },
+        { "key": "C", "text": "non-rivalry" },
+        { "key": "D", "text": "high prices" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "A planned economy relies mainly on",
+      "options": [
+        { "key": "A", "text": "market forces" },
+        { "key": "B", "text": "price mechanism" },
+        { "key": "C", "text": "government directives" },
+        { "key": "D", "text": "private firms" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 140,
+      "question": "Savings are important because they",
+      "options": [
+        { "key": "A", "text": "reduce consumption" },
+        { "key": "B", "text": "increase inflation" },
+        { "key": "C", "text": "provide funds for investment" },
+        { "key": "D", "text": "cause unemployment" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 141,
+      "question": "Which of the following increases national income?",
+      "options": [
+        { "key": "A", "text": "Smuggling" },
+        { "key": "B", "text": "Production of goods" },
+        { "key": "C", "text": "Inflation" },
+        { "key": "D", "text": "Currency depreciation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "An advantage of indirect tax is that it is",
+      "options": [
+        { "key": "A", "text": "hard to avoid" },
+        { "key": "B", "text": "progressive" },
+        { "key": "C", "text": "burdened on the rich only" },
+        { "key": "D", "text": "voluntary" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "Capital formation is encouraged by",
+      "options": [
+        { "key": "A", "text": "high consumption" },
+        { "key": "B", "text": "high savings" },
+        { "key": "C", "text": "population growth" },
+        { "key": "D", "text": "inflation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Which is a major function of the entrepreneur?",
+      "options": [
+        { "key": "A", "text": "Bearing risks" },
+        { "key": "B", "text": "Providing land" },
+        { "key": "C", "text": "Supplying labour" },
+        { "key": "D", "text": "Providing interest" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 145,
+      "question": "Economic efficiency is achieved when",
+      "options": [
+        { "key": "A", "text": "resources are wasted" },
+        { "key": "B", "text": "scarcity increases" },
+        { "key": "C", "text": "resources are optimally used" },
+        { "key": "D", "text": "government controls all prices" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 146,
+      "question": "Which is a consequence of inflation?",
+      "options": [
+        { "key": "A", "text": "Increase in purchasing power" },
+        { "key": "B", "text": "Stable prices" },
+        { "key": "C", "text": "Fall in real income" },
+        { "key": "D", "text": "Increase in savings" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Foreign exchange is earned mainly through",
+      "options": [
+        { "key": "A", "text": "imports" },
+        { "key": "B", "text": "exports" },
+        { "key": "C", "text": "population growth" },
+        { "key": "D", "text": "taxation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "The price mechanism answers the question",
+      "options": [
+        { "key": "A", "text": "how much to tax" },
+        { "key": "B", "text": "what, how and for whom to produce" },
+        { "key": "C", "text": "how to vote" },
+        { "key": "D", "text": "who to employ" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "The main purpose of insurance is to",
+      "options": [
+        { "key": "A", "text": "avoid risk" },
+        { "key": "B", "text": "eliminate losses" },
+        { "key": "C", "text": "spread risks" },
+        { "key": "D", "text": "increase profit" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "One role of government in an economy is to",
+      "options": [
+        { "key": "A", "text": "eliminate private sector" },
+        { "key": "B", "text": "provide public goods" },
+        { "key": "C", "text": "reduce employment" },
+        { "key": "D", "text": "stop production" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 151,
+      "question": "Which policy tool uses interest rate to control money supply?",
+      "options": [
+        { "key": "A", "text": "Fiscal policy" },
+        { "key": "B", "text": "Trade policy" },
+        { "key": "C", "text": "Monetary policy" },
+        { "key": "D", "text": "Wage policy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 152,
+      "question": "Economic instability is characterized by",
+      "options": [
+        { "key": "A", "text": "steady growth" },
+        { "key": "B", "text": "price stability" },
+        { "key": "C", "text": "fluctuations in economic activities" },
+        { "key": "D", "text": "balanced trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "An increase in technology will likely",
+      "options": [
+        { "key": "A", "text": "reduce supply" },
+        { "key": "B", "text": "increase cost of production" },
+        { "key": "C", "text": "shift supply curve rightward" },
+        { "key": "D", "text": "cause shortage" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "Economic welfare refers to",
+      "options": [
+        { "key": "A", "text": "level of taxation" },
+        { "key": "B", "text": "standard of living of people" },
+        { "key": "C", "text": "population size" },
+        { "key": "D", "text": "amount of exports" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Which of the following best promotes economic development?",
+      "options": [
+        { "key": "A", "text": "Low savings" },
+        { "key": "B", "text": "Political instability" },
+        { "key": "C", "text": "Investment in education" },
+        { "key": "D", "text": "High unemployment" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 156,
+      "question": "Which of the following best describes production?",
+      "options": [
+        { "key": "A", "text": "Creation of goods from nothing" },
+        { "key": "B", "text": "Exchange of goods" },
+        { "key": "C", "text": "Creation of utility" },
+        { "key": "D", "text": "Distribution of income" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "The law of demand assumes that",
+      "options": [
+        { "key": "A", "text": "price is constant" },
+        { "key": "B", "text": "income is constant" },
+        { "key": "C", "text": "other factors remain constant" },
+        { "key": "D", "text": "supply equals demand" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 158,
+      "question": "Which of the following is a determinant of demand?",
+      "options": [
+        { "key": "A", "text": "Technology" },
+        { "key": "B", "text": "Cost of production" },
+        { "key": "C", "text": "Consumer income" },
+        { "key": "D", "text": "Government ownership" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "An increase in supply with demand constant will result in",
+      "options": [
+        { "key": "A", "text": "higher price" },
+        { "key": "B", "text": "lower price" },
+        { "key": "C", "text": "shortage" },
+        { "key": "D", "text": "no change in price" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Which of the following goods is a substitute?",
+      "options": [
+        { "key": "A", "text": "Tea and sugar" },
+        { "key": "B", "text": "Pen and paper" },
+        { "key": "C", "text": "Butter and margarine" },
+        { "key": "D", "text": "Car and petrol" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 161,
+      "question": "Price elasticity of demand measures",
+      "options": [
+        { "key": "A", "text": "change in supply" },
+        { "key": "B", "text": "change in demand" },
+        { "key": "C", "text": "responsiveness of quantity demanded to price change" },
+        { "key": "D", "text": "cost of goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "Which factor can cause a shift in supply curve?",
+      "options": [
+        { "key": "A", "text": "Price of the commodity" },
+        { "key": "B", "text": "Technology" },
+        { "key": "C", "text": "Demand for the commodity" },
+        { "key": "D", "text": "Population size" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "Goods that satisfy the same want are called",
+      "options": [
+        { "key": "A", "text": "complements" },
+        { "key": "B", "text": "inferior goods" },
+        { "key": "C", "text": "substitutes" },
+        { "key": "D", "text": "normal goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "A shortage occurs when",
+      "options": [
+        { "key": "A", "text": "supply exceeds demand" },
+        { "key": "B", "text": "demand exceeds supply" },
+        { "key": "C", "text": "price is high" },
+        { "key": "D", "text": "cost is low" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "The main aim of a producer is to",
+      "options": [
+        { "key": "A", "text": "satisfy consumers" },
+        { "key": "B", "text": "maximize profit" },
+        { "key": "C", "text": "increase prices" },
+        { "key": "D", "text": "control the market" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 166,
+      "question": "Which cost increases as output increases?",
+      "options": [
+        { "key": "A", "text": "Fixed cost" },
+        { "key": "B", "text": "Average cost" },
+        { "key": "C", "text": "Variable cost" },
+        { "key": "D", "text": "Sunk cost" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 167,
+      "question": "Average cost is calculated as",
+      "options": [
+        { "key": "A", "text": "Total cost ÷ Quantity produced" },
+        { "key": "B", "text": "Fixed cost ÷ Output" },
+        { "key": "C", "text": "Variable cost × Output" },
+        { "key": "D", "text": "Profit ÷ Cost" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 168,
+      "question": "Perfect competition is characterized by",
+      "options": [
+        { "key": "A", "text": "one seller" },
+        { "key": "B", "text": "few sellers" },
+        { "key": "C", "text": "many buyers and sellers" },
+        { "key": "D", "text": "product differentiation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 169,
+      "question": "Monopolistic competition differs from perfect competition because of",
+      "options": [
+        { "key": "A", "text": "many sellers" },
+        { "key": "B", "text": "homogeneous products" },
+        { "key": "C", "text": "product differentiation" },
+        { "key": "D", "text": "free entry" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 170,
+      "question": "Oligopoly market is dominated by",
+      "options": [
+        { "key": "A", "text": "many small firms" },
+        { "key": "B", "text": "a single firm" },
+        { "key": "C", "text": "a few large firms" },
+        { "key": "D", "text": "government only" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 171,
+      "question": "Money as a medium of exchange eliminates",
+      "options": [
+        { "key": "A", "text": "inflation" },
+        { "key": "B", "text": "double coincidence of wants" },
+        { "key": "C", "text": "scarcity" },
+        { "key": "D", "text": "interest rate" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Which institution issues currency notes?",
+      "options": [
+        { "key": "A", "text": "Commercial bank" },
+        { "key": "B", "text": "Microfinance bank" },
+        { "key": "C", "text": "Central bank" },
+        { "key": "D", "text": "Ministry of finance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 173,
+      "question": "Credit creation is mainly a function of",
+      "options": [
+        { "key": "A", "text": "Central banks" },
+        { "key": "B", "text": "Commercial banks" },
+        { "key": "C", "text": "Insurance companies" },
+        { "key": "D", "text": "Stock exchange" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Which of the following is NOT a function of money?",
+      "options": [
+        { "key": "A", "text": "Medium of exchange" },
+        { "key": "B", "text": "Store of value" },
+        { "key": "C", "text": "Measure of satisfaction" },
+        { "key": "D", "text": "Unit of account" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Inflation caused by increase in money supply is",
+      "options": [
+        { "key": "A", "text": "cost-push inflation" },
+        { "key": "B", "text": "demand-pull inflation" },
+        { "key": "C", "text": "imported inflation" },
+        { "key": "D", "text": "creeping inflation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 176,
+      "question": "Which tax increases as income increases?",
+      "options": [
+        { "key": "A", "text": "Indirect tax" },
+        { "key": "B", "text": "Regressive tax" },
+        { "key": "C", "text": "Progressive tax" },
+        { "key": "D", "text": "Proportional tax" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "Government expenditure on roads and hospitals is",
+      "options": [
+        { "key": "A", "text": "recurrent expenditure" },
+        { "key": "B", "text": "capital expenditure" },
+        { "key": "C", "text": "private spending" },
+        { "key": "D", "text": "transfer payment" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 178,
+      "question": "National income can be measured using",
+      "options": [
+        { "key": "A", "text": "production approach" },
+        { "key": "B", "text": "income approach" },
+        { "key": "C", "text": "expenditure approach" },
+        { "key": "D", "text": "all of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 179,
+      "question": "Per capita income is obtained by",
+      "options": [
+        { "key": "A", "text": "GDP ÷ Population" },
+        { "key": "B", "text": "GDP × Population" },
+        { "key": "C", "text": "Population ÷ GDP" },
+        { "key": "D", "text": "Export ÷ Import" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 180,
+      "question": "Economic development differs from growth because it involves",
+      "options": [
+        { "key": "A", "text": "increase in output only" },
+        { "key": "B", "text": "improvement in standard of living" },
+        { "key": "C", "text": "population increase" },
+        { "key": "D", "text": "inflation control only" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 181,
+      "question": "Which of the following causes unemployment?",
+      "options": [
+        { "key": "A", "text": "Technological advancement" },
+        { "key": "B", "text": "Increase in investment" },
+        { "key": "C", "text": "Expansion of industries" },
+        { "key": "D", "text": "Increase in exports" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 182,
+      "question": "Brain drain refers to",
+      "options": [
+        { "key": "A", "text": "migration of skilled labour" },
+        { "key": "B", "text": "population explosion" },
+        { "key": "C", "text": "rural development" },
+        { "key": "D", "text": "urban renewal" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 183,
+      "question": "Which of the following promotes rural development?",
+      "options": [
+        { "key": "A", "text": "Provision of infrastructure" },
+        { "key": "B", "text": "Neglect of agriculture" },
+        { "key": "C", "text": "Urban migration" },
+        { "key": "D", "text": "Low investment" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 184,
+      "question": "Trade between two countries is called",
+      "options": [
+        { "key": "A", "text": "domestic trade" },
+        { "key": "B", "text": "internal trade" },
+        { "key": "C", "text": "foreign trade" },
+        { "key": "D", "text": "retail trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 185,
+      "question": "A favorable balance of trade occurs when",
+      "options": [
+        { "key": "A", "text": "imports exceed exports" },
+        { "key": "B", "text": "exports exceed imports" },
+        { "key": "C", "text": "exports equal imports" },
+        { "key": "D", "text": "imports are zero" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 186,
+      "question": "Terms of trade refers to",
+      "options": [
+        { "key": "A", "text": "ratio of exports to imports" },
+        { "key": "B", "text": "balance of payments" },
+        { "key": "C", "text": "foreign reserves" },
+        { "key": "D", "text": "exchange control" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 187,
+      "question": "Which policy restricts imports?",
+      "options": [
+        { "key": "A", "text": "Free trade policy" },
+        { "key": "B", "text": "Protectionism" },
+        { "key": "C", "text": "Fiscal expansion" },
+        { "key": "D", "text": "Monetary easing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "Quota is a policy that",
+      "options": [
+        { "key": "A", "text": "taxes imports" },
+        { "key": "B", "text": "limits quantity of imports" },
+        { "key": "C", "text": "encourages exports" },
+        { "key": "D", "text": "controls prices" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 189,
+      "question": "Exchange rate is the price of",
+      "options": [
+        { "key": "A", "text": "goods" },
+        { "key": "B", "text": "services" },
+        { "key": "C", "text": "foreign currency" },
+        { "key": "D", "text": "labour" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 190,
+      "question": "Devaluation makes exports",
+      "options": [
+        { "key": "A", "text": "more expensive" },
+        { "key": "B", "text": "cheaper" },
+        { "key": "C", "text": "unchanged" },
+        { "key": "D", "text": "illegal" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 191,
+      "question": "Which organization controls oil prices internationally?",
+      "options": [
+        { "key": "A", "text": "WTO" },
+        { "key": "B", "text": "IMF" },
+        { "key": "C", "text": "OPEC" },
+        { "key": "D", "text": "World Bank" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 192,
+      "question": "The World Bank mainly provides",
+      "options": [
+        { "key": "A", "text": "military aid" },
+        { "key": "B", "text": "development loans" },
+        { "key": "C", "text": "currency notes" },
+        { "key": "D", "text": "consumer goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "Which factor limits economic growth in developing countries?",
+      "options": [
+        { "key": "A", "text": "Adequate capital" },
+        { "key": "B", "text": "Poor infrastructure" },
+        { "key": "C", "text": "High savings" },
+        { "key": "D", "text": "Advanced technology" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "Human capital is developed through",
+      "options": [
+        { "key": "A", "text": "education and training" },
+        { "key": "B", "text": "importation of goods" },
+        { "key": "C", "text": "taxation" },
+        { "key": "D", "text": "price control" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 195,
+      "question": "Sustainable development emphasizes",
+      "options": [
+        { "key": "A", "text": "present consumption only" },
+        { "key": "B", "text": "environmental protection" },
+        { "key": "C", "text": "resource exploitation" },
+        { "key": "D", "text": "population growth" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 196,
+      "question": "Which of the following is a social problem?",
+      "options": [
+        { "key": "A", "text": "Inflation" },
+        { "key": "B", "text": "Unemployment" },
+        { "key": "C", "text": "Trade deficit" },
+        { "key": "D", "text": "Exchange rate" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "One effect of poverty is",
+      "options": [
+        { "key": "A", "text": "high productivity" },
+        { "key": "B", "text": "low standard of living" },
+        { "key": "C", "text": "high savings" },
+        { "key": "D", "text": "economic stability" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 198,
+      "question": "Which sector contributes most to Nigeria’s foreign exchange?",
+      "options": [
+        { "key": "A", "text": "Agriculture" },
+        { "key": "B", "text": "Manufacturing" },
+        { "key": "C", "text": "Oil and gas" },
+        { "key": "D", "text": "Tourism" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 199,
+      "question": "The main objective of privatization is to",
+      "options": [
+        { "key": "A", "text": "increase government control" },
+        { "key": "B", "text": "improve efficiency" },
+        { "key": "C", "text": "reduce employment" },
+        { "key": "D", "text": "increase public ownership" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "Subsidy is given mainly to",
+      "options": [
+        { "key": "A", "text": "increase prices" },
+        { "key": "B", "text": "encourage production or consumption" },
+        { "key": "C", "text": "reduce government spending" },
+        { "key": "D", "text": "discourage exports" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 201,
+      "question": "Which of the following improves income distribution?",
+      "options": [
+        { "key": "A", "text": "Progressive taxation" },
+        { "key": "B", "text": "Indirect taxation" },
+        { "key": "C", "text": "High inflation" },
+        { "key": "D", "text": "Unemployment" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 202,
+      "question": "An advantage of small-scale industries is that they",
+      "options": [
+        { "key": "A", "text": "require huge capital" },
+        { "key": "B", "text": "create employment" },
+        { "key": "C", "text": "monopolize markets" },
+        { "key": "D", "text": "increase imports" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 203,
+      "question": "Economic integration among countries encourages",
+      "options": [
+        { "key": "A", "text": "trade barriers" },
+        { "key": "B", "text": "free movement of goods" },
+        { "key": "C", "text": "currency devaluation" },
+        { "key": "D", "text": "inflation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 204,
+      "question": "Which of the following best measures welfare?",
+      "options": [
+        { "key": "A", "text": "Gross Domestic Product only" },
+        { "key": "B", "text": "Per capita income" },
+        { "key": "C", "text": "Inflation rate" },
+        { "key": "D", "text": "Export volume" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 205,
+      "question": "The major goal of economic development is to",
+      "options": [
+        { "key": "A", "text": "increase population" },
+        { "key": "B", "text": "improve living standards" },
+        { "key": "C", "text": "control prices" },
+        { "key": "D", "text": "increase imports" }
+      ],
+      "correct_answer": "B"
     }
   ]
 }
