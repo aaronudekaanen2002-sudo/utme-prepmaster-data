@@ -62,6 +62,2176 @@
         { "key": "D", "text": "Coulomb" }
       ],
       "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which instrument is used to measure electric current?",
+      "options": [
+        { "key": "A", "text": "Voltmeter" },
+        { "key": "B", "text": "Ammeter" },
+        { "key": "C", "text": "Ohmmeter" },
+        { "key": "D", "text": "Galvanometer" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "The SI unit of force is",
+      "options": [
+        { "key": "A", "text": "Joule" },
+        { "key": "B", "text": "Newton" },
+        { "key": "C", "text": "Watt" },
+        { "key": "D", "text": "Pascal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a scalar quantity?",
+      "options": [
+        { "key": "A", "text": "Velocity" },
+        { "key": "B", "text": "Force" },
+        { "key": "C", "text": "Acceleration" },
+        { "key": "D", "text": "Speed" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "The product of mass and velocity is known as",
+      "options": [
+        { "key": "A", "text": "Energy" },
+        { "key": "B", "text": "Momentum" },
+        { "key": "C", "text": "Force" },
+        { "key": "D", "text": "Power" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "What is the unit of electrical resistance?",
+      "options": [
+        { "key": "A", "text": "Volt" },
+        { "key": "B", "text": "Ampere" },
+        { "key": "C", "text": "Ohm" },
+        { "key": "D", "text": "Watt" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 11,
+      "question": "Heat is transferred from a hot body to a cold body by",
+      "options": [
+        { "key": "A", "text": "Conduction only" },
+        { "key": "B", "text": "Radiation only" },
+        { "key": "C", "text": "Convection only" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following waves does not require a material medium?",
+      "options": [
+        { "key": "A", "text": "Sound waves" },
+        { "key": "B", "text": "Water waves" },
+        { "key": "C", "text": "Light waves" },
+        { "key": "D", "text": "Seismic waves" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "The acceleration due to gravity on Earth is approximately",
+      "options": [
+        { "key": "A", "text": "8.9 m/s²" },
+        { "key": "B", "text": "9.8 m/s²" },
+        { "key": "C", "text": "10.8 m/s²" },
+        { "key": "D", "text": "12.0 m/s²" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which law states that the pressure of a gas is inversely proportional to its volume at constant temperature?",
+      "options": [
+        { "key": "A", "text": "Charles’ law" },
+        { "key": "B", "text": "Boyle’s law" },
+        { "key": "C", "text": "Graham’s law" },
+        { "key": "D", "text": "Avogadro’s law" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "The device used to convert mechanical energy to electrical energy is",
+      "options": [
+        { "key": "A", "text": "Motor" },
+        { "key": "B", "text": "Transformer" },
+        { "key": "C", "text": "Generator" },
+        { "key": "D", "text": "Battery" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "Which of the following has the highest refractive index?",
+      "options": [
+        { "key": "A", "text": "Air" },
+        { "key": "B", "text": "Water" },
+        { "key": "C", "text": "Glass" },
+        { "key": "D", "text": "Diamond" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "Electric power is measured in",
+      "options": [
+        { "key": "A", "text": "Joule" },
+        { "key": "B", "text": "Watt" },
+        { "key": "C", "text": "Ampere" },
+        { "key": "D", "text": "Volt" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "The tendency of a body to resist change in motion is called",
+      "options": [
+        { "key": "A", "text": "Force" },
+        { "key": "B", "text": "Energy" },
+        { "key": "C", "text": "Inertia" },
+        { "key": "D", "text": "Momentum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a unit of pressure?",
+      "options": [
+        { "key": "A", "text": "Newton" },
+        { "key": "B", "text": "Pascal" },
+        { "key": "C", "text": "Joule" },
+        { "key": "D", "text": "Watt" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "An echo is produced due to",
+      "options": [
+        { "key": "A", "text": "Refraction of sound" },
+        { "key": "B", "text": "Reflection of sound" },
+        { "key": "C", "text": "Diffraction of sound" },
+        { "key": "D", "text": "Interference of sound" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 21,
+      "question": "Which of the following particles has no electric charge?",
+      "options": [
+        { "key": "A", "text": "Proton" },
+        { "key": "B", "text": "Electron" },
+        { "key": "C", "text": "Neutron" },
+        { "key": "D", "text": "Ion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "The splitting of white light into its component colours is known as",
+      "options": [
+        { "key": "A", "text": "Diffraction" },
+        { "key": "B", "text": "Reflection" },
+        { "key": "C", "text": "Refraction" },
+        { "key": "D", "text": "Dispersion" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 23,
+      "question": "Which energy is possessed by a moving object?",
+      "options": [
+        { "key": "A", "text": "Potential energy" },
+        { "key": "B", "text": "Chemical energy" },
+        { "key": "C", "text": "Kinetic energy" },
+        { "key": "D", "text": "Electrical energy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "A body floats in water because",
+      "options": [
+        { "key": "A", "text": "Its mass is small" },
+        { "key": "B", "text": "Upthrust equals its weight" },
+        { "key": "C", "text": "Its density is high" },
+        { "key": "D", "text": "Its volume is large" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is an example of renewable energy?",
+      "options": [
+        { "key": "A", "text": "Coal" },
+        { "key": "B", "text": "Petroleum" },
+        { "key": "C", "text": "Solar energy" },
+        { "key": "D", "text": "Natural gas" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 26,
+      "question": "The function of a fuse in an electric circuit is to",
+      "options": [
+        { "key": "A", "text": "Increase voltage" },
+        { "key": "B", "text": "Reduce current" },
+        { "key": "C", "text": "Prevent overheating" },
+        { "key": "D", "text": "Store electricity" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        { "key": "A", "text": "Thermometer" },
+        { "key": "B", "text": "Barometer" },
+        { "key": "C", "text": "Hygrometer" },
+        { "key": "D", "text": "Manometer" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "The unit of frequency is",
+      "options": [
+        { "key": "A", "text": "Second" },
+        { "key": "B", "text": "Hertz" },
+        { "key": "C", "text": "Metre" },
+        { "key": "D", "text": "Newton" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Which colour has the shortest wavelength?",
+      "options": [
+        { "key": "A", "text": "Red" },
+        { "key": "B", "text": "Green" },
+        { "key": "C", "text": "Yellow" },
+        { "key": "D", "text": "Violet" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "What happens to resistance of a wire when temperature increases?",
+      "options": [
+        { "key": "A", "text": "Decreases" },
+        { "key": "B", "text": "Increases" },
+        { "key": "C", "text": "Becomes zero" },
+        { "key": "D", "text": "Remains constant" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 31,
+      "question": "Which principle explains the operation of a hydraulic press?",
+      "options": [
+        { "key": "A", "text": "Archimedes’ principle" },
+        { "key": "B", "text": "Bernoulli’s principle" },
+        { "key": "C", "text": "Pascal’s principle" },
+        { "key": "D", "text": "Hooke’s law" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "Sound travels fastest in",
+      "options": [
+        { "key": "A", "text": "Air" },
+        { "key": "B", "text": "Water" },
+        { "key": "C", "text": "Vacuum" },
+        { "key": "D", "text": "Steel" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is NOT a unit of energy?",
+      "options": [
+        { "key": "A", "text": "Joule" },
+        { "key": "B", "text": "Electron volt" },
+        { "key": "C", "text": "Watt" },
+        { "key": "D", "text": "Calorie" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "The bending of light as it passes from one medium to another is called",
+      "options": [
+        { "key": "A", "text": "Reflection" },
+        { "key": "B", "text": "Diffraction" },
+        { "key": "C", "text": "Refraction" },
+        { "key": "D", "text": "Dispersion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Which device converts electrical energy to sound energy?",
+      "options": [
+        { "key": "A", "text": "Generator" },
+        { "key": "B", "text": "Microphone" },
+        { "key": "C", "text": "Loudspeaker" },
+        { "key": "D", "text": "Transformer" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 36,
+      "question": "The unit of magnetic flux is",
+      "options": [
+        { "key": "A", "text": "Tesla" },
+        { "key": "B", "text": "Weber" },
+        { "key": "C", "text": "Henry" },
+        { "key": "D", "text": "Ampere" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "What type of lens is used to correct long-sightedness?",
+      "options": [
+        { "key": "A", "text": "Concave lens" },
+        { "key": "B", "text": "Convex lens" },
+        { "key": "C", "text": "Cylindrical lens" },
+        { "key": "D", "text": "Plane mirror" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following materials is a good conductor of electricity?",
+      "options": [
+        { "key": "A", "text": "Glass" },
+        { "key": "B", "text": "Rubber" },
+        { "key": "C", "text": "Copper" },
+        { "key": "D", "text": "Plastic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "The transfer of heat through a fluid is called",
+      "options": [
+        { "key": "A", "text": "Conduction" },
+        { "key": "B", "text": "Radiation" },
+        { "key": "C", "text": "Convection" },
+        { "key": "D", "text": "Evaporation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following quantities has both magnitude and direction?",
+      "options": [
+        { "key": "A", "text": "Speed" },
+        { "key": "B", "text": "Distance" },
+        { "key": "C", "text": "Velocity" },
+        { "key": "D", "text": "Mass" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 41,
+      "question": "The upward force exerted by a fluid on a body immersed in it is called",
+      "options": [
+        { "key": "A", "text": "Pressure" },
+        { "key": "B", "text": "Tension" },
+        { "key": "C", "text": "Upthrust" },
+        { "key": "D", "text": "Friction" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following waves is longitudinal?",
+      "options": [
+        { "key": "A", "text": "Light waves" },
+        { "key": "B", "text": "Water waves" },
+        { "key": "C", "text": "Sound waves" },
+        { "key": "D", "text": "Radio waves" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "The energy stored in a stretched spring is",
+      "options": [
+        { "key": "A", "text": "Chemical energy" },
+        { "key": "B", "text": "Kinetic energy" },
+        { "key": "C", "text": "Potential energy" },
+        { "key": "D", "text": "Electrical energy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which law explains why rockets move upward?",
+      "options": [
+        { "key": "A", "text": "First law of motion" },
+        { "key": "B", "text": "Second law of motion" },
+        { "key": "C", "text": "Third law of motion" },
+        { "key": "D", "text": "Law of gravitation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following determines the weight of an object?",
+      "options": [
+        { "key": "A", "text": "Mass only" },
+        { "key": "B", "text": "Gravitational field strength" },
+        { "key": "C", "text": "Mass and gravitational field strength" },
+        { "key": "D", "text": "Volume" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 46,
+      "question": "Which instrument is used to detect electric charge?",
+      "options": [
+        { "key": "A", "text": "Ammeter" },
+        { "key": "B", "text": "Voltmeter" },
+        { "key": "C", "text": "Electroscope" },
+        { "key": "D", "text": "Galvanometer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "The speed of light in vacuum is approximately",
+      "options": [
+        { "key": "A", "text": "3 × 10⁶ m/s" },
+        { "key": "B", "text": "3 × 10⁸ m/s" },
+        { "key": "C", "text": "3 × 10¹⁰ m/s" },
+        { "key": "D", "text": "3 × 10⁴ m/s" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following quantities is conserved in all collisions?",
+      "options": [
+        { "key": "A", "text": "Kinetic energy" },
+        { "key": "B", "text": "Velocity" },
+        { "key": "C", "text": "Momentum" },
+        { "key": "D", "text": "Force" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "The loudness of sound depends on",
+      "options": [
+        { "key": "A", "text": "Frequency" },
+        { "key": "B", "text": "Amplitude" },
+        { "key": "C", "text": "Wavelength" },
+        { "key": "D", "text": "Speed" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which device is used to step up or step down voltage?",
+      "options": [
+        { "key": "A", "text": "Generator" },
+        { "key": "B", "text": "Motor" },
+        { "key": "C", "text": "Transformer" },
+        { "key": "D", "text": "Battery" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "The main source of energy for life on Earth is",
+      "options": [
+        { "key": "A", "text": "Moon" },
+        { "key": "B", "text": "Sun" },
+        { "key": "C", "text": "Wind" },
+        { "key": "D", "text": "Water" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "What is the unit of capacitance?",
+      "options": [
+        { "key": "A", "text": "Farad" },
+        { "key": "B", "text": "Henry" },
+        { "key": "C", "text": "Ohm" },
+        { "key": "D", "text": "Tesla" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which phenomenon explains the bending of waves around obstacles?",
+      "options": [
+        { "key": "A", "text": "Diffraction" },
+        { "key": "B", "text": "Reflection" },
+        { "key": "C", "text": "Refraction" },
+        { "key": "D", "text": "Dispersion" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Which of the following devices stores electric charge?",
+      "options": [
+        { "key": "A", "text": "Resistor" },
+        { "key": "B", "text": "Capacitor" },
+        { "key": "C", "text": "Inductor" },
+        { "key": "D", "text": "Fuse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Which form of energy is associated with sound?",
+      "options": [
+        { "key": "A", "text": "Mechanical energy" },
+        { "key": "B", "text": "Thermal energy" },
+        { "key": "C", "text": "Electrical energy" },
+        { "key": "D", "text": "Nuclear energy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "The resistance of a conductor depends on all EXCEPT",
+      "options": [
+        { "key": "A", "text": "Length" },
+        { "key": "B", "text": "Area of cross-section" },
+        { "key": "C", "text": "Material" },
+        { "key": "D", "text": "Shape of the conductor" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 57,
+      "question": "Which quantity is measured in coulombs?",
+      "options": [
+        { "key": "A", "text": "Current" },
+        { "key": "B", "text": "Charge" },
+        { "key": "C", "text": "Voltage" },
+        { "key": "D", "text": "Resistance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "The slope of a velocity-time graph represents",
+      "options": [
+        { "key": "A", "text": "Speed" },
+        { "key": "B", "text": "Distance" },
+        { "key": "C", "text": "Acceleration" },
+        { "key": "D", "text": "Displacement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is NOT a form of energy?",
+      "options": [
+        { "key": "A", "text": "Chemical" },
+        { "key": "B", "text": "Sound" },
+        { "key": "C", "text": "Mass" },
+        { "key": "D", "text": "Electrical" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 60,
+      "question": "The force that opposes motion between two surfaces in contact is",
+      "options": [
+        { "key": "A", "text": "Gravity" },
+        { "key": "B", "text": "Tension" },
+        { "key": "C", "text": "Friction" },
+        { "key": "D", "text": "Upthrust" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "Which instrument is used to measure temperature?",
+      "options": [
+        { "key": "A", "text": "Barometer" },
+        { "key": "B", "text": "Thermometer" },
+        { "key": "C", "text": "Hygrometer" },
+        { "key": "D", "text": "Manometer" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 62,
+      "question": "What type of mirror is used as a car side mirror?",
+      "options": [
+        { "key": "A", "text": "Plane mirror" },
+        { "key": "B", "text": "Concave mirror" },
+        { "key": "C", "text": "Convex mirror" },
+        { "key": "D", "text": "Parabolic mirror" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "The energy possessed by an object due to its position is called",
+      "options": [
+        { "key": "A", "text": "Kinetic energy" },
+        { "key": "B", "text": "Sound energy" },
+        { "key": "C", "text": "Potential energy" },
+        { "key": "D", "text": "Thermal energy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Which of the following affects the period of a simple pendulum?",
+      "options": [
+        { "key": "A", "text": "Mass of the bob" },
+        { "key": "B", "text": "Length of the string" },
+        { "key": "C", "text": "Colour of the bob" },
+        { "key": "D", "text": "Shape of the bob" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Which quantity is measured in joules?",
+      "options": [
+        { "key": "A", "text": "Power" },
+        { "key": "B", "text": "Energy" },
+        { "key": "C", "text": "Force" },
+        { "key": "D", "text": "Pressure" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "The SI unit of power is",
+      "options": [
+        { "key": "A", "text": "Joule" },
+        { "key": "B", "text": "Newton" },
+        { "key": "C", "text": "Watt" },
+        { "key": "D", "text": "Volt" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 67,
+      "question": "Which gas law relates volume and temperature at constant pressure?",
+      "options": [
+        { "key": "A", "text": "Boyle's law" },
+        { "key": "B", "text": "Charles' law" },
+        { "key": "C", "text": "Graham's law" },
+        { "key": "D", "text": "Avogadro's law" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "What happens to the pitch of a sound when frequency increases?",
+      "options": [
+        { "key": "A", "text": "Decreases" },
+        { "key": "B", "text": "Remains constant" },
+        { "key": "C", "text": "Increases" },
+        { "key": "D", "text": "Disappears" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "The unit of electric potential difference is",
+      "options": [
+        { "key": "A", "text": "Ampere" },
+        { "key": "B", "text": "Ohm" },
+        { "key": "C", "text": "Volt" },
+        { "key": "D", "text": "Watt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following materials is an insulator?",
+      "options": [
+        { "key": "A", "text": "Iron" },
+        { "key": "B", "text": "Copper" },
+        { "key": "C", "text": "Plastic" },
+        { "key": "D", "text": "Aluminium" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 71,
+      "question": "The bending of light around corners is known as",
+      "options": [
+        { "key": "A", "text": "Reflection" },
+        { "key": "B", "text": "Refraction" },
+        { "key": "C", "text": "Diffraction" },
+        { "key": "D", "text": "Dispersion" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 72,
+      "question": "Which instrument is used to measure wind speed?",
+      "options": [
+        { "key": "A", "text": "Barometer" },
+        { "key": "B", "text": "Anemometer" },
+        { "key": "C", "text": "Thermometer" },
+        { "key": "D", "text": "Hygrometer" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is a non-renewable energy source?",
+      "options": [
+        { "key": "A", "text": "Solar" },
+        { "key": "B", "text": "Wind" },
+        { "key": "C", "text": "Hydroelectric" },
+        { "key": "D", "text": "Coal" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "What is the unit of density?",
+      "options": [
+        { "key": "A", "text": "kg" },
+        { "key": "B", "text": "kg/m³" },
+        { "key": "C", "text": "m³/kg" },
+        { "key": "D", "text": "N/m²" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Which phenomenon explains rainbow formation?",
+      "options": [
+        { "key": "A", "text": "Diffraction only" },
+        { "key": "B", "text": "Reflection only" },
+        { "key": "C", "text": "Dispersion and refraction" },
+        { "key": "D", "text": "Interference" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 76,
+      "question": "The ability of a material to allow heat to pass through it is called",
+      "options": [
+        { "key": "A", "text": "Conductivity" },
+        { "key": "B", "text": "Radiation" },
+        { "key": "C", "text": "Absorption" },
+        { "key": "D", "text": "Transmission" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 77,
+      "question": "Which of the following quantities is a vector?",
+      "options": [
+        { "key": "A", "text": "Speed" },
+        { "key": "B", "text": "Distance" },
+        { "key": "C", "text": "Velocity" },
+        { "key": "D", "text": "Mass" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "The SI unit of force is",
+      "options": [
+        { "key": "A", "text": "Joule" },
+        { "key": "B", "text": "Newton" },
+        { "key": "C", "text": "Watt" },
+        { "key": "D", "text": "Pascal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Which principle explains the operation of a hydraulic press?",
+      "options": [
+        { "key": "A", "text": "Archimedes' principle" },
+        { "key": "B", "text": "Bernoulli's principle" },
+        { "key": "C", "text": "Pascal's principle" },
+        { "key": "D", "text": "Hooke's law" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "The resistance of a conductor depends on all EXCEPT",
+      "options": [
+        { "key": "A", "text": "Length" },
+        { "key": "B", "text": "Temperature" },
+        { "key": "C", "text": "Colour" },
+        { "key": "D", "text": "Cross-sectional area" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Which device converts electrical energy to mechanical energy?",
+      "options": [
+        { "key": "A", "text": "Generator" },
+        { "key": "B", "text": "Transformer" },
+        { "key": "C", "text": "Electric motor" },
+        { "key": "D", "text": "Rectifier" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 82,
+      "question": "The total opposition to alternating current is called",
+      "options": [
+        { "key": "A", "text": "Resistance" },
+        { "key": "B", "text": "Reactance" },
+        { "key": "C", "text": "Impedance" },
+        { "key": "D", "text": "Conductance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "Which part of the electromagnetic spectrum has the highest frequency?",
+      "options": [
+        { "key": "A", "text": "Infrared" },
+        { "key": "B", "text": "Ultraviolet" },
+        { "key": "C", "text": "X-rays" },
+        { "key": "D", "text": "Gamma rays" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 84,
+      "question": "The loudness of a sound depends on its",
+      "options": [
+        { "key": "A", "text": "Frequency" },
+        { "key": "B", "text": "Wavelength" },
+        { "key": "C", "text": "Amplitude" },
+        { "key": "D", "text": "Speed" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Which wave does not require a material medium?",
+      "options": [
+        { "key": "A", "text": "Sound wave" },
+        { "key": "B", "text": "Water wave" },
+        { "key": "C", "text": "Light wave" },
+        { "key": "D", "text": "Seismic wave" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 86,
+      "question": "The process by which heat travels through a vacuum is",
+      "options": [
+        { "key": "A", "text": "Conduction" },
+        { "key": "B", "text": "Convection" },
+        { "key": "C", "text": "Radiation" },
+        { "key": "D", "text": "Diffusion" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 87,
+      "question": "Which of the following is NOT a renewable source of energy?",
+      "options": [
+        { "key": "A", "text": "Wind" },
+        { "key": "B", "text": "Solar" },
+        { "key": "C", "text": "Biomass" },
+        { "key": "D", "text": "Petroleum" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 88,
+      "question": "The turning effect of a force is known as",
+      "options": [
+        { "key": "A", "text": "Momentum" },
+        { "key": "B", "text": "Torque" },
+        { "key": "C", "text": "Impulse" },
+        { "key": "D", "text": "Pressure" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Which law states that pressure in a fluid is transmitted equally in all directions?",
+      "options": [
+        { "key": "A", "text": "Boyle's law" },
+        { "key": "B", "text": "Charles' law" },
+        { "key": "C", "text": "Pascal's law" },
+        { "key": "D", "text": "Hooke's law" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "Which quantity remains constant in an ideal transformer?",
+      "options": [
+        { "key": "A", "text": "Current" },
+        { "key": "B", "text": "Voltage" },
+        { "key": "C", "text": "Power" },
+        { "key": "D", "text": "Resistance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "What happens to resistance as temperature increases in a metal?",
+      "options": [
+        { "key": "A", "text": "Decreases" },
+        { "key": "B", "text": "Increases" },
+        { "key": "C", "text": "Remains constant" },
+        { "key": "D", "text": "Becomes zero" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 92,
+      "question": "Which phenomenon explains the bending of light at the boundary of two media?",
+      "options": [
+        { "key": "A", "text": "Reflection" },
+        { "key": "B", "text": "Diffraction" },
+        { "key": "C", "text": "Refraction" },
+        { "key": "D", "text": "Interference" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "The unit of frequency is",
+      "options": [
+        { "key": "A", "text": "Metre" },
+        { "key": "B", "text": "Second" },
+        { "key": "C", "text": "Hertz" },
+        { "key": "D", "text": "Newton" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 94,
+      "question": "Which particle has no electric charge?",
+      "options": [
+        { "key": "A", "text": "Electron" },
+        { "key": "B", "text": "Proton" },
+        { "key": "C", "text": "Neutron" },
+        { "key": "D", "text": "Ion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Which device is used to convert alternating current to direct current?",
+      "options": [
+        { "key": "A", "text": "Transformer" },
+        { "key": "B", "text": "Rectifier" },
+        { "key": "C", "text": "Generator" },
+        { "key": "D", "text": "Capacitor" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "What happens to pressure when volume decreases at constant temperature?",
+      "options": [
+        { "key": "A", "text": "Decreases" },
+        { "key": "B", "text": "Increases" },
+        { "key": "C", "text": "Remains constant" },
+        { "key": "D", "text": "Becomes zero" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 97,
+      "question": "Which mirror is used in a torch?",
+      "options": [
+        { "key": "A", "text": "Plane mirror" },
+        { "key": "B", "text": "Concave mirror" },
+        { "key": "C", "text": "Convex mirror" },
+        { "key": "D", "text": "Cylindrical mirror" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "The ability of a body to do work is known as",
+      "options": [
+        { "key": "A", "text": "Power" },
+        { "key": "B", "text": "Force" },
+        { "key": "C", "text": "Energy" },
+        { "key": "D", "text": "Momentum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 99,
+      "question": "Which law states that extension is proportional to force?",
+      "options": [
+        { "key": "A", "text": "Newton's law" },
+        { "key": "B", "text": "Boyle's law" },
+        { "key": "C", "text": "Hooke's law" },
+        { "key": "D", "text": "Pascal's law" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Which instrument measures electric current?",
+      "options": [
+        { "key": "A", "text": "Voltmeter" },
+        { "key": "B", "text": "Ammeter" },
+        { "key": "C", "text": "Ohmmeter" },
+        { "key": "D", "text": "Galvanometer" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 101,
+      "question": "The main function of a fuse is to",
+      "options": [
+        { "key": "A", "text": "Increase voltage" },
+        { "key": "B", "text": "Store charge" },
+        { "key": "C", "text": "Protect circuits" },
+        { "key": "D", "text": "Reduce resistance" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 102,
+      "question": "A body of mass 2 kg moves with a velocity of 5 m/s. Calculate its kinetic energy.",
+      "options": [
+        { "key": "A", "text": "10 J" },
+        { "key": "B", "text": "20 J" },
+        { "key": "C", "text": "25 J" },
+        { "key": "D", "text": "50 J" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 103,
+      "question": "Calculate the pressure exerted by a force of 200 N on an area of 4 m².",
+      "options": [
+        { "key": "A", "text": "50 Pa" },
+        { "key": "B", "text": "100 Pa" },
+        { "key": "C", "text": "200 Pa" },
+        { "key": "D", "text": "800 Pa" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "A car travels 120 m in 6 s. Calculate its speed.",
+      "options": [
+        { "key": "A", "text": "10 m/s" },
+        { "key": "B", "text": "15 m/s" },
+        { "key": "C", "text": "20 m/s" },
+        { "key": "D", "text": "30 m/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Calculate the work done when a force of 10 N moves an object through a distance of 5 m.",
+      "options": [
+        { "key": "A", "text": "2 J" },
+        { "key": "B", "text": "15 J" },
+        { "key": "C", "text": "50 J" },
+        { "key": "D", "text": "100 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "Find the density of a substance with mass 500 kg and volume 2 m³.",
+      "options": [
+        { "key": "A", "text": "100 kg/m³" },
+        { "key": "B", "text": "250 kg/m³" },
+        { "key": "C", "text": "500 kg/m³" },
+        { "key": "D", "text": "1000 kg/m³" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 107,
+      "question": "A current of 2 A flows through a resistor of resistance 5 Ω. Calculate the voltage.",
+      "options": [
+        { "key": "A", "text": "2.5 V" },
+        { "key": "B", "text": "5 V" },
+        { "key": "C", "text": "10 V" },
+        { "key": "D", "text": "20 V" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "Calculate the power of an appliance that does 600 J of work in 3 s.",
+      "options": [
+        { "key": "A", "text": "100 W" },
+        { "key": "B", "text": "200 W" },
+        { "key": "C", "text": "300 W" },
+        { "key": "D", "text": "600 W" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "A body accelerates from rest to 20 m/s in 10 s. Calculate its acceleration.",
+      "options": [
+        { "key": "A", "text": "1 m/s²" },
+        { "key": "B", "text": "2 m/s²" },
+        { "key": "C", "text": "5 m/s²" },
+        { "key": "D", "text": "10 m/s²" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 110,
+      "question": "Calculate the momentum of a body of mass 4 kg moving at 3 m/s.",
+      "options": [
+        { "key": "A", "text": "7 kgm/s" },
+        { "key": "B", "text": "10 kgm/s" },
+        { "key": "C", "text": "12 kgm/s" },
+        { "key": "D", "text": "15 kgm/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 111,
+      "question": "The wavelength of a wave moving at 300 m/s with a frequency of 150 Hz is",
+      "options": [
+        { "key": "A", "text": "0.5 m" },
+        { "key": "B", "text": "1 m" },
+        { "key": "C", "text": "2 m" },
+        { "key": "D", "text": "450 m" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 112,
+      "question": "Calculate the electrical energy used when a 100 W bulb operates for 10 s.",
+      "options": [
+        { "key": "A", "text": "100 J" },
+        { "key": "B", "text": "500 J" },
+        { "key": "C", "text": "1000 J" },
+        { "key": "D", "text": "2000 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "A body falls freely from rest. Calculate its velocity after 2 s. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "5 m/s" },
+        { "key": "B", "text": "10 m/s" },
+        { "key": "C", "text": "15 m/s" },
+        { "key": "D", "text": "20 m/s" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 114,
+      "question": "Calculate the potential energy of a 3 kg mass raised to a height of 4 m. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "40 J" },
+        { "key": "B", "text": "60 J" },
+        { "key": "C", "text": "120 J" },
+        { "key": "D", "text": "160 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "A resistor of 10 Ω carries a current of 3 A. Calculate the power dissipated.",
+      "options": [
+        { "key": "A", "text": "30 W" },
+        { "key": "B", "text": "60 W" },
+        { "key": "C", "text": "90 W" },
+        { "key": "D", "text": "120 W" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 116,
+      "question": "Find the frequency of a wave with speed 400 m/s and wavelength 2 m.",
+      "options": [
+        { "key": "A", "text": "50 Hz" },
+        { "key": "B", "text": "100 Hz" },
+        { "key": "C", "text": "200 Hz" },
+        { "key": "D", "text": "800 Hz" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 117,
+      "question": "Calculate the charge flowing in a circuit when a current of 5 A flows for 4 s.",
+      "options": [
+        { "key": "A", "text": "5 C" },
+        { "key": "B", "text": "10 C" },
+        { "key": "C", "text": "15 C" },
+        { "key": "D", "text": "20 C" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 118,
+      "question": "The time taken for a wave to complete one cycle is 0.02 s. Calculate its frequency.",
+      "options": [
+        { "key": "A", "text": "20 Hz" },
+        { "key": "B", "text": "25 Hz" },
+        { "key": "C", "text": "50 Hz" },
+        { "key": "D", "text": "100 Hz" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "A force of 30 N produces an acceleration of 5 m/s². Calculate the mass.",
+      "options": [
+        { "key": "A", "text": "3 kg" },
+        { "key": "B", "text": "5 kg" },
+        { "key": "C", "text": "6 kg" },
+        { "key": "D", "text": "10 kg" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "Calculate the resistance of a conductor if 12 V produces a current of 3 A.",
+      "options": [
+        { "key": "A", "text": "2 Ω" },
+        { "key": "B", "text": "3 Ω" },
+        { "key": "C", "text": "4 Ω" },
+        { "key": "D", "text": "6 Ω" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 121,
+      "question": "A machine has an efficiency of 80%. If input work is 500 J, calculate output work.",
+      "options": [
+        { "key": "A", "text": "100 J" },
+        { "key": "B", "text": "300 J" },
+        { "key": "C", "text": "400 J" },
+        { "key": "D", "text": "450 J" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 122,
+      "question": "Calculate the force needed to accelerate a 2 kg mass at 4 m/s².",
+      "options": [
+        { "key": "A", "text": "4 N" },
+        { "key": "B", "text": "6 N" },
+        { "key": "C", "text": "8 N" },
+        { "key": "D", "text": "10 N" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "If a voltage of 240 V delivers power of 1200 W, calculate the current.",
+      "options": [
+        { "key": "A", "text": "2 A" },
+        { "key": "B", "text": "4 A" },
+        { "key": "C", "text": "5 A" },
+        { "key": "D", "text": "10 A" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Calculate the weight of a 5 kg mass on Earth. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "5 N" },
+        { "key": "B", "text": "25 N" },
+        { "key": "C", "text": "50 N" },
+        { "key": "D", "text": "100 N" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "A car travels at 20 m/s for 15 s. Calculate the distance covered.",
+      "options": [
+        { "key": "A", "text": "200 m" },
+        { "key": "B", "text": "250 m" },
+        { "key": "C", "text": "300 m" },
+        { "key": "D", "text": "350 m" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 126,
+      "question": "Calculate the heat energy required to raise the temperature of a body by 10°C if its heat capacity is 500 J/°C.",
+      "options": [
+        { "key": "A", "text": "50 J" },
+        { "key": "B", "text": "500 J" },
+        { "key": "C", "text": "5000 J" },
+        { "key": "D", "text": "10000 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 127,
+      "question": "A stone of mass 1.5 kg is lifted vertically through a height of 8 m. Calculate the work done. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "12 J" },
+        { "key": "B", "text": "80 J" },
+        { "key": "C", "text": "120 J" },
+        { "key": "D", "text": "150 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "Calculate the speed of a car that covers a distance of 360 m in 18 s.",
+      "options": [
+        { "key": "A", "text": "10 m/s" },
+        { "key": "B", "text": "15 m/s" },
+        { "key": "C", "text": "20 m/s" },
+        { "key": "D", "text": "30 m/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "Find the acceleration of a body whose velocity changes from 4 m/s to 24 m/s in 10 s.",
+      "options": [
+        { "key": "A", "text": "1 m/s²" },
+        { "key": "B", "text": "2 m/s²" },
+        { "key": "C", "text": "3 m/s²" },
+        { "key": "D", "text": "4 m/s²" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Calculate the kinetic energy of a body of mass 4 kg moving at 10 m/s.",
+      "options": [
+        { "key": "A", "text": "40 J" },
+        { "key": "B", "text": "80 J" },
+        { "key": "C", "text": "200 J" },
+        { "key": "D", "text": "400 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 131,
+      "question": "A force of 50 N acts on an area of 0.5 m². Calculate the pressure.",
+      "options": [
+        { "key": "A", "text": "25 Pa" },
+        { "key": "B", "text": "50 Pa" },
+        { "key": "C", "text": "100 Pa" },
+        { "key": "D", "text": "250 Pa" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 132,
+      "question": "Calculate the resistance of a wire if a voltage of 15 V produces a current of 3 A.",
+      "options": [
+        { "key": "A", "text": "3 Ω" },
+        { "key": "B", "text": "5 Ω" },
+        { "key": "C", "text": "10 Ω" },
+        { "key": "D", "text": "15 Ω" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "A bulb rated 60 W operates for 20 s. Calculate the electrical energy used.",
+      "options": [
+        { "key": "A", "text": "600 J" },
+        { "key": "B", "text": "900 J" },
+        { "key": "C", "text": "1200 J" },
+        { "key": "D", "text": "1800 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 134,
+      "question": "Calculate the momentum of a body of mass 5 kg moving with velocity 6 m/s.",
+      "options": [
+        { "key": "A", "text": "11 kgm/s" },
+        { "key": "B", "text": "20 kgm/s" },
+        { "key": "C", "text": "30 kgm/s" },
+        { "key": "D", "text": "60 kgm/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Find the wavelength of a wave of frequency 250 Hz moving at 500 m/s.",
+      "options": [
+        { "key": "A", "text": "0.5 m" },
+        { "key": "B", "text": "1 m" },
+        { "key": "C", "text": "2 m" },
+        { "key": "D", "text": "4 m" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 136,
+      "question": "Calculate the force required to accelerate a mass of 10 kg at 2 m/s².",
+      "options": [
+        { "key": "A", "text": "5 N" },
+        { "key": "B", "text": "10 N" },
+        { "key": "C", "text": "20 N" },
+        { "key": "D", "text": "40 N" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 137,
+      "question": "Calculate the time taken for a wave of speed 300 m/s to travel a distance of 150 m.",
+      "options": [
+        { "key": "A", "text": "0.2 s" },
+        { "key": "B", "text": "0.5 s" },
+        { "key": "C", "text": "1 s" },
+        { "key": "D", "text": "2 s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "A machine has an efficiency of 75%. If the input energy is 800 J, calculate the output energy.",
+      "options": [
+        { "key": "A", "text": "400 J" },
+        { "key": "B", "text": "500 J" },
+        { "key": "C", "text": "600 J" },
+        { "key": "D", "text": "700 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Calculate the weight of a body of mass 7 kg on Earth. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "7 N" },
+        { "key": "B", "text": "35 N" },
+        { "key": "C", "text": "70 N" },
+        { "key": "D", "text": "700 N" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 140,
+      "question": "Find the current flowing if 240 C of charge passes a point in 60 s.",
+      "options": [
+        { "key": "A", "text": "2 A" },
+        { "key": "B", "text": "3 A" },
+        { "key": "C", "text": "4 A" },
+        { "key": "D", "text": "6 A" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 141,
+      "question": "Calculate the density of a substance of mass 1200 kg and volume 3 m³.",
+      "options": [
+        { "key": "A", "text": "200 kg/m³" },
+        { "key": "B", "text": "300 kg/m³" },
+        { "key": "C", "text": "400 kg/m³" },
+        { "key": "D", "text": "600 kg/m³" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 142,
+      "question": "A body falls freely from rest for 3 s. Calculate its velocity. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "15 m/s" },
+        { "key": "B", "text": "20 m/s" },
+        { "key": "C", "text": "25 m/s" },
+        { "key": "D", "text": "30 m/s" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 143,
+      "question": "Calculate the power developed when a force of 40 N moves a body at 5 m/s.",
+      "options": [
+        { "key": "A", "text": "80 W" },
+        { "key": "B", "text": "160 W" },
+        { "key": "C", "text": "200 W" },
+        { "key": "D", "text": "400 W" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 144,
+      "question": "Calculate the frequency of a wave whose period is 0.04 s.",
+      "options": [
+        { "key": "A", "text": "10 Hz" },
+        { "key": "B", "text": "20 Hz" },
+        { "key": "C", "text": "25 Hz" },
+        { "key": "D", "text": "40 Hz" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 145,
+      "question": "A resistor of resistance 8 Ω carries a current of 2 A. Calculate the voltage.",
+      "options": [
+        { "key": "A", "text": "4 V" },
+        { "key": "B", "text": "8 V" },
+        { "key": "C", "text": "16 V" },
+        { "key": "D", "text": "24 V" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 146,
+      "question": "Calculate the work done when a force of 25 N acts through a distance of 4 m.",
+      "options": [
+        { "key": "A", "text": "50 J" },
+        { "key": "B", "text": "75 J" },
+        { "key": "C", "text": "100 J" },
+        { "key": "D", "text": "200 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Calculate the mass of a body whose momentum is 18 kgm/s when moving at 6 m/s.",
+      "options": [
+        { "key": "A", "text": "2 kg" },
+        { "key": "B", "text": "3 kg" },
+        { "key": "C", "text": "4 kg" },
+        { "key": "D", "text": "6 kg" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "If an appliance consumes 1800 J of energy in 30 s, calculate its power.",
+      "options": [
+        { "key": "A", "text": "30 W" },
+        { "key": "B", "text": "40 W" },
+        { "key": "C", "text": "50 W" },
+        { "key": "D", "text": "60 W" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 149,
+      "question": "Calculate the distance traveled by a body moving at constant speed of 12 m/s for 25 s.",
+      "options": [
+        { "key": "A", "text": "200 m" },
+        { "key": "B", "text": "250 m" },
+        { "key": "C", "text": "300 m" },
+        { "key": "D", "text": "350 m" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "Calculate the heat required to raise the temperature of a substance with heat capacity 400 J/°C by 15°C.",
+      "options": [
+        { "key": "A", "text": "2000 J" },
+        { "key": "B", "text": "4000 J" },
+        { "key": "C", "text": "6000 J" },
+        { "key": "D", "text": "8000 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 151,
+      "question": "A current of 0.5 A flows through a conductor for 120 s. Calculate the charge passed.",
+      "options": [
+        { "key": "A", "text": "30 C" },
+        { "key": "B", "text": "60 C" },
+        { "key": "C", "text": "90 C" },
+        { "key": "D", "text": "120 C" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Calculate the force required to produce an acceleration of 3 m/s² in a body of mass 5 kg.",
+      "options": [
+        { "key": "A", "text": "8 N" },
+        { "key": "B", "text": "10 N" },
+        { "key": "C", "text": "15 N" },
+        { "key": "D", "text": "20 N" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "Find the kinetic energy of a body of mass 2 kg moving at 12 m/s.",
+      "options": [
+        { "key": "A", "text": "72 J" },
+        { "key": "B", "text": "96 J" },
+        { "key": "C", "text": "144 J" },
+        { "key": "D", "text": "288 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "A car accelerates from rest at 4 m/s². Calculate its velocity after 5 s.",
+      "options": [
+        { "key": "A", "text": "15 m/s" },
+        { "key": "B", "text": "20 m/s" },
+        { "key": "C", "text": "25 m/s" },
+        { "key": "D", "text": "30 m/s" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Calculate the momentum of a 0.8 kg ball moving at 25 m/s.",
+      "options": [
+        { "key": "A", "text": "10 kgm/s" },
+        { "key": "B", "text": "15 kgm/s" },
+        { "key": "C", "text": "20 kgm/s" },
+        { "key": "D", "text": "25 kgm/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 156,
+      "question": "A body falls freely for 4 s. Calculate the distance covered. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "40 m" },
+        { "key": "B", "text": "60 m" },
+        { "key": "C", "text": "80 m" },
+        { "key": "D", "text": "160 m" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "Calculate the pressure exerted by a force of 300 N on an area of 3 m².",
+      "options": [
+        { "key": "A", "text": "50 Pa" },
+        { "key": "B", "text": "100 Pa" },
+        { "key": "C", "text": "150 Pa" },
+        { "key": "D", "text": "200 Pa" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 158,
+      "question": "A resistor of resistance 12 Ω carries a current of 5 A. Calculate the voltage.",
+      "options": [
+        { "key": "A", "text": "30 V" },
+        { "key": "B", "text": "45 V" },
+        { "key": "C", "text": "60 V" },
+        { "key": "D", "text": "75 V" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "Calculate the frequency of a wave moving at 300 m/s with wavelength 2 m.",
+      "options": [
+        { "key": "A", "text": "75 Hz" },
+        { "key": "B", "text": "100 Hz" },
+        { "key": "C", "text": "150 Hz" },
+        { "key": "D", "text": "200 Hz" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 160,
+      "question": "An appliance rated 500 W is used for 6 s. Calculate the energy consumed.",
+      "options": [
+        { "key": "A", "text": "2000 J" },
+        { "key": "B", "text": "2500 J" },
+        { "key": "C", "text": "3000 J" },
+        { "key": "D", "text": "3500 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 161,
+      "question": "Calculate the density of a material of mass 900 kg and volume 3 m³.",
+      "options": [
+        { "key": "A", "text": "200 kg/m³" },
+        { "key": "B", "text": "300 kg/m³" },
+        { "key": "C", "text": "450 kg/m³" },
+        { "key": "D", "text": "600 kg/m³" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 162,
+      "question": "Find the speed of sound if it travels 680 m in 2 s.",
+      "options": [
+        { "key": "A", "text": "200 m/s" },
+        { "key": "B", "text": "300 m/s" },
+        { "key": "C", "text": "340 m/s" },
+        { "key": "D", "text": "400 m/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 163,
+      "question": "Calculate the work done when a force of 18 N moves a body through 5 m.",
+      "options": [
+        { "key": "A", "text": "45 J" },
+        { "key": "B", "text": "72 J" },
+        { "key": "C", "text": "90 J" },
+        { "key": "D", "text": "120 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "A current of 2 A flows for 50 s. Calculate the charge transferred.",
+      "options": [
+        { "key": "A", "text": "50 C" },
+        { "key": "B", "text": "80 C" },
+        { "key": "C", "text": "100 C" },
+        { "key": "D", "text": "150 C" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "Calculate the potential energy of a mass of 6 kg raised to a height of 5 m. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "150 J" },
+        { "key": "B", "text": "200 J" },
+        { "key": "C", "text": "250 J" },
+        { "key": "D", "text": "300 J" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 166,
+      "question": "Find the power developed if 1200 J of work is done in 20 s.",
+      "options": [
+        { "key": "A", "text": "40 W" },
+        { "key": "B", "text": "50 W" },
+        { "key": "C", "text": "60 W" },
+        { "key": "D", "text": "80 W" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 167,
+      "question": "Calculate the acceleration when velocity increases from 10 m/s to 30 m/s in 4 s.",
+      "options": [
+        { "key": "A", "text": "4 m/s²" },
+        { "key": "B", "text": "5 m/s²" },
+        { "key": "C", "text": "6 m/s²" },
+        { "key": "D", "text": "8 m/s²" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "A transformer has an efficiency of 80%. If input power is 1000 W, calculate output power.",
+      "options": [
+        { "key": "A", "text": "600 W" },
+        { "key": "B", "text": "700 W" },
+        { "key": "C", "text": "800 W" },
+        { "key": "D", "text": "900 W" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 169,
+      "question": "Calculate the wavelength of light of frequency 6 × 10⁸ Hz travelling at 3 × 10⁸ m/s.",
+      "options": [
+        { "key": "A", "text": "0.2 m" },
+        { "key": "B", "text": "0.5 m" },
+        { "key": "C", "text": "1 m" },
+        { "key": "D", "text": "2 m" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 170,
+      "question": "Find the resistance if a current of 4 A flows under a voltage of 24 V.",
+      "options": [
+        { "key": "A", "text": "4 Ω" },
+        { "key": "B", "text": "6 Ω" },
+        { "key": "C", "text": "8 Ω" },
+        { "key": "D", "text": "12 Ω" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 171,
+      "question": "Calculate the distance traveled by a car moving at 20 m/s for 15 s.",
+      "options": [
+        { "key": "A", "text": "250 m" },
+        { "key": "B", "text": "280 m" },
+        { "key": "C", "text": "300 m" },
+        { "key": "D", "text": "350 m" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "Find the mass of a body with kinetic energy 200 J moving at 10 m/s.",
+      "options": [
+        { "key": "A", "text": "2 kg" },
+        { "key": "B", "text": "3 kg" },
+        { "key": "C", "text": "4 kg" },
+        { "key": "D", "text": "5 kg" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 173,
+      "question": "Calculate the heat required to raise the temperature of a body of heat capacity 600 J/°C by 10°C.",
+      "options": [
+        { "key": "A", "text": "3000 J" },
+        { "key": "B", "text": "4000 J" },
+        { "key": "C", "text": "6000 J" },
+        { "key": "D", "text": "8000 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 174,
+      "question": "Calculate the speed if 900 m is covered in 30 s.",
+      "options": [
+        { "key": "A", "text": "20 m/s" },
+        { "key": "B", "text": "25 m/s" },
+        { "key": "C", "text": "30 m/s" },
+        { "key": "D", "text": "35 m/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Find the pressure due to a force of 500 N acting on an area of 5 m².",
+      "options": [
+        { "key": "A", "text": "50 Pa" },
+        { "key": "B", "text": "80 Pa" },
+        { "key": "C", "text": "100 Pa" },
+        { "key": "D", "text": "150 Pa" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 176,
+      "question": "Calculate the charge flowing when a current of 3 A flows for 40 s.",
+      "options": [
+        { "key": "A", "text": "90 C" },
+        { "key": "B", "text": "100 C" },
+        { "key": "C", "text": "120 C" },
+        { "key": "D", "text": "150 C" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "Calculate the power if a force of 50 N moves a body at 6 m/s.",
+      "options": [
+        { "key": "A", "text": "200 W" },
+        { "key": "B", "text": "250 W" },
+        { "key": "C", "text": "300 W" },
+        { "key": "D", "text": "350 W" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 178,
+      "question": "Calculate the momentum of a 3 kg object moving at 14 m/s.",
+      "options": [
+        { "key": "A", "text": "32 kgm/s" },
+        { "key": "B", "text": "36 kgm/s" },
+        { "key": "C", "text": "42 kgm/s" },
+        { "key": "D", "text": "48 kgm/s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 179,
+      "question": "Calculate the potential energy of a body of mass 10 kg raised by 2 m. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "100 J" },
+        { "key": "B", "text": "150 J" },
+        { "key": "C", "text": "200 J" },
+        { "key": "D", "text": "250 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 180,
+      "question": "Calculate the frequency if the period of oscillation is 0.02 s.",
+      "options": [
+        { "key": "A", "text": "20 Hz" },
+        { "key": "B", "text": "30 Hz" },
+        { "key": "C", "text": "40 Hz" },
+        { "key": "D", "text": "50 Hz" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 181,
+      "question": "A heater consumes 3600 J of energy in 60 s. Calculate its power.",
+      "options": [
+        { "key": "A", "text": "40 W" },
+        { "key": "B", "text": "50 W" },
+        { "key": "C", "text": "60 W" },
+        { "key": "D", "text": "70 W" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 182,
+      "question": "Calculate the acceleration of a body whose velocity changes from 2 m/s to 18 m/s in 8 s.",
+      "options": [
+        { "key": "A", "text": "2 m/s²" },
+        { "key": "B", "text": "3 m/s²" },
+        { "key": "C", "text": "4 m/s²" },
+        { "key": "D", "text": "5 m/s²" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "Calculate the distance traveled by a body falling freely for 5 s. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "100 m" },
+        { "key": "B", "text": "125 m" },
+        { "key": "C", "text": "150 m" },
+        { "key": "D", "text": "175 m" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Find the resistance of a circuit if 10 V produces a current of 0.5 A.",
+      "options": [
+        { "key": "A", "text": "5 Ω" },
+        { "key": "B", "text": "10 Ω" },
+        { "key": "C", "text": "15 Ω" },
+        { "key": "D", "text": "20 Ω" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 185,
+      "question": "Calculate the wavelength of a wave moving at 400 m/s with frequency 200 Hz.",
+      "options": [
+        { "key": "A", "text": "1 m" },
+        { "key": "B", "text": "2 m" },
+        { "key": "C", "text": "3 m" },
+        { "key": "D", "text": "4 m" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 186,
+      "question": "Calculate the force if work done is 180 J over a distance of 6 m.",
+      "options": [
+        { "key": "A", "text": "20 N" },
+        { "key": "B", "text": "25 N" },
+        { "key": "C", "text": "30 N" },
+        { "key": "D", "text": "35 N" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 187,
+      "question": "Calculate the mass of a body with momentum 40 kgm/s moving at 8 m/s.",
+      "options": [
+        { "key": "A", "text": "4 kg" },
+        { "key": "B", "text": "5 kg" },
+        { "key": "C", "text": "6 kg" },
+        { "key": "D", "text": "8 kg" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "Calculate the voltage of a circuit with resistance 15 Ω carrying current 2 A.",
+      "options": [
+        { "key": "A", "text": "20 V" },
+        { "key": "B", "text": "25 V" },
+        { "key": "C", "text": "30 V" },
+        { "key": "D", "text": "35 V" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "Calculate the kinetic energy of a 5 kg body moving at 6 m/s.",
+      "options": [
+        { "key": "A", "text": "60 J" },
+        { "key": "B", "text": "90 J" },
+        { "key": "C", "text": "120 J" },
+        { "key": "D", "text": "150 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 190,
+      "question": "Calculate the speed if a wave travels 240 m in 0.8 s.",
+      "options": [
+        { "key": "A", "text": "200 m/s" },
+        { "key": "B", "text": "250 m/s" },
+        { "key": "C", "text": "300 m/s" },
+        { "key": "D", "text": "350 m/s" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 191,
+      "question": "Calculate the power when a force of 70 N moves at a velocity of 5 m/s.",
+      "options": [
+        { "key": "A", "text": "250 W" },
+        { "key": "B", "text": "300 W" },
+        { "key": "C", "text": "350 W" },
+        { "key": "D", "text": "400 W" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 192,
+      "question": "Find the acceleration due to gravity if a body falls 45 m in 3 s from rest.",
+      "options": [
+        { "key": "A", "text": "8 m/s²" },
+        { "key": "B", "text": "9 m/s²" },
+        { "key": "C", "text": "10 m/s²" },
+        { "key": "D", "text": "12 m/s²" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 193,
+      "question": "Calculate the current if 600 C of charge flows in 200 s.",
+      "options": [
+        { "key": "A", "text": "2 A" },
+        { "key": "B", "text": "3 A" },
+        { "key": "C", "text": "4 A" },
+        { "key": "D", "text": "5 A" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "Calculate the work done lifting a 12 kg load through 3 m. (g = 10 m/s²)",
+      "options": [
+        { "key": "A", "text": "240 J" },
+        { "key": "B", "text": "300 J" },
+        { "key": "C", "text": "360 J" },
+        { "key": "D", "text": "420 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Calculate the density of a liquid of mass 1.2 kg and volume 0.002 m³.",
+      "options": [
+        { "key": "A", "text": "400 kg/m³" },
+        { "key": "B", "text": "500 kg/m³" },
+        { "key": "C", "text": "600 kg/m³" },
+        { "key": "D", "text": "800 kg/m³" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 196,
+      "question": "Find the frequency if a wave of wavelength 4 m travels at 320 m/s.",
+      "options": [
+        { "key": "A", "text": "60 Hz" },
+        { "key": "B", "text": "70 Hz" },
+        { "key": "C", "text": "80 Hz" },
+        { "key": "D", "text": "90 Hz" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 197,
+      "question": "Calculate the resistance if 12 V produces a current of 3 A.",
+      "options": [
+        { "key": "A", "text": "2 Ω" },
+        { "key": "B", "text": "3 Ω" },
+        { "key": "C", "text": "4 Ω" },
+        { "key": "D", "text": "6 Ω" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 198,
+      "question": "Calculate the time taken for a body moving at 15 m/s to cover 300 m.",
+      "options": [
+        { "key": "A", "text": "10 s" },
+        { "key": "B", "text": "15 s" },
+        { "key": "C", "text": "20 s" },
+        { "key": "D", "text": "25 s" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 199,
+      "question": "Calculate the heat energy required to raise the temperature of a body of heat capacity 1000 J/°C by 6°C.",
+      "options": [
+        { "key": "A", "text": "3000 J" },
+        { "key": "B", "text": "4000 J" },
+        { "key": "C", "text": "6000 J" },
+        { "key": "D", "text": "8000 J" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 200,
+      "question": "Calculate the power if 2400 J of work is done in 30 s.",
+      "options": [
+        { "key": "A", "text": "60 W" },
+        { "key": "B", "text": "70 W" },
+        { "key": "C", "text": "80 W" },
+        { "key": "D", "text": "90 W" }
+      ],
+      "correct_answer": "C"
     }
   ]
 }
