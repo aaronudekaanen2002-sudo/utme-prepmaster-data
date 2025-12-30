@@ -62,6 +62,2647 @@
         { "key": "D", "text": "Storage of food" }
       ],
       "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "The basic unit of life is the",
+      "options": [
+        { "key": "A", "text": "tissue" },
+        { "key": "B", "text": "organ" },
+        { "key": "C", "text": "cell" },
+        { "key": "D", "text": "system" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which organelle is responsible for energy production in the cell?",
+      "options": [
+        { "key": "A", "text": "Ribosome" },
+        { "key": "B", "text": "Mitochondrion" },
+        { "key": "C", "text": "Nucleus" },
+        { "key": "D", "text": "Golgi body" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Photosynthesis takes place mainly in the",
+      "options": [
+        { "key": "A", "text": "mitochondrion" },
+        { "key": "B", "text": "chloroplast" },
+        { "key": "C", "text": "nucleus" },
+        { "key": "D", "text": "ribosome" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which gas is released during photosynthesis?",
+      "options": [
+        { "key": "A", "text": "Carbon dioxide" },
+        { "key": "B", "text": "Nitrogen" },
+        { "key": "C", "text": "Oxygen" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "The movement of water through a semi-permeable membrane is called",
+      "options": [
+        { "key": "A", "text": "diffusion" },
+        { "key": "B", "text": "osmosis" },
+        { "key": "C", "text": "active transport" },
+        { "key": "D", "text": "transpiration" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which blood cell is responsible for immunity?",
+      "options": [
+        { "key": "A", "text": "Red blood cell" },
+        { "key": "B", "text": "White blood cell" },
+        { "key": "C", "text": "Platelet" },
+        { "key": "D", "text": "Plasma" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "The process by which green plants manufacture food is",
+      "options": [
+        { "key": "A", "text": "respiration" },
+        { "key": "B", "text": "transpiration" },
+        { "key": "C", "text": "photosynthesis" },
+        { "key": "D", "text": "excretion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which organ controls balance in mammals?",
+      "options": [
+        { "key": "A", "text": "Cerebrum" },
+        { "key": "B", "text": "Cerebellum" },
+        { "key": "C", "text": "Medulla" },
+        { "key": "D", "text": "Hypothalamus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "An example of a renewable natural resource is",
+      "options": [
+        { "key": "A", "text": "coal" },
+        { "key": "B", "text": "petroleum" },
+        { "key": "C", "text": "wind" },
+        { "key": "D", "text": "natural gas" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following diseases is caused by a virus?",
+      "options": [
+        { "key": "A", "text": "Malaria" },
+        { "key": "B", "text": "Tuberculosis" },
+        { "key": "C", "text": "Measles" },
+        { "key": "D", "text": "Cholera" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "The exchange of gases in humans occurs in the",
+      "options": [
+        { "key": "A", "text": "trachea" },
+        { "key": "B", "text": "bronchus" },
+        { "key": "C", "text": "alveoli" },
+        { "key": "D", "text": "lungs" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a function of the liver?",
+      "options": [
+        { "key": "A", "text": "Production of insulin" },
+        { "key": "B", "text": "Detoxification" },
+        { "key": "C", "text": "Filtration of blood" },
+        { "key": "D", "text": "Storage of oxygen" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which vitamin is needed for blood clotting?",
+      "options": [
+        { "key": "A", "text": "Vitamin A" },
+        { "key": "B", "text": "Vitamin B" },
+        { "key": "C", "text": "Vitamin C" },
+        { "key": "D", "text": "Vitamin K" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "The structural and functional unit of the kidney is the",
+      "options": [
+        { "key": "A", "text": "neuron" },
+        { "key": "B", "text": "nephron" },
+        { "key": "C", "text": "alveolus" },
+        { "key": "D", "text": "glomerulus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which process removes waste products from the body?",
+      "options": [
+        { "key": "A", "text": "Nutrition" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Excretion" },
+        { "key": "D", "text": "Reproduction" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Which group of organisms can manufacture their own food?",
+      "options": [
+        { "key": "A", "text": "Consumers" },
+        { "key": "B", "text": "Decomposers" },
+        { "key": "C", "text": "Producers" },
+        { "key": "D", "text": "Parasites" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Which part of a flower develops into a fruit?",
+      "options": [
+        { "key": "A", "text": "Ovule" },
+        { "key": "B", "text": "Ovary" },
+        { "key": "C", "text": "Anther" },
+        { "key": "D", "text": "Stigma" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "The transfer of pollen from anther to stigma is called",
+      "options": [
+        { "key": "A", "text": "fertilization" },
+        { "key": "B", "text": "pollination" },
+        { "key": "C", "text": "germination" },
+        { "key": "D", "text": "dispersal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which organism causes malaria?",
+      "options": [
+        { "key": "A", "text": "Bacteria" },
+        { "key": "B", "text": "Virus" },
+        { "key": "C", "text": "Plasmodium" },
+        { "key": "D", "text": "Fungus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which system transports materials in plants?",
+      "options": [
+        { "key": "A", "text": "Vascular system" },
+        { "key": "B", "text": "Digestive system" },
+        { "key": "C", "text": "Respiratory system" },
+        { "key": "D", "text": "Skeletal system" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which structure controls all activities in a cell?",
+      "options": [
+        { "key": "A", "text": "Cytoplasm" },
+        { "key": "B", "text": "Nucleus" },
+        { "key": "C", "text": "Mitochondrion" },
+        { "key": "D", "text": "Ribosome" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which blood group is known as the universal donor?",
+      "options": [
+        { "key": "A", "text": "AB" },
+        { "key": "B", "text": "A" },
+        { "key": "C", "text": "B" },
+        { "key": "D", "text": "O" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "The process by which organisms produce new individuals is called",
+      "options": [
+        { "key": "A", "text": "respiration" },
+        { "key": "B", "text": "nutrition" },
+        { "key": "C", "text": "reproduction" },
+        { "key": "D", "text": "excretion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which part of the human eye controls the amount of light entering?",
+      "options": [
+        { "key": "A", "text": "Retina" },
+        { "key": "B", "text": "Cornea" },
+        { "key": "C", "text": "Pupil" },
+        { "key": "D", "text": "Optic nerve" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is an example of a vertebrate?",
+      "options": [
+        { "key": "A", "text": "Earthworm" },
+        { "key": "B", "text": "Snail" },
+        { "key": "C", "text": "Frog" },
+        { "key": "D", "text": "Cockroach" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "Which tissue transports manufactured food in plants?",
+      "options": [
+        { "key": "A", "text": "Xylem" },
+        { "key": "B", "text": "Cambium" },
+        { "key": "C", "text": "Phloem" },
+        { "key": "D", "text": "Cortex" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "Which gas is required for aerobic respiration?",
+      "options": [
+        { "key": "A", "text": "Nitrogen" },
+        { "key": "B", "text": "Carbon dioxide" },
+        { "key": "C", "text": "Oxygen" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which part of the digestive system absorbs digested food?",
+      "options": [
+        { "key": "A", "text": "Stomach" },
+        { "key": "B", "text": "Large intestine" },
+        { "key": "C", "text": "Small intestine" },
+        { "key": "D", "text": "Oesophagus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "A food chain always begins with",
+      "options": [
+        { "key": "A", "text": "consumer" },
+        { "key": "B", "text": "decomposer" },
+        { "key": "C", "text": "producer" },
+        { "key": "D", "text": "carnivore" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Which process releases energy for activities in living organisms?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Transpiration" },
+        { "key": "D", "text": "Excretion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which organ stores urine temporarily?",
+      "options": [
+        { "key": "A", "text": "Kidney" },
+        { "key": "B", "text": "Ureter" },
+        { "key": "C", "text": "Urinary bladder" },
+        { "key": "D", "text": "Urethra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Which organism is classified as a decomposer?",
+      "options": [
+        { "key": "A", "text": "Grass" },
+        { "key": "B", "text": "Lion" },
+        { "key": "C", "text": "Mushroom" },
+        { "key": "D", "text": "Goat" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Which structure helps fish to breathe?",
+      "options": [
+        { "key": "A", "text": "Lungs" },
+        { "key": "B", "text": "Gills" },
+        { "key": "C", "text": "Trachea" },
+        { "key": "D", "text": "Skin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "The movement of water out of plant leaves is known as",
+      "options": [
+        { "key": "A", "text": "respiration" },
+        { "key": "B", "text": "guttation" },
+        { "key": "C", "text": "transpiration" },
+        { "key": "D", "text": "diffusion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Which type of muscle is involuntary?",
+      "options": [
+        { "key": "A", "text": "Skeletal muscle" },
+        { "key": "B", "text": "Smooth muscle" },
+        { "key": "C", "text": "Striated muscle" },
+        { "key": "D", "text": "Biceps muscle" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which part of the ear is responsible for balance?",
+      "options": [
+        { "key": "A", "text": "Cochlea" },
+        { "key": "B", "text": "Eardrum" },
+        { "key": "C", "text": "Semi-circular canals" },
+        { "key": "D", "text": "Auditory nerve" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which nutrient is mainly needed for growth and repair of tissues?",
+      "options": [
+        { "key": "A", "text": "Carbohydrates" },
+        { "key": "B", "text": "Proteins" },
+        { "key": "C", "text": "Fats and oils" },
+        { "key": "D", "text": "Vitamins" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which process involves the loss of water vapour from animals?",
+      "options": [
+        { "key": "A", "text": "Respiration" },
+        { "key": "B", "text": "Perspiration" },
+        { "key": "C", "text": "Diffusion" },
+        { "key": "D", "text": "Osmosis" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "The movement of molecules from a region of high concentration to low concentration is called",
+      "options": [
+        { "key": "A", "text": "osmosis" },
+        { "key": "B", "text": "diffusion" },
+        { "key": "C", "text": "active transport" },
+        { "key": "D", "text": "translocation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which disease is caused by lack of vitamin C?",
+      "options": [
+        { "key": "A", "text": "Rickets" },
+        { "key": "B", "text": "Beriberi" },
+        { "key": "C", "text": "Scurvy" },
+        { "key": "D", "text": "Night blindness" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "Which organ removes excess water and waste salts from the blood?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Kidney" },
+        { "key": "C", "text": "Lung" },
+        { "key": "D", "text": "Skin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following animals is a herbivore?",
+      "options": [
+        { "key": "A", "text": "Lion" },
+        { "key": "B", "text": "Tiger" },
+        { "key": "C", "text": "Goat" },
+        { "key": "D", "text": "Hawk" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "The green pigment responsible for photosynthesis is",
+      "options": [
+        { "key": "A", "text": "carotene" },
+        { "key": "B", "text": "xanthophyll" },
+        { "key": "C", "text": "chlorophyll" },
+        { "key": "D", "text": "anthocyanin" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is an example of a sexually transmitted disease?",
+      "options": [
+        { "key": "A", "text": "Malaria" },
+        { "key": "B", "text": "Tuberculosis" },
+        { "key": "C", "text": "Gonorrhoea" },
+        { "key": "D", "text": "Cholera" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Which structure connects the foetus to the placenta?",
+      "options": [
+        { "key": "A", "text": "Oviduct" },
+        { "key": "B", "text": "Uterus" },
+        { "key": "C", "text": "Umbilical cord" },
+        { "key": "D", "text": "Cervix" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Which of the following organisms reproduces by binary fission?",
+      "options": [
+        { "key": "A", "text": "Mosquito" },
+        { "key": "B", "text": "Amoeba" },
+        { "key": "C", "text": "Frog" },
+        { "key": "D", "text": "Lizard" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Which tissue is responsible for support in young plant stems?",
+      "options": [
+        { "key": "A", "text": "Collenchyma" },
+        { "key": "B", "text": "Xylem" },
+        { "key": "C", "text": "Phloem" },
+        { "key": "D", "text": "Cambium" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which blood cells are responsible for fighting diseases?",
+      "options": [
+        { "key": "A", "text": "Red blood cells" },
+        { "key": "B", "text": "Platelets" },
+        { "key": "C", "text": "White blood cells" },
+        { "key": "D", "text": "Plasma" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Which factor does NOT affect the rate of transpiration?",
+      "options": [
+        { "key": "A", "text": "Temperature" },
+        { "key": "B", "text": "Wind" },
+        { "key": "C", "text": "Light intensity" },
+        { "key": "D", "text": "Soil pH" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "Which process leads to the formation of gametes?",
+      "options": [
+        { "key": "A", "text": "Mitosis" },
+        { "key": "B", "text": "Meiosis" },
+        { "key": "C", "text": "Binary fission" },
+        { "key": "D", "text": "Budding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "Which of the following is a parasitic plant?",
+      "options": [
+        { "key": "A", "text": "Moss" },
+        { "key": "B", "text": "Algae" },
+        { "key": "C", "text": "Mistletoe" },
+        { "key": "D", "text": "Fern" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Which sense organ is sensitive to taste?",
+      "options": [
+        { "key": "A", "text": "Eye" },
+        { "key": "B", "text": "Nose" },
+        { "key": "C", "text": "Tongue" },
+        { "key": "D", "text": "Skin" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "Which structure protects the brain?",
+      "options": [
+        { "key": "A", "text": "Vertebral column" },
+        { "key": "B", "text": "Skull" },
+        { "key": "C", "text": "Ribs" },
+        { "key": "D", "text": "Pelvic girdle" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Which organism carries malaria parasite?",
+      "options": [
+        { "key": "A", "text": "Housefly" },
+        { "key": "B", "text": "Female Anopheles mosquito" },
+        { "key": "C", "text": "Tsetse fly" },
+        { "key": "D", "text": "Bedbug" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Which of these is NOT a characteristic of living things?",
+      "options": [
+        { "key": "A", "text": "Growth" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Photosynthesis" },
+        { "key": "D", "text": "Reproduction" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "Which part of a flower develops into a fruit?",
+      "options": [
+        { "key": "A", "text": "Ovule" },
+        { "key": "B", "text": "Petal" },
+        { "key": "C", "text": "Ovary" },
+        { "key": "D", "text": "Anther" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Which structure in plants allows gaseous exchange?",
+      "options": [
+        { "key": "A", "text": "Stomata" },
+        { "key": "B", "text": "Lenticels" },
+        { "key": "C", "text": "Root hairs" },
+        { "key": "D", "text": "Xylem" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Which condition results from iron deficiency?",
+      "options": [
+        { "key": "A", "text": "Rickets" },
+        { "key": "B", "text": "Anaemia" },
+        { "key": "C", "text": "Scurvy" },
+        { "key": "D", "text": "Kwashiorkor" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Which group of organisms lack a true nucleus?",
+      "options": [
+        { "key": "A", "text": "Plants" },
+        { "key": "B", "text": "Animals" },
+        { "key": "C", "text": "Bacteria" },
+        { "key": "D", "text": "Fungi" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "Which type of respiration occurs without oxygen?",
+      "options": [
+        { "key": "A", "text": "Aerobic" },
+        { "key": "B", "text": "Anaerobic" },
+        { "key": "C", "text": "Cellular" },
+        { "key": "D", "text": "External" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "Which organism causes tuberculosis?",
+      "options": [
+        { "key": "A", "text": "Virus" },
+        { "key": "B", "text": "Bacterium" },
+        { "key": "C", "text": "Fungus" },
+        { "key": "D", "text": "Protozoan" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "Which structure connects muscles to bones?",
+      "options": [
+        { "key": "A", "text": "Ligament" },
+        { "key": "B", "text": "Tendon" },
+        { "key": "C", "text": "Cartilage" },
+        { "key": "D", "text": "Joint" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Which type of joint allows free movement?",
+      "options": [
+        { "key": "A", "text": "Hinge joint" },
+        { "key": "B", "text": "Pivot joint" },
+        { "key": "C", "text": "Ball and socket joint" },
+        { "key": "D", "text": "Gliding joint" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Which part of the leaf is responsible for photosynthesis?",
+      "options": [
+        { "key": "A", "text": "Vein" },
+        { "key": "B", "text": "Midrib" },
+        { "key": "C", "text": "Mesophyll" },
+        { "key": "D", "text": "Petiole" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Which type of blood vessel carries blood away from the heart?",
+      "options": [
+        { "key": "A", "text": "Vein" },
+        { "key": "B", "text": "Capillary" },
+        { "key": "C", "text": "Artery" },
+        { "key": "D", "text": "Venule" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 71,
+      "question": "Which organ produces bile?",
+      "options": [
+        { "key": "A", "text": "Pancreas" },
+        { "key": "B", "text": "Gall bladder" },
+        { "key": "C", "text": "Liver" },
+        { "key": "D", "text": "Stomach" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 72,
+      "question": "Which stage in mitosis involves separation of chromosomes?",
+      "options": [
+        { "key": "A", "text": "Prophase" },
+        { "key": "B", "text": "Metaphase" },
+        { "key": "C", "text": "Anaphase" },
+        { "key": "D", "text": "Telophase" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "Which type of skeleton is found in insects?",
+      "options": [
+        { "key": "A", "text": "Endoskeleton" },
+        { "key": "B", "text": "Hydroskeleton" },
+        { "key": "C", "text": "Exoskeleton" },
+        { "key": "D", "text": "Cartilaginous skeleton" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Which group of plants reproduce by spores?",
+      "options": [
+        { "key": "A", "text": "Flowering plants" },
+        { "key": "B", "text": "Gymnosperms" },
+        { "key": "C", "text": "Ferns" },
+        { "key": "D", "text": "Legumes" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Which structure in the kidney is responsible for filtration?",
+      "options": [
+        { "key": "A", "text": "Ureter" },
+        { "key": "B", "text": "Nephron" },
+        { "key": "C", "text": "Bladder" },
+        { "key": "D", "text": "Pelvis" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "Which structure in the human eye controls the amount of light entering?",
+      "options": [
+        { "key": "A", "text": "Lens" },
+        { "key": "B", "text": "Retina" },
+        { "key": "C", "text": "Iris" },
+        { "key": "D", "text": "Cornea" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 77,
+      "question": "Which blood group is known as the universal donor?",
+      "options": [
+        { "key": "A", "text": "A" },
+        { "key": "B", "text": "B" },
+        { "key": "C", "text": "AB" },
+        { "key": "D", "text": "O" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 78,
+      "question": "Which organelle is responsible for respiration in cells?",
+      "options": [
+        { "key": "A", "text": "Ribosome" },
+        { "key": "B", "text": "Mitochondrion" },
+        { "key": "C", "text": "Nucleus" },
+        { "key": "D", "text": "Chloroplast" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following is an example of a non-renewable resource?",
+      "options": [
+        { "key": "A", "text": "Water" },
+        { "key": "B", "text": "Air" },
+        { "key": "C", "text": "Coal" },
+        { "key": "D", "text": "Sunlight" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Which process removes metabolic wastes from the body?",
+      "options": [
+        { "key": "A", "text": "Nutrition" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Excretion" },
+        { "key": "D", "text": "Movement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Which of the following organisms reproduces by budding?",
+      "options": [
+        { "key": "A", "text": "Amoeba" },
+        { "key": "B", "text": "Hydra" },
+        { "key": "C", "text": "Frog" },
+        { "key": "D", "text": "Fish" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Which structure transports manufactured food in plants?",
+      "options": [
+        { "key": "A", "text": "Xylem" },
+        { "key": "B", "text": "Cambium" },
+        { "key": "C", "text": "Phloem" },
+        { "key": "D", "text": "Cortex" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "Which gas is released during photosynthesis?",
+      "options": [
+        { "key": "A", "text": "Carbon dioxide" },
+        { "key": "B", "text": "Oxygen" },
+        { "key": "C", "text": "Nitrogen" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Which of the following is a primary consumer?",
+      "options": [
+        { "key": "A", "text": "Grass" },
+        { "key": "B", "text": "Goat" },
+        { "key": "C", "text": "Lion" },
+        { "key": "D", "text": "Fungi" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "Which factor affects the rate of enzyme activity?",
+      "options": [
+        { "key": "A", "text": "Temperature" },
+        { "key": "B", "text": "Light only" },
+        { "key": "C", "text": "Wind" },
+        { "key": "D", "text": "Sound" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Which disease is caused by a virus?",
+      "options": [
+        { "key": "A", "text": "Cholera" },
+        { "key": "B", "text": "Measles" },
+        { "key": "C", "text": "Tuberculosis" },
+        { "key": "D", "text": "Typhoid" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Which of the following is NOT a function of the skeleton?",
+      "options": [
+        { "key": "A", "text": "Protection" },
+        { "key": "B", "text": "Support" },
+        { "key": "C", "text": "Movement" },
+        { "key": "D", "text": "Digestion" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 88,
+      "question": "Which structure connects bone to bone?",
+      "options": [
+        { "key": "A", "text": "Tendon" },
+        { "key": "B", "text": "Ligament" },
+        { "key": "C", "text": "Cartilage" },
+        { "key": "D", "text": "Muscle" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following is an abiotic factor?",
+      "options": [
+        { "key": "A", "text": "Grass" },
+        { "key": "B", "text": "Bacteria" },
+        { "key": "C", "text": "Temperature" },
+        { "key": "D", "text": "Fungi" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "Which part of the alimentary canal absorbs water?",
+      "options": [
+        { "key": "A", "text": "Stomach" },
+        { "key": "B", "text": "Small intestine" },
+        { "key": "C", "text": "Large intestine" },
+        { "key": "D", "text": "Oesophagus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "Which crop is propagated by stem cutting?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Yam" },
+        { "key": "C", "text": "Cassava" },
+        { "key": "D", "text": "Rice" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 92,
+      "question": "Which structure in mammals produces sperm?",
+      "options": [
+        { "key": "A", "text": "Penis" },
+        { "key": "B", "text": "Testis" },
+        { "key": "C", "text": "Scrotum" },
+        { "key": "D", "text": "Prostate gland" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "Which process ensures continuity of life?",
+      "options": [
+        { "key": "A", "text": "Nutrition" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Reproduction" },
+        { "key": "D", "text": "Growth" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following animals is oviparous?",
+      "options": [
+        { "key": "A", "text": "Human" },
+        { "key": "B", "text": "Goat" },
+        { "key": "C", "text": "Chicken" },
+        { "key": "D", "text": "Dog" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Which process converts glucose to energy?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Excretion" },
+        { "key": "D", "text": "Transpiration" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "Which structure in plants absorbs water from the soil?",
+      "options": [
+        { "key": "A", "text": "Root hair" },
+        { "key": "B", "text": "Stem" },
+        { "key": "C", "text": "Leaf" },
+        { "key": "D", "text": "Petiole" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "Which disease is caused by lack of protein?",
+      "options": [
+        { "key": "A", "text": "Marasmus" },
+        { "key": "B", "text": "Scurvy" },
+        { "key": "C", "text": "Rickets" },
+        { "key": "D", "text": "Anaemia" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 98,
+      "question": "Which blood vessel carries oxygenated blood?",
+      "options": [
+        { "key": "A", "text": "Pulmonary artery" },
+        { "key": "B", "text": "Pulmonary vein" },
+        { "key": "C", "text": "Vena cava" },
+        { "key": "D", "text": "Hepatic portal vein" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Which plant tissue is responsible for growth in length?",
+      "options": [
+        { "key": "A", "text": "Lateral meristem" },
+        { "key": "B", "text": "Apical meristem" },
+        { "key": "C", "text": "Vascular bundle" },
+        { "key": "D", "text": "Cortex" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "Which group of animals has moist skin?",
+      "options": [
+        { "key": "A", "text": "Reptiles" },
+        { "key": "B", "text": "Mammals" },
+        { "key": "C", "text": "Amphibians" },
+        { "key": "D", "text": "Birds" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 101,
+      "question": "Which process involves intake of oxygen and release of carbon dioxide?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Diffusion" },
+        { "key": "D", "text": "Osmosis" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Which structure produces eggs in female mammals?",
+      "options": [
+        { "key": "A", "text": "Ovary" },
+        { "key": "B", "text": "Uterus" },
+        { "key": "C", "text": "Vagina" },
+        { "key": "D", "text": "Fallopian tube" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 103,
+      "question": "Which type of nutrition is exhibited by fungi?",
+      "options": [
+        { "key": "A", "text": "Autotrophic" },
+        { "key": "B", "text": "Saprophytic" },
+        { "key": "C", "text": "Holozoic" },
+        { "key": "D", "text": "Photosynthetic" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Which waste product is removed through the lungs?",
+      "options": [
+        { "key": "A", "text": "Urea" },
+        { "key": "B", "text": "Water" },
+        { "key": "C", "text": "Carbon dioxide" },
+        { "key": "D", "text": "Salt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Which cell division results in identical daughter cells?",
+      "options": [
+        { "key": "A", "text": "Meiosis" },
+        { "key": "B", "text": "Mitosis" },
+        { "key": "C", "text": "Fertilization" },
+        { "key": "D", "text": "Fusion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 106,
+      "question": "Which of the following animals has an exoskeleton?",
+      "options": [
+        { "key": "A", "text": "Fish" },
+        { "key": "B", "text": "Bird" },
+        { "key": "C", "text": "Cockroach" },
+        { "key": "D", "text": "Frog" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 107,
+      "question": "Which structure transports water in plants?",
+      "options": [
+        { "key": "A", "text": "Phloem" },
+        { "key": "B", "text": "Xylem" },
+        { "key": "C", "text": "Cambium" },
+        { "key": "D", "text": "Cortex" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "Which disease is caused by a deficiency of vitamin D?",
+      "options": [
+        { "key": "A", "text": "Rickets" },
+        { "key": "B", "text": "Scurvy" },
+        { "key": "C", "text": "Beriberi" },
+        { "key": "D", "text": "Pellagra" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "Which gas is essential for respiration?",
+      "options": [
+        { "key": "A", "text": "Nitrogen" },
+        { "key": "B", "text": "Carbon dioxide" },
+        { "key": "C", "text": "Oxygen" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "Which process allows plants to lose excess water?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Transpiration" },
+        { "key": "D", "text": "Excretion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 111,
+      "question": "Which part of the brain controls voluntary actions?",
+      "options": [
+        { "key": "A", "text": "Medulla oblongata" },
+        { "key": "B", "text": "Cerebrum" },
+        { "key": "C", "text": "Cerebellum" },
+        { "key": "D", "text": "Spinal cord" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "Which organism is a producer?",
+      "options": [
+        { "key": "A", "text": "Grass" },
+        { "key": "B", "text": "Goat" },
+        { "key": "C", "text": "Lion" },
+        { "key": "D", "text": "Fungi" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 113,
+      "question": "Which structure stores urine?",
+      "options": [
+        { "key": "A", "text": "Kidney" },
+        { "key": "B", "text": "Ureter" },
+        { "key": "C", "text": "Urinary bladder" },
+        { "key": "D", "text": "Urethra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "Which process involves the fusion of gametes?",
+      "options": [
+        { "key": "A", "text": "Pollination" },
+        { "key": "B", "text": "Fertilization" },
+        { "key": "C", "text": "Germination" },
+        { "key": "D", "text": "Budding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Which organ produces insulin?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Pancreas" },
+        { "key": "C", "text": "Kidney" },
+        { "key": "D", "text": "Heart" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 116,
+      "question": "Which of the following is a renewable resource?",
+      "options": [
+        { "key": "A", "text": "Petroleum" },
+        { "key": "B", "text": "Coal" },
+        { "key": "C", "text": "Forest" },
+        { "key": "D", "text": "Natural gas" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Which structure carries impulses away from the brain?",
+      "options": [
+        { "key": "A", "text": "Sensory neuron" },
+        { "key": "B", "text": "Motor neuron" },
+        { "key": "C", "text": "Relay neuron" },
+        { "key": "D", "text": "Receptor" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Which organ removes urea from the blood?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Kidney" },
+        { "key": "C", "text": "Lung" },
+        { "key": "D", "text": "Skin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 119,
+      "question": "Which plant part is modified into a thorn?",
+      "options": [
+        { "key": "A", "text": "Root" },
+        { "key": "B", "text": "Stem" },
+        { "key": "C", "text": "Leaf" },
+        { "key": "D", "text": "Flower" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "Which feature helps birds to fly?",
+      "options": [
+        { "key": "A", "text": "Scales" },
+        { "key": "B", "text": "Hollow bones" },
+        { "key": "C", "text": "Teeth" },
+        { "key": "D", "text": "Cold blood" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 121,
+      "question": "Which part of the flower develops into a fruit?",
+      "options": [
+        { "key": "A", "text": "Ovule" },
+        { "key": "B", "text": "Ovary" },
+        { "key": "C", "text": "Stigma" },
+        { "key": "D", "text": "Style" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 122,
+      "question": "Which tissue in plants is responsible for support?",
+      "options": [
+        { "key": "A", "text": "Phloem" },
+        { "key": "B", "text": "Xylem" },
+        { "key": "C", "text": "Collenchyma" },
+        { "key": "D", "text": "Cambium" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "Which of the following is a vertebrate?",
+      "options": [
+        { "key": "A", "text": "Earthworm" },
+        { "key": "B", "text": "Snail" },
+        { "key": "C", "text": "Lizard" },
+        { "key": "D", "text": "Cockroach" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Which blood vessel carries blood away from the heart?",
+      "options": [
+        { "key": "A", "text": "Vein" },
+        { "key": "B", "text": "Capillary" },
+        { "key": "C", "text": "Artery" },
+        { "key": "D", "text": "Venule" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Which organism fixes atmospheric nitrogen in soil?",
+      "options": [
+        { "key": "A", "text": "Rhizobium" },
+        { "key": "B", "text": "Amoeba" },
+        { "key": "C", "text": "Yeast" },
+        { "key": "D", "text": "Spirogyra" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 126,
+      "question": "Which sense organ is responsible for balance?",
+      "options": [
+        { "key": "A", "text": "Eye" },
+        { "key": "B", "text": "Ear" },
+        { "key": "C", "text": "Nose" },
+        { "key": "D", "text": "Skin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "Which type of respiration occurs without oxygen?",
+      "options": [
+        { "key": "A", "text": "Aerobic" },
+        { "key": "B", "text": "Anaerobic" },
+        { "key": "C", "text": "External" },
+        { "key": "D", "text": "Cellular" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Which structure carries food from leaves to other parts of the plant?",
+      "options": [
+        { "key": "A", "text": "Xylem" },
+        { "key": "B", "text": "Cambium" },
+        { "key": "C", "text": "Phloem" },
+        { "key": "D", "text": "Cortex" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "Which organ is responsible for detoxification in humans?",
+      "options": [
+        { "key": "A", "text": "Kidney" },
+        { "key": "B", "text": "Heart" },
+        { "key": "C", "text": "Liver" },
+        { "key": "D", "text": "Lung" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 130,
+      "question": "Which plant part is responsible for transpiration?",
+      "options": [
+        { "key": "A", "text": "Root" },
+        { "key": "B", "text": "Stem" },
+        { "key": "C", "text": "Leaf" },
+        { "key": "D", "text": "Flower" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 131,
+      "question": "Which type of teeth are used for cutting food?",
+      "options": [
+        { "key": "A", "text": "Canines" },
+        { "key": "B", "text": "Molars" },
+        { "key": "C", "text": "Premolars" },
+        { "key": "D", "text": "Incisors" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 132,
+      "question": "Which structure transports oxygen in the blood?",
+      "options": [
+        { "key": "A", "text": "Plasma" },
+        { "key": "B", "text": "White blood cells" },
+        { "key": "C", "text": "Platelets" },
+        { "key": "D", "text": "Red blood cells" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 133,
+      "question": "Which method of reproduction produces offspring identical to parent?",
+      "options": [
+        { "key": "A", "text": "Sexual reproduction" },
+        { "key": "B", "text": "Cross fertilization" },
+        { "key": "C", "text": "Asexual reproduction" },
+        { "key": "D", "text": "Pollination" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 134,
+      "question": "Which organ secretes bile?",
+      "options": [
+        { "key": "A", "text": "Gall bladder" },
+        { "key": "B", "text": "Pancreas" },
+        { "key": "C", "text": "Liver" },
+        { "key": "D", "text": "Stomach" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Which level of organization includes members of the same species?",
+      "options": [
+        { "key": "A", "text": "Community" },
+        { "key": "B", "text": "Population" },
+        { "key": "C", "text": "Ecosystem" },
+        { "key": "D", "text": "Biome" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 136,
+      "question": "Which structure allows gas exchange in leaves?",
+      "options": [
+        { "key": "A", "text": "Cuticle" },
+        { "key": "B", "text": "Stomata" },
+        { "key": "C", "text": "Vein" },
+        { "key": "D", "text": "Midrib" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "Which process releases energy from food?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Excretion" },
+        { "key": "D", "text": "Transpiration" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "Which blood cells fight infections?",
+      "options": [
+        { "key": "A", "text": "Platelets" },
+        { "key": "B", "text": "Red blood cells" },
+        { "key": "C", "text": "White blood cells" },
+        { "key": "D", "text": "Plasma" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Which plant hormone promotes growth?",
+      "options": [
+        { "key": "A", "text": "Auxin" },
+        { "key": "B", "text": "Ethylene" },
+        { "key": "C", "text": "Abscisic acid" },
+        { "key": "D", "text": "Florigen" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 140,
+      "question": "Which type of joint allows movement in all directions?",
+      "options": [
+        { "key": "A", "text": "Hinge joint" },
+        { "key": "B", "text": "Ball and socket joint" },
+        { "key": "C", "text": "Pivot joint" },
+        { "key": "D", "text": "Gliding joint" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 141,
+      "question": "Which disease is transmitted by mosquitoes?",
+      "options": [
+        { "key": "A", "text": "Cholera" },
+        { "key": "B", "text": "Malaria" },
+        { "key": "C", "text": "Tuberculosis" },
+        { "key": "D", "text": "Typhoid" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "Which nutrient is needed for growth and repair?",
+      "options": [
+        { "key": "A", "text": "Carbohydrate" },
+        { "key": "B", "text": "Fat" },
+        { "key": "C", "text": "Protein" },
+        { "key": "D", "text": "Vitamin" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "Which structure produces pollen grains?",
+      "options": [
+        { "key": "A", "text": "Stigma" },
+        { "key": "B", "text": "Ovary" },
+        { "key": "C", "text": "Anther" },
+        { "key": "D", "text": "Style" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 144,
+      "question": "Which class of animals has feathers?",
+      "options": [
+        { "key": "A", "text": "Mammalia" },
+        { "key": "B", "text": "Aves" },
+        { "key": "C", "text": "Reptilia" },
+        { "key": "D", "text": "Amphibia" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Which process results in the formation of gametes?",
+      "options": [
+        { "key": "A", "text": "Mitosis" },
+        { "key": "B", "text": "Meiosis" },
+        { "key": "C", "text": "Fertilization" },
+        { "key": "D", "text": "Germination" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 146,
+      "question": "Which structure in fish is used for respiration?",
+      "options": [
+        { "key": "A", "text": "Lung" },
+        { "key": "B", "text": "Gill" },
+        { "key": "C", "text": "Skin" },
+        { "key": "D", "text": "Spiracle" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 147,
+      "question": "Which substance is produced during anaerobic respiration in plants?",
+      "options": [
+        { "key": "A", "text": "Carbon dioxide only" },
+        { "key": "B", "text": "Ethanol and carbon dioxide" },
+        { "key": "C", "text": "Lactic acid" },
+        { "key": "D", "text": "Oxygen" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Which component of blood helps in clotting?",
+      "options": [
+        { "key": "A", "text": "Plasma" },
+        { "key": "B", "text": "White blood cells" },
+        { "key": "C", "text": "Red blood cells" },
+        { "key": "D", "text": "Platelets" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 149,
+      "question": "Which structure in the kidney filters blood?",
+      "options": [
+        { "key": "A", "text": "Nephron" },
+        { "key": "B", "text": "Ureter" },
+        { "key": "C", "text": "Pelvis" },
+        { "key": "D", "text": "Bladder" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 150,
+      "question": "Which type of symmetry is found in starfish?",
+      "options": [
+        { "key": "A", "text": "Bilateral symmetry" },
+        { "key": "B", "text": "Radial symmetry" },
+        { "key": "C", "text": "Asymmetry" },
+        { "key": "D", "text": "Linear symmetry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 151,
+      "question": "Which organ stores bile before use?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Pancreas" },
+        { "key": "C", "text": "Gall bladder" },
+        { "key": "D", "text": "Stomach" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 152,
+      "question": "Which part of the brain controls heartbeat?",
+      "options": [
+        { "key": "A", "text": "Cerebrum" },
+        { "key": "B", "text": "Cerebellum" },
+        { "key": "C", "text": "Medulla oblongata" },
+        { "key": "D", "text": "Hypothalamus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "Which organism causes tuberculosis?",
+      "options": [
+        { "key": "A", "text": "Virus" },
+        { "key": "B", "text": "Bacterium" },
+        { "key": "C", "text": "Protozoan" },
+        { "key": "D", "text": "Fungus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 154,
+      "question": "Which of the following is a decomposer?",
+      "options": [
+        { "key": "A", "text": "Grass" },
+        { "key": "B", "text": "Goat" },
+        { "key": "C", "text": "Lion" },
+        { "key": "D", "text": "Mushroom" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 155,
+      "question": "Which system controls body activities using hormones?",
+      "options": [
+        { "key": "A", "text": "Digestive system" },
+        { "key": "B", "text": "Nervous system" },
+        { "key": "C", "text": "Endocrine system" },
+        { "key": "D", "text": "Circulatory system" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 156,
+      "question": "Which plant reproduces by spores?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Fern" },
+        { "key": "C", "text": "Mango" },
+        { "key": "D", "text": "Beans" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 157,
+      "question": "Which structure in mammals produces urine?",
+      "options": [
+        { "key": "A", "text": "Bladder" },
+        { "key": "B", "text": "Ureter" },
+        { "key": "C", "text": "Kidney" },
+        { "key": "D", "text": "Urethra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 158,
+      "question": "Which process enables plants to make food?",
+      "options": [
+        { "key": "A", "text": "Respiration" },
+        { "key": "B", "text": "Photosynthesis" },
+        { "key": "C", "text": "Transpiration" },
+        { "key": "D", "text": "Excretion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "Which class of food provides energy?",
+      "options": [
+        { "key": "A", "text": "Protein" },
+        { "key": "B", "text": "Vitamin" },
+        { "key": "C", "text": "Carbohydrate" },
+        { "key": "D", "text": "Mineral salt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 160,
+      "question": "Which structure enables movement at joints?",
+      "options": [
+        { "key": "A", "text": "Ligament" },
+        { "key": "B", "text": "Bone marrow" },
+        { "key": "C", "text": "Muscle" },
+        { "key": "D", "text": "Cartilage" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 161,
+      "question": "Which environmental factor affects transpiration rate?",
+      "options": [
+        { "key": "A", "text": "Wind" },
+        { "key": "B", "text": "Soil type" },
+        { "key": "C", "text": "Salinity" },
+        { "key": "D", "text": "pH" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 162,
+      "question": "Which organ produces digestive enzymes?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Pancreas" },
+        { "key": "C", "text": "Gall bladder" },
+        { "key": "D", "text": "Spleen" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "Which organism causes cholera?",
+      "options": [
+        { "key": "A", "text": "Virus" },
+        { "key": "B", "text": "Bacterium" },
+        { "key": "C", "text": "Protozoan" },
+        { "key": "D", "text": "Fungus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "Which part of the plant anchors it to the soil?",
+      "options": [
+        { "key": "A", "text": "Leaf" },
+        { "key": "B", "text": "Stem" },
+        { "key": "C", "text": "Root" },
+        { "key": "D", "text": "Flower" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "Which process leads to variation in offspring?",
+      "options": [
+        { "key": "A", "text": "Mitosis" },
+        { "key": "B", "text": "Meiosis" },
+        { "key": "C", "text": "Binary fission" },
+        { "key": "D", "text": "Budding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 166,
+      "question": "Which animal is warm-blooded?",
+      "options": [
+        { "key": "A", "text": "Lizard" },
+        { "key": "B", "text": "Snake" },
+        { "key": "C", "text": "Bird" },
+        { "key": "D", "text": "Frog" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 167,
+      "question": "Which structure connects muscles to bones?",
+      "options": [
+        { "key": "A", "text": "Ligament" },
+        { "key": "B", "text": "Tendon" },
+        { "key": "C", "text": "Cartilage" },
+        { "key": "D", "text": "Joint" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "Which gas is needed for combustion and respiration?",
+      "options": [
+        { "key": "A", "text": "Nitrogen" },
+        { "key": "B", "text": "Oxygen" },
+        { "key": "C", "text": "Carbon dioxide" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "Which plant tissue is responsible for transport?",
+      "options": [
+        { "key": "A", "text": "Epidermis" },
+        { "key": "B", "text": "Vascular tissue" },
+        { "key": "C", "text": "Parenchyma" },
+        { "key": "D", "text": "Collenchyma" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 170,
+      "question": "Which feature distinguishes mammals from other animals?",
+      "options": [
+        { "key": "A", "text": "Scales" },
+        { "key": "B", "text": "Feathers" },
+        { "key": "C", "text": "Hair and mammary glands" },
+        { "key": "D", "text": "Cold blood" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 171,
+      "question": "Which organ in mammals regulates body temperature?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Skin" },
+        { "key": "C", "text": "Kidney" },
+        { "key": "D", "text": "Lungs" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Which structure in plants is responsible for absorption of water?",
+      "options": [
+        { "key": "A", "text": "Root hairs" },
+        { "key": "B", "text": "Stem" },
+        { "key": "C", "text": "Leaf veins" },
+        { "key": "D", "text": "Stomata" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 173,
+      "question": "Which type of nutrition is shown by fungi?",
+      "options": [
+        { "key": "A", "text": "Autotrophic" },
+        { "key": "B", "text": "Holozoic" },
+        { "key": "C", "text": "Saprophytic" },
+        { "key": "D", "text": "Parasitic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 174,
+      "question": "Which process removes waste products from organisms?",
+      "options": [
+        { "key": "A", "text": "Respiration" },
+        { "key": "B", "text": "Excretion" },
+        { "key": "C", "text": "Nutrition" },
+        { "key": "D", "text": "Reproduction" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 175,
+      "question": "Which structure connects the foetus to the placenta?",
+      "options": [
+        { "key": "A", "text": "Amnion" },
+        { "key": "B", "text": "Umbilical cord" },
+        { "key": "C", "text": "Chorion" },
+        { "key": "D", "text": "Allantois" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 176,
+      "question": "Which part of the eye controls the amount of light entering?",
+      "options": [
+        { "key": "A", "text": "Cornea" },
+        { "key": "B", "text": "Lens" },
+        { "key": "C", "text": "Iris" },
+        { "key": "D", "text": "Retina" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "Which organism is used in bread making?",
+      "options": [
+        { "key": "A", "text": "Bacteria" },
+        { "key": "B", "text": "Virus" },
+        { "key": "C", "text": "Yeast" },
+        { "key": "D", "text": "Algae" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 178,
+      "question": "Which structure produces ovum in female mammals?",
+      "options": [
+        { "key": "A", "text": "Uterus" },
+        { "key": "B", "text": "Ovary" },
+        { "key": "C", "text": "Oviduct" },
+        { "key": "D", "text": "Vagina" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 179,
+      "question": "Which of the following is a monocotyledonous plant?",
+      "options": [
+        { "key": "A", "text": "Bean" },
+        { "key": "B", "text": "Maize" },
+        { "key": "C", "text": "Groundnut" },
+        { "key": "D", "text": "Mango" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "Which blood group is the universal recipient?",
+      "options": [
+        { "key": "A", "text": "Group A" },
+        { "key": "B", "text": "Group B" },
+        { "key": "C", "text": "Group AB" },
+        { "key": "D", "text": "Group O" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 181,
+      "question": "Which organ produces insulin?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Pancreas" },
+        { "key": "C", "text": "Gall bladder" },
+        { "key": "D", "text": "Stomach" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "Which process converts glucose to glycogen?",
+      "options": [
+        { "key": "A", "text": "Glycolysis" },
+        { "key": "B", "text": "Glycogenesis" },
+        { "key": "C", "text": "Gluconeogenesis" },
+        { "key": "D", "text": "Oxidation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "Which type of leaf venation is found in dicots?",
+      "options": [
+        { "key": "A", "text": "Parallel" },
+        { "key": "B", "text": "Reticulate" },
+        { "key": "C", "text": "Linear" },
+        { "key": "D", "text": "Circular" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Which structure protects the brain?",
+      "options": [
+        { "key": "A", "text": "Vertebral column" },
+        { "key": "B", "text": "Rib cage" },
+        { "key": "C", "text": "Skull" },
+        { "key": "D", "text": "Pelvic girdle" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 185,
+      "question": "Which parasite causes sleeping sickness?",
+      "options": [
+        { "key": "A", "text": "Plasmodium" },
+        { "key": "B", "text": "Trypanosoma" },
+        { "key": "C", "text": "Entamoeba" },
+        { "key": "D", "text": "Ascaris" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 186,
+      "question": "Which process forms food in green plants?",
+      "options": [
+        { "key": "A", "text": "Respiration" },
+        { "key": "B", "text": "Photosynthesis" },
+        { "key": "C", "text": "Translocation" },
+        { "key": "D", "text": "Excretion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 187,
+      "question": "Which cell organelle controls cell activities?",
+      "options": [
+        { "key": "A", "text": "Mitochondrion" },
+        { "key": "B", "text": "Nucleus" },
+        { "key": "C", "text": "Ribosome" },
+        { "key": "D", "text": "Golgi body" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "Which structure allows water loss in plants?",
+      "options": [
+        { "key": "A", "text": "Root hairs" },
+        { "key": "B", "text": "Stomata" },
+        { "key": "C", "text": "Xylem" },
+        { "key": "D", "text": "Phloem" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 189,
+      "question": "Which vitamin prevents rickets?",
+      "options": [
+        { "key": "A", "text": "Vitamin A" },
+        { "key": "B", "text": "Vitamin B" },
+        { "key": "C", "text": "Vitamin C" },
+        { "key": "D", "text": "Vitamin D" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 190,
+      "question": "Which system is responsible for coordination in humans?",
+      "options": [
+        { "key": "A", "text": "Digestive system" },
+        { "key": "B", "text": "Circulatory system" },
+        { "key": "C", "text": "Nervous system" },
+        { "key": "D", "text": "Respiratory system" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 191,
+      "question": "Which gas is released during photosynthesis?",
+      "options": [
+        { "key": "A", "text": "Carbon dioxide" },
+        { "key": "B", "text": "Oxygen" },
+        { "key": "C", "text": "Nitrogen" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 192,
+      "question": "Which structure is responsible for hearing?",
+      "options": [
+        { "key": "A", "text": "Eye" },
+        { "key": "B", "text": "Nose" },
+        { "key": "C", "text": "Ear" },
+        { "key": "D", "text": "Skin" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 193,
+      "question": "Which plant hormone promotes fruit ripening?",
+      "options": [
+        { "key": "A", "text": "Auxin" },
+        { "key": "B", "text": "Ethylene" },
+        { "key": "C", "text": "Gibberellin" },
+        { "key": "D", "text": "Cytokinin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "Which tissue connects bones together?",
+      "options": [
+        { "key": "A", "text": "Tendon" },
+        { "key": "B", "text": "Cartilage" },
+        { "key": "C", "text": "Ligament" },
+        { "key": "D", "text": "Muscle" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Which excretory product is removed by the lungs?",
+      "options": [
+        { "key": "A", "text": "Urea" },
+        { "key": "B", "text": "Water" },
+        { "key": "C", "text": "Carbon dioxide" },
+        { "key": "D", "text": "Salt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 196,
+      "question": "Which organism is a producer?",
+      "options": [
+        { "key": "A", "text": "Goat" },
+        { "key": "B", "text": "Grass" },
+        { "key": "C", "text": "Lion" },
+        { "key": "D", "text": "Mushroom" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "Which class of animals lays eggs and has feathers?",
+      "options": [
+        { "key": "A", "text": "Reptilia" },
+        { "key": "B", "text": "Aves" },
+        { "key": "C", "text": "Mammalia" },
+        { "key": "D", "text": "Amphibia" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 198,
+      "question": "Which structure stores sperm cells?",
+      "options": [
+        { "key": "A", "text": "Testis" },
+        { "key": "B", "text": "Scrotum" },
+        { "key": "C", "text": "Epididymis" },
+        { "key": "D", "text": "Urethra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 199,
+      "question": "Which part of the plant conducts manufactured food?",
+      "options": [
+        { "key": "A", "text": "Xylem" },
+        { "key": "B", "text": "Phloem" },
+        { "key": "C", "text": "Cambium" },
+        { "key": "D", "text": "Cortex" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "Which type of reproduction involves two parents?",
+      "options": [
+        { "key": "A", "text": "Binary fission" },
+        { "key": "B", "text": "Budding" },
+        { "key": "C", "text": "Vegetative propagation" },
+        { "key": "D", "text": "Sexual reproduction" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 201,
+      "question": "Which structure protects the heart?",
+      "options": [
+        { "key": "A", "text": "Skull" },
+        { "key": "B", "text": "Pelvis" },
+        { "key": "C", "text": "Rib cage" },
+        { "key": "D", "text": "Vertebra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 202,
+      "question": "Which nutrient is required for blood clotting?",
+      "options": [
+        { "key": "A", "text": "Vitamin A" },
+        { "key": "B", "text": "Vitamin C" },
+        { "key": "C", "text": "Vitamin D" },
+        { "key": "D", "text": "Vitamin K" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 203,
+      "question": "Which structure connects the kidney to the bladder?",
+      "options": [
+        { "key": "A", "text": "Urethra" },
+        { "key": "B", "text": "Nephron" },
+        { "key": "C", "text": "Ureter" },
+        { "key": "D", "text": "Pelvis" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 204,
+      "question": "Which class of food protects the body?",
+      "options": [
+        { "key": "A", "text": "Protein" },
+        { "key": "B", "text": "Carbohydrate" },
+        { "key": "C", "text": "Fat" },
+        { "key": "D", "text": "Vitamins" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 205,
+      "question": "Which structure produces eggs in birds?",
+      "options": [
+        { "key": "A", "text": "Ovary" },
+        { "key": "B", "text": "Oviduct" },
+        { "key": "C", "text": "Uterus" },
+        { "key": "D", "text": "Cloaca" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 206,
+      "question": "Which organism causes AIDS?",
+      "options": [
+        { "key": "A", "text": "Bacterium" },
+        { "key": "B", "text": "Virus" },
+        { "key": "C", "text": "Protozoan" },
+        { "key": "D", "text": "Fungus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 207,
+      "question": "Which structure aids breathing in insects?",
+      "options": [
+        { "key": "A", "text": "Lungs" },
+        { "key": "B", "text": "Gills" },
+        { "key": "C", "text": "Tracheae" },
+        { "key": "D", "text": "Skin" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 208,
+      "question": "Which process increases population size?",
+      "options": [
+        { "key": "A", "text": "Death" },
+        { "key": "B", "text": "Migration" },
+        { "key": "C", "text": "Reproduction" },
+        { "key": "D", "text": "Predation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 209,
+      "question": "Which skeletal structure supports the body?",
+      "options": [
+        { "key": "A", "text": "Appendicular skeleton" },
+        { "key": "B", "text": "Axial skeleton" },
+        { "key": "C", "text": "Pelvic girdle" },
+        { "key": "D", "text": "Pectoral girdle" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 210,
+      "question": "Which organism is a secondary consumer?",
+      "options": [
+        { "key": "A", "text": "Grass" },
+        { "key": "B", "text": "Goat" },
+        { "key": "C", "text": "Lion" },
+        { "key": "D", "text": "Mushroom" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 211,
+      "question": "Which structure produces digestive juice in the stomach?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Pancreas" },
+        { "key": "C", "text": "Gastric glands" },
+        { "key": "D", "text": "Gall bladder" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 212,
+      "question": "Which factor does not affect enzyme action?",
+      "options": [
+        { "key": "A", "text": "Temperature" },
+        { "key": "B", "text": "pH" },
+        { "key": "C", "text": "Substrate concentration" },
+        { "key": "D", "text": "Colour" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 213,
+      "question": "Which plant part bears leaves and flowers?",
+      "options": [
+        { "key": "A", "text": "Root" },
+        { "key": "B", "text": "Stem" },
+        { "key": "C", "text": "Seed" },
+        { "key": "D", "text": "Fruit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 214,
+      "question": "Which excretory organ removes urea?",
+      "options": [
+        { "key": "A", "text": "Liver" },
+        { "key": "B", "text": "Skin" },
+        { "key": "C", "text": "Lungs" },
+        { "key": "D", "text": "Kidney" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 215,
+      "question": "Which structure holds the lens in position?",
+      "options": [
+        { "key": "A", "text": "Cornea" },
+        { "key": "B", "text": "Iris" },
+        { "key": "C", "text": "Ciliary muscles" },
+        { "key": "D", "text": "Retina" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 216,
+      "question": "Which type of fertilization occurs in fish?",
+      "options": [
+        { "key": "A", "text": "Internal fertilization" },
+        { "key": "B", "text": "External fertilization" },
+        { "key": "C", "text": "Self-fertilization" },
+        { "key": "D", "text": "Cross fertilization" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 217,
+      "question": "Which structure transports sperm to the urethra?",
+      "options": [
+        { "key": "A", "text": "Testis" },
+        { "key": "B", "text": "Epididymis" },
+        { "key": "C", "text": "Vas deferens" },
+        { "key": "D", "text": "Scrotum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 218,
+      "question": "Which group of organisms has no backbone?",
+      "options": [
+        { "key": "A", "text": "Vertebrates" },
+        { "key": "B", "text": "Chordates" },
+        { "key": "C", "text": "Invertebrates" },
+        { "key": "D", "text": "Mammals" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 219,
+      "question": "Which part of the plant absorbs mineral salts?",
+      "options": [
+        { "key": "A", "text": "Stem" },
+        { "key": "B", "text": "Leaf" },
+        { "key": "C", "text": "Root hairs" },
+        { "key": "D", "text": "Flower" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 220,
+      "question": "Which characteristic is common to all living things?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Movement" },
+        { "key": "C", "text": "Respiration" },
+        { "key": "D", "text": "Locomotion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 221,
+      "question": "Which structure enables gaseous exchange in fish?",
+      "options": [
+        { "key": "A", "text": "Lungs" },
+        { "key": "B", "text": "Skin" },
+        { "key": "C", "text": "Gills" },
+        { "key": "D", "text": "Trachea" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 222,
+      "question": "Which cell structure is responsible for protein synthesis?",
+      "options": [
+        { "key": "A", "text": "Mitochondrion" },
+        { "key": "B", "text": "Ribosome" },
+        { "key": "C", "text": "Nucleus" },
+        { "key": "D", "text": "Lysosome" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 223,
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": [
+        { "key": "A", "text": "Cerebrum" },
+        { "key": "B", "text": "Medulla oblongata" },
+        { "key": "C", "text": "Cerebellum" },
+        { "key": "D", "text": "Spinal cord" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 224,
+      "question": "Which blood cells are responsible for immunity?",
+      "options": [
+        { "key": "A", "text": "Red blood cells" },
+        { "key": "B", "text": "White blood cells" },
+        { "key": "C", "text": "Platelets" },
+        { "key": "D", "text": "Plasma" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 225,
+      "question": "Which type of joint allows free movement?",
+      "options": [
+        { "key": "A", "text": "Hinge joint" },
+        { "key": "B", "text": "Pivot joint" },
+        { "key": "C", "text": "Ball and socket joint" },
+        { "key": "D", "text": "Gliding joint" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 226,
+      "question": "Which process results in loss of water vapour from plants?",
+      "options": [
+        { "key": "A", "text": "Respiration" },
+        { "key": "B", "text": "Transpiration" },
+        { "key": "C", "text": "Photosynthesis" },
+        { "key": "D", "text": "Excretion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 227,
+      "question": "Which structure in the kidney filters blood?",
+      "options": [
+        { "key": "A", "text": "Pelvis" },
+        { "key": "B", "text": "Ureter" },
+        { "key": "C", "text": "Nephron" },
+        { "key": "D", "text": "Urethra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 228,
+      "question": "Which nutrient provides energy fastest?",
+      "options": [
+        { "key": "A", "text": "Protein" },
+        { "key": "B", "text": "Fat" },
+        { "key": "C", "text": "Carbohydrate" },
+        { "key": "D", "text": "Vitamin" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 229,
+      "question": "Which structure encloses the heart?",
+      "options": [
+        { "key": "A", "text": "Pericardium" },
+        { "key": "B", "text": "Pleura" },
+        { "key": "C", "text": "Diaphragm" },
+        { "key": "D", "text": "Rib cage" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 230,
+      "question": "Which process forms urine in mammals?",
+      "options": [
+        { "key": "A", "text": "Filtration" },
+        { "key": "B", "text": "Osmosis" },
+        { "key": "C", "text": "Transpiration" },
+        { "key": "D", "text": "Respiration" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 231,
+      "question": "Which structure prevents food from entering the trachea?",
+      "options": [
+        { "key": "A", "text": "Larynx" },
+        { "key": "B", "text": "Epiglottis" },
+        { "key": "C", "text": "Pharynx" },
+        { "key": "D", "text": "Oesophagus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 232,
+      "question": "Which organism carries malaria parasite?",
+      "options": [
+        { "key": "A", "text": "Housefly" },
+        { "key": "B", "text": "Tsetse fly" },
+        { "key": "C", "text": "Female Anopheles mosquito" },
+        { "key": "D", "text": "Cockroach" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 233,
+      "question": "Which class of animals has moist skin?",
+      "options": [
+        { "key": "A", "text": "Reptilia" },
+        { "key": "B", "text": "Aves" },
+        { "key": "C", "text": "Amphibia" },
+        { "key": "D", "text": "Mammalia" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 234,
+      "question": "Which process releases energy from food?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Respiration" },
+        { "key": "C", "text": "Transpiration" },
+        { "key": "D", "text": "Digestion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 235,
+      "question": "Which structure transports oxygen in blood?",
+      "options": [
+        { "key": "A", "text": "Plasma" },
+        { "key": "B", "text": "Platelets" },
+        { "key": "C", "text": "Haemoglobin" },
+        { "key": "D", "text": "Serum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 236,
+      "question": "Which type of teeth is used for tearing flesh?",
+      "options": [
+        { "key": "A", "text": "Incisors" },
+        { "key": "B", "text": "Molars" },
+        { "key": "C", "text": "Premolars" },
+        { "key": "D", "text": "Canines" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 237,
+      "question": "Which structure controls water loss in plants?",
+      "options": [
+        { "key": "A", "text": "Cuticle" },
+        { "key": "B", "text": "Root hairs" },
+        { "key": "C", "text": "Xylem" },
+        { "key": "D", "text": "Cambium" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 238,
+      "question": "Which factor causes variation in organisms?",
+      "options": [
+        { "key": "A", "text": "Nutrition" },
+        { "key": "B", "text": "Mutation" },
+        { "key": "C", "text": "Respiration" },
+        { "key": "D", "text": "Growth" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 239,
+      "question": "Which structure produces bile?",
+      "options": [
+        { "key": "A", "text": "Pancreas" },
+        { "key": "B", "text": "Gall bladder" },
+        { "key": "C", "text": "Liver" },
+        { "key": "D", "text": "Stomach" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 240,
+      "question": "Which feature is common to plants and animals?",
+      "options": [
+        { "key": "A", "text": "Photosynthesis" },
+        { "key": "B", "text": "Chlorophyll" },
+        { "key": "C", "text": "Respiration" },
+        { "key": "D", "text": "Autotrophic nutrition" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 221,
+      "question": "Which of the following organisms carries out both photosynthesis and respiration?",
+      "options": [
+        { "key": "A", "text": "Fungi" },
+        { "key": "B", "text": "Algae" },
+        { "key": "C", "text": "Protozoa" },
+        { "key": "D", "text": "Virus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 222,
+      "question": "The movement of water from the soil into the root hairs occurs mainly by",
+      "options": [
+        { "key": "A", "text": "Diffusion" },
+        { "key": "B", "text": "Active transport" },
+        { "key": "C", "text": "Osmosis" },
+        { "key": "D", "text": "Translocation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 223,
+      "question": "Which of the following structures is responsible for transpiration in plants?",
+      "options": [
+        { "key": "A", "text": "Root hairs" },
+        { "key": "B", "text": "Stomata" },
+        { "key": "C", "text": "Xylem vessels" },
+        { "key": "D", "text": "Phloem tissues" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 224,
+      "question": "The function of red blood cells is to",
+      "options": [
+        { "key": "A", "text": "Fight infection" },
+        { "key": "B", "text": "Transport oxygen" },
+        { "key": "C", "text": "Clot blood" },
+        { "key": "D", "text": "Regulate body temperature" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 225,
+      "question": "Which of the following diseases is caused by a virus?",
+      "options": [
+        { "key": "A", "text": "Tuberculosis" },
+        { "key": "B", "text": "Malaria" },
+        { "key": "C", "text": "Measles" },
+        { "key": "D", "text": "Cholera" }
+      ],
+      "correct_answer": "C"
     }
   ]
 }
