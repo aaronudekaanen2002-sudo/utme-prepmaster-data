@@ -62,6 +62,2300 @@
         { "key": "D", "text": "Harvesting" }
       ],
       "correct_answer": "B"
+    },
+
+    {
+      "id": 6,
+      "question": "Agriculture can best be defined as the science and art of",
+      "options": [
+        { "key": "A", "text": "manufacturing goods" },
+        { "key": "B", "text": "cultivating crops and rearing animals" },
+        { "key": "C", "text": "marketing farm produce" },
+        { "key": "D", "text": "processing raw materials" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a branch of agriculture?",
+      "options": [
+        { "key": "A", "text": "Medicine" },
+        { "key": "B", "text": "Soil science" },
+        { "key": "C", "text": "Engineering" },
+        { "key": "D", "text": "Banking" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Growing only one type of crop on a piece of land is called",
+      "options": [
+        { "key": "A", "text": "mixed cropping" },
+        { "key": "B", "text": "intercropping" },
+        { "key": "C", "text": "monocropping" },
+        { "key": "D", "text": "crop rotation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which tool is best used for weeding?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Spade" },
+        { "key": "C", "text": "Axe" },
+        { "key": "D", "text": "Rake" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "The part of a plant that absorbs water and minerals is the",
+      "options": [
+        { "key": "A", "text": "stem" },
+        { "key": "B", "text": "leaf" },
+        { "key": "C", "text": "root" },
+        { "key": "D", "text": "flower" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 11,
+      "question": "Which soil type is best suited for farming?",
+      "options": [
+        { "key": "A", "text": "Clay soil" },
+        { "key": "B", "text": "Sandy soil" },
+        { "key": "C", "text": "Loamy soil" },
+        { "key": "D", "text": "Rocky soil" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "The ability of soil to retain water is called",
+      "options": [
+        { "key": "A", "text": "porosity" },
+        { "key": "B", "text": "water holding capacity" },
+        { "key": "C", "text": "aeration" },
+        { "key": "D", "text": "permeability" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a leguminous crop?",
+      "options": [
+        { "key": "A", "text": "Rice" },
+        { "key": "B", "text": "Maize" },
+        { "key": "C", "text": "Cowpea" },
+        { "key": "D", "text": "Sorghum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Animals that chew cud are known as",
+      "options": [
+        { "key": "A", "text": "omnivores" },
+        { "key": "B", "text": "ruminants" },
+        { "key": "C", "text": "carnivores" },
+        { "key": "D", "text": "monogastrics" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a ruminant animal?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Rabbit" },
+        { "key": "C", "text": "Goat" },
+        { "key": "D", "text": "Chicken" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "The process by which green plants make food is called",
+      "options": [
+        { "key": "A", "text": "respiration" },
+        { "key": "B", "text": "germination" },
+        { "key": "C", "text": "photosynthesis" },
+        { "key": "D", "text": "transpiration" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which farming practice helps maintain soil fertility?",
+      "options": [
+        { "key": "A", "text": "Bush burning" },
+        { "key": "B", "text": "Overgrazing" },
+        { "key": "C", "text": "Crop rotation" },
+        { "key": "D", "text": "Deforestation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a cash crop?",
+      "options": [
+        { "key": "A", "text": "Cassava" },
+        { "key": "B", "text": "Maize" },
+        { "key": "C", "text": "Cocoa" },
+        { "key": "D", "text": "Yam" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "The removal of unwanted plants from farmland is known as",
+      "options": [
+        { "key": "A", "text": "thinning" },
+        { "key": "B", "text": "weeding" },
+        { "key": "C", "text": "harvesting" },
+        { "key": "D", "text": "mulching" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which farming system involves moving from place to place?",
+      "options": [
+        { "key": "A", "text": "Subsistence farming" },
+        { "key": "B", "text": "Commercial farming" },
+        { "key": "C", "text": "Shifting cultivation" },
+        { "key": "D", "text": "Mechanized farming" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 21,
+      "question": "Which of the following is an example of arable crop?",
+      "options": [
+        { "key": "A", "text": "Oil palm" },
+        { "key": "B", "text": "Cocoa" },
+        { "key": "C", "text": "Maize" },
+        { "key": "D", "text": "Rubber" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "The farming system where crops and animals are produced together is called",
+      "options": [
+        { "key": "A", "text": "subsistence farming" },
+        { "key": "B", "text": "pastoral farming" },
+        { "key": "C", "text": "mixed farming" },
+        { "key": "D", "text": "shifting cultivation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is a source of nitrogen in the soil?",
+      "options": [
+        { "key": "A", "text": "Potash" },
+        { "key": "B", "text": "Urea" },
+        { "key": "C", "text": "Phosphate rock" },
+        { "key": "D", "text": "Limestone" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which implement is used mainly for harvesting cereals?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Sickle" },
+        { "key": "C", "text": "Spade" },
+        { "key": "D", "text": "Rake" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "The male reproductive organ of a flower is the",
+      "options": [
+        { "key": "A", "text": "ovary" },
+        { "key": "B", "text": "stigma" },
+        { "key": "C", "text": "anther" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 26,
+      "question": "Which livestock animal provides wool?",
+      "options": [
+        { "key": "A", "text": "Goat" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Cow" },
+        { "key": "D", "text": "Pig" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "What is the practice of covering the soil with materials called?",
+      "options": [
+        { "key": "A", "text": "ridging" },
+        { "key": "B", "text": "mulching" },
+        { "key": "C", "text": "harrowing" },
+        { "key": "D", "text": "weeding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which nutrient promotes leafy growth in crops?",
+      "options": [
+        { "key": "A", "text": "Nitrogen" },
+        { "key": "B", "text": "Potassium" },
+        { "key": "C", "text": "Calcium" },
+        { "key": "D", "text": "Phosphorus" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "An example of perennial crop is",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Rice" },
+        { "key": "C", "text": "Oil palm" },
+        { "key": "D", "text": "Beans" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is NOT a factor of production in agriculture?",
+      "options": [
+        { "key": "A", "text": "Land" },
+        { "key": "B", "text": "Labour" },
+        { "key": "C", "text": "Capital" },
+        { "key": "D", "text": "Rainfall" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 31,
+      "question": "Which disease affects poultry birds?",
+      "options": [
+        { "key": "A", "text": "Trypanosomiasis" },
+        { "key": "B", "text": "Newcastle disease" },
+        { "key": "C", "text": "Tuberculosis" },
+        { "key": "D", "text": "Foot rot" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which practice prevents soil erosion?",
+      "options": [
+        { "key": "A", "text": "Bush burning" },
+        { "key": "B", "text": "Contour ploughing" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Deforestation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which farm animal has a four-chambered stomach?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Dog" },
+        { "key": "C", "text": "Cow" },
+        { "key": "D", "text": "Rabbit" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which is an example of organic fertilizer?",
+      "options": [
+        { "key": "A", "text": "Urea" },
+        { "key": "B", "text": "NPK" },
+        { "key": "C", "text": "Farmyard manure" },
+        { "key": "D", "text": "Superphosphate" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "The system of farming mainly for family consumption is",
+      "options": [
+        { "key": "A", "text": "commercial farming" },
+        { "key": "B", "text": "subsistence farming" },
+        { "key": "C", "text": "plantation farming" },
+        { "key": "D", "text": "mechanized farming" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 36,
+      "question": "Which agricultural practice improves soil structure?",
+      "options": [
+        { "key": "A", "text": "Overgrazing" },
+        { "key": "B", "text": "Crop rotation" },
+        { "key": "C", "text": "Bush burning" },
+        { "key": "D", "text": "Deforestation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which tool is used for measuring farm produce?",
+      "options": [
+        { "key": "A", "text": "Scale" },
+        { "key": "B", "text": "Hoe" },
+        { "key": "C", "text": "Cutlass" },
+        { "key": "D", "text": "Spade" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which crop is propagated vegetatively?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Rice" },
+        { "key": "C", "text": "Cassava" },
+        { "key": "D", "text": "Millet" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which pest attacks stored grains?",
+      "options": [
+        { "key": "A", "text": "Weevil" },
+        { "key": "B", "text": "Grasshopper" },
+        { "key": "C", "text": "Termite" },
+        { "key": "D", "text": "Locust" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which operation is done after planting?",
+      "options": [
+        { "key": "A", "text": "Ploughing" },
+        { "key": "B", "text": "Weeding" },
+        { "key": "C", "text": "Harrowing" },
+        { "key": "D", "text": "Ridging" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "Which farm operation involves turning the soil upside down?",
+      "options": [
+        { "key": "A", "text": "Harrowing" },
+        { "key": "B", "text": "Ploughing" },
+        { "key": "C", "text": "Weeding" },
+        { "key": "D", "text": "Mulching" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a leguminous crop?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Rice" },
+        { "key": "C", "text": "Cowpea" },
+        { "key": "D", "text": "Millet" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "What is the major purpose of fencing a farm?",
+      "options": [
+        { "key": "A", "text": "Beautification" },
+        { "key": "B", "text": "Prevent erosion" },
+        { "key": "C", "text": "Keep animals away" },
+        { "key": "D", "text": "Provide shade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which soil type retains the highest amount of water?",
+      "options": [
+        { "key": "A", "text": "Sandy soil" },
+        { "key": "B", "text": "Clay soil" },
+        { "key": "C", "text": "Loamy soil" },
+        { "key": "D", "text": "Gravel soil" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following animals is a ruminant?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Horse" },
+        { "key": "C", "text": "Goat" },
+        { "key": "D", "text": "Dog" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 46,
+      "question": "Which agricultural practice helps maintain soil fertility?",
+      "options": [
+        { "key": "A", "text": "Bush burning" },
+        { "key": "B", "text": "Crop rotation" },
+        { "key": "C", "text": "Overcropping" },
+        { "key": "D", "text": "Continuous cropping" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which crop is mainly cultivated for its leaves?",
+      "options": [
+        { "key": "A", "text": "Carrot" },
+        { "key": "B", "text": "Lettuce" },
+        { "key": "C", "text": "Tomato" },
+        { "key": "D", "text": "Cucumber" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "The process of removing unwanted plants from a farm is called",
+      "options": [
+        { "key": "A", "text": "Pruning" },
+        { "key": "B", "text": "Weeding" },
+        { "key": "C", "text": "Thinning" },
+        { "key": "D", "text": "Spacing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which nutrient is responsible for strong root development?",
+      "options": [
+        { "key": "A", "text": "Nitrogen" },
+        { "key": "B", "text": "Potassium" },
+        { "key": "C", "text": "Phosphorus" },
+        { "key": "D", "text": "Magnesium" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Which farm animal is reared mainly for egg production?",
+      "options": [
+        { "key": "A", "text": "Turkey" },
+        { "key": "B", "text": "Chicken" },
+        { "key": "C", "text": "Duck" },
+        { "key": "D", "text": "Goose" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 51,
+      "question": "Which tool is best used for cutting grass?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Cutlass" },
+        { "key": "C", "text": "Spade" },
+        { "key": "D", "text": "Rake" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "The main source of energy for farm animals is",
+      "options": [
+        { "key": "A", "text": "Protein" },
+        { "key": "B", "text": "Vitamins" },
+        { "key": "C", "text": "Carbohydrates" },
+        { "key": "D", "text": "Minerals" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Which farming system involves moving from one piece of land to another?",
+      "options": [
+        { "key": "A", "text": "Mixed farming" },
+        { "key": "B", "text": "Shifting cultivation" },
+        { "key": "C", "text": "Mechanized farming" },
+        { "key": "D", "text": "Subsistence farming" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Which agricultural activity improves soil aeration?",
+      "options": [
+        { "key": "A", "text": "Harvesting" },
+        { "key": "B", "text": "Ploughing" },
+        { "key": "C", "text": "Mulching" },
+        { "key": "D", "text": "Fertilizing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Which is an example of root crop?",
+      "options": [
+        { "key": "A", "text": "Yam" },
+        { "key": "B", "text": "Rice" },
+        { "key": "C", "text": "Maize" },
+        { "key": "D", "text": "Wheat" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 56,
+      "question": "What is the main function of potassium in plants?",
+      "options": [
+        { "key": "A", "text": "Leaf growth" },
+        { "key": "B", "text": "Root formation" },
+        { "key": "C", "text": "Disease resistance" },
+        { "key": "D", "text": "Seed germination" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Which farm structure is used to store grains?",
+      "options": [
+        { "key": "A", "text": "Barn" },
+        { "key": "B", "text": "Silo" },
+        { "key": "C", "text": "Stable" },
+        { "key": "D", "text": "Pen" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Which disease affects cattle?",
+      "options": [
+        { "key": "A", "text": "Newcastle disease" },
+        { "key": "B", "text": "Foot and mouth disease" },
+        { "key": "C", "text": "Coccidiosis" },
+        { "key": "D", "text": "Fowl pox" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Which process involves drying crops after harvest?",
+      "options": [
+        { "key": "A", "text": "Threshing" },
+        { "key": "B", "text": "Winnowing" },
+        { "key": "C", "text": "Curing" },
+        { "key": "D", "text": "Packaging" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 60,
+      "question": "Which agricultural agent provides loans to farmers?",
+      "options": [
+        { "key": "A", "text": "Extension officer" },
+        { "key": "B", "text": "Veterinarian" },
+        { "key": "C", "text": "Agricultural bank" },
+        { "key": "D", "text": "Cooperative society" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 61,
+      "question": "Which of the following is a cash crop?",
+      "options": [
+        { "key": "A", "text": "Yam" },
+        { "key": "B", "text": "Maize" },
+        { "key": "C", "text": "Cocoa" },
+        { "key": "D", "text": "Cassava" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "The removal of excess water from farmland is known as",
+      "options": [
+        { "key": "A", "text": "Irrigation" },
+        { "key": "B", "text": "Drainage" },
+        { "key": "C", "text": "Mulching" },
+        { "key": "D", "text": "Fertilization" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Which nutrient promotes vegetative growth in crops?",
+      "options": [
+        { "key": "A", "text": "Potassium" },
+        { "key": "B", "text": "Phosphorus" },
+        { "key": "C", "text": "Nitrogen" },
+        { "key": "D", "text": "Calcium" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Which animal is classified as a monogastric feeder?",
+      "options": [
+        { "key": "A", "text": "Goat" },
+        { "key": "B", "text": "Cow" },
+        { "key": "C", "text": "Sheep" },
+        { "key": "D", "text": "Pig" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 65,
+      "question": "Which tool is best for harvesting root crops?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Spade" },
+        { "key": "C", "text": "Cutlass" },
+        { "key": "D", "text": "Rake" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 66,
+      "question": "Which method of weed control uses chemicals?",
+      "options": [
+        { "key": "A", "text": "Mechanical" },
+        { "key": "B", "text": "Cultural" },
+        { "key": "C", "text": "Chemical" },
+        { "key": "D", "text": "Biological" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "The study of crop production is known as",
+      "options": [
+        { "key": "A", "text": "Agronomy" },
+        { "key": "B", "text": "Horticulture" },
+        { "key": "C", "text": "Forestry" },
+        { "key": "D", "text": "Animal husbandry" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is an example of farm produce preservation?",
+      "options": [
+        { "key": "A", "text": "Ploughing" },
+        { "key": "B", "text": "Smoking fish" },
+        { "key": "C", "text": "Weeding" },
+        { "key": "D", "text": "Planting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Which animal produces wool?",
+      "options": [
+        { "key": "A", "text": "Goat" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Cow" },
+        { "key": "D", "text": "Pig" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Which farm animal is mainly kept for draught purposes?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Horse" },
+        { "key": "C", "text": "Rabbit" },
+        { "key": "D", "text": "Poultry" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 71,
+      "question": "Which of the following improves soil structure?",
+      "options": [
+        { "key": "A", "text": "Organic manure" },
+        { "key": "B", "text": "Pesticide" },
+        { "key": "C", "text": "Herbicide" },
+        { "key": "D", "text": "Fungicide" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "What is the by-product of palm oil processing?",
+      "options": [
+        { "key": "A", "text": "Palm kernel cake" },
+        { "key": "B", "text": "Latex" },
+        { "key": "C", "text": "Rubber" },
+        { "key": "D", "text": "Copra" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "Which insect is a pollinator?",
+      "options": [
+        { "key": "A", "text": "Termite" },
+        { "key": "B", "text": "Bee" },
+        { "key": "C", "text": "Weevil" },
+        { "key": "D", "text": "Grasshopper" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Which farming system combines crops and livestock?",
+      "options": [
+        { "key": "A", "text": "Mixed farming" },
+        { "key": "B", "text": "Pastoral farming" },
+        { "key": "C", "text": "Shifting cultivation" },
+        { "key": "D", "text": "Subsistence farming" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 75,
+      "question": "Which gas is essential for photosynthesis?",
+      "options": [
+        { "key": "A", "text": "Oxygen" },
+        { "key": "B", "text": "Nitrogen" },
+        { "key": "C", "text": "Carbon dioxide" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 76,
+      "question": "Which animal disease is caused by virus?",
+      "options": [
+        { "key": "A", "text": "Tuberculosis" },
+        { "key": "B", "text": "Foot and mouth disease" },
+        { "key": "C", "text": "Ringworm" },
+        { "key": "D", "text": "Anthrax" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Which soil has the largest particle size?",
+      "options": [
+        { "key": "A", "text": "Clay" },
+        { "key": "B", "text": "Silt" },
+        { "key": "C", "text": "Loam" },
+        { "key": "D", "text": "Sand" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 78,
+      "question": "Which practice prevents soil erosion?",
+      "options": [
+        { "key": "A", "text": "Contour farming" },
+        { "key": "B", "text": "Overgrazing" },
+        { "key": "C", "text": "Bush burning" },
+        { "key": "D", "text": "Deforestation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Which animal provides leather?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Cow" },
+        { "key": "C", "text": "Goat" },
+        { "key": "D", "text": "Sheep" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Which of the following is a permanent crop?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Yam" },
+        { "key": "C", "text": "Cocoa" },
+        { "key": "D", "text": "Rice" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 81,
+      "question": "Which farm input improves crop yield?",
+      "options": [
+        { "key": "A", "text": "Fertilizer" },
+        { "key": "B", "text": "Weeds" },
+        { "key": "C", "text": "Pests" },
+        { "key": "D", "text": "Disease" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "What is the process of separating grains from stalks?",
+      "options": [
+        { "key": "A", "text": "Winnowing" },
+        { "key": "B", "text": "Threshing" },
+        { "key": "C", "text": "Harvesting" },
+        { "key": "D", "text": "Drying" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Which animal is reared mainly for milk?",
+      "options": [
+        { "key": "A", "text": "Goat" },
+        { "key": "B", "text": "Cow" },
+        { "key": "C", "text": "Sheep" },
+        { "key": "D", "text": "Pig" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Which of the following is a farm record?",
+      "options": [
+        { "key": "A", "text": "Cash book" },
+        { "key": "B", "text": "Ledger" },
+        { "key": "C", "text": "Farm diary" },
+        { "key": "D", "text": "Journal" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Which soil type is best for agriculture?",
+      "options": [
+        { "key": "A", "text": "Clay" },
+        { "key": "B", "text": "Sandy" },
+        { "key": "C", "text": "Loamy" },
+        { "key": "D", "text": "Gravel" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 86,
+      "question": "Which method is used to apply fertilizer evenly?",
+      "options": [
+        { "key": "A", "text": "Broadcasting" },
+        { "key": "B", "text": "Spot application" },
+        { "key": "C", "text": "Ring method" },
+        { "key": "D", "text": "Side dressing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "Which farm animal has four stomach compartments?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Rabbit" },
+        { "key": "D", "text": "Dog" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Which crop matures fastest?",
+      "options": [
+        { "key": "A", "text": "Cocoa" },
+        { "key": "B", "text": "Maize" },
+        { "key": "C", "text": "Rubber" },
+        { "key": "D", "text": "Oil palm" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Which agricultural sector deals with trees?",
+      "options": [
+        { "key": "A", "text": "Horticulture" },
+        { "key": "B", "text": "Forestry" },
+        { "key": "C", "text": "Agronomy" },
+        { "key": "D", "text": "Fishery" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Which disease affects poultry?",
+      "options": [
+        { "key": "A", "text": "Foot rot" },
+        { "key": "B", "text": "Newcastle disease" },
+        { "key": "C", "text": "Trypanosomiasis" },
+        { "key": "D", "text": "Anthrax" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 91,
+      "question": "Which agricultural practice helps conserve moisture?",
+      "options": [
+        { "key": "A", "text": "Mulching" },
+        { "key": "B", "text": "Weeding" },
+        { "key": "C", "text": "Ploughing" },
+        { "key": "D", "text": "Harvesting" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Which is the major source of farm power?",
+      "options": [
+        { "key": "A", "text": "Human labour" },
+        { "key": "B", "text": "Solar energy" },
+        { "key": "C", "text": "Wind" },
+        { "key": "D", "text": "Water" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Which farming practice improves soil nitrogen?",
+      "options": [
+        { "key": "A", "text": "Monocropping" },
+        { "key": "B", "text": "Crop rotation with legumes" },
+        { "key": "C", "text": "Overcropping" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Which animal product is used in making cheese?",
+      "options": [
+        { "key": "A", "text": "Milk" },
+        { "key": "B", "text": "Egg" },
+        { "key": "C", "text": "Meat" },
+        { "key": "D", "text": "Wool" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Which type of soil erosion is caused by water runoff?",
+      "options": [
+        { "key": "A", "text": "Wind erosion" },
+        { "key": "B", "text": "Sheet erosion" },
+        { "key": "C", "text": "Mass movement" },
+        { "key": "D", "text": "Chemical erosion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "Which farm animal feeds mainly on grass?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Cow" },
+        { "key": "C", "text": "Dog" },
+        { "key": "D", "text": "Fowl" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Which of the following is an example of a cereal crop?",
+      "options": [
+        { "key": "A", "text": "Beans" },
+        { "key": "B", "text": "Groundnut" },
+        { "key": "C", "text": "Rice" },
+        { "key": "D", "text": "Cowpea" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Which agricultural tool is used for leveling land?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Rake" },
+        { "key": "C", "text": "Spade" },
+        { "key": "D", "text": "Cutlass" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Which soil horizon contains organic matter?",
+      "options": [
+        { "key": "A", "text": "A horizon" },
+        { "key": "B", "text": "B horizon" },
+        { "key": "C", "text": "C horizon" },
+        { "key": "D", "text": "Parent rock" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Which farm animal is mostly affected by coccidiosis?",
+      "options": [
+        { "key": "A", "text": "Cattle" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Poultry" },
+        { "key": "D", "text": "Goat" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 101,
+      "question": "Which crop is propagated vegetatively?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Rice" },
+        { "key": "C", "text": "Cassava" },
+        { "key": "D", "text": "Millet" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 102,
+      "question": "Which farm animal provides manure for crops?",
+      "options": [
+        { "key": "A", "text": "Fish" },
+        { "key": "B", "text": "Cattle" },
+        { "key": "C", "text": "Rabbit" },
+        { "key": "D", "text": "Turkey" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Which process converts animal waste to fertilizer?",
+      "options": [
+        { "key": "A", "text": "Composting" },
+        { "key": "B", "text": "Fermentation" },
+        { "key": "C", "text": "Digestion" },
+        { "key": "D", "text": "Distillation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "Which method of irrigation uses pipes and sprinklers?",
+      "options": [
+        { "key": "A", "text": "Drip" },
+        { "key": "B", "text": "Sprinkler" },
+        { "key": "C", "text": "Flood" },
+        { "key": "D", "text": "Basin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following is a farm pest?",
+      "options": [
+        { "key": "A", "text": "Bee" },
+        { "key": "B", "text": "Butterfly" },
+        { "key": "C", "text": "Weevil" },
+        { "key": "D", "text": "Earthworm" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "Which crop is best suited for sandy soil?",
+      "options": [
+        { "key": "A", "text": "Rice" },
+        { "key": "B", "text": "Groundnut" },
+        { "key": "C", "text": "Cocoa" },
+        { "key": "D", "text": "Oil palm" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Which farm practice prevents pest infestation?",
+      "options": [
+        { "key": "A", "text": "Crop rotation" },
+        { "key": "B", "text": "Overgrazing" },
+        { "key": "C", "text": "Bush burning" },
+        { "key": "D", "text": "Waterlogging" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 108,
+      "question": "Which livestock product is rich in protein?",
+      "options": [
+        { "key": "A", "text": "Milk" },
+        { "key": "B", "text": "Egg" },
+        { "key": "C", "text": "Butter" },
+        { "key": "D", "text": "Cheese" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "Which tool is used for measuring farm land?",
+      "options": [
+        { "key": "A", "text": "Tape" },
+        { "key": "B", "text": "Weighing scale" },
+        { "key": "C", "text": "Thermometer" },
+        { "key": "D", "text": "Rain gauge" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 110,
+      "question": "Which agricultural activity provides employment?",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Fishing" },
+        { "key": "C", "text": "Forestry" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 111,
+      "question": "Which farming system involves moving from one farmland to another?",
+      "options": [
+        { "key": "A", "text": "Mixed farming" },
+        { "key": "B", "text": "Shifting cultivation" },
+        { "key": "C", "text": "Commercial farming" },
+        { "key": "D", "text": "Subsistence farming" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "Which nutrient is responsible for root development?",
+      "options": [
+        { "key": "A", "text": "Nitrogen" },
+        { "key": "B", "text": "Potassium" },
+        { "key": "C", "text": "Phosphorus" },
+        { "key": "D", "text": "Magnesium" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Which farm animal is mainly reared for eggs?",
+      "options": [
+        { "key": "A", "text": "Turkey" },
+        { "key": "B", "text": "Duck" },
+        { "key": "C", "text": "Chicken" },
+        { "key": "D", "text": "Goose" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "The process of removing feathers from poultry is called",
+      "options": [
+        { "key": "A", "text": "Plucking" },
+        { "key": "B", "text": "Shearing" },
+        { "key": "C", "text": "Skinning" },
+        { "key": "D", "text": "Scraping" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 115,
+      "question": "Which soil component improves water holding capacity?",
+      "options": [
+        { "key": "A", "text": "Sand" },
+        { "key": "B", "text": "Clay" },
+        { "key": "C", "text": "Gravel" },
+        { "key": "D", "text": "Stone" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 116,
+      "question": "Which farm tool is used for cutting grasses?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Rake" },
+        { "key": "C", "text": "Cutlass" },
+        { "key": "D", "text": "Spade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Which livestock disease affects the lungs?",
+      "options": [
+        { "key": "A", "text": "Foot rot" },
+        { "key": "B", "text": "Pneumonia" },
+        { "key": "C", "text": "Coccidiosis" },
+        { "key": "D", "text": "Scabies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Which of the following is a leguminous crop?",
+      "options": [
+        { "key": "A", "text": "Rice" },
+        { "key": "B", "text": "Maize" },
+        { "key": "C", "text": "Cowpea" },
+        { "key": "D", "text": "Millet" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "Which agricultural practice adds nutrients naturally to the soil?",
+      "options": [
+        { "key": "A", "text": "Bush burning" },
+        { "key": "B", "text": "Green manuring" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Deforestation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Which animal is best suited for arid regions?",
+      "options": [
+        { "key": "A", "text": "Cow" },
+        { "key": "B", "text": "Camel" },
+        { "key": "C", "text": "Pig" },
+        { "key": "D", "text": "Rabbit" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 121,
+      "question": "Which of the following is a fixed asset on a farm?",
+      "options": [
+        { "key": "A", "text": "Seeds" },
+        { "key": "B", "text": "Fertilizer" },
+        { "key": "C", "text": "Tractor" },
+        { "key": "D", "text": "Feeds" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "Which livestock product is used in soap making?",
+      "options": [
+        { "key": "A", "text": "Milk" },
+        { "key": "B", "text": "Fat" },
+        { "key": "C", "text": "Egg" },
+        { "key": "D", "text": "Blood" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 123,
+      "question": "Which method prevents loss of moisture from soil?",
+      "options": [
+        { "key": "A", "text": "Mulching" },
+        { "key": "B", "text": "Harrowing" },
+        { "key": "C", "text": "Ploughing" },
+        { "key": "D", "text": "Ridging" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 124,
+      "question": "Which of the following improves soil aeration?",
+      "options": [
+        { "key": "A", "text": "Compaction" },
+        { "key": "B", "text": "Ploughing" },
+        { "key": "C", "text": "Waterlogging" },
+        { "key": "D", "text": "Flooding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "Which crop is mainly used for livestock feed?",
+      "options": [
+        { "key": "A", "text": "Sorghum" },
+        { "key": "B", "text": "Yam" },
+        { "key": "C", "text": "Cocoa" },
+        { "key": "D", "text": "Palm oil" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 126,
+      "question": "Which poultry system allows birds to roam freely?",
+      "options": [
+        { "key": "A", "text": "Deep litter" },
+        { "key": "B", "text": "Battery cage" },
+        { "key": "C", "text": "Free range" },
+        { "key": "D", "text": "Intensive" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 127,
+      "question": "Which fertilizer is organic?",
+      "options": [
+        { "key": "A", "text": "Urea" },
+        { "key": "B", "text": "NPK" },
+        { "key": "C", "text": "Compost" },
+        { "key": "D", "text": "Ammonium sulphate" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "Which soil is sticky when wet?",
+      "options": [
+        { "key": "A", "text": "Sandy soil" },
+        { "key": "B", "text": "Loamy soil" },
+        { "key": "C", "text": "Clay soil" },
+        { "key": "D", "text": "Gravel soil" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "Which agricultural practice reduces weed growth?",
+      "options": [
+        { "key": "A", "text": "Mulching" },
+        { "key": "B", "text": "Overcropping" },
+        { "key": "C", "text": "Waterlogging" },
+        { "key": "D", "text": "Burning" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 130,
+      "question": "Which of the following is a ruminant?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Dog" },
+        { "key": "C", "text": "Goat" },
+        { "key": "D", "text": "Rabbit" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 131,
+      "question": "Which agricultural activity is carried out after harvesting?",
+      "options": [
+        { "key": "A", "text": "Storage" },
+        { "key": "B", "text": "Planting" },
+        { "key": "C", "text": "Weeding" },
+        { "key": "D", "text": "Thinning" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 132,
+      "question": "Which crop is processed into garri?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Yam" },
+        { "key": "C", "text": "Cassava" },
+        { "key": "D", "text": "Cocoyam" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "Which animal is reared mainly for meat?",
+      "options": [
+        { "key": "A", "text": "Layer" },
+        { "key": "B", "text": "Broiler" },
+        { "key": "C", "text": "Cockeral" },
+        { "key": "D", "text": "Pullet" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Which farming method uses machines extensively?",
+      "options": [
+        { "key": "A", "text": "Subsistence farming" },
+        { "key": "B", "text": "Commercial farming" },
+        { "key": "C", "text": "Shifting cultivation" },
+        { "key": "D", "text": "Pastoral farming" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 135,
+      "question": "Which agricultural tool is used for digging holes?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Spade" },
+        { "key": "C", "text": "Rake" },
+        { "key": "D", "text": "Cutlass" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 136,
+      "question": "Which factor affects crop yield most?",
+      "options": [
+        { "key": "A", "text": "Soil fertility" },
+        { "key": "B", "text": "Wind" },
+        { "key": "C", "text": "Latitude" },
+        { "key": "D", "text": "Longitude" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "Which soil type drains water fastest?",
+      "options": [
+        { "key": "A", "text": "Clay" },
+        { "key": "B", "text": "Loam" },
+        { "key": "C", "text": "Sand" },
+        { "key": "D", "text": "Silt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "Which agricultural practice helps control erosion?",
+      "options": [
+        { "key": "A", "text": "Terracing" },
+        { "key": "B", "text": "Overgrazing" },
+        { "key": "C", "text": "Deforestation" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 139,
+      "question": "Which farm structure is used for storing grains?",
+      "options": [
+        { "key": "A", "text": "Silo" },
+        { "key": "B", "text": "Barn" },
+        { "key": "C", "text": "Pen" },
+        { "key": "D", "text": "Sty" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 140,
+      "question": "Which animal feeds mainly on concentrate feed?",
+      "options": [
+        { "key": "A", "text": "Goat" },
+        { "key": "B", "text": "Cow" },
+        { "key": "C", "text": "Pig" },
+        { "key": "D", "text": "Sheep" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 141,
+      "question": "Which practice helps in pest control without chemicals?",
+      "options": [
+        { "key": "A", "text": "Biological control" },
+        { "key": "B", "text": "Chemical control" },
+        { "key": "C", "text": "Burning" },
+        { "key": "D", "text": "Flooding" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 142,
+      "question": "Which soil profile layer is richest in humus?",
+      "options": [
+        { "key": "A", "text": "Topsoil" },
+        { "key": "B", "text": "Subsoil" },
+        { "key": "C", "text": "Parent rock" },
+        { "key": "D", "text": "Bedrock" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "Which farm activity requires pruning?",
+      "options": [
+        { "key": "A", "text": "Crop planting" },
+        { "key": "B", "text": "Tree crop management" },
+        { "key": "C", "text": "Harvesting" },
+        { "key": "D", "text": "Weeding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Which agricultural practice improves yield per hectare?",
+      "options": [
+        { "key": "A", "text": "Mechanization" },
+        { "key": "B", "text": "Intensive farming" },
+        { "key": "C", "text": "Shifting cultivation" },
+        { "key": "D", "text": "Nomadic herding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Which crop is best grown in swampy areas?",
+      "options": [
+        { "key": "A", "text": "Rice" },
+        { "key": "B", "text": "Millet" },
+        { "key": "C", "text": "Groundnut" },
+        { "key": "D", "text": "Sorghum" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 146,
+      "question": "Which animal is susceptible to Newcastle disease?",
+      "options": [
+        { "key": "A", "text": "Cattle" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Poultry" },
+        { "key": "D", "text": "Goat" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Which agricultural tool is pulled by a tractor?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Plough" },
+        { "key": "C", "text": "Cutlass" },
+        { "key": "D", "text": "Rake" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Which practice ensures continuous crop production?",
+      "options": [
+        { "key": "A", "text": "Crop rotation" },
+        { "key": "B", "text": "Bush burning" },
+        { "key": "C", "text": "Mono cropping" },
+        { "key": "D", "text": "Overgrazing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "Which animal product is used for making woolen cloth?",
+      "options": [
+        { "key": "A", "text": "Hair" },
+        { "key": "B", "text": "Skin" },
+        { "key": "C", "text": "Wool" },
+        { "key": "D", "text": "Hide" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "Which crop belongs to the grass family?",
+      "options": [
+        { "key": "A", "text": "Beans" },
+        { "key": "B", "text": "Maize" },
+        { "key": "C", "text": "Cassava" },
+        { "key": "D", "text": "Groundnut" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 151,
+      "question": "Which factor influences planting season?",
+      "options": [
+        { "key": "A", "text": "Rainfall" },
+        { "key": "B", "text": "Altitude" },
+        { "key": "C", "text": "Latitude" },
+        { "key": "D", "text": "Longitude" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "Which farm animal requires vaccination?",
+      "options": [
+        { "key": "A", "text": "All farm animals" },
+        { "key": "B", "text": "Only cattle" },
+        { "key": "C", "text": "Only poultry" },
+        { "key": "D", "text": "Only pigs" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "Which agricultural practice prevents overcrowding of crops?",
+      "options": [
+        { "key": "A", "text": "Thinning" },
+        { "key": "B", "text": "Mulching" },
+        { "key": "C", "text": "Weeding" },
+        { "key": "D", "text": "Ridging" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 154,
+      "question": "Which farm record shows income and expenses?",
+      "options": [
+        { "key": "A", "text": "Farm diary" },
+        { "key": "B", "text": "Cash book" },
+        { "key": "C", "text": "Inventory" },
+        { "key": "D", "text": "Production record" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Which agricultural tool is used for loosening soil?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Rake" },
+        { "key": "C", "text": "Cutlass" },
+        { "key": "D", "text": "Basket" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 156,
+      "question": "Which method of farming is practiced in urban areas?",
+      "options": [
+        { "key": "A", "text": "Pastoral farming" },
+        { "key": "B", "text": "Urban agriculture" },
+        { "key": "C", "text": "Shifting cultivation" },
+        { "key": "D", "text": "Nomadic herding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 157,
+      "question": "Which crop is mainly used for oil production?",
+      "options": [
+        { "key": "A", "text": "Yam" },
+        { "key": "B", "text": "Oil palm" },
+        { "key": "C", "text": "Rice" },
+        { "key": "D", "text": "Cocoyam" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 158,
+      "question": "Which farm practice enhances soil fertility naturally?",
+      "options": [
+        { "key": "A", "text": "Green manuring" },
+        { "key": "B", "text": "Pesticide use" },
+        { "key": "C", "text": "Herbicide use" },
+        { "key": "D", "text": "Overcropping" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 159,
+      "question": "Which animal is reared for wool?",
+      "options": [
+        { "key": "A", "text": "Cow" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Pig" },
+        { "key": "D", "text": "Goat" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Which agricultural activity improves farm income?",
+      "options": [
+        { "key": "A", "text": "Poor management" },
+        { "key": "B", "text": "Diversification" },
+        { "key": "C", "text": "Neglect" },
+        { "key": "D", "text": "Overgrazing" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 161,
+      "question": "Which of the following is a source of farm credit?",
+      "options": [
+        { "key": "A", "text": "Cooperative societies" },
+        { "key": "B", "text": "Weather" },
+        { "key": "C", "text": "Sunlight" },
+        { "key": "D", "text": "Soil" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 162,
+      "question": "Which agricultural practice involves growing only one crop on a land?",
+      "options": [
+        { "key": "A", "text": "Crop rotation" },
+        { "key": "B", "text": "Mixed cropping" },
+        { "key": "C", "text": "Monocropping" },
+        { "key": "D", "text": "Relay cropping" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 163,
+      "question": "Which farm animal converts roughage efficiently?",
+      "options": [
+        { "key": "A", "text": "Pig" },
+        { "key": "B", "text": "Rabbit" },
+        { "key": "C", "text": "Cattle" },
+        { "key": "D", "text": "Poultry" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "Which crop is propagated by stem cuttings?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Cassava" },
+        { "key": "C", "text": "Rice" },
+        { "key": "D", "text": "Cowpea" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "Which soil type is best for crop production?",
+      "options": [
+        { "key": "A", "text": "Clay soil" },
+        { "key": "B", "text": "Sandy soil" },
+        { "key": "C", "text": "Loamy soil" },
+        { "key": "D", "text": "Gravel soil" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 166,
+      "question": "Which livestock management practice involves isolation of sick animals?",
+      "options": [
+        { "key": "A", "text": "Vaccination" },
+        { "key": "B", "text": "Quarantine" },
+        { "key": "C", "text": "Castration" },
+        { "key": "D", "text": "Dehorning" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "Which crop is mainly grown for beverage production?",
+      "options": [
+        { "key": "A", "text": "Tea" },
+        { "key": "B", "text": "Yam" },
+        { "key": "C", "text": "Maize" },
+        { "key": "D", "text": "Rice" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 168,
+      "question": "Which farm implement is used to break soil clods?",
+      "options": [
+        { "key": "A", "text": "Plough" },
+        { "key": "B", "text": "Harrow" },
+        { "key": "C", "text": "Ridger" },
+        { "key": "D", "text": "Seeder" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "Which agricultural practice improves soil structure?",
+      "options": [
+        { "key": "A", "text": "Continuous cropping" },
+        { "key": "B", "text": "Organic manuring" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 170,
+      "question": "Which animal disease affects the digestive system?",
+      "options": [
+        { "key": "A", "text": "Coccidiosis" },
+        { "key": "B", "text": "Anthrax" },
+        { "key": "C", "text": "Foot rot" },
+        { "key": "D", "text": "Scabies" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 171,
+      "question": "Which agricultural activity increases soil erosion?",
+      "options": [
+        { "key": "A", "text": "Mulching" },
+        { "key": "B", "text": "Overgrazing" },
+        { "key": "C", "text": "Terracing" },
+        { "key": "D", "text": "Cover cropping" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Which crop is classified as a cereal?",
+      "options": [
+        { "key": "A", "text": "Cowpea" },
+        { "key": "B", "text": "Soybean" },
+        { "key": "C", "text": "Wheat" },
+        { "key": "D", "text": "Groundnut" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 173,
+      "question": "Which soil process involves removal of nutrients?",
+      "options": [
+        { "key": "A", "text": "Weathering" },
+        { "key": "B", "text": "Leaching" },
+        { "key": "C", "text": "Humification" },
+        { "key": "D", "text": "Mineralization" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Which farm structure is used to house pigs?",
+      "options": [
+        { "key": "A", "text": "Pen" },
+        { "key": "B", "text": "Sty" },
+        { "key": "C", "text": "Shed" },
+        { "key": "D", "text": "Barn" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 175,
+      "question": "Which method of irrigation uses channels?",
+      "options": [
+        { "key": "A", "text": "Sprinkler irrigation" },
+        { "key": "B", "text": "Drip irrigation" },
+        { "key": "C", "text": "Surface irrigation" },
+        { "key": "D", "text": "Overhead irrigation" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 176,
+      "question": "Which factor determines stocking rate?",
+      "options": [
+        { "key": "A", "text": "Soil color" },
+        { "key": "B", "text": "Pasture availability" },
+        { "key": "C", "text": "Altitude" },
+        { "key": "D", "text": "Latitude" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 177,
+      "question": "Which animal is monogastric?",
+      "options": [
+        { "key": "A", "text": "Cow" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Goat" },
+        { "key": "D", "text": "Pig" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 178,
+      "question": "Which agricultural practice increases productivity on small land?",
+      "options": [
+        { "key": "A", "text": "Shifting cultivation" },
+        { "key": "B", "text": "Intensive farming" },
+        { "key": "C", "text": "Nomadic herding" },
+        { "key": "D", "text": "Pastoral farming" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 179,
+      "question": "Which livestock product is rich in protein?",
+      "options": [
+        { "key": "A", "text": "Milk" },
+        { "key": "B", "text": "Egg" },
+        { "key": "C", "text": "Wool" },
+        { "key": "D", "text": "Hide" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "Which weed control method uses living organisms?",
+      "options": [
+        { "key": "A", "text": "Mechanical control" },
+        { "key": "B", "text": "Chemical control" },
+        { "key": "C", "text": "Biological control" },
+        { "key": "D", "text": "Manual control" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 181,
+      "question": "Which farm practice reduces evaporation loss?",
+      "options": [
+        { "key": "A", "text": "Burning" },
+        { "key": "B", "text": "Mulching" },
+        { "key": "C", "text": "Ridging" },
+        { "key": "D", "text": "Ploughing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "Which crop provides fibre?",
+      "options": [
+        { "key": "A", "text": "Cotton" },
+        { "key": "B", "text": "Yam" },
+        { "key": "C", "text": "Cassava" },
+        { "key": "D", "text": "Rice" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 183,
+      "question": "Which process increases soil acidity?",
+      "options": [
+        { "key": "A", "text": "Liming" },
+        { "key": "B", "text": "Leaching" },
+        { "key": "C", "text": "Manuring" },
+        { "key": "D", "text": "Mulching" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Which farm animal is mainly reared for milk?",
+      "options": [
+        { "key": "A", "text": "Cow" },
+        { "key": "B", "text": "Goat" },
+        { "key": "C", "text": "Sheep" },
+        { "key": "D", "text": "Pig" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 185,
+      "question": "Which agricultural system combines crop and livestock?",
+      "options": [
+        { "key": "A", "text": "Mixed farming" },
+        { "key": "B", "text": "Pastoral farming" },
+        { "key": "C", "text": "Shifting cultivation" },
+        { "key": "D", "text": "Mono cropping" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 186,
+      "question": "Which farm practice reduces pest infestation?",
+      "options": [
+        { "key": "A", "text": "Crop rotation" },
+        { "key": "B", "text": "Mono cropping" },
+        { "key": "C", "text": "Overcropping" },
+        { "key": "D", "text": "Overgrazing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 187,
+      "question": "Which livestock feed is energy-giving?",
+      "options": [
+        { "key": "A", "text": "Fish meal" },
+        { "key": "B", "text": "Bone meal" },
+        { "key": "C", "text": "Maize" },
+        { "key": "D", "text": "Groundnut cake" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 188,
+      "question": "Which animal is kept mainly for draught power?",
+      "options": [
+        { "key": "A", "text": "Dog" },
+        { "key": "B", "text": "Cow" },
+        { "key": "C", "text": "Chicken" },
+        { "key": "D", "text": "Rabbit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 189,
+      "question": "Which soil component gives brown color?",
+      "options": [
+        { "key": "A", "text": "Sand" },
+        { "key": "B", "text": "Clay" },
+        { "key": "C", "text": "Humus" },
+        { "key": "D", "text": "Gravel" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 190,
+      "question": "Which agricultural input improves crop yield?",
+      "options": [
+        { "key": "A", "text": "Seeds" },
+        { "key": "B", "text": "Fertilizer" },
+        { "key": "C", "text": "Labour" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 191,
+      "question": "Which pest attacks stored grains?",
+      "options": [
+        { "key": "A", "text": "Grasshopper" },
+        { "key": "B", "text": "Weevil" },
+        { "key": "C", "text": "Termite" },
+        { "key": "D", "text": "Caterpillar" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 192,
+      "question": "Which method improves soil nitrogen naturally?",
+      "options": [
+        { "key": "A", "text": "Liming" },
+        { "key": "B", "text": "Planting legumes" },
+        { "key": "C", "text": "Weeding" },
+        { "key": "D", "text": "Harvesting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "Which farm activity provides raw materials?",
+      "options": [
+        { "key": "A", "text": "Agriculture" },
+        { "key": "B", "text": "Mining" },
+        { "key": "C", "text": "Trading" },
+        { "key": "D", "text": "Banking" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "Which agricultural practice improves soil moisture retention?",
+      "options": [
+        { "key": "A", "text": "Mulching" },
+        { "key": "B", "text": "Burning" },
+        { "key": "C", "text": "Ploughing" },
+        { "key": "D", "text": "Harrowing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 195,
+      "question": "Which animal is omnivorous?",
+      "options": [
+        { "key": "A", "text": "Cow" },
+        { "key": "B", "text": "Sheep" },
+        { "key": "C", "text": "Pig" },
+        { "key": "D", "text": "Goat" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 196,
+      "question": "Which soil condition favors root rot?",
+      "options": [
+        { "key": "A", "text": "Dry soil" },
+        { "key": "B", "text": "Waterlogged soil" },
+        { "key": "C", "text": "Sandy soil" },
+        { "key": "D", "text": "Loamy soil" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "Which crop is grown mainly for export in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Cocoa" },
+        { "key": "B", "text": "Cassava" },
+        { "key": "C", "text": "Yam" },
+        { "key": "D", "text": "Maize" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 198,
+      "question": "Which livestock management practice improves growth?",
+      "options": [
+        { "key": "A", "text": "Starvation" },
+        { "key": "B", "text": "Balanced feeding" },
+        { "key": "C", "text": "Overcrowding" },
+        { "key": "D", "text": "Neglect" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "Which farming practice conserves soil nutrients?",
+      "options": [
+        { "key": "A", "text": "Crop rotation" },
+        { "key": "B", "text": "Burning" },
+        { "key": "C", "text": "Overcropping" },
+        { "key": "D", "text": "Leaching" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 200,
+      "question": "Which agricultural activity provides employment?",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Fishing" },
+        { "key": "C", "text": "Forestry" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 201,
+      "question": "Which crop improves soil nitrogen content?",
+      "options": [
+        { "key": "A", "text": "Maize" },
+        { "key": "B", "text": "Beans" },
+        { "key": "C", "text": "Rice" },
+        { "key": "D", "text": "Millet" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 202,
+      "question": "Which tool is used for transplanting seedlings?",
+      "options": [
+        { "key": "A", "text": "Hoe" },
+        { "key": "B", "text": "Dibble" },
+        { "key": "C", "text": "Rake" },
+        { "key": "D", "text": "Plough" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 203,
+      "question": "Which soil organism improves soil fertility?",
+      "options": [
+        { "key": "A", "text": "Earthworm" },
+        { "key": "B", "text": "Termite" },
+        { "key": "C", "text": "Ant" },
+        { "key": "D", "text": "Grasshopper" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 204,
+      "question": "Which agricultural practice leads to soil exhaustion?",
+      "options": [
+        { "key": "A", "text": "Crop rotation" },
+        { "key": "B", "text": "Continuous cropping" },
+        { "key": "C", "text": "Mulching" },
+        { "key": "D", "text": "Manuring" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 205,
+      "question": "Which livestock disease is preventable by vaccination?",
+      "options": [
+        { "key": "A", "text": "Foot and mouth disease" },
+        { "key": "B", "text": "Mastitis" },
+        { "key": "C", "text": "Bloat" },
+        { "key": "D", "text": "Indigestion" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 206,
+      "question": "Which farm record shows quantities of farm inputs?",
+      "options": [
+        { "key": "A", "text": "Inventory record" },
+        { "key": "B", "text": "Cash book" },
+        { "key": "C", "text": "Sales record" },
+        { "key": "D", "text": "Production record" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 207,
+      "question": "Which climate factor determines crop distribution?",
+      "options": [
+        { "key": "A", "text": "Rainfall" },
+        { "key": "B", "text": "Altitude" },
+        { "key": "C", "text": "Latitude" },
+        { "key": "D", "text": "Wind" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 208,
+      "question": "Which animal is best suited for meat production?",
+      "options": [
+        { "key": "A", "text": "Layer" },
+        { "key": "B", "text": "Broiler" },
+        { "key": "C", "text": "Pullet" },
+        { "key": "D", "text": "Cockeral" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 209,
+      "question": "Which soil process forms soil from rocks?",
+      "options": [
+        { "key": "A", "text": "Leaching" },
+        { "key": "B", "text": "Weathering" },
+        { "key": "C", "text": "Erosion" },
+        { "key": "D", "text": "Deposition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 210,
+      "question": "Which agricultural activity ensures food security?",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Manufacturing" },
+        { "key": "C", "text": "Banking" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "A"
     }
   ]
 }
