@@ -62,6 +62,2257 @@
         { "key": "D", "text": "James" }
       ],
       "correct_answer": "C"
+    },
+    
+    {
+      "id": 6,
+      "question": "Who was the first king of Israel?",
+      "options": [
+        { "key": "A", "text": "David" },
+        { "key": "B", "text": "Saul" },
+        { "key": "C", "text": "Solomon" },
+        { "key": "D", "text": "Samuel" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Who anointed Saul as king?",
+      "options": [
+        { "key": "A", "text": "Nathan" },
+        { "key": "B", "text": "Elijah" },
+        { "key": "C", "text": "Samuel" },
+        { "key": "D", "text": "Aaron" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "David defeated Goliath with a",
+      "options": [
+        { "key": "A", "text": "Sword" },
+        { "key": "B", "text": "Sling" },
+        { "key": "C", "text": "Bow" },
+        { "key": "D", "text": "Spear" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Solomon was known mainly for his",
+      "options": [
+        { "key": "A", "text": "Wealth" },
+        { "key": "B", "text": "Strength" },
+        { "key": "C", "text": "Wisdom" },
+        { "key": "D", "text": "Prophecy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Who was the mother of Samuel?",
+      "options": [
+        { "key": "A", "text": "Ruth" },
+        { "key": "B", "text": "Hannah" },
+        { "key": "C", "text": "Deborah" },
+        { "key": "D", "text": "Elizabeth" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 11,
+      "question": "Moses received the Ten Commandments on Mount",
+      "options": [
+        { "key": "A", "text": "Carmel" },
+        { "key": "B", "text": "Sinai" },
+        { "key": "C", "text": "Zion" },
+        { "key": "D", "text": "Horeb" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "The first miracle of Jesus was turning water into wine at",
+      "options": [
+        { "key": "A", "text": "Bethlehem" },
+        { "key": "B", "text": "Nazareth" },
+        { "key": "C", "text": "Cana" },
+        { "key": "D", "text": "Jerusalem" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Jesus was baptized by",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "John the Baptist" },
+        { "key": "C", "text": "James" },
+        { "key": "D", "text": "Andrew" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "The Lord’s Prayer was taught by Jesus in the Gospel of",
+      "options": [
+        { "key": "A", "text": "Mark" },
+        { "key": "B", "text": "Luke" },
+        { "key": "C", "text": "Matthew" },
+        { "key": "D", "text": "John" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which disciple denied Jesus three times?",
+      "options": [
+        { "key": "A", "text": "John" },
+        { "key": "B", "text": "Peter" },
+        { "key": "C", "text": "James" },
+        { "key": "D", "text": "Thomas" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 16,
+      "question": "Jesus fed five thousand people with",
+      "options": [
+        { "key": "A", "text": "Five loaves and two fish" },
+        { "key": "B", "text": "Seven loaves and fish" },
+        { "key": "C", "text": "Bread alone" },
+        { "key": "D", "text": "Manna" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Who betrayed Jesus?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "James" },
+        { "key": "C", "text": "Judas Iscariot" },
+        { "key": "D", "text": "Andrew" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "The resurrection of Jesus took place on",
+      "options": [
+        { "key": "A", "text": "Friday" },
+        { "key": "B", "text": "Saturday" },
+        { "key": "C", "text": "Sunday" },
+        { "key": "D", "text": "Monday" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Who interpreted Pharaoh’s dream?",
+      "options": [
+        { "key": "A", "text": "Moses" },
+        { "key": "B", "text": "Joseph" },
+        { "key": "C", "text": "Daniel" },
+        { "key": "D", "text": "Aaron" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Jesus taught primarily using",
+      "options": [
+        { "key": "A", "text": "Poems" },
+        { "key": "B", "text": "Parables" },
+        { "key": "C", "text": "Songs" },
+        { "key": "D", "text": "Letters" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 21,
+      "question": "Who was swallowed by a big fish?",
+      "options": [
+        { "key": "A", "text": "Elijah" },
+        { "key": "B", "text": "Jonah" },
+        { "key": "C", "text": "Isaiah" },
+        { "key": "D", "text": "Ezekiel" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "The first book of the Bible is",
+      "options": [
+        { "key": "A", "text": "Exodus" },
+        { "key": "B", "text": "Genesis" },
+        { "key": "C", "text": "Leviticus" },
+        { "key": "D", "text": "Numbers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which prophet confronted King Ahab?",
+      "options": [
+        { "key": "A", "text": "Elijah" },
+        { "key": "B", "text": "Isaiah" },
+        { "key": "C", "text": "Jeremiah" },
+        { "key": "D", "text": "Daniel" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "The commandment \"You shall not steal\" teaches",
+      "options": [
+        { "key": "A", "text": "Honesty" },
+        { "key": "B", "text": "Faith" },
+        { "key": "C", "text": "Prayer" },
+        { "key": "D", "text": "Patience" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Who replaced Judas Iscariot?",
+      "options": [
+        { "key": "A", "text": "Paul" },
+        { "key": "B", "text": "Barnabas" },
+        { "key": "C", "text": "Matthias" },
+        { "key": "D", "text": "Silas" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 26,
+      "question": "Jesus ascended into heaven from",
+      "options": [
+        { "key": "A", "text": "Mount Sinai" },
+        { "key": "B", "text": "Mount Olives" },
+        { "key": "C", "text": "Mount Carmel" },
+        { "key": "D", "text": "Mount Zion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "The Holy Spirit came upon the disciples during",
+      "options": [
+        { "key": "A", "text": "Passover" },
+        { "key": "B", "text": "Pentecost" },
+        { "key": "C", "text": "Tabernacles" },
+        { "key": "D", "text": "Atonement" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Who wrote most of the Psalms?",
+      "options": [
+        { "key": "A", "text": "Solomon" },
+        { "key": "B", "text": "David" },
+        { "key": "C", "text": "Moses" },
+        { "key": "D", "text": "Asaph" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "The greatest commandment is to",
+      "options": [
+        { "key": "A", "text": "Pray always" },
+        { "key": "B", "text": "Love God" },
+        { "key": "C", "text": "Fast" },
+        { "key": "D", "text": "Give alms" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Who was known as a tax collector among the disciples?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "Matthew" },
+        { "key": "C", "text": "Philip" },
+        { "key": "D", "text": "Thomas" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 31,
+      "question": "The Bible teaches that love is",
+      "options": [
+        { "key": "A", "text": "Pride" },
+        { "key": "B", "text": "Patient and kind" },
+        { "key": "C", "text": "Selfish" },
+        { "key": "D", "text": "Boastful" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Jesus was crucified at",
+      "options": [
+        { "key": "A", "text": "Gethsemane" },
+        { "key": "B", "text": "Golgotha" },
+        { "key": "C", "text": "Nazareth" },
+        { "key": "D", "text": "Bethany" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Who helped Jesus carry the cross?",
+      "options": [
+        { "key": "A", "text": "Simon of Cyrene" },
+        { "key": "B", "text": "Peter" },
+        { "key": "C", "text": "John" },
+        { "key": "D", "text": "Joseph" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which book records the early church history?",
+      "options": [
+        { "key": "A", "text": "Romans" },
+        { "key": "B", "text": "Acts of the Apostles" },
+        { "key": "C", "text": "Hebrews" },
+        { "key": "D", "text": "Revelation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "The fruit of the Spirit includes",
+      "options": [
+        { "key": "A", "text": "Jealousy" },
+        { "key": "B", "text": "Anger" },
+        { "key": "C", "text": "Love" },
+        { "key": "D", "text": "Pride" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 36,
+      "question": "Who was the wife of Abraham?",
+      "options": [
+        { "key": "A", "text": "Rebecca" },
+        { "key": "B", "text": "Sarah" },
+        { "key": "C", "text": "Leah" },
+        { "key": "D", "text": "Rachel" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Jesus was born in",
+      "options": [
+        { "key": "A", "text": "Nazareth" },
+        { "key": "B", "text": "Jerusalem" },
+        { "key": "C", "text": "Bethlehem" },
+        { "key": "D", "text": "Capernaum" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Who betrayed Jesus for thirty pieces of silver?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "Judas Iscariot" },
+        { "key": "C", "text": "Thomas" },
+        { "key": "D", "text": "Philip" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which commandment concerns honoring parents?",
+      "options": [
+        { "key": "A", "text": "Fourth" },
+        { "key": "B", "text": "Fifth" },
+        { "key": "C", "text": "Sixth" },
+        { "key": "D", "text": "Seventh" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Who wrote the book of Revelation?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "Paul" },
+        { "key": "C", "text": "John" },
+        { "key": "D", "text": "James" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 41,
+      "question": "Jesus calmed the storm on the",
+      "options": [
+        { "key": "A", "text": "River Jordan" },
+        { "key": "B", "text": "Red Sea" },
+        { "key": "C", "text": "Sea of Galilee" },
+        { "key": "D", "text": "Mediterranean Sea" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which prophet was taken to heaven in a chariot of fire?",
+      "options": [
+        { "key": "A", "text": "Isaiah" },
+        { "key": "B", "text": "Elijah" },
+        { "key": "C", "text": "Jeremiah" },
+        { "key": "D", "text": "Elisha" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Jesus raised Lazarus from the dead at",
+      "options": [
+        { "key": "A", "text": "Jericho" },
+        { "key": "B", "text": "Bethany" },
+        { "key": "C", "text": "Nazareth" },
+        { "key": "D", "text": "Cana" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Who interpreted Nebuchadnezzar’s dream?",
+      "options": [
+        { "key": "A", "text": "Joseph" },
+        { "key": "B", "text": "Daniel" },
+        { "key": "C", "text": "Ezekiel" },
+        { "key": "D", "text": "Isaiah" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "The Bible teaches forgiveness should be",
+      "options": [
+        { "key": "A", "text": "Limited" },
+        { "key": "B", "text": "Rare" },
+        { "key": "C", "text": "Unlimited" },
+        { "key": "D", "text": "Conditional" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 46,
+      "question": "Who was the first martyr of the church?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "Stephen" },
+        { "key": "C", "text": "Paul" },
+        { "key": "D", "text": "James" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Jesus said \"I am the way, the truth and the life\" in",
+      "options": [
+        { "key": "A", "text": "Matthew" },
+        { "key": "B", "text": "Mark" },
+        { "key": "C", "text": "Luke" },
+        { "key": "D", "text": "John" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 48,
+      "question": "The ark was built by",
+      "options": [
+        { "key": "A", "text": "Moses" },
+        { "key": "B", "text": "Noah" },
+        { "key": "C", "text": "Abraham" },
+        { "key": "D", "text": "David" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which book comes immediately after the Gospels?",
+      "options": [
+        { "key": "A", "text": "Romans" },
+        { "key": "B", "text": "Acts" },
+        { "key": "C", "text": "Hebrews" },
+        { "key": "D", "text": "Corinthians" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Jesus taught that the greatest virtue is",
+      "options": [
+        { "key": "A", "text": "Faith" },
+        { "key": "B", "text": "Hope" },
+        { "key": "C", "text": "Love" },
+        { "key": "D", "text": "Obedience" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 51,
+      "question": "Who was chosen to replace Judas?",
+      "options": [
+        { "key": "A", "text": "Barnabas" },
+        { "key": "B", "text": "Matthias" },
+        { "key": "C", "text": "Paul" },
+        { "key": "D", "text": "Silas" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Jesus fasted for how many days?",
+      "options": [
+        { "key": "A", "text": "30" },
+        { "key": "B", "text": "21" },
+        { "key": "C", "text": "40" },
+        { "key": "D", "text": "50" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Who was the brother of Moses?",
+      "options": [
+        { "key": "A", "text": "Joseph" },
+        { "key": "B", "text": "Aaron" },
+        { "key": "C", "text": "Joshua" },
+        { "key": "D", "text": "Caleb" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "The main message of Jesus was about the",
+      "options": [
+        { "key": "A", "text": "Law" },
+        { "key": "B", "text": "Kingdom of God" },
+        { "key": "C", "text": "Temple" },
+        { "key": "D", "text": "Pharisees" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Which book ends the New Testament?",
+      "options": [
+        { "key": "A", "text": "Jude" },
+        { "key": "B", "text": "Hebrews" },
+        { "key": "C", "text": "Revelation" },
+        { "key": "D", "text": "Acts" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "The Bible teaches Christians to love their",
+      "options": [
+        { "key": "A", "text": "Friends only" },
+        { "key": "B", "text": "Enemies" },
+        { "key": "C", "text": "Leaders" },
+        { "key": "D", "text": "Family only" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 57,
+      "question": "Who led the Israelites into the Promised Land?",
+      "options": [
+        { "key": "A", "text": "Moses" },
+        { "key": "B", "text": "Aaron" },
+        { "key": "C", "text": "Joshua" },
+        { "key": "D", "text": "Caleb" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "The walls of Jericho fell after the Israelites",
+      "options": [
+        { "key": "A", "text": "Fasted" },
+        { "key": "B", "text": "Prayed silently" },
+        { "key": "C", "text": "Marched round it" },
+        { "key": "D", "text": "Fought violently" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Who was sold into slavery by his brothers?",
+      "options": [
+        { "key": "A", "text": "Benjamin" },
+        { "key": "B", "text": "Joseph" },
+        { "key": "C", "text": "Reuben" },
+        { "key": "D", "text": "Judah" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Joseph became prime minister in",
+      "options": [
+        { "key": "A", "text": "Canaan" },
+        { "key": "B", "text": "Babylon" },
+        { "key": "C", "text": "Egypt" },
+        { "key": "D", "text": "Assyria" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "Who was thrown into the lion’s den?",
+      "options": [
+        { "key": "A", "text": "Joseph" },
+        { "key": "B", "text": "Daniel" },
+        { "key": "C", "text": "David" },
+        { "key": "D", "text": "Jeremiah" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 62,
+      "question": "Which prophet confronted King David over his sin?",
+      "options": [
+        { "key": "A", "text": "Elijah" },
+        { "key": "B", "text": "Nathan" },
+        { "key": "C", "text": "Samuel" },
+        { "key": "D", "text": "Isaiah" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "The Psalms are mainly songs of",
+      "options": [
+        { "key": "A", "text": "War" },
+        { "key": "B", "text": "Wisdom" },
+        { "key": "C", "text": "Praise" },
+        { "key": "D", "text": "Law" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Who was the judge that killed a thousand Philistines with a jawbone?",
+      "options": [
+        { "key": "A", "text": "Gideon" },
+        { "key": "B", "text": "Samson" },
+        { "key": "C", "text": "Jephthah" },
+        { "key": "D", "text": "Ehud" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Samson’s strength was in his",
+      "options": [
+        { "key": "A", "text": "Muscles" },
+        { "key": "B", "text": "Hair" },
+        { "key": "C", "text": "Armor" },
+        { "key": "D", "text": "Sword" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "Who betrayed Samson?",
+      "options": [
+        { "key": "A", "text": "Ruth" },
+        { "key": "B", "text": "Jezebel" },
+        { "key": "C", "text": "Delilah" },
+        { "key": "D", "text": "Bathsheba" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 67,
+      "question": "Jesus healed the blind man by",
+      "options": [
+        { "key": "A", "text": "Laying hands" },
+        { "key": "B", "text": "Using mud" },
+        { "key": "C", "text": "Spitting on eyes" },
+        { "key": "D", "text": "Praying silently" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 68,
+      "question": "Which disciple doubted the resurrection?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "John" },
+        { "key": "C", "text": "Thomas" },
+        { "key": "D", "text": "Andrew" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "The Good Samaritan story teaches",
+      "options": [
+        { "key": "A", "text": "Prayer" },
+        { "key": "B", "text": "Faith" },
+        { "key": "C", "text": "Love for neighbour" },
+        { "key": "D", "text": "Obedience" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Who wrote most of the New Testament letters?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "John" },
+        { "key": "C", "text": "Paul" },
+        { "key": "D", "text": "James" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 71,
+      "question": "Paul was formerly known as",
+      "options": [
+        { "key": "A", "text": "Simon" },
+        { "key": "B", "text": "Saul" },
+        { "key": "C", "text": "Stephen" },
+        { "key": "D", "text": "Silas" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 72,
+      "question": "Paul encountered Jesus on the road to",
+      "options": [
+        { "key": "A", "text": "Jerusalem" },
+        { "key": "B", "text": "Damascus" },
+        { "key": "C", "text": "Rome" },
+        { "key": "D", "text": "Antioch" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "The Beatitudes are found in",
+      "options": [
+        { "key": "A", "text": "Luke 10" },
+        { "key": "B", "text": "Matthew 5" },
+        { "key": "C", "text": "Mark 8" },
+        { "key": "D", "text": "John 6" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Jesus called Zacchaeus a",
+      "options": [
+        { "key": "A", "text": "Pharisee" },
+        { "key": "B", "text": "Tax collector" },
+        { "key": "C", "text": "Fisherman" },
+        { "key": "D", "text": "Scribe" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "The Last Supper took place during",
+      "options": [
+        { "key": "A", "text": "Pentecost" },
+        { "key": "B", "text": "Passover" },
+        { "key": "C", "text": "Tabernacles" },
+        { "key": "D", "text": "Atonement" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "Who helped Jesus after the crucifixion?",
+      "options": [
+        { "key": "A", "text": "Nicodemus" },
+        { "key": "B", "text": "Joseph of Arimathea" },
+        { "key": "C", "text": "Pilate" },
+        { "key": "D", "text": "Caiaphas" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "The early Christians shared everything in",
+      "options": [
+        { "key": "A", "text": "Pride" },
+        { "key": "B", "text": "Common" },
+        { "key": "C", "text": "Secrecy" },
+        { "key": "D", "text": "Wealth" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Who lied about their offering and died?",
+      "options": [
+        { "key": "A", "text": "Judas" },
+        { "key": "B", "text": "Ananias and Sapphira" },
+        { "key": "C", "text": "Simon" },
+        { "key": "D", "text": "Herod" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Jesus taught forgiveness should be done",
+      "options": [
+        { "key": "A", "text": "Three times" },
+        { "key": "B", "text": "Seven times" },
+        { "key": "C", "text": "Seventy times seven" },
+        { "key": "D", "text": "Once daily" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Faith without works is",
+      "options": [
+        { "key": "A", "text": "Strong" },
+        { "key": "B", "text": "Dead" },
+        { "key": "C", "text": "Perfect" },
+        { "key": "D", "text": "Complete" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "Which book talks about faith and works?",
+      "options": [
+        { "key": "A", "text": "Romans" },
+        { "key": "B", "text": "James" },
+        { "key": "C", "text": "Hebrews" },
+        { "key": "D", "text": "Galatians" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Jesus described himself as the",
+      "options": [
+        { "key": "A", "text": "Vine" },
+        { "key": "B", "text": "Door" },
+        { "key": "C", "text": "Shepherd" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 83,
+      "question": "Who built the temple in Jerusalem?",
+      "options": [
+        { "key": "A", "text": "David" },
+        { "key": "B", "text": "Solomon" },
+        { "key": "C", "text": "Hezekiah" },
+        { "key": "D", "text": "Josiah" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "The purpose of the commandments is to",
+      "options": [
+        { "key": "A", "text": "Punish" },
+        { "key": "B", "text": "Guide" },
+        { "key": "C", "text": "Condemn" },
+        { "key": "D", "text": "Confuse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "The last judgment will be done by",
+      "options": [
+        { "key": "A", "text": "Angels" },
+        { "key": "B", "text": "Prophets" },
+        { "key": "C", "text": "Jesus Christ" },
+        { "key": "D", "text": "Apostles" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 86,
+      "question": "The greatest gift according to Paul is",
+      "options": [
+        { "key": "A", "text": "Faith" },
+        { "key": "B", "text": "Hope" },
+        { "key": "C", "text": "Love" },
+        { "key": "D", "text": "Wisdom" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Jesus said blessed are the",
+      "options": [
+        { "key": "A", "text": "Rich" },
+        { "key": "B", "text": "Meek" },
+        { "key": "C", "text": "Proud" },
+        { "key": "D", "text": "Strong" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Which Old Testament book is about suffering?",
+      "options": [
+        { "key": "A", "text": "Job" },
+        { "key": "B", "text": "Proverbs" },
+        { "key": "C", "text": "Ecclesiastes" },
+        { "key": "D", "text": "Psalms" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "The Ten Commandments were given to",
+      "options": [
+        { "key": "A", "text": "Abraham" },
+        { "key": "B", "text": "Moses" },
+        { "key": "C", "text": "Aaron" },
+        { "key": "D", "text": "Joshua" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Jesus told his disciples to be",
+      "options": [
+        { "key": "A", "text": "Fearful" },
+        { "key": "B", "text": "Watchful" },
+        { "key": "C", "text": "Lazy" },
+        { "key": "D", "text": "Proud" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 91,
+      "question": "Christians are called the",
+      "options": [
+        { "key": "A", "text": "Temple" },
+        { "key": "B", "text": "Salt of the earth" },
+        { "key": "C", "text": "Mountains" },
+        { "key": "D", "text": "Judges" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "The Bible teaches humility through",
+      "options": [
+        { "key": "A", "text": "Jesus’ life" },
+        { "key": "B", "text": "Solomon’s wealth" },
+        { "key": "C", "text": "Saul’s reign" },
+        { "key": "D", "text": "Herod’s power" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "The greatest enemy of man according to the Bible is",
+      "options": [
+        { "key": "A", "text": "Sin" },
+        { "key": "B", "text": "Death" },
+        { "key": "C", "text": "Poverty" },
+        { "key": "D", "text": "War" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 94,
+      "question": "Which prayer did Jesus pray before his arrest?",
+      "options": [
+        { "key": "A", "text": "Lord’s Prayer" },
+        { "key": "B", "text": "Gethsemane prayer" },
+        { "key": "C", "text": "Thanksgiving prayer" },
+        { "key": "D", "text": "Temple prayer" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "Who denied knowing Jesus three times?",
+      "options": [
+        { "key": "A", "text": "John" },
+        { "key": "B", "text": "Peter" },
+        { "key": "C", "text": "Thomas" },
+        { "key": "D", "text": "Andrew" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 96,
+      "question": "Jesus rose from the dead on the",
+      "options": [
+        { "key": "A", "text": "Third day" },
+        { "key": "B", "text": "Second day" },
+        { "key": "C", "text": "First day" },
+        { "key": "D", "text": "Seventh day" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "The Bible teaches that God is",
+      "options": [
+        { "key": "A", "text": "Partial" },
+        { "key": "B", "text": "Love" },
+        { "key": "C", "text": "Unfair" },
+        { "key": "D", "text": "Distant" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Which book emphasizes wisdom?",
+      "options": [
+        { "key": "A", "text": "Proverbs" },
+        { "key": "B", "text": "Genesis" },
+        { "key": "C", "text": "Joshua" },
+        { "key": "D", "text": "Judges" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Jesus commanded believers to",
+      "options": [
+        { "key": "A", "text": "Judge others" },
+        { "key": "B", "text": "Love one another" },
+        { "key": "C", "text": "Seek wealth" },
+        { "key": "D", "text": "Fight enemies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "The Bible ends with the promise of",
+      "options": [
+        { "key": "A", "text": "Judgment" },
+        { "key": "B", "text": "Restoration" },
+        { "key": "C", "text": "Destruction" },
+        { "key": "D", "text": "Punishment" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 101,
+      "question": "Jesus’ mission on earth was to",
+      "options": [
+        { "key": "A", "text": "Condemn" },
+        { "key": "B", "text": "Save mankind" },
+        { "key": "C", "text": "Destroy nations" },
+        { "key": "D", "text": "Rule kingdoms" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Christians believe salvation is by",
+      "options": [
+        { "key": "A", "text": "Works" },
+        { "key": "B", "text": "Grace" },
+        { "key": "C", "text": "Law" },
+        { "key": "D", "text": "Sacrifice" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Who was the first man created?",
+      "options": [
+        { "key": "A", "text": "Abraham" },
+        { "key": "B", "text": "Adam" },
+        { "key": "C", "text": "Noah" },
+        { "key": "D", "text": "Isaac" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "The first woman created was",
+      "options": [
+        { "key": "A", "text": "Sarah" },
+        { "key": "B", "text": "Rebecca" },
+        { "key": "C", "text": "Eve" },
+        { "key": "D", "text": "Leah" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Sin entered the world through",
+      "options": [
+        { "key": "A", "text": "The law" },
+        { "key": "B", "text": "Disobedience" },
+        { "key": "C", "text": "Sacrifice" },
+        { "key": "D", "text": "War" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 106,
+      "question": "The Bible teaches that obedience brings",
+      "options": [
+        { "key": "A", "text": "Punishment" },
+        { "key": "B", "text": "Blessings" },
+        { "key": "C", "text": "Hardship" },
+        { "key": "D", "text": "Sorrow" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 107,
+      "question": "Who anointed David as king of Israel?",
+      "options": [
+        { "key": "A", "text": "Nathan" },
+        { "key": "B", "text": "Elijah" },
+        { "key": "C", "text": "Samuel" },
+        { "key": "D", "text": "Gad" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "David killed Goliath with a",
+      "options": [
+        { "key": "A", "text": "Sword" },
+        { "key": "B", "text": "Spear" },
+        { "key": "C", "text": "Stone" },
+        { "key": "D", "text": "Arrow" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Goliath was a Philistine from",
+      "options": [
+        { "key": "A", "text": "Ekron" },
+        { "key": "B", "text": "Ashkelon" },
+        { "key": "C", "text": "Gath" },
+        { "key": "D", "text": "Ashdod" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "King Saul was from the tribe of",
+      "options": [
+        { "key": "A", "text": "Judah" },
+        { "key": "B", "text": "Benjamin" },
+        { "key": "C", "text": "Levi" },
+        { "key": "D", "text": "Dan" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 111,
+      "question": "Saul lost his kingdom because he",
+      "options": [
+        { "key": "A", "text": "Was weak" },
+        { "key": "B", "text": "Disobeyed God" },
+        { "key": "C", "text": "Was poor" },
+        { "key": "D", "text": "Feared people" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 112,
+      "question": "Solomon asked God for",
+      "options": [
+        { "key": "A", "text": "Wealth" },
+        { "key": "B", "text": "Long life" },
+        { "key": "C", "text": "Wisdom" },
+        { "key": "D", "text": "Power" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Solomon became king after",
+      "options": [
+        { "key": "A", "text": "David" },
+        { "key": "B", "text": "Saul" },
+        { "key": "C", "text": "Rehoboam" },
+        { "key": "D", "text": "Samuel" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 114,
+      "question": "The kingdom of Israel was divided during the reign of",
+      "options": [
+        { "key": "A", "text": "David" },
+        { "key": "B", "text": "Solomon" },
+        { "key": "C", "text": "Rehoboam" },
+        { "key": "D", "text": "Jeroboam" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "The northern kingdom of Israel had its capital in",
+      "options": [
+        { "key": "A", "text": "Jerusalem" },
+        { "key": "B", "text": "Samaria" },
+        { "key": "C", "text": "Bethel" },
+        { "key": "D", "text": "Hebron" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 116,
+      "question": "Jeroboam led which kingdom?",
+      "options": [
+        { "key": "A", "text": "Judah" },
+        { "key": "B", "text": "Israel" },
+        { "key": "C", "text": "Babylon" },
+        { "key": "D", "text": "Assyria" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 117,
+      "question": "Elijah challenged the prophets of Baal at",
+      "options": [
+        { "key": "A", "text": "Carmel" },
+        { "key": "B", "text": "Horeb" },
+        { "key": "C", "text": "Sinai" },
+        { "key": "D", "text": "Zion" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 118,
+      "question": "Fire came down from heaven during Elijah’s contest to show",
+      "options": [
+        { "key": "A", "text": "Power" },
+        { "key": "B", "text": "God’s supremacy" },
+        { "key": "C", "text": "Anger" },
+        { "key": "D", "text": "Judgment" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 119,
+      "question": "Elijah was taken to heaven by",
+      "options": [
+        { "key": "A", "text": "Cloud" },
+        { "key": "B", "text": "Fire chariot" },
+        { "key": "C", "text": "Wind" },
+        { "key": "D", "text": "Angel" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Elisha asked for a double portion of",
+      "options": [
+        { "key": "A", "text": "Wisdom" },
+        { "key": "B", "text": "Power" },
+        { "key": "C", "text": "Spirit" },
+        { "key": "D", "text": "Faith" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 121,
+      "question": "Which prophet healed Naaman?",
+      "options": [
+        { "key": "A", "text": "Elijah" },
+        { "key": "B", "text": "Isaiah" },
+        { "key": "C", "text": "Elisha" },
+        { "key": "D", "text": "Jeremiah" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 122,
+      "question": "Naaman was a commander from",
+      "options": [
+        { "key": "A", "text": "Israel" },
+        { "key": "B", "text": "Egypt" },
+        { "key": "C", "text": "Syria" },
+        { "key": "D", "text": "Babylon" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "Jonah was sent to preach to",
+      "options": [
+        { "key": "A", "text": "Nineveh" },
+        { "key": "B", "text": "Jericho" },
+        { "key": "C", "text": "Samaria" },
+        { "key": "D", "text": "Bethel" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 124,
+      "question": "Jonah tried to run away by going to",
+      "options": [
+        { "key": "A", "text": "Tarshish" },
+        { "key": "B", "text": "Damascus" },
+        { "key": "C", "text": "Egypt" },
+        { "key": "D", "text": "Tyre" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 125,
+      "question": "Jonah was swallowed by a",
+      "options": [
+        { "key": "A", "text": "Shark" },
+        { "key": "B", "text": "Whale" },
+        { "key": "C", "text": "Big fish" },
+        { "key": "D", "text": "Sea monster" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 126,
+      "question": "The main lesson from Jonah’s story is",
+      "options": [
+        { "key": "A", "text": "Punishment" },
+        { "key": "B", "text": "Obedience" },
+        { "key": "C", "text": "Mercy of God" },
+        { "key": "D", "text": "Fear" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 127,
+      "question": "Jesus taught mainly using",
+      "options": [
+        { "key": "A", "text": "Laws" },
+        { "key": "B", "text": "Parables" },
+        { "key": "C", "text": "Songs" },
+        { "key": "D", "text": "Poems" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "The parable of the Sower teaches about",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Hard work" },
+        { "key": "C", "text": "Reception of the word" },
+        { "key": "D", "text": "Seed growth" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "The greatest commandment according to Jesus is to",
+      "options": [
+        { "key": "A", "text": "Pray always" },
+        { "key": "B", "text": "Fast" },
+        { "key": "C", "text": "Love God" },
+        { "key": "D", "text": "Give alms" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 130,
+      "question": "The second greatest commandment is to",
+      "options": [
+        { "key": "A", "text": "Love yourself" },
+        { "key": "B", "text": "Love your neighbour" },
+        { "key": "C", "text": "Obey the law" },
+        { "key": "D", "text": "Fear God" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 131,
+      "question": "Jesus fed five thousand people with",
+      "options": [
+        { "key": "A", "text": "Three loaves" },
+        { "key": "B", "text": "Five loaves and two fish" },
+        { "key": "C", "text": "Seven loaves" },
+        { "key": "D", "text": "Bread and wine" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Who carried Jesus’ cross?",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "John" },
+        { "key": "C", "text": "Simon of Cyrene" },
+        { "key": "D", "text": "Joseph" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "Jesus was crucified at",
+      "options": [
+        { "key": "A", "text": "Bethlehem" },
+        { "key": "B", "text": "Nazareth" },
+        { "key": "C", "text": "Golgotha" },
+        { "key": "D", "text": "Emmaus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 134,
+      "question": "Jesus was buried in a tomb belonging to",
+      "options": [
+        { "key": "A", "text": "Nicodemus" },
+        { "key": "B", "text": "Joseph of Arimathea" },
+        { "key": "C", "text": "Pilate" },
+        { "key": "D", "text": "Peter" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 135,
+      "question": "Jesus appeared first after resurrection to",
+      "options": [
+        { "key": "A", "text": "Peter" },
+        { "key": "B", "text": "John" },
+        { "key": "C", "text": "Mary Magdalene" },
+        { "key": "D", "text": "Thomas" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 136,
+      "question": "The Holy Spirit descended on believers during",
+      "options": [
+        { "key": "A", "text": "Passover" },
+        { "key": "B", "text": "Pentecost" },
+        { "key": "C", "text": "Tabernacles" },
+        { "key": "D", "text": "Atonement" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "Peter preached boldly after receiving the Holy Spirit because of",
+      "options": [
+        { "key": "A", "text": "Courage" },
+        { "key": "B", "text": "Wisdom" },
+        { "key": "C", "text": "Empowerment" },
+        { "key": "D", "text": "Education" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "The early church devoted themselves to",
+      "options": [
+        { "key": "A", "text": "Fighting" },
+        { "key": "B", "text": "Prayer and teaching" },
+        { "key": "C", "text": "Trading" },
+        { "key": "D", "text": "Politics" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 139,
+      "question": "Stephen was known as the first",
+      "options": [
+        { "key": "A", "text": "Disciple" },
+        { "key": "B", "text": "Apostle" },
+        { "key": "C", "text": "Martyr" },
+        { "key": "D", "text": "Prophet" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 140,
+      "question": "Stephen was stoned to death because he",
+      "options": [
+        { "key": "A", "text": "Stole money" },
+        { "key": "B", "text": "Blasphemed" },
+        { "key": "C", "text": "Spoke the truth" },
+        { "key": "D", "text": "Rebelled" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 141,
+      "question": "Saul approved the killing of",
+      "options": [
+        { "key": "A", "text": "James" },
+        { "key": "B", "text": "Peter" },
+        { "key": "C", "text": "Stephen" },
+        { "key": "D", "text": "John" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 142,
+      "question": "The book of Acts was written by",
+      "options": [
+        { "key": "A", "text": "Paul" },
+        { "key": "B", "text": "John" },
+        { "key": "C", "text": "Luke" },
+        { "key": "D", "text": "Peter" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "The main theme of the book of Acts is",
+      "options": [
+        { "key": "A", "text": "Creation" },
+        { "key": "B", "text": "The growth of the church" },
+        { "key": "C", "text": "Law" },
+        { "key": "D", "text": "Kingship" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Paul was imprisoned in Rome because of",
+      "options": [
+        { "key": "A", "text": "Robbery" },
+        { "key": "B", "text": "Teaching the gospel" },
+        { "key": "C", "text": "Rebellion" },
+        { "key": "D", "text": "Politics" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Paul described love in",
+      "options": [
+        { "key": "A", "text": "Romans 12" },
+        { "key": "B", "text": "1 Corinthians 13" },
+        { "key": "C", "text": "Galatians 5" },
+        { "key": "D", "text": "Ephesians 6" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 146,
+      "question": "The fruit of the Spirit includes",
+      "options": [
+        { "key": "A", "text": "Anger" },
+        { "key": "B", "text": "Joy" },
+        { "key": "C", "text": "Greed" },
+        { "key": "D", "text": "Pride" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 147,
+      "question": "Christians are encouraged to live by",
+      "options": [
+        { "key": "A", "text": "Sight" },
+        { "key": "B", "text": "Faith" },
+        { "key": "C", "text": "Law" },
+        { "key": "D", "text": "Fear" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Jesus promised to return",
+      "options": [
+        { "key": "A", "text": "Soon" },
+        { "key": "B", "text": "Never" },
+        { "key": "C", "text": "Unknown time" },
+        { "key": "D", "text": "Immediately" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 149,
+      "question": "The final book of the Bible is",
+      "options": [
+        { "key": "A", "text": "Jude" },
+        { "key": "B", "text": "Revelation" },
+        { "key": "C", "text": "Hebrews" },
+        { "key": "D", "text": "Acts" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "Revelation was written by",
+      "options": [
+        { "key": "A", "text": "Paul" },
+        { "key": "B", "text": "John" },
+        { "key": "C", "text": "Peter" },
+        { "key": "D", "text": "Luke" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 151,
+      "question": "The New Jerusalem symbolizes",
+      "options": [
+        { "key": "A", "text": "War" },
+        { "key": "B", "text": "Heaven" },
+        { "key": "C", "text": "Earth" },
+        { "key": "D", "text": "Temple" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Christians believe eternal life is given by",
+      "options": [
+        { "key": "A", "text": "Law" },
+        { "key": "B", "text": "Faith in Christ" },
+        { "key": "C", "text": "Works" },
+        { "key": "D", "text": "Tradition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 153,
+      "question": "Jesus is described as the",
+      "options": [
+        { "key": "A", "text": "Son of Man" },
+        { "key": "B", "text": "Son of God" },
+        { "key": "C", "text": "Messiah" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 154,
+      "question": "The resurrection gives Christians",
+      "options": [
+        { "key": "A", "text": "Fear" },
+        { "key": "B", "text": "Hope" },
+        { "key": "C", "text": "Confusion" },
+        { "key": "D", "text": "Doubt" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "The ultimate reward for believers is",
+      "options": [
+        { "key": "A", "text": "Fame" },
+        { "key": "B", "text": "Wealth" },
+        { "key": "C", "text": "Eternal life" },
+        { "key": "D", "text": "Power" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 156,
+      "question": "Christians are expected to",
+      "options": [
+        { "key": "A", "text": "Judge others" },
+        { "key": "B", "text": "Live Christ-like lives" },
+        { "key": "C", "text": "Follow culture" },
+        { "key": "D", "text": "Seek revenge" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 157,
+      "question": "Creation according to the Bible began with",
+      "options": [
+        { "key": "A", "text": "Light" },
+        { "key": "B", "text": "Heaven" },
+        { "key": "C", "text": "Earth" },
+        { "key": "D", "text": "Water" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 158,
+      "question": "God created man in His own",
+      "options": [
+        { "key": "A", "text": "Power" },
+        { "key": "B", "text": "Glory" },
+        { "key": "C", "text": "Image" },
+        { "key": "D", "text": "Spirit" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "The first man created by God was",
+      "options": [
+        { "key": "A", "text": "Noah" },
+        { "key": "B", "text": "Adam" },
+        { "key": "C", "text": "Abraham" },
+        { "key": "D", "text": "Moses" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Eve was created from Adam’s",
+      "options": [
+        { "key": "A", "text": "Head" },
+        { "key": "B", "text": "Bone" },
+        { "key": "C", "text": "Rib" },
+        { "key": "D", "text": "Leg" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 161,
+      "question": "The Garden of Eden was located in",
+      "options": [
+        { "key": "A", "text": "Egypt" },
+        { "key": "B", "text": "Mesopotamia" },
+        { "key": "C", "text": "Canaan" },
+        { "key": "D", "text": "Israel" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 162,
+      "question": "The serpent tempted Eve by",
+      "options": [
+        { "key": "A", "text": "Force" },
+        { "key": "B", "text": "Deception" },
+        { "key": "C", "text": "Threat" },
+        { "key": "D", "text": "Command" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "The first sin led to",
+      "options": [
+        { "key": "A", "text": "Death" },
+        { "key": "B", "text": "Punishment" },
+        { "key": "C", "text": "Separation from God" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 164,
+      "question": "Cain killed Abel out of",
+      "options": [
+        { "key": "A", "text": "Hunger" },
+        { "key": "B", "text": "Anger and jealousy" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Confusion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "Abel’s offering was accepted because",
+      "options": [
+        { "key": "A", "text": "It was costly" },
+        { "key": "B", "text": "It was large" },
+        { "key": "C", "text": "He offered in faith" },
+        { "key": "D", "text": "It pleased Cain" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 166,
+      "question": "Noah found favor in the sight of",
+      "options": [
+        { "key": "A", "text": "Men" },
+        { "key": "B", "text": "God" },
+        { "key": "C", "text": "Angels" },
+        { "key": "D", "text": "Kings" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 167,
+      "question": "The flood was sent because of",
+      "options": [
+        { "key": "A", "text": "Hunger" },
+        { "key": "B", "text": "Sin and wickedness" },
+        { "key": "C", "text": "Drought" },
+        { "key": "D", "text": "War" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "The ark rested on Mount",
+      "options": [
+        { "key": "A", "text": "Sinai" },
+        { "key": "B", "text": "Horeb" },
+        { "key": "C", "text": "Ararat" },
+        { "key": "D", "text": "Carmel" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 169,
+      "question": "God’s covenant with Noah was sealed with",
+      "options": [
+        { "key": "A", "text": "Fire" },
+        { "key": "B", "text": "Cloud" },
+        { "key": "C", "text": "Rainbow" },
+        { "key": "D", "text": "Blood" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 170,
+      "question": "Abraham was originally called",
+      "options": [
+        { "key": "A", "text": "Abram" },
+        { "key": "B", "text": "Jacob" },
+        { "key": "C", "text": "Isaac" },
+        { "key": "D", "text": "Joseph" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 171,
+      "question": "God promised Abraham descendants as many as",
+      "options": [
+        { "key": "A", "text": "Sand" },
+        { "key": "B", "text": "Stars" },
+        { "key": "C", "text": "Trees" },
+        { "key": "D", "text": "Mountains" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 172,
+      "question": "Isaac was the son of",
+      "options": [
+        { "key": "A", "text": "Jacob" },
+        { "key": "B", "text": "Joseph" },
+        { "key": "C", "text": "Abraham" },
+        { "key": "D", "text": "Moses" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 173,
+      "question": "Jacob’s name was changed to",
+      "options": [
+        { "key": "A", "text": "Judah" },
+        { "key": "B", "text": "Israel" },
+        { "key": "C", "text": "Levi" },
+        { "key": "D", "text": "Benjamin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Joseph was sold into slavery by his",
+      "options": [
+        { "key": "A", "text": "Friends" },
+        { "key": "B", "text": "Cousins" },
+        { "key": "C", "text": "Brothers" },
+        { "key": "D", "text": "Servants" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Joseph became governor in",
+      "options": [
+        { "key": "A", "text": "Canaan" },
+        { "key": "B", "text": "Egypt" },
+        { "key": "C", "text": "Babylon" },
+        { "key": "D", "text": "Assyria" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 176,
+      "question": "Joseph interpreted dreams by the power of",
+      "options": [
+        { "key": "A", "text": "Magic" },
+        { "key": "B", "text": "Wisdom" },
+        { "key": "C", "text": "God" },
+        { "key": "D", "text": "Experience" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "Moses was rescued from the river by",
+      "options": [
+        { "key": "A", "text": "His mother" },
+        { "key": "B", "text": "Pharaoh’s daughter" },
+        { "key": "C", "text": "Midwives" },
+        { "key": "D", "text": "Aaron" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 178,
+      "question": "God spoke to Moses through the",
+      "options": [
+        { "key": "A", "text": "Cloud" },
+        { "key": "B", "text": "Fire" },
+        { "key": "C", "text": "Burning bush" },
+        { "key": "D", "text": "Angel" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 179,
+      "question": "The Israelites left Egypt during",
+      "options": [
+        { "key": "A", "text": "Pentecost" },
+        { "key": "B", "text": "Passover" },
+        { "key": "C", "text": "Sabbath" },
+        { "key": "D", "text": "Atonement" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "The Red Sea was parted by",
+      "options": [
+        { "key": "A", "text": "Aaron" },
+        { "key": "B", "text": "Joshua" },
+        { "key": "C", "text": "Moses" },
+        { "key": "D", "text": "Elijah" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 181,
+      "question": "God gave the Ten Commandments on Mount",
+      "options": [
+        { "key": "A", "text": "Carmel" },
+        { "key": "B", "text": "Zion" },
+        { "key": "C", "text": "Sinai" },
+        { "key": "D", "text": "Horeb" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 182,
+      "question": "The golden calf represented",
+      "options": [
+        { "key": "A", "text": "Faith" },
+        { "key": "B", "text": "Obedience" },
+        { "key": "C", "text": "Idolatry" },
+        { "key": "D", "text": "Sacrifice" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 183,
+      "question": "Joshua succeeded",
+      "options": [
+        { "key": "A", "text": "Aaron" },
+        { "key": "B", "text": "Caleb" },
+        { "key": "C", "text": "Moses" },
+        { "key": "D", "text": "Samuel" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 184,
+      "question": "Jericho fell after the Israelites",
+      "options": [
+        { "key": "A", "text": "Fought" },
+        { "key": "B", "text": "Prayed" },
+        { "key": "C", "text": "Marched and shouted" },
+        { "key": "D", "text": "Fastened gates" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 185,
+      "question": "Rahab helped the Israelite spies because she",
+      "options": [
+        { "key": "A", "text": "Feared God" },
+        { "key": "B", "text": "Wanted money" },
+        { "key": "C", "text": "Was forced" },
+        { "key": "D", "text": "Hated Jericho" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 186,
+      "question": "Judges ruled Israel before",
+      "options": [
+        { "key": "A", "text": "Prophets" },
+        { "key": "B", "text": "Kings" },
+        { "key": "C", "text": "Priests" },
+        { "key": "D", "text": "Apostles" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 187,
+      "question": "Samson’s strength was linked to his",
+      "options": [
+        { "key": "A", "text": "Muscles" },
+        { "key": "B", "text": "Hair" },
+        { "key": "C", "text": "Sword" },
+        { "key": "D", "text": "Armor" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "Delilah betrayed Samson for",
+      "options": [
+        { "key": "A", "text": "Love" },
+        { "key": "B", "text": "Fear" },
+        { "key": "C", "text": "Money" },
+        { "key": "D", "text": "Power" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "Samson defeated the Philistines using",
+      "options": [
+        { "key": "A", "text": "Stone" },
+        { "key": "B", "text": "Jawbone of a donkey" },
+        { "key": "C", "text": "Sword" },
+        { "key": "D", "text": "Bow" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 190,
+      "question": "Ruth was from the land of",
+      "options": [
+        { "key": "A", "text": "Moab" },
+        { "key": "B", "text": "Egypt" },
+        { "key": "C", "text": "Canaan" },
+        { "key": "D", "text": "Philistia" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 191,
+      "question": "Ruth showed loyalty to",
+      "options": [
+        { "key": "A", "text": "Naomi" },
+        { "key": "B", "text": "Boaz" },
+        { "key": "C", "text": "Israel" },
+        { "key": "D", "text": "Bethlehem" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 192,
+      "question": "Boaz married Ruth because he was her",
+      "options": [
+        { "key": "A", "text": "Brother" },
+        { "key": "B", "text": "Redeemer" },
+        { "key": "C", "text": "Servant" },
+        { "key": "D", "text": "Neighbor" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "Ruth became the great-grandmother of",
+      "options": [
+        { "key": "A", "text": "Saul" },
+        { "key": "B", "text": "Solomon" },
+        { "key": "C", "text": "David" },
+        { "key": "D", "text": "Samuel" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 194,
+      "question": "Hannah prayed for a child and God gave her",
+      "options": [
+        { "key": "A", "text": "David" },
+        { "key": "B", "text": "Samuel" },
+        { "key": "C", "text": "Solomon" },
+        { "key": "D", "text": "Elijah" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 195,
+      "question": "Samuel served God under",
+      "options": [
+        { "key": "A", "text": "David" },
+        { "key": "B", "text": "Saul" },
+        { "key": "C", "text": "Eli" },
+        { "key": "D", "text": "Moses" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 196,
+      "question": "Eli’s sons were punished because they were",
+      "options": [
+        { "key": "A", "text": "Poor" },
+        { "key": "B", "text": "Wicked" },
+        { "key": "C", "text": "Lazy" },
+        { "key": "D", "text": "Weak" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "Israel demanded a king in order to be like",
+      "options": [
+        { "key": "A", "text": "Prophets" },
+        { "key": "B", "text": "Angels" },
+        { "key": "C", "text": "Other nations" },
+        { "key": "D", "text": "Priests" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 198,
+      "question": "Saul was rejected by God because he",
+      "options": [
+        { "key": "A", "text": "Was short" },
+        { "key": "B", "text": "Disobeyed instructions" },
+        { "key": "C", "text": "Was young" },
+        { "key": "D", "text": "Feared war" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "David was chosen as king because",
+      "options": [
+        { "key": "A", "text": "He was tall" },
+        { "key": "B", "text": "He was rich" },
+        { "key": "C", "text": "God saw his heart" },
+        { "key": "D", "text": "He was brave" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 200,
+      "question": "David wrote most of the",
+      "options": [
+        { "key": "A", "text": "Proverbs" },
+        { "key": "B", "text": "Psalms" },
+        { "key": "C", "text": "Laws" },
+        { "key": "D", "text": "Gospels" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 201,
+      "question": "David sinned against God by committing",
+      "options": [
+        { "key": "A", "text": "Adultery" },
+        { "key": "B", "text": "Murder" },
+        { "key": "C", "text": "Both A and B" },
+        { "key": "D", "text": "Theft" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 202,
+      "question": "David repented after being confronted by",
+      "options": [
+        { "key": "A", "text": "Samuel" },
+        { "key": "B", "text": "Nathan" },
+        { "key": "C", "text": "Gad" },
+        { "key": "D", "text": "Eli" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 203,
+      "question": "God forgave David because he showed",
+      "options": [
+        { "key": "A", "text": "Strength" },
+        { "key": "B", "text": "Humility" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Anger" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 204,
+      "question": "Solomon built the temple in",
+      "options": [
+        { "key": "A", "text": "Samaria" },
+        { "key": "B", "text": "Jerusalem" },
+        { "key": "C", "text": "Bethel" },
+        { "key": "D", "text": "Hebron" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 205,
+      "question": "Solomon’s downfall came because of",
+      "options": [
+        { "key": "A", "text": "Poverty" },
+        { "key": "B", "text": "Idolatry" },
+        { "key": "C", "text": "War" },
+        { "key": "D", "text": "Weak army" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 206,
+      "question": "The ultimate lesson of leadership in the Bible is",
+      "options": [
+        { "key": "A", "text": "Power" },
+        { "key": "B", "text": "Humility and obedience to God" },
+        { "key": "C", "text": "Wealth" },
+        { "key": "D", "text": "Popularity" }
+      ],
+      "correct_answer": "B"
     }
   ]
 }
