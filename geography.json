@@ -4,7 +4,7 @@
     "subject": "Geography",
     "year": "General",
     "time_minutes": 40,
-    "total_questions": 5,
+    "total_questions": 200,
     "instructions": "Answer all questions. Choose the option that best answers each question."
   },
   "questions": [
@@ -60,6 +60,2185 @@
         { "key": "B", "text": "Rainforest" },
         { "key": "C", "text": "Savanna" },
         { "key": "D", "text": "Swamp forest" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 6,
+      "question": "Geography is best defined as the study of",
+      "options": [
+        { "key": "A", "text": "rocks and minerals" },
+        { "key": "B", "text": "the earth and its physical and human features" },
+        { "key": "C", "text": "weather conditions only" },
+        { "key": "D", "text": "maps and diagrams" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT a branch of Geography?",
+      "options": [
+        { "key": "A", "text": "Physical Geography" },
+        { "key": "B", "text": "Human Geography" },
+        { "key": "C", "text": "Economic Geography" },
+        { "key": "D", "text": "Organic Geography" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "The instrument used to measure wind direction is",
+      "options": [
+        { "key": "A", "text": "Barometer" },
+        { "key": "B", "text": "Anemometer" },
+        { "key": "C", "text": "Wind vane" },
+        { "key": "D", "text": "Thermometer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following lines divides the Earth into two equal halves?",
+      "options": [
+        { "key": "A", "text": "Longitude" },
+        { "key": "B", "text": "Tropic of Cancer" },
+        { "key": "C", "text": "Equator" },
+        { "key": "D", "text": "Greenwich Meridian" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "A map scale shows",
+      "options": [
+        { "key": "A", "text": "the relief of an area" },
+        { "key": "B", "text": "the direction of features" },
+        { "key": "C", "text": "the relationship between distance on map and ground" },
+        { "key": "D", "text": "the symbols on a map" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 11,
+      "question": "Which of the following is a renewable resource?",
+      "options": [
+        { "key": "A", "text": "Coal" },
+        { "key": "B", "text": "Petroleum" },
+        { "key": "C", "text": "Natural gas" },
+        { "key": "D", "text": "Solar energy" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 12,
+      "question": "Rainfall received due to rising warm air at the equator is known as",
+      "options": [
+        { "key": "A", "text": "Relief rainfall" },
+        { "key": "B", "text": "Frontal rainfall" },
+        { "key": "C", "text": "Convectional rainfall" },
+        { "key": "D", "text": "Cyclonic rainfall" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which type of rock is formed from molten magma?",
+      "options": [
+        { "key": "A", "text": "Sedimentary" },
+        { "key": "B", "text": "Metamorphic" },
+        { "key": "C", "text": "Igneous" },
+        { "key": "D", "text": "Residual" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "The process by which soil is removed by wind or water is called",
+      "options": [
+        { "key": "A", "text": "Weathering" },
+        { "key": "B", "text": "Erosion" },
+        { "key": "C", "text": "Deposition" },
+        { "key": "D", "text": "Mass wasting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which climatic region is characterized by heavy rainfall throughout the year?",
+      "options": [
+        { "key": "A", "text": "Savanna" },
+        { "key": "B", "text": "Mediterranean" },
+        { "key": "C", "text": "Equatorial" },
+        { "key": "D", "text": "Desert" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "The imaginary line that runs from the North Pole to the South Pole is",
+      "options": [
+        { "key": "A", "text": "Latitude" },
+        { "key": "B", "text": "Equator" },
+        { "key": "C", "text": "Longitude" },
+        { "key": "D", "text": "Tropic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which occupation involves the extraction of raw materials directly from the earth?",
+      "options": [
+        { "key": "A", "text": "Manufacturing" },
+        { "key": "B", "text": "Tertiary activities" },
+        { "key": "C", "text": "Primary activities" },
+        { "key": "D", "text": "Quaternary activities" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is an example of a plateau?",
+      "options": [
+        { "key": "A", "text": "Jos Plateau" },
+        { "key": "B", "text": "Niger Delta" },
+        { "key": "C", "text": "River Benue" },
+        { "key": "D", "text": "Lake Chad" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "The main source of energy for all weather processes is",
+      "options": [
+        { "key": "A", "text": "The moon" },
+        { "key": "B", "text": "The wind" },
+        { "key": "C", "text": "The sun" },
+        { "key": "D", "text": "The ocean" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Urbanization refers to",
+      "options": [
+        { "key": "A", "text": "movement from city to village" },
+        { "key": "B", "text": "growth of cities and towns" },
+        { "key": "C", "text": "decline in population" },
+        { "key": "D", "text": "farming activities" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following weather elements is measured with a barometer?",
+      "options": [
+        { "key": "A", "text": "Rainfall" },
+        { "key": "B", "text": "Temperature" },
+        { "key": "C", "text": "Atmospheric pressure" },
+        { "key": "D", "text": "Wind speed" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "The wearing away of rocks by physical, chemical or biological processes is known as",
+      "options": [
+        { "key": "A", "text": "Erosion" },
+        { "key": "B", "text": "Weathering" },
+        { "key": "C", "text": "Deposition" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following landforms is formed by volcanic activity?",
+      "options": [
+        { "key": "A", "text": "Flood plain" },
+        { "key": "B", "text": "Delta" },
+        { "key": "C", "text": "Volcanic cone" },
+        { "key": "D", "text": "Meander" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "The Tropic of Cancer is located at",
+      "options": [
+        { "key": "A", "text": "23½° North of the Equator" },
+        { "key": "B", "text": "23½° South of the Equator" },
+        { "key": "C", "text": "66½° North of the Equator" },
+        { "key": "D", "text": "66½° South of the Equator" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following factors influences population distribution most?",
+      "options": [
+        { "key": "A", "text": "Climate" },
+        { "key": "B", "text": "Relief" },
+        { "key": "C", "text": "Soil fertility" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "A map showing natural and man-made features of an area is known as a",
+      "options": [
+        { "key": "A", "text": "Climatic map" },
+        { "key": "B", "text": "Political map" },
+        { "key": "C", "text": "Topographical map" },
+        { "key": "D", "text": "Geological map" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is a cause of soil erosion?",
+      "options": [
+        { "key": "A", "text": "Afforestation" },
+        { "key": "B", "text": "Overgrazing" },
+        { "key": "C", "text": "Contour ploughing" },
+        { "key": "D", "text": "Mulching" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "The movement of people from rural areas to urban centres is called",
+      "options": [
+        { "key": "A", "text": "Immigration" },
+        { "key": "B", "text": "Emigration" },
+        { "key": "C", "text": "Rural-urban migration" },
+        { "key": "D", "text": "Nomadism" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is an example of internal drainage?",
+      "options": [
+        { "key": "A", "text": "River Niger" },
+        { "key": "B", "text": "River Benue" },
+        { "key": "C", "text": "River Nile" },
+        { "key": "D", "text": "Lake Chad Basin" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following occupations belongs to the tertiary sector?",
+      "options": [
+        { "key": "A", "text": "Fishing" },
+        { "key": "B", "text": "Mining" },
+        { "key": "C", "text": "Teaching" },
+        { "key": "D", "text": "Farming" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 31,
+      "question": "Which climatic element is measured with a thermometer?",
+      "options": [
+        { "key": "A", "text": "Humidity" },
+        { "key": "B", "text": "Temperature" },
+        { "key": "C", "text": "Rainfall" },
+        { "key": "D", "text": "Wind" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "The process by which rivers drop their load is called",
+      "options": [
+        { "key": "A", "text": "Erosion" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Weathering" },
+        { "key": "D", "text": "Deposition" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following seas is the saltiest?",
+      "options": [
+        { "key": "A", "text": "Red Sea" },
+        { "key": "B", "text": "Mediterranean Sea" },
+        { "key": "C", "text": "Dead Sea" },
+        { "key": "D", "text": "Black Sea" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following helps to prevent flooding?",
+      "options": [
+        { "key": "A", "text": "Deforestation" },
+        { "key": "B", "text": "Poor drainage" },
+        { "key": "C", "text": "Afforestation" },
+        { "key": "D", "text": "Urban congestion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "The main occupation in riverine areas is usually",
+      "options": [
+        { "key": "A", "text": "Mining" },
+        { "key": "B", "text": "Fishing" },
+        { "key": "C", "text": "Trading" },
+        { "key": "D", "text": "Manufacturing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following causes air pollution?",
+      "options": [
+        { "key": "A", "text": "Tree planting" },
+        { "key": "B", "text": "Industrial smoke" },
+        { "key": "C", "text": "Rainfall" },
+        { "key": "D", "text": "Wind movement" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which type of settlement is characterized by closely packed houses?",
+      "options": [
+        { "key": "A", "text": "Dispersed" },
+        { "key": "B", "text": "Linear" },
+        { "key": "C", "text": "Nucleated" },
+        { "key": "D", "text": "Isolated" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is NOT a function of a map?",
+      "options": [
+        { "key": "A", "text": "Navigation" },
+        { "key": "B", "text": "Planning" },
+        { "key": "C", "text": "Decoration" },
+        { "key": "D", "text": "Representation of features" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a major problem of urbanization?",
+      "options": [
+        { "key": "A", "text": "Overpopulation" },
+        { "key": "B", "text": "Adequate housing" },
+        { "key": "C", "text": "Improved sanitation" },
+        { "key": "D", "text": "Employment opportunities" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following best describes latitude?",
+      "options": [
+        { "key": "A", "text": "Lines running east to west" },
+        { "key": "B", "text": "Lines running north to south" },
+        { "key": "C", "text": "Distance east or west of Greenwich" },
+        { "key": "D", "text": "Height above sea level" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following instruments is used to measure wind direction?",
+      "options": [
+        { "key": "A", "text": "Thermometer" },
+        { "key": "B", "text": "Anemometer" },
+        { "key": "C", "text": "Wind vane" },
+        { "key": "D", "text": "Barometer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "An island surrounded entirely by water is known as",
+      "options": [
+        { "key": "A", "text": "Peninsula" },
+        { "key": "B", "text": "Cape" },
+        { "key": "C", "text": "Isthmus" },
+        { "key": "D", "text": "Island" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 43,
+      "question": "The Tropic of Capricorn is found at",
+      "options": [
+        { "key": "A", "text": "23½°N" },
+        { "key": "B", "text": "23½°S" },
+        { "key": "C", "text": "66½°N" },
+        { "key": "D", "text": "66½°S" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following factors does NOT influence climate?",
+      "options": [
+        { "key": "A", "text": "Latitude" },
+        { "key": "B", "text": "Altitude" },
+        { "key": "C", "text": "Vegetation" },
+        { "key": "D", "text": "Longitude" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 45,
+      "question": "The type of rainfall common in the equatorial region is",
+      "options": [
+        { "key": "A", "text": "Cyclonic" },
+        { "key": "B", "text": "Relief" },
+        { "key": "C", "text": "Convectional" },
+        { "key": "D", "text": "Frontal" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "Which soil type is best suited for agriculture?",
+      "options": [
+        { "key": "A", "text": "Clay soil" },
+        { "key": "B", "text": "Sandy soil" },
+        { "key": "C", "text": "Loamy soil" },
+        { "key": "D", "text": "Gravel soil" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following rivers is the longest in Africa?",
+      "options": [
+        { "key": "A", "text": "Congo River" },
+        { "key": "B", "text": "Niger River" },
+        { "key": "C", "text": "Zambezi River" },
+        { "key": "D", "text": "River Nile" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 48,
+      "question": "A contour interval on a map refers to the",
+      "options": [
+        { "key": "A", "text": "Distance between grid lines" },
+        { "key": "B", "text": "Vertical difference between contours" },
+        { "key": "C", "text": "Map scale" },
+        { "key": "D", "text": "Direction of north" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a renewable resource?",
+      "options": [
+        { "key": "A", "text": "Coal" },
+        { "key": "B", "text": "Petroleum" },
+        { "key": "C", "text": "Solar energy" },
+        { "key": "D", "text": "Natural gas" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Which of these human activities causes desertification?",
+      "options": [
+        { "key": "A", "text": "Tree planting" },
+        { "key": "B", "text": "Overgrazing" },
+        { "key": "C", "text": "Irrigation" },
+        { "key": "D", "text": "Terracing" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 51,
+      "question": "Which ocean lies between Africa and Australia?",
+      "options": [
+        { "key": "A", "text": "Pacific Ocean" },
+        { "key": "B", "text": "Atlantic Ocean" },
+        { "key": "C", "text": "Indian Ocean" },
+        { "key": "D", "text": "Arctic Ocean" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 52,
+      "question": "Population density refers to",
+      "options": [
+        { "key": "A", "text": "Total population of a country" },
+        { "key": "B", "text": "Birth rate per year" },
+        { "key": "C", "text": "Number of people per unit area" },
+        { "key": "D", "text": "Population growth rate" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Which of the following is a cause of earthquake?",
+      "options": [
+        { "key": "A", "text": "Volcanic eruption" },
+        { "key": "B", "text": "Tectonic movement" },
+        { "key": "C", "text": "Weathering" },
+        { "key": "D", "text": "Erosion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "The primary occupation of people living in desert areas is",
+      "options": [
+        { "key": "A", "text": "Fishing" },
+        { "key": "B", "text": "Crop farming" },
+        { "key": "C", "text": "Nomadic herding" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 55,
+      "question": "Which of the following is NOT an agent of erosion?",
+      "options": [
+        { "key": "A", "text": "Wind" },
+        { "key": "B", "text": "Water" },
+        { "key": "C", "text": "Ice" },
+        { "key": "D", "text": "Sun" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 56,
+      "question": "Which type of climate has rainfall throughout the year?",
+      "options": [
+        { "key": "A", "text": "Tropical rainforest climate" },
+        { "key": "B", "text": "Sudan climate" },
+        { "key": "C", "text": "Sahel climate" },
+        { "key": "D", "text": "Mediterranean climate" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "A cape is best described as",
+      "options": [
+        { "key": "A", "text": "Land surrounded by water" },
+        { "key": "B", "text": "Land projecting into the sea" },
+        { "key": "C", "text": "Water between lands" },
+        { "key": "D", "text": "Highland area" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Which of the following settlements develops along major roads?",
+      "options": [
+        { "key": "A", "text": "Nucleated settlement" },
+        { "key": "B", "text": "Dispersed settlement" },
+        { "key": "C", "text": "Linear settlement" },
+        { "key": "D", "text": "Isolated settlement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Which of these minerals is non-metallic?",
+      "options": [
+        { "key": "A", "text": "Iron ore" },
+        { "key": "B", "text": "Gold" },
+        { "key": "C", "text": "Copper" },
+        { "key": "D", "text": "Limestone" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 60,
+      "question": "Which factor best explains the distribution of vegetation?",
+      "options": [
+        { "key": "A", "text": "Climate" },
+        { "key": "B", "text": "Latitude" },
+        { "key": "C", "text": "Longitude" },
+        { "key": "D", "text": "Relief" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 61,
+      "question": "The imaginary line dividing the Earth into two equal halves is the",
+      "options": [
+        { "key": "A", "text": "Tropic of Cancer" },
+        { "key": "B", "text": "Prime Meridian" },
+        { "key": "C", "text": "Equator" },
+        { "key": "D", "text": "Longitude" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Which map shows relief using contour lines?",
+      "options": [
+        { "key": "A", "text": "Political map" },
+        { "key": "B", "text": "Topographical map" },
+        { "key": "C", "text": "Climatic map" },
+        { "key": "D", "text": "Soil map" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Which sector of the economy involves manufacturing?",
+      "options": [
+        { "key": "A", "text": "Primary" },
+        { "key": "B", "text": "Secondary" },
+        { "key": "C", "text": "Tertiary" },
+        { "key": "D", "text": "Quaternary" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Which of the following causes flooding?",
+      "options": [
+        { "key": "A", "text": "Proper drainage" },
+        { "key": "B", "text": "Afforestation" },
+        { "key": "C", "text": "Heavy rainfall" },
+        { "key": "D", "text": "Damming rivers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "Which is the largest continent in the world?",
+      "options": [
+        { "key": "A", "text": "Africa" },
+        { "key": "B", "text": "Europe" },
+        { "key": "C", "text": "Asia" },
+        { "key": "D", "text": "South America" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 66,
+      "question": "Which gas is most abundant in the atmosphere?",
+      "options": [
+        { "key": "A", "text": "Oxygen" },
+        { "key": "B", "text": "Carbon dioxide" },
+        { "key": "C", "text": "Nitrogen" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Which of the following is an example of economic activity?",
+      "options": [
+        { "key": "A", "text": "Sleeping" },
+        { "key": "B", "text": "Eating" },
+        { "key": "C", "text": "Trading" },
+        { "key": "D", "text": "Reading" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following best describes erosion?",
+      "options": [
+        { "key": "A", "text": "Breaking down of rocks" },
+        { "key": "B", "text": "Movement of weathered materials" },
+        { "key": "C", "text": "Formation of soil" },
+        { "key": "D", "text": "Hardening of rocks" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Which of these is a benefit of forests?",
+      "options": [
+        { "key": "A", "text": "Soil erosion" },
+        { "key": "B", "text": "Loss of biodiversity" },
+        { "key": "C", "text": "Provision of timber" },
+        { "key": "D", "text": "Desertification" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following best explains urban growth?",
+      "options": [
+        { "key": "A", "text": "Rural unemployment" },
+        { "key": "B", "text": "Industrialization" },
+        { "key": "C", "text": "Poor roads" },
+        { "key": "D", "text": "Low income" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 71,
+      "question": "Which of these is a type of map scale?",
+      "options": [
+        { "key": "A", "text": "Linear" },
+        { "key": "B", "text": "Vertical" },
+        { "key": "C", "text": "Horizontal" },
+        { "key": "D", "text": "Angular" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "Which factor determines the type of crops grown in an area?",
+      "options": [
+        { "key": "A", "text": "Longitude" },
+        { "key": "B", "text": "Climate" },
+        { "key": "C", "text": "Population" },
+        { "key": "D", "text": "Culture" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is NOT a renewable resource?",
+      "options": [
+        { "key": "A", "text": "Solar energy" },
+        { "key": "B", "text": "Water" },
+        { "key": "C", "text": "Coal" },
+        { "key": "D", "text": "Wind" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "What is the main source of energy for the Earth?",
+      "options": [
+        { "key": "A", "text": "Wind" },
+        { "key": "B", "text": "Sun" },
+        { "key": "C", "text": "Ocean" },
+        { "key": "D", "text": "Volcanoes" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Which feature is associated with river rejuvenation?",
+      "options": [
+        { "key": "A", "text": "Delta" },
+        { "key": "B", "text": "Waterfall" },
+        { "key": "C", "text": "Flood plain" },
+        { "key": "D", "text": "Meander" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "Which of the following best explains weather?",
+      "options": [
+        { "key": "A", "text": "Average atmospheric condition over long period" },
+        { "key": "B", "text": "Day-to-day atmospheric condition" },
+        { "key": "C", "text": "Yearly rainfall" },
+        { "key": "D", "text": "Climate pattern" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Which factor affects visibility during harmattan?",
+      "options": [
+        { "key": "A", "text": "Heavy rain" },
+        { "key": "B", "text": "Dust haze" },
+        { "key": "C", "text": "Cloud cover" },
+        { "key": "D", "text": "Fog" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Which of the following is an inland water body?",
+      "options": [
+        { "key": "A", "text": "Ocean" },
+        { "key": "B", "text": "Sea" },
+        { "key": "C", "text": "Lake" },
+        { "key": "D", "text": "Gulf" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following best describes longitude?",
+      "options": [
+        { "key": "A", "text": "Distance north or south of the Equator" },
+        { "key": "B", "text": "Distance east or west of Greenwich" },
+        { "key": "C", "text": "Height above sea level" },
+        { "key": "D", "text": "Slope of land" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Which activity leads to deforestation?",
+      "options": [
+        { "key": "A", "text": "Tree planting" },
+        { "key": "B", "text": "Bush burning" },
+        { "key": "C", "text": "Afforestation" },
+        { "key": "D", "text": "Forest conservation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "Which of the following is a form of mass movement?",
+      "options": [
+        { "key": "A", "text": "Erosion" },
+        { "key": "B", "text": "Deposition" },
+        { "key": "C", "text": "Landslide" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "Which climatic belt experiences four seasons?",
+      "options": [
+        { "key": "A", "text": "Equatorial" },
+        { "key": "B", "text": "Tropical" },
+        { "key": "C", "text": "Temperate" },
+        { "key": "D", "text": "Polar" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following promotes soil fertility?",
+      "options": [
+        { "key": "A", "text": "Overcropping" },
+        { "key": "B", "text": "Bush burning" },
+        { "key": "C", "text": "Crop rotation" },
+        { "key": "D", "text": "Overgrazing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 84,
+      "question": "Which gas is responsible for global warming?",
+      "options": [
+        { "key": "A", "text": "Oxygen" },
+        { "key": "B", "text": "Nitrogen" },
+        { "key": "C", "text": "Carbon dioxide" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following is a fishing method?",
+      "options": [
+        { "key": "A", "text": "Trawling" },
+        { "key": "B", "text": "Terracing" },
+        { "key": "C", "text": "Crop rotation" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 86,
+      "question": "Which map symbol is used to represent settlements?",
+      "options": [
+        { "key": "A", "text": "Triangle" },
+        { "key": "B", "text": "Dot" },
+        { "key": "C", "text": "Arrow" },
+        { "key": "D", "text": "Contour" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Which of the following causes soil leaching?",
+      "options": [
+        { "key": "A", "text": "Low rainfall" },
+        { "key": "B", "text": "Heavy rainfall" },
+        { "key": "C", "text": "Wind erosion" },
+        { "key": "D", "text": "Overgrazing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Which sector provides services like banking and transport?",
+      "options": [
+        { "key": "A", "text": "Primary" },
+        { "key": "B", "text": "Secondary" },
+        { "key": "C", "text": "Tertiary" },
+        { "key": "D", "text": "Quaternary" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "Which type of erosion is common in deserts?",
+      "options": [
+        { "key": "A", "text": "Glacial" },
+        { "key": "B", "text": "Wind erosion" },
+        { "key": "C", "text": "River erosion" },
+        { "key": "D", "text": "Coastal erosion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following best explains migration?",
+      "options": [
+        { "key": "A", "text": "Natural increase" },
+        { "key": "B", "text": "Movement of people" },
+        { "key": "C", "text": "Population density" },
+        { "key": "D", "text": "Urbanization" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 91,
+      "question": "Which of the following best describes a plateau?",
+      "options": [
+        { "key": "A", "text": "Lowland area" },
+        { "key": "B", "text": "Highland with steep sides" },
+        { "key": "C", "text": "High flat land" },
+        { "key": "D", "text": "Deep valley" }
+      ],
+      "correct_answer": "C"
+    },
+    
+    {
+      "id": 92,
+      "question": "Which of the following is a natural vegetation belt in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Savanna" },
+        { "key": "B", "text": "Tundra" },
+        { "key": "C", "text": "Taiga" },
+        { "key": "D", "text": "Steppe" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        { "key": "A", "text": "Thermometer" },
+        { "key": "B", "text": "Barometer" },
+        { "key": "C", "text": "Anemometer" },
+        { "key": "D", "text": "Rain gauge" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "The major factor influencing climate in coastal areas is",
+      "options": [
+        { "key": "A", "text": "Latitude" },
+        { "key": "B", "text": "Altitude" },
+        { "key": "C", "text": "Distance from the sea" },
+        { "key": "D", "text": "Relief" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Which of the following features is formed by wind action?",
+      "options": [
+        { "key": "A", "text": "Delta" },
+        { "key": "B", "text": "Moraine" },
+        { "key": "C", "text": "Sand dune" },
+        { "key": "D", "text": "Ox-bow lake" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 96,
+      "question": "Which of the following is an effect of urbanization?",
+      "options": [
+        { "key": "A", "text": "Decrease in population" },
+        { "key": "B", "text": "Traffic congestion" },
+        { "key": "C", "text": "Increased rural employment" },
+        { "key": "D", "text": "Reduced crime rate" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 97,
+      "question": "Which type of rainfall occurs when moist air rises due to heating?",
+      "options": [
+        { "key": "A", "text": "Relief rainfall" },
+        { "key": "B", "text": "Cyclonic rainfall" },
+        { "key": "C", "text": "Convectional rainfall" },
+        { "key": "D", "text": "Frontal rainfall" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Which of the following best describes a peninsula?",
+      "options": [
+        { "key": "A", "text": "Land surrounded by water on all sides" },
+        { "key": "B", "text": "Land surrounded by water on three sides" },
+        { "key": "C", "text": "Water surrounded by land" },
+        { "key": "D", "text": "High land area" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Which of these is a non-renewable resource?",
+      "options": [
+        { "key": "A", "text": "Wind" },
+        { "key": "B", "text": "Water" },
+        { "key": "C", "text": "Coal" },
+        { "key": "D", "text": "Sunlight" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "The equatorial climate is characterized by",
+      "options": [
+        { "key": "A", "text": "Low rainfall" },
+        { "key": "B", "text": "Long dry season" },
+        { "key": "C", "text": "High temperature and rainfall" },
+        { "key": "D", "text": "Cold temperature" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 101,
+      "question": "Which of the following human activities leads to soil erosion?",
+      "options": [
+        { "key": "A", "text": "Afforestation" },
+        { "key": "B", "text": "Terracing" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Mulching" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 102,
+      "question": "Which map is best used for showing population distribution?",
+      "options": [
+        { "key": "A", "text": "Political map" },
+        { "key": "B", "text": "Physical map" },
+        { "key": "C", "text": "Dot map" },
+        { "key": "D", "text": "Topographical map" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Which gas is responsible for ozone layer depletion?",
+      "options": [
+        { "key": "A", "text": "Carbon monoxide" },
+        { "key": "B", "text": "Methane" },
+        { "key": "C", "text": "Chlorofluorocarbons" },
+        { "key": "D", "text": "Nitrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following promotes sustainable development?",
+      "options": [
+        { "key": "A", "text": "Deforestation" },
+        { "key": "B", "text": "Bush burning" },
+        { "key": "C", "text": "Conservation of resources" },
+        { "key": "D", "text": "Overfishing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following is a cause of rural-urban migration?",
+      "options": [
+        { "key": "A", "text": "Poor rural infrastructure" },
+        { "key": "B", "text": "High rural wages" },
+        { "key": "C", "text": "Abundant farmland" },
+        { "key": "D", "text": "Low urban population" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 106,
+      "question": "Which water body separates Africa from Europe?",
+      "options": [
+        { "key": "A", "text": "Atlantic Ocean" },
+        { "key": "B", "text": "Mediterranean Sea" },
+        { "key": "C", "text": "Red Sea" },
+        { "key": "D", "text": "Indian Ocean" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Which of the following is an effect of deforestation?",
+      "options": [
+        { "key": "A", "text": "Increased rainfall" },
+        { "key": "B", "text": "Loss of biodiversity" },
+        { "key": "C", "text": "Improved soil fertility" },
+        { "key": "D", "text": "Reduced erosion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "Which type of farming involves keeping animals?",
+      "options": [
+        { "key": "A", "text": "Crop farming" },
+        { "key": "B", "text": "Pastoral farming" },
+        { "key": "C", "text": "Mixed cropping" },
+        { "key": "D", "text": "Subsistence farming" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "Which landform is formed by volcanic activity?",
+      "options": [
+        { "key": "A", "text": "Plateau" },
+        { "key": "B", "text": "Valley" },
+        { "key": "C", "text": "Mountain" },
+        { "key": "D", "text": "Plain" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "Which climate is suitable for growing cocoa?",
+      "options": [
+        { "key": "A", "text": "Desert climate" },
+        { "key": "B", "text": "Mediterranean climate" },
+        { "key": "C", "text": "Equatorial climate" },
+        { "key": "D", "text": "Temperate climate" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 111,
+      "question": "Which settlement pattern is common in farming areas?",
+      "options": [
+        { "key": "A", "text": "Linear" },
+        { "key": "B", "text": "Dispersed" },
+        { "key": "C", "text": "Nucleated" },
+        { "key": "D", "text": "Urban" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "Which natural disaster is common in coastal regions?",
+      "options": [
+        { "key": "A", "text": "Earthquake" },
+        { "key": "B", "text": "Tsunami" },
+        { "key": "C", "text": "Volcanic eruption" },
+        { "key": "D", "text": "Avalanche" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 113,
+      "question": "Which of the following is a benefit of irrigation?",
+      "options": [
+        { "key": "A", "text": "Soil erosion" },
+        { "key": "B", "text": "Water pollution" },
+        { "key": "C", "text": "Year-round farming" },
+        { "key": "D", "text": "Flooding" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "Which of the following best explains latitude?",
+      "options": [
+        { "key": "A", "text": "Distance east or west" },
+        { "key": "B", "text": "Height above sea level" },
+        { "key": "C", "text": "Distance north or south of the Equator" },
+        { "key": "D", "text": "Distance between places" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "Which of the following is a characteristic of savanna vegetation?",
+      "options": [
+        { "key": "A", "text": "Dense forest" },
+        { "key": "B", "text": "Tall grasses with scattered trees" },
+        { "key": "C", "text": "Mosses and lichens" },
+        { "key": "D", "text": "No vegetation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 116,
+      "question": "Which means of transport is fastest over long distances?",
+      "options": [
+        { "key": "A", "text": "Road transport" },
+        { "key": "B", "text": "Rail transport" },
+        { "key": "C", "text": "Water transport" },
+        { "key": "D", "text": "Air transport" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 117,
+      "question": "Which industry processes raw materials into finished goods?",
+      "options": [
+        { "key": "A", "text": "Primary industry" },
+        { "key": "B", "text": "Secondary industry" },
+        { "key": "C", "text": "Tertiary industry" },
+        { "key": "D", "text": "Quaternary industry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Which of the following is a cause of global warming?",
+      "options": [
+        { "key": "A", "text": "Afforestation" },
+        { "key": "B", "text": "Use of fossil fuels" },
+        { "key": "C", "text": "Organic farming" },
+        { "key": "D", "text": "Recycling" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 119,
+      "question": "Which type of soil is most fertile?",
+      "options": [
+        { "key": "A", "text": "Clay soil" },
+        { "key": "B", "text": "Sandy soil" },
+        { "key": "C", "text": "Loamy soil" },
+        { "key": "D", "text": "Rocky soil" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "Which of the following causes soil leaching?",
+      "options": [
+        { "key": "A", "text": "Low rainfall" },
+        { "key": "B", "text": "Heavy rainfall" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 121,
+      "question": "Which of the following is a form of weathering?",
+      "options": [
+        { "key": "A", "text": "Deposition" },
+        { "key": "B", "text": "Transportation" },
+        { "key": "C", "text": "Exfoliation" },
+        { "key": "D", "text": "Erosion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "Which country has the highest population in Africa?",
+      "options": [
+        { "key": "A", "text": "Egypt" },
+        { "key": "B", "text": "Ethiopia" },
+        { "key": "C", "text": "South Africa" },
+        { "key": "D", "text": "Nigeria" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 123,
+      "question": "Which of the following best describes relief?",
+      "options": [
+        { "key": "A", "text": "Climate of an area" },
+        { "key": "B", "text": "Distribution of population" },
+        { "key": "C", "text": "Shape and height of land surface" },
+        { "key": "D", "text": "Type of vegetation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Which of the following is a benefit of population census?",
+      "options": [
+        { "key": "A", "text": "Tax evasion" },
+        { "key": "B", "text": "Political instability" },
+        { "key": "C", "text": "Development planning" },
+        { "key": "D", "text": "Migration" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Which is the main source of fresh water on Earth?",
+      "options": [
+        { "key": "A", "text": "Oceans" },
+        { "key": "B", "text": "Rivers" },
+        { "key": "C", "text": "Glaciers and ice caps" },
+        { "key": "D", "text": "Rainfall" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 126,
+      "question": "Which of the following best explains erosion?",
+      "options": [
+        { "key": "A", "text": "Breaking of rocks in place" },
+        { "key": "B", "text": "Movement of weathered materials" },
+        { "key": "C", "text": "Formation of soil" },
+        { "key": "D", "text": "Cooling of magma" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "Which climatic element affects evaporation most?",
+      "options": [
+        { "key": "A", "text": "Temperature" },
+        { "key": "B", "text": "Pressure" },
+        { "key": "C", "text": "Cloud cover" },
+        { "key": "D", "text": "Humidity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 128,
+      "question": "Which of the following is a type of farming system?",
+      "options": [
+        { "key": "A", "text": "Fishing" },
+        { "key": "B", "text": "Mining" },
+        { "key": "C", "text": "Shifting cultivation" },
+        { "key": "D", "text": "Manufacturing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "Which of the following is an example of internal migration?",
+      "options": [
+        { "key": "A", "text": "Nigeria to Ghana" },
+        { "key": "B", "text": "Rural to urban movement" },
+        { "key": "C", "text": "Africa to Europe" },
+        { "key": "D", "text": "Asia to Africa" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Which of the following improves soil structure?",
+      "options": [
+        { "key": "A", "text": "Overgrazing" },
+        { "key": "B", "text": "Application of organic manure" },
+        { "key": "C", "text": "Bush burning" },
+        { "key": "D", "text": "Continuous cropping" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 131,
+      "question": "Which of the following is the main occupation in riverine areas?",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Fishing" },
+        { "key": "C", "text": "Mining" },
+        { "key": "D", "text": "Trading" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Which of the following is a human-made feature?",
+      "options": [
+        { "key": "A", "text": "Mountain" },
+        { "key": "B", "text": "River" },
+        { "key": "C", "text": "Road" },
+        { "key": "D", "text": "Valley" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "Which is the major cause of desert encroachment?",
+      "options": [
+        { "key": "A", "text": "Heavy rainfall" },
+        { "key": "B", "text": "Afforestation" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Irrigation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 134,
+      "question": "Which of the following best explains scale?",
+      "options": [
+        { "key": "A", "text": "Direction of a map" },
+        { "key": "B", "text": "Ratio between map distance and ground distance" },
+        { "key": "C", "text": "Height of land" },
+        { "key": "D", "text": "Symbols on map" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 135,
+      "question": "Which of the following is an advantage of rail transport?",
+      "options": [
+        { "key": "A", "text": "Slow speed" },
+        { "key": "B", "text": "High cost" },
+        { "key": "C", "text": "Carries bulky goods" },
+        { "key": "D", "text": "Limited coverage" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 136,
+      "question": "Which factor affects population distribution most?",
+      "options": [
+        { "key": "A", "text": "Religion" },
+        { "key": "B", "text": "Climate" },
+        { "key": "C", "text": "Language" },
+        { "key": "D", "text": "Culture" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "Which of the following causes river flooding?",
+      "options": [
+        { "key": "A", "text": "Low rainfall" },
+        { "key": "B", "text": "Sedimentation" },
+        { "key": "C", "text": "Heavy rainfall" },
+        { "key": "D", "text": "Drought" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "Which of the following is a benefit of tourism?",
+      "options": [
+        { "key": "A", "text": "Environmental degradation" },
+        { "key": "B", "text": "Loss of culture" },
+        { "key": "C", "text": "Employment generation" },
+        { "key": "D", "text": "Pollution" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Which of the following is a characteristic of desert climate?",
+      "options": [
+        { "key": "A", "text": "High rainfall" },
+        { "key": "B", "text": "Low temperature" },
+        { "key": "C", "text": "High temperature and low rainfall" },
+        { "key": "D", "text": "Dense vegetation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 140,
+      "question": "Which of the following is used to show relief on maps?",
+      "options": [
+        { "key": "A", "text": "Symbols" },
+        { "key": "B", "text": "Contours" },
+        { "key": "C", "text": "Scale" },
+        { "key": "D", "text": "Compass" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 141,
+      "question": "Which of the following best describes sustainable agriculture?",
+      "options": [
+        { "key": "A", "text": "Overuse of chemicals" },
+        { "key": "B", "text": "Farming without conservation" },
+        { "key": "C", "text": "Environmentally friendly farming" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 142,
+      "question": "Which of the following best describes a delta?",
+      "options": [
+        { "key": "A", "text": "River source" },
+        { "key": "B", "text": "River mouth with deposition" },
+        { "key": "C", "text": "River valley" },
+        { "key": "D", "text": "Waterfall" }
+      ],
+      "correct_answer": "B"
+    },
+    
+    {
+      "id": 143,
+      "question": "Which line on the map shows places of equal temperature?",
+      "options": [
+        { "key": "A", "text": "Isobar" },
+        { "key": "B", "text": "Isotherm" },
+        { "key": "C", "text": "Isohyet" },
+        { "key": "D", "text": "Contour" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Which of the following is a function of the ozone layer?",
+      "options": [
+        { "key": "A", "text": "Controls rainfall" },
+        { "key": "B", "text": "Regulates wind" },
+        { "key": "C", "text": "Absorbs ultraviolet radiation" },
+        { "key": "D", "text": "Causes evaporation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 145,
+      "question": "Which soil type is best suited for rice cultivation?",
+      "options": [
+        { "key": "A", "text": "Sandy soil" },
+        { "key": "B", "text": "Clay soil" },
+        { "key": "C", "text": "Laterite soil" },
+        { "key": "D", "text": "Rocky soil" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 146,
+      "question": "Which of the following is an example of renewable energy?",
+      "options": [
+        { "key": "A", "text": "Coal" },
+        { "key": "B", "text": "Petroleum" },
+        { "key": "C", "text": "Natural gas" },
+        { "key": "D", "text": "Solar energy" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 147,
+      "question": "Which of the following factors does NOT affect climate?",
+      "options": [
+        { "key": "A", "text": "Latitude" },
+        { "key": "B", "text": "Altitude" },
+        { "key": "C", "text": "Soil type" },
+        { "key": "D", "text": "Distance from sea" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 148,
+      "question": "Which river is the longest in Africa?",
+      "options": [
+        { "key": "A", "text": "River Niger" },
+        { "key": "B", "text": "River Congo" },
+        { "key": "C", "text": "River Nile" },
+        { "key": "D", "text": "River Zambezi" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 149,
+      "question": "Which type of settlement develops along transport routes?",
+      "options": [
+        { "key": "A", "text": "Nucleated" },
+        { "key": "B", "text": "Dispersed" },
+        { "key": "C", "text": "Linear" },
+        { "key": "D", "text": "Circular" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "Which of the following is a characteristic of a plateau?",
+      "options": [
+        { "key": "A", "text": "Low-lying land" },
+        { "key": "B", "text": "Steep-sided valley" },
+        { "key": "C", "text": "Flat-topped highland" },
+        { "key": "D", "text": "Depressed land" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 151,
+      "question": "Which is the main source of power for ocean currents?",
+      "options": [
+        { "key": "A", "text": "Earth rotation" },
+        { "key": "B", "text": "Wind" },
+        { "key": "C", "text": "Rainfall" },
+        { "key": "D", "text": "Waves" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Which of the following causes acid rain?",
+      "options": [
+        { "key": "A", "text": "Carbon dioxide" },
+        { "key": "B", "text": "Sulphur dioxide" },
+        { "key": "C", "text": "Oxygen" },
+        { "key": "D", "text": "Nitrogen" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 153,
+      "question": "Which vegetation type is found in areas with long dry seasons?",
+      "options": [
+        { "key": "A", "text": "Tropical rainforest" },
+        { "key": "B", "text": "Mangrove swamp" },
+        { "key": "C", "text": "Savanna" },
+        { "key": "D", "text": "Tundra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "Which of the following is a major cause of soil erosion?",
+      "options": [
+        { "key": "A", "text": "Terracing" },
+        { "key": "B", "text": "Afforestation" },
+        { "key": "C", "text": "Deforestation" },
+        { "key": "D", "text": "Mulching" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 155,
+      "question": "Which instrument is used to measure wind speed?",
+      "options": [
+        { "key": "A", "text": "Wind vane" },
+        { "key": "B", "text": "Thermometer" },
+        { "key": "C", "text": "Anemometer" },
+        { "key": "D", "text": "Hygrometer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 156,
+      "question": "Which of the following is a benefit of afforestation?",
+      "options": [
+        { "key": "A", "text": "Soil erosion" },
+        { "key": "B", "text": "Climate change" },
+        { "key": "C", "text": "Control of desertification" },
+        { "key": "D", "text": "Flooding" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "Which of the following best explains longitude?",
+      "options": [
+        { "key": "A", "text": "Distance north or south" },
+        { "key": "B", "text": "Distance east or west of the Prime Meridian" },
+        { "key": "C", "text": "Height above sea level" },
+        { "key": "D", "text": "Shape of land" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 158,
+      "question": "Which of the following is an effect of population explosion?",
+      "options": [
+        { "key": "A", "text": "High standard of living" },
+        { "key": "B", "text": "Pressure on resources" },
+        { "key": "C", "text": "Reduced unemployment" },
+        { "key": "D", "text": "Less pollution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "Which type of mining involves digging tunnels underground?",
+      "options": [
+        { "key": "A", "text": "Open-cast mining" },
+        { "key": "B", "text": "Alluvial mining" },
+        { "key": "C", "text": "Quarrying" },
+        { "key": "D", "text": "Shaft mining" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 160,
+      "question": "Which of the following is the main occupation in savanna regions?",
+      "options": [
+        { "key": "A", "text": "Fishing" },
+        { "key": "B", "text": "Nomadic herding" },
+        { "key": "C", "text": "Whaling" },
+        { "key": "D", "text": "Tourism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 161,
+      "question": "Which of the following reduces surface runoff?",
+      "options": [
+        { "key": "A", "text": "Deforestation" },
+        { "key": "B", "text": "Urbanization" },
+        { "key": "C", "text": "Vegetation cover" },
+        { "key": "D", "text": "Heavy rainfall" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "Which of the following is a disadvantage of road transport?",
+      "options": [
+        { "key": "A", "text": "Flexible routes" },
+        { "key": "B", "text": "Door-to-door service" },
+        { "key": "C", "text": "Traffic congestion" },
+        { "key": "D", "text": "Accessibility" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 163,
+      "question": "Which factor promotes industrial growth?",
+      "options": [
+        { "key": "A", "text": "Poor power supply" },
+        { "key": "B", "text": "Availability of raw materials" },
+        { "key": "C", "text": "Low labour" },
+        { "key": "D", "text": "Political instability" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "Which of the following is a characteristic of monsoon climate?",
+      "options": [
+        { "key": "A", "text": "Low humidity" },
+        { "key": "B", "text": "Seasonal wind reversal" },
+        { "key": "C", "text": "Snowfall" },
+        { "key": "D", "text": "Dry throughout the year" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "Which of the following best defines weather?",
+      "options": [
+        { "key": "A", "text": "Average atmospheric condition" },
+        { "key": "B", "text": "Day-to-day atmospheric condition" },
+        { "key": "C", "text": "Long-term climate pattern" },
+        { "key": "D", "text": "Seasonal changes" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 166,
+      "question": "Which of the following is a coastal landform?",
+      "options": [
+        { "key": "A", "text": "Waterfall" },
+        { "key": "B", "text": "Volcano" },
+        { "key": "C", "text": "Cliff" },
+        { "key": "D", "text": "Plateau" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 167,
+      "question": "Which economic activity belongs to the tertiary sector?",
+      "options": [
+        { "key": "A", "text": "Mining" },
+        { "key": "B", "text": "Fishing" },
+        { "key": "C", "text": "Manufacturing" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 168,
+      "question": "Which factor determines time differences on Earth?",
+      "options": [
+        { "key": "A", "text": "Latitude" },
+        { "key": "B", "text": "Longitude" },
+        { "key": "C", "text": "Altitude" },
+        { "key": "D", "text": "Relief" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "Which of the following is an example of physical weathering?",
+      "options": [
+        { "key": "A", "text": "Oxidation" },
+        { "key": "B", "text": "Carbonation" },
+        { "key": "C", "text": "Exfoliation" },
+        { "key": "D", "text": "Hydration" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 170,
+      "question": "Which of the following causes urban sprawl?",
+      "options": [
+        { "key": "A", "text": "Industrial decline" },
+        { "key": "B", "text": "Population growth" },
+        { "key": "C", "text": "Low birth rate" },
+        { "key": "D", "text": "Rural development" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 171,
+      "question": "Which gas is most abundant in the atmosphere?",
+      "options": [
+        { "key": "A", "text": "Oxygen" },
+        { "key": "B", "text": "Carbon dioxide" },
+        { "key": "C", "text": "Nitrogen" },
+        { "key": "D", "text": "Hydrogen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "Which of the following is an effect of climate change?",
+      "options": [
+        { "key": "A", "text": "Stable sea level" },
+        { "key": "B", "text": "Glacier expansion" },
+        { "key": "C", "text": "Rising sea level" },
+        { "key": "D", "text": "Lower temperature" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 173,
+      "question": "Which factor encourages fishing activities?",
+      "options": [
+        { "key": "A", "text": "Arid climate" },
+        { "key": "B", "text": "Large water bodies" },
+        { "key": "C", "text": "Mountainous terrain" },
+        { "key": "D", "text": "Dense forest" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Which of the following best describes conservation?",
+      "options": [
+        { "key": "A", "text": "Complete exploitation of resources" },
+        { "key": "B", "text": "Wise use of resources" },
+        { "key": "C", "text": "Ignoring resources" },
+        { "key": "D", "text": "Stopping all human activity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 175,
+      "question": "Which map symbol is used to represent rivers?",
+      "options": [
+        { "key": "A", "text": "Black lines" },
+        { "key": "B", "text": "Blue lines" },
+        { "key": "C", "text": "Red dots" },
+        { "key": "D", "text": "Brown shading" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 176,
+      "question": "Which of the following is a cause of flooding?",
+      "options": [
+        { "key": "A", "text": "Terracing" },
+        { "key": "B", "text": "Poor drainage system" },
+        { "key": "C", "text": "Afforestation" },
+        { "key": "D", "text": "Drought" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 177,
+      "question": "Which of the following is a benefit of population census?",
+      "options": [
+        { "key": "A", "text": "Political violence" },
+        { "key": "B", "text": "Economic planning" },
+        { "key": "C", "text": "Environmental pollution" },
+        { "key": "D", "text": "Overpopulation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 178,
+      "question": "Which of the following is a human factor affecting vegetation?",
+      "options": [
+        { "key": "A", "text": "Rainfall" },
+        { "key": "B", "text": "Soil type" },
+        { "key": "C", "text": "Temperature" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 179,
+      "question": "Which agricultural practice improves soil fertility?",
+      "options": [
+        { "key": "A", "text": "Continuous cropping" },
+        { "key": "B", "text": "Crop rotation" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "Which of the following is a function of rivers?",
+      "options": [
+        { "key": "A", "text": "Increase desertification" },
+        { "key": "B", "text": "Generate sand dunes" },
+        { "key": "C", "text": "Provide water for irrigation" },
+        { "key": "D", "text": "Reduce rainfall" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 181,
+      "question": "Which of the following influences rainfall distribution?",
+      "options": [
+        { "key": "A", "text": "Relief" },
+        { "key": "B", "text": "Longitude" },
+        { "key": "C", "text": "Rock type" },
+        { "key": "D", "text": "Population" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 182,
+      "question": "Which of the following best describes a valley?",
+      "options": [
+        { "key": "A", "text": "High flat land" },
+        { "key": "B", "text": "Low land between hills" },
+        { "key": "C", "text": "Steep cliff" },
+        { "key": "D", "text": "Mountain peak" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 183,
+      "question": "Which of the following is a problem of urbanization?",
+      "options": [
+        { "key": "A", "text": "Better housing" },
+        { "key": "B", "text": "Improved healthcare" },
+        { "key": "C", "text": "Unemployment" },
+        { "key": "D", "text": "High income" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 184,
+      "question": "Which of the following is a wind that blows from the Sahara?",
+      "options": [
+        { "key": "A", "text": "Monsoon wind" },
+        { "key": "B", "text": "Harmattan wind" },
+        { "key": "C", "text": "Trade wind" },
+        { "key": "D", "text": "Westerlies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 185,
+      "question": "Which type of farming is practiced mainly for family use?",
+      "options": [
+        { "key": "A", "text": "Commercial farming" },
+        { "key": "B", "text": "Subsistence farming" },
+        { "key": "C", "text": "Mechanized farming" },
+        { "key": "D", "text": "Plantation farming" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 186,
+      "question": "Which of the following is an importance of transportation?",
+      "options": [
+        { "key": "A", "text": "Isolation of communities" },
+        { "key": "B", "text": "Delay of goods" },
+        { "key": "C", "text": "Facilitates trade" },
+        { "key": "D", "text": "Environmental pollution only" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 187,
+      "question": "Which of the following affects soil formation?",
+      "options": [
+        { "key": "A", "text": "Parent rock" },
+        { "key": "B", "text": "Latitude" },
+        { "key": "C", "text": "Longitude" },
+        { "key": "D", "text": "Wind direction" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 188,
+      "question": "Which climatic region has two distinct seasons?",
+      "options": [
+        { "key": "A", "text": "Equatorial" },
+        { "key": "B", "text": "Desert" },
+        { "key": "C", "text": "Savanna" },
+        { "key": "D", "text": "Tundra" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "Which of the following is a major source of air pollution?",
+      "options": [
+        { "key": "A", "text": "Forests" },
+        { "key": "B", "text": "Industries" },
+        { "key": "C", "text": "Rivers" },
+        { "key": "D", "text": "Mountains" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 190,
+      "question": "Which of the following represents the Prime Meridian?",
+      "options": [
+        { "key": "A", "text": "0° latitude" },
+        { "key": "B", "text": "180° longitude" },
+        { "key": "C", "text": "0° longitude" },
+        { "key": "D", "text": "90° latitude" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 191,
+      "question": "Which of the following is an example of internal trade?",
+      "options": [
+        { "key": "A", "text": "Nigeria to Ghana" },
+        { "key": "B", "text": "Lagos to Abuja" },
+        { "key": "C", "text": "Africa to Europe" },
+        { "key": "D", "text": "Asia to America" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 192,
+      "question": "Which of the following is a coastal vegetation type?",
+      "options": [
+        { "key": "A", "text": "Savanna" },
+        { "key": "B", "text": "Mangrove swamp" },
+        { "key": "C", "text": "Tundra" },
+        { "key": "D", "text": "Steppe" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 193,
+      "question": "Which factor encourages settlement in an area?",
+      "options": [
+        { "key": "A", "text": "Harsh climate" },
+        { "key": "B", "text": "Availability of water" },
+        { "key": "C", "text": "Dense forest" },
+        { "key": "D", "text": "Steep slope" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "Which of the following describes a map legend?",
+      "options": [
+        { "key": "A", "text": "Direction on the map" },
+        { "key": "B", "text": "Distance on the map" },
+        { "key": "C", "text": "Explanation of symbols" },
+        { "key": "D", "text": "Height of land" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Which of the following best explains erosion control?",
+      "options": [
+        { "key": "A", "text": "Deforestation" },
+        { "key": "B", "text": "Terracing" },
+        { "key": "C", "text": "Overgrazing" },
+        { "key": "D", "text": "Bush burning" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 196,
+      "question": "Which of the following is a man-made lake in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Lake Chad" },
+        { "key": "B", "text": "Kainji Lake" },
+        { "key": "C", "text": "Oguta Lake" },
+        { "key": "D", "text": "Chad Basin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "Which of the following is a global environmental problem?",
+      "options": [
+        { "key": "A", "text": "Deforestation" },
+        { "key": "B", "text": "Climate change" },
+        { "key": "C", "text": "Soil erosion" },
+        { "key": "D", "text": "Flooding" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 198,
+      "question": "Which of the following is an advantage of water transport?",
+      "options": [
+        { "key": "A", "text": "Very fast" },
+        { "key": "B", "text": "Carries heavy goods cheaply" },
+        { "key": "C", "text": "Door-to-door service" },
+        { "key": "D", "text": "Flexible routes" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "Which of the following helps to reduce global warming?",
+      "options": [
+        { "key": "A", "text": "Bush burning" },
+        { "key": "B", "text": "Tree planting" },
+        { "key": "C", "text": "Gas flaring" },
+        { "key": "D", "text": "Industrial pollution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "Which of the following best describes geography?",
+      "options": [
+        { "key": "A", "text": "Study of stars" },
+        { "key": "B", "text": "Study of life" },
+        { "key": "C", "text": "Study of the Earth and human activities" },
+        { "key": "D", "text": "Study of chemicals" }
       ],
       "correct_answer": "C"
     }
