@@ -62,6 +62,2246 @@
         { "key": "D", "text": "Nigerian independence" }
       ],
       "correct_answer": "B"
+    },
+
+    {
+      "id": 6,
+      "question": "History is best defined as the study of",
+      "options": [
+        { "key": "A", "text": "Past events" },
+        { "key": "B", "text": "Current affairs" },
+        { "key": "C", "text": "Future plans" },
+        { "key": "D", "text": "Scientific discoveries" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a primary source of history?",
+      "options": [
+        { "key": "A", "text": "Textbook" },
+        { "key": "B", "text": "Newspaper article" },
+        { "key": "C", "text": "Oral tradition" },
+        { "key": "D", "text": "Novel" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Archaeology is mainly concerned with",
+      "options": [
+        { "key": "A", "text": "Written records" },
+        { "key": "B", "text": "Material remains of the past" },
+        { "key": "C", "text": "Oral stories" },
+        { "key": "D", "text": "Religious beliefs" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which discipline studies written historical documents?",
+      "options": [
+        { "key": "A", "text": "Ethnography" },
+        { "key": "B", "text": "Palaeography" },
+        { "key": "C", "text": "Sociology" },
+        { "key": "D", "text": "Anthropology" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "One importance of studying history is to",
+      "options": [
+        { "key": "A", "text": "Predict the future accurately" },
+        { "key": "B", "text": "Understand past mistakes" },
+        { "key": "C", "text": "Avoid reading books" },
+        { "key": "D", "text": "Replace science" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 11,
+      "question": "The earliest form of human society was",
+      "options": [
+        { "key": "A", "text": "Industrial society" },
+        { "key": "B", "text": "Agricultural society" },
+        { "key": "C", "text": "Hunting and gathering society" },
+        { "key": "D", "text": "Trading society" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "The Stone Age is divided into",
+      "options": [
+        { "key": "A", "text": "Two parts" },
+        { "key": "B", "text": "Three parts" },
+        { "key": "C", "text": "Four parts" },
+        { "key": "D", "text": "Five parts" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which tool was mainly used during the Old Stone Age?",
+      "options": [
+        { "key": "A", "text": "Metal tools" },
+        { "key": "B", "text": "Polished stone tools" },
+        { "key": "C", "text": "Rough stone tools" },
+        { "key": "D", "text": "Plastic tools" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "The New Stone Age is also known as",
+      "options": [
+        { "key": "A", "text": "Palaeolithic Age" },
+        { "key": "B", "text": "Mesolithic Age" },
+        { "key": "C", "text": "Neolithic Age" },
+        { "key": "D", "text": "Iron Age" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "The discovery of fire helped early humans to",
+      "options": [
+        { "key": "A", "text": "Build cities" },
+        { "key": "B", "text": "Cook food and stay warm" },
+        { "key": "C", "text": "Invent writing" },
+        { "key": "D", "text": "Start wars" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 16,
+      "question": "Iron Age was important because",
+      "options": [
+        { "key": "A", "text": "Stone tools disappeared" },
+        { "key": "B", "text": "Iron tools improved farming and warfare" },
+        { "key": "C", "text": "People stopped trading" },
+        { "key": "D", "text": "Hunting increased" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Early African societies were mostly",
+      "options": [
+        { "key": "A", "text": "Nomadic" },
+        { "key": "B", "text": "Urbanized" },
+        { "key": "C", "text": "Industrialized" },
+        { "key": "D", "text": "Technological" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Trans-Saharan trade connected West Africa with",
+      "options": [
+        { "key": "A", "text": "Europe" },
+        { "key": "B", "text": "Asia" },
+        { "key": "C", "text": "North Africa" },
+        { "key": "D", "text": "Southern Africa" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "One major item traded across the Sahara was",
+      "options": [
+        { "key": "A", "text": "Oil" },
+        { "key": "B", "text": "Gold" },
+        { "key": "C", "text": "Rubber" },
+        { "key": "D", "text": "Cocoa" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "The camel was important in Trans-Saharan trade because it",
+      "options": [
+        { "key": "A", "text": "Was fast" },
+        { "key": "B", "text": "Could survive desert conditions" },
+        { "key": "C", "text": "Was cheap" },
+        { "key": "D", "text": "Was beautiful" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 21,
+      "question": "The Ghana Empire was located in present-day",
+      "options": [
+        { "key": "A", "text": "Nigeria" },
+        { "key": "B", "text": "Ghana" },
+        { "key": "C", "text": "Mali and Mauritania" },
+        { "key": "D", "text": "Senegal" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "The ruler of the Ghana Empire was known as",
+      "options": [
+        { "key": "A", "text": "Mansa" },
+        { "key": "B", "text": "Mai" },
+        { "key": "C", "text": "Oba" },
+        { "key": "D", "text": "Asantehene" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Mansa Musa was famous for his",
+      "options": [
+        { "key": "A", "text": "Military conquest" },
+        { "key": "B", "text": "Wealth and pilgrimage to Mecca" },
+        { "key": "C", "text": "Trade routes" },
+        { "key": "D", "text": "Religious wars" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "The Songhai Empire reached its peak under",
+      "options": [
+        { "key": "A", "text": "Sunni Ali" },
+        { "key": "B", "text": "Askia Muhammad" },
+        { "key": "C", "text": "Mansa Musa" },
+        { "key": "D", "text": "Sundiata" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Timbuktu was famous for",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Learning and trade" },
+        { "key": "C", "text": "Fishing" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 26,
+      "question": "The Benin Kingdom was known for its",
+      "options": [
+        { "key": "A", "text": "Terracotta art" },
+        { "key": "B", "text": "Bronze works" },
+        { "key": "C", "text": "Stone carving" },
+        { "key": "D", "text": "Pottery" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "The ruler of Benin was called",
+      "options": [
+        { "key": "A", "text": "Emir" },
+        { "key": "B", "text": "Oba" },
+        { "key": "C", "text": "Mogaji" },
+        { "key": "D", "text": "Mai" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Ife civilization is associated with",
+      "options": [
+        { "key": "A", "text": "Bronze casting" },
+        { "key": "B", "text": "Iron smelting" },
+        { "key": "C", "text": "Terracotta and bronze heads" },
+        { "key": "D", "text": "Gold trade" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "One major cause of the fall of empires was",
+      "options": [
+        { "key": "A", "text": "Strong leadership" },
+        { "key": "B", "text": "Internal conflicts" },
+        { "key": "C", "text": "Economic growth" },
+        { "key": "D", "text": "Unity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Islam spread into West Africa mainly through",
+      "options": [
+        { "key": "A", "text": "War" },
+        { "key": "B", "text": "Trade" },
+        { "key": "C", "text": "Colonialism" },
+        { "key": "D", "text": "Missionaries" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 31,
+      "question": "One impact of Islam in West Africa was",
+      "options": [
+        { "key": "A", "text": "Decline of trade" },
+        { "key": "B", "text": "Introduction of Arabic writing" },
+        { "key": "C", "text": "End of kingship" },
+        { "key": "D", "text": "Loss of culture" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "European contact with West Africa began mainly for",
+      "options": [
+        { "key": "A", "text": "Religion" },
+        { "key": "B", "text": "Education" },
+        { "key": "C", "text": "Trade" },
+        { "key": "D", "text": "Tourism" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "The trans-Atlantic slave trade involved",
+      "options": [
+        { "key": "A", "text": "Africa, Europe and Asia" },
+        { "key": "B", "text": "Africa, Europe and America" },
+        { "key": "C", "text": "Africa and Europe only" },
+        { "key": "D", "text": "Africa and America only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "One effect of the slave trade on Africa was",
+      "options": [
+        { "key": "A", "text": "Population growth" },
+        { "key": "B", "text": "Loss of able-bodied men and women" },
+        { "key": "C", "text": "Industrialization" },
+        { "key": "D", "text": "Political stability" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Colonial rule in Nigeria officially began in",
+      "options": [
+        { "key": "A", "text": "1861" },
+        { "key": "B", "text": "1900" },
+        { "key": "C", "text": "1914" },
+        { "key": "D", "text": "1960" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 36,
+      "question": "The amalgamation of Nigeria took place in",
+      "options": [
+        { "key": "A", "text": "1900" },
+        { "key": "B", "text": "1914" },
+        { "key": "C", "text": "1922" },
+        { "key": "D", "text": "1960" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Lord Lugard is remembered for",
+      "options": [
+        { "key": "A", "text": "Indirect rule" },
+        { "key": "B", "text": "Military conquest" },
+        { "key": "C", "text": "Education reforms" },
+        { "key": "D", "text": "Trade unions" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Indirect rule was most successful in",
+      "options": [
+        { "key": "A", "text": "Eastern Nigeria" },
+        { "key": "B", "text": "Western Nigeria" },
+        { "key": "C", "text": "Northern Nigeria" },
+        { "key": "D", "text": "Southern Nigeria" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Nationalism in Nigeria aimed at",
+      "options": [
+        { "key": "A", "text": "Supporting colonial rule" },
+        { "key": "B", "text": "Political independence" },
+        { "key": "C", "text": "Economic dependence" },
+        { "key": "D", "text": "Ethnic division" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Nigeria gained independence in",
+      "options": [
+        { "key": "A", "text": "1957" },
+        { "key": "B", "text": "1960" },
+        { "key": "C", "text": "1963" },
+        { "key": "D", "text": "1979" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "The first Prime Minister of Nigeria was",
+      "options": [
+        { "key": "A", "text": "Nnamdi Azikiwe" },
+        { "key": "B", "text": "Obafemi Awolowo" },
+        { "key": "C", "text": "Abubakar Tafawa Balewa" },
+        { "key": "D", "text": "Yakubu Gowon" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "The first military coup in Nigeria occurred in",
+      "options": [
+        { "key": "A", "text": "1960" },
+        { "key": "B", "text": "1963" },
+        { "key": "C", "text": "1966" },
+        { "key": "D", "text": "1975" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "The Nigerian Civil War lasted from",
+      "options": [
+        { "key": "A", "text": "1963–1966" },
+        { "key": "B", "text": "1966–1970" },
+        { "key": "C", "text": "1970–1975" },
+        { "key": "D", "text": "1975–1979" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "One major cause of the Nigerian Civil War was",
+      "options": [
+        { "key": "A", "text": "Religious conflict" },
+        { "key": "B", "text": "Ethnic tension" },
+        { "key": "C", "text": "Foreign invasion" },
+        { "key": "D", "text": "Economic depression" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Nigeria became a republic in",
+      "options": [
+        { "key": "A", "text": "1960" },
+        { "key": "B", "text": "1963" },
+        { "key": "C", "text": "1979" },
+        { "key": "D", "text": "1999" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 46,
+      "question": "One role of history is to promote",
+      "options": [
+        { "key": "A", "text": "Ignorance" },
+        { "key": "B", "text": "Cultural awareness" },
+        { "key": "C", "text": "Disunity" },
+        { "key": "D", "text": "Conflict" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Historical bias occurs when a historian",
+      "options": [
+        { "key": "A", "text": "Uses facts" },
+        { "key": "B", "text": "Is objective" },
+        { "key": "C", "text": "Is influenced by personal opinion" },
+        { "key": "D", "text": "Uses evidence" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Chronology in history refers to",
+      "options": [
+        { "key": "A", "text": "Time sequence of events" },
+        { "key": "B", "text": "Importance of events" },
+        { "key": "C", "text": "Causes of events" },
+        { "key": "D", "text": "Effects of events" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "The study of history helps citizens to",
+      "options": [
+        { "key": "A", "text": "Avoid civic duties" },
+        { "key": "B", "text": "Participate responsibly in society" },
+        { "key": "C", "text": "Reject national values" },
+        { "key": "D", "text": "Ignore government" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "History as a discipline relies mainly on",
+      "options": [
+        { "key": "A", "text": "Guesswork" },
+        { "key": "B", "text": "Evidence and interpretation" },
+        { "key": "C", "text": "Opinion" },
+        { "key": "D", "text": "Rumours" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 51,
+      "question": "Oral tradition is preserved mainly through",
+      "options": [
+        { "key": "A", "text": "Books" },
+        { "key": "B", "text": "Storytelling" },
+        { "key": "C", "text": "Maps" },
+        { "key": "D", "text": "Artifacts" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "A major limitation of oral tradition is",
+      "options": [
+        { "key": "A", "text": "Accuracy over time" },
+        { "key": "B", "text": "Availability" },
+        { "key": "C", "text": "Possibility of distortion" },
+        { "key": "D", "text": "Cultural value" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Written records became popular after the invention of",
+      "options": [
+        { "key": "A", "text": "Stone tools" },
+        { "key": "B", "text": "Fire" },
+        { "key": "C", "text": "Writing" },
+        { "key": "D", "text": "Currency" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Museums are important because they",
+      "options": [
+        { "key": "A", "text": "Sell artifacts" },
+        { "key": "B", "text": "Preserve historical materials" },
+        { "key": "C", "text": "Promote tourism only" },
+        { "key": "D", "text": "Destroy evidence" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "The main aim of studying history is to",
+      "options": [
+        { "key": "A", "text": "Remember dates only" },
+        { "key": "B", "text": "Understand human society over time" },
+        { "key": "C", "text": "Replace science" },
+        { "key": "D", "text": "Predict wars" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 56,
+      "question": "History helps a nation mainly to",
+      "options": [
+        { "key": "A", "text": "Forget its past" },
+        { "key": "B", "text": "Build identity and unity" },
+        { "key": "C", "text": "Encourage conflict" },
+        { "key": "D", "text": "Promote superstition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "A historian is someone who",
+      "options": [
+        { "key": "A", "text": "Predicts the future" },
+        { "key": "B", "text": "Records and interprets past events" },
+        { "key": "C", "text": "Writes novels" },
+        { "key": "D", "text": "Studies science" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Which is NOT a source of history?",
+      "options": [
+        { "key": "A", "text": "Artifacts" },
+        { "key": "B", "text": "Oral tradition" },
+        { "key": "C", "text": "Science fiction" },
+        { "key": "D", "text": "Written records" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "The study of fossils is known as",
+      "options": [
+        { "key": "A", "text": "Archaeology" },
+        { "key": "B", "text": "Palaeontology" },
+        { "key": "C", "text": "Ethnography" },
+        { "key": "D", "text": "Anthropology" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Prehistory refers to the period",
+      "options": [
+        { "key": "A", "text": "After writing" },
+        { "key": "B", "text": "Before writing was invented" },
+        { "key": "C", "text": "During colonial rule" },
+        { "key": "D", "text": "After independence" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 61,
+      "question": "The earliest humans depended mainly on",
+      "options": [
+        { "key": "A", "text": "Manufacturing" },
+        { "key": "B", "text": "Hunting and gathering" },
+        { "key": "C", "text": "Trading" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "The Mesolithic Age is characterized by",
+      "options": [
+        { "key": "A", "text": "Polished tools" },
+        { "key": "B", "text": "Metal tools" },
+        { "key": "C", "text": "Microliths" },
+        { "key": "D", "text": "Plastic tools" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "The Neolithic Age marked the beginning of",
+      "options": [
+        { "key": "A", "text": "Hunting" },
+        { "key": "B", "text": "Farming and settlement" },
+        { "key": "C", "text": "Industrialization" },
+        { "key": "D", "text": "Trade unions" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "One advantage of settled life was",
+      "options": [
+        { "key": "A", "text": "Frequent migration" },
+        { "key": "B", "text": "Development of communities" },
+        { "key": "C", "text": "Loss of culture" },
+        { "key": "D", "text": "Dependence on hunting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Early African societies were organized mainly around",
+      "options": [
+        { "key": "A", "text": "Clans and kinship" },
+        { "key": "B", "text": "Political parties" },
+        { "key": "C", "text": "Industries" },
+        { "key": "D", "text": "Corporations" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 66,
+      "question": "Trade encouraged interaction among societies through",
+      "options": [
+        { "key": "A", "text": "Isolation" },
+        { "key": "B", "text": "Exchange of goods and ideas" },
+        { "key": "C", "text": "Wars only" },
+        { "key": "D", "text": "Slavery only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "The rise of empires was partly due to",
+      "options": [
+        { "key": "A", "text": "Weak leadership" },
+        { "key": "B", "text": "Effective administration" },
+        { "key": "C", "text": "Lack of resources" },
+        { "key": "D", "text": "Poor trade" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Which empire succeeded the Ghana Empire?",
+      "options": [
+        { "key": "A", "text": "Songhai" },
+        { "key": "B", "text": "Oyo" },
+        { "key": "C", "text": "Mali" },
+        { "key": "D", "text": "Benin" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Sundiata Keita was associated with the",
+      "options": [
+        { "key": "A", "text": "Ghana Empire" },
+        { "key": "B", "text": "Mali Empire" },
+        { "key": "C", "text": "Songhai Empire" },
+        { "key": "D", "text": "Kanem-Borno Empire" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Kanem-Borno Empire was located around",
+      "options": [
+        { "key": "A", "text": "River Niger" },
+        { "key": "B", "text": "Lake Chad" },
+        { "key": "C", "text": "Atlantic coast" },
+        { "key": "D", "text": "Forest zone" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 71,
+      "question": "The ruler of Kanem-Borno was called",
+      "options": [
+        { "key": "A", "text": "Mansa" },
+        { "key": "B", "text": "Shehu" },
+        { "key": "C", "text": "Oba" },
+        { "key": "D", "text": "Alafin" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "The Oyo Empire was strongest due to its",
+      "options": [
+        { "key": "A", "text": "Navy" },
+        { "key": "B", "text": "Cavalry army" },
+        { "key": "C", "text": "Forest location" },
+        { "key": "D", "text": "Isolation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "The head of government in Oyo Empire was the",
+      "options": [
+        { "key": "A", "text": "Baale" },
+        { "key": "B", "text": "Alafin" },
+        { "key": "C", "text": "Ooni" },
+        { "key": "D", "text": "Obong" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Which group checked the power of the Alafin?",
+      "options": [
+        { "key": "A", "text": "Ogboni" },
+        { "key": "B", "text": "Oyomesi" },
+        { "key": "C", "text": "Aro" },
+        { "key": "D", "text": "Emirs" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Benin Kingdom was known for strong",
+      "options": [
+        { "key": "A", "text": "Federal system" },
+        { "key": "B", "text": "Centralized administration" },
+        { "key": "C", "text": "Democracy" },
+        { "key": "D", "text": "Nomadic life" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "European traders first arrived on the Nigerian coast in the",
+      "options": [
+        { "key": "A", "text": "13th century" },
+        { "key": "B", "text": "14th century" },
+        { "key": "C", "text": "15th century" },
+        { "key": "D", "text": "18th century" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 77,
+      "question": "The Portuguese were mainly interested in",
+      "options": [
+        { "key": "A", "text": "Education" },
+        { "key": "B", "text": "Trade" },
+        { "key": "C", "text": "Agriculture" },
+        { "key": "D", "text": "Politics" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "The Atlantic slave trade was abolished in Britain in",
+      "options": [
+        { "key": "A", "text": "1776" },
+        { "key": "B", "text": "1807" },
+        { "key": "C", "text": "1861" },
+        { "key": "D", "text": "1885" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "One reason for the abolition of slave trade was",
+      "options": [
+        { "key": "A", "text": "Economic unprofitability" },
+        { "key": "B", "text": "African resistance" },
+        { "key": "C", "text": "Industrial Revolution" },
+        { "key": "D", "text": "All of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 80,
+      "question": "Christian missionaries came to Africa mainly to",
+      "options": [
+        { "key": "A", "text": "Trade" },
+        { "key": "B", "text": "Evangelize" },
+        { "key": "C", "text": "Rule" },
+        { "key": "D", "text": "Fight wars" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "Colonial rule in Africa resulted in",
+      "options": [
+        { "key": "A", "text": "Self-rule" },
+        { "key": "B", "text": "Economic exploitation" },
+        { "key": "C", "text": "Unity" },
+        { "key": "D", "text": "Total development" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Nationalism in Africa was led mainly by",
+      "options": [
+        { "key": "A", "text": "Colonial officers" },
+        { "key": "B", "text": "Traditional rulers" },
+        { "key": "C", "text": "Educated elites" },
+        { "key": "D", "text": "Farmers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "One method used in the struggle for independence was",
+      "options": [
+        { "key": "A", "text": "Negotiation" },
+        { "key": "B", "text": "Petty trading" },
+        { "key": "C", "text": "Isolation" },
+        { "key": "D", "text": "Traditional festivals" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Nigerian nationalism was strengthened by",
+      "options": [
+        { "key": "A", "text": "Regionalism" },
+        { "key": "B", "text": "Press and political parties" },
+        { "key": "C", "text": "Colonial policies" },
+        { "key": "D", "text": "Military rule" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "The first Nigerian newspaper was",
+      "options": [
+        { "key": "A", "text": "Daily Times" },
+        { "key": "B", "text": "West African Pilot" },
+        { "key": "C", "text": "Iwe Irohin" },
+        { "key": "D", "text": "Nigerian Tribune" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 86,
+      "question": "Iwe Irohin was published by",
+      "options": [
+        { "key": "A", "text": "Herbert Macaulay" },
+        { "key": "B", "text": "Nnamdi Azikiwe" },
+        { "key": "C", "text": "Henry Townsend" },
+        { "key": "D", "text": "Obafemi Awolowo" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Nigeria became a federation in",
+      "options": [
+        { "key": "A", "text": "1946" },
+        { "key": "B", "text": "1954" },
+        { "key": "C", "text": "1960" },
+        { "key": "D", "text": "1963" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Federalism was introduced mainly to",
+      "options": [
+        { "key": "A", "text": "Unify ethnic groups" },
+        { "key": "B", "text": "Address diversity" },
+        { "key": "C", "text": "Encourage separation" },
+        { "key": "D", "text": "Promote colonial control" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Nigeria became a republic under the",
+      "options": [
+        { "key": "A", "text": "1960 Constitution" },
+        { "key": "B", "text": "1963 Constitution" },
+        { "key": "C", "text": "1979 Constitution" },
+        { "key": "D", "text": "1999 Constitution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "History helps students to develop",
+      "options": [
+        { "key": "A", "text": "Critical thinking" },
+        { "key": "B", "text": "Ignorance" },
+        { "key": "C", "text": "Bias" },
+        { "key": "D", "text": "Fear" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 91,
+      "question": "A major aim of history is to",
+      "options": [
+        { "key": "A", "text": "Record only wars" },
+        { "key": "B", "text": "Understand societal change" },
+        { "key": "C", "text": "Promote myths" },
+        { "key": "D", "text": "Encourage superstition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Museums mainly help historians by",
+      "options": [
+        { "key": "A", "text": "Selling artifacts" },
+        { "key": "B", "text": "Preserving historical evidence" },
+        { "key": "C", "text": "Destroying records" },
+        { "key": "D", "text": "Publishing newspapers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "Archives store mainly",
+      "options": [
+        { "key": "A", "text": "Tools" },
+        { "key": "B", "text": "Written documents" },
+        { "key": "C", "text": "Fossils" },
+        { "key": "D", "text": "Paintings" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Bias in historical writing reduces",
+      "options": [
+        { "key": "A", "text": "Accuracy" },
+        { "key": "B", "text": "Understanding" },
+        { "key": "C", "text": "Both A and B" },
+        { "key": "D", "text": "Interest" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Historical evidence must be",
+      "options": [
+        { "key": "A", "text": "Ignored" },
+        { "key": "B", "text": "Critically examined" },
+        { "key": "C", "text": "Assumed correct" },
+        { "key": "D", "text": "Guessed" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 96,
+      "question": "A timeline is used to show",
+      "options": [
+        { "key": "A", "text": "Causes of events" },
+        { "key": "B", "text": "Sequence of events" },
+        { "key": "C", "text": "Effects of events" },
+        { "key": "D", "text": "Importance of events" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "History as a school subject encourages",
+      "options": [
+        { "key": "A", "text": "Patriotism" },
+        { "key": "B", "text": "Hatred" },
+        { "key": "C", "text": "Disunity" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 98,
+      "question": "The main duty of a historian is to",
+      "options": [
+        { "key": "A", "text": "Entertain readers" },
+        { "key": "B", "text": "Present facts objectively" },
+        { "key": "C", "text": "Support politics" },
+        { "key": "D", "text": "Create myths" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "History is different from mythology because it is based on",
+      "options": [
+        { "key": "A", "text": "Stories" },
+        { "key": "B", "text": "Evidence" },
+        { "key": "C", "text": "Imagination" },
+        { "key": "D", "text": "Beliefs" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "The study of history makes people",
+      "options": [
+        { "key": "A", "text": "Forgetful" },
+        { "key": "B", "text": "More informed citizens" },
+        { "key": "C", "text": "Less patriotic" },
+        { "key": "D", "text": "Confused" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 101,
+      "question": "Historical knowledge helps leaders to",
+      "options": [
+        { "key": "A", "text": "Repeat mistakes" },
+        { "key": "B", "text": "Make informed decisions" },
+        { "key": "C", "text": "Ignore the past" },
+        { "key": "D", "text": "Create conflicts" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "The relevance of history lies in its ability to",
+      "options": [
+        { "key": "A", "text": "Predict the future exactly" },
+        { "key": "B", "text": "Explain past and present" },
+        { "key": "C", "text": "Replace politics" },
+        { "key": "D", "text": "Eliminate problems" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "A good historical account must be",
+      "options": [
+        { "key": "A", "text": "Biased" },
+        { "key": "B", "text": "Evidence-based" },
+        { "key": "C", "text": "Emotional" },
+        { "key": "D", "text": "Speculative" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "History encourages national consciousness through",
+      "options": [
+        { "key": "A", "text": "Division" },
+        { "key": "B", "text": "Shared experiences" },
+        { "key": "C", "text": "Silence" },
+        { "key": "D", "text": "Foreign ideas only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "The best way to preserve history is through",
+      "options": [
+        { "key": "A", "text": "Oral stories only" },
+        { "key": "B", "text": "Accurate documentation" },
+        { "key": "C", "text": "Assumptions" },
+        { "key": "D", "text": "Personal opinions" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 106,
+      "question": "The main occupation of early Nigerians was",
+      "options": [
+        { "key": "A", "text": "Farming" },
+        { "key": "B", "text": "Manufacturing" },
+        { "key": "C", "text": "Banking" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 107,
+      "question": "Trans-Saharan trade linked West Africa with",
+      "options": [
+        { "key": "A", "text": "Southern Africa" },
+        { "key": "B", "text": "North Africa" },
+        { "key": "C", "text": "Europe only" },
+        { "key": "D", "text": "America" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "One major item traded across the Sahara was",
+      "options": [
+        { "key": "A", "text": "Salt" },
+        { "key": "B", "text": "Rubber" },
+        { "key": "C", "text": "Crude oil" },
+        { "key": "D", "text": "Coal" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "Islam spread into West Africa mainly through",
+      "options": [
+        { "key": "A", "text": "Wars" },
+        { "key": "B", "text": "Trade and scholars" },
+        { "key": "C", "text": "Colonialism" },
+        { "key": "D", "text": "Missionaries" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 110,
+      "question": "The title 'Mansa' was used by rulers of",
+      "options": [
+        { "key": "A", "text": "Ghana Empire" },
+        { "key": "B", "text": "Mali Empire" },
+        { "key": "C", "text": "Songhai Empire" },
+        { "key": "D", "text": "Benin Kingdom" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 111,
+      "question": "Timbuktu became famous for its",
+      "options": [
+        { "key": "A", "text": "Military base" },
+        { "key": "B", "text": "Educational centres" },
+        { "key": "C", "text": "Oil production" },
+        { "key": "D", "text": "Fishing industry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "Askia Mohammed was associated with the",
+      "options": [
+        { "key": "A", "text": "Ghana Empire" },
+        { "key": "B", "text": "Mali Empire" },
+        { "key": "C", "text": "Songhai Empire" },
+        { "key": "D", "text": "Kanem-Borno Empire" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "One reason for the fall of Songhai Empire was",
+      "options": [
+        { "key": "A", "text": "Strong leadership" },
+        { "key": "B", "text": "Moroccan invasion" },
+        { "key": "C", "text": "Fertile land" },
+        { "key": "D", "text": "Trade monopoly" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Indirect rule worked best in Northern Nigeria because",
+      "options": [
+        { "key": "A", "text": "People resisted colonialism" },
+        { "key": "B", "text": "There were strong centralized systems" },
+        { "key": "C", "text": "There was no leadership" },
+        { "key": "D", "text": "Christianity was dominant" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Lord Lugard is remembered mainly for",
+      "options": [
+        { "key": "A", "text": "Slave trade" },
+        { "key": "B", "text": "Indirect rule" },
+        { "key": "C", "text": "Nationalism" },
+        { "key": "D", "text": "Missionary work" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 116,
+      "question": "The amalgamation of Nigeria took place in",
+      "options": [
+        { "key": "A", "text": "1900" },
+        { "key": "B", "text": "1914" },
+        { "key": "C", "text": "1922" },
+        { "key": "D", "text": "1946" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 117,
+      "question": "One effect of amalgamation was",
+      "options": [
+        { "key": "A", "text": "Total unity" },
+        { "key": "B", "text": "Administrative convenience" },
+        { "key": "C", "text": "Immediate independence" },
+        { "key": "D", "text": "End of colonialism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "The Clifford Constitution was introduced in",
+      "options": [
+        { "key": "A", "text": "1914" },
+        { "key": "B", "text": "1922" },
+        { "key": "C", "text": "1946" },
+        { "key": "D", "text": "1954" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 119,
+      "question": "An important feature of the Clifford Constitution was",
+      "options": [
+        { "key": "A", "text": "Federalism" },
+        { "key": "B", "text": "Elective principle" },
+        { "key": "C", "text": "Regionalism" },
+        { "key": "D", "text": "Universal suffrage" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "The first political party in Nigeria was",
+      "options": [
+        { "key": "A", "text": "NCNC" },
+        { "key": "B", "text": "AG" },
+        { "key": "C", "text": "NNDP" },
+        { "key": "D", "text": "NPC" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 121,
+      "question": "Herbert Macaulay is regarded as",
+      "options": [
+        { "key": "A", "text": "Father of Nigerian nationalism" },
+        { "key": "B", "text": "First president" },
+        { "key": "C", "text": "Colonial governor" },
+        { "key": "D", "text": "Military leader" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "The NCNC was co-founded by Nnamdi Azikiwe and",
+      "options": [
+        { "key": "A", "text": "Herbert Macaulay" },
+        { "key": "B", "text": "Ahmadu Bello" },
+        { "key": "C", "text": "Obafemi Awolowo" },
+        { "key": "D", "text": "Tafawa Balewa" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 123,
+      "question": "The Action Group was led by",
+      "options": [
+        { "key": "A", "text": "Nnamdi Azikiwe" },
+        { "key": "B", "text": "Obafemi Awolowo" },
+        { "key": "C", "text": "Ahmadu Bello" },
+        { "key": "D", "text": "Herbert Macaulay" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 124,
+      "question": "The NPC was dominant in the",
+      "options": [
+        { "key": "A", "text": "Western Region" },
+        { "key": "B", "text": "Eastern Region" },
+        { "key": "C", "text": "Northern Region" },
+        { "key": "D", "text": "Mid-West Region" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Nigeria gained independence in",
+      "options": [
+        { "key": "A", "text": "1957" },
+        { "key": "B", "text": "1959" },
+        { "key": "C", "text": "1960" },
+        { "key": "D", "text": "1963" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 126,
+      "question": "Nigeria became a republic in",
+      "options": [
+        { "key": "A", "text": "1960" },
+        { "key": "B", "text": "1963" },
+        { "key": "C", "text": "1966" },
+        { "key": "D", "text": "1979" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "The first Prime Minister of Nigeria was",
+      "options": [
+        { "key": "A", "text": "Nnamdi Azikiwe" },
+        { "key": "B", "text": "Obafemi Awolowo" },
+        { "key": "C", "text": "Tafawa Balewa" },
+        { "key": "D", "text": "Yakubu Gowon" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "Military rule in Nigeria started in",
+      "options": [
+        { "key": "A", "text": "1960" },
+        { "key": "B", "text": "1963" },
+        { "key": "C", "text": "1966" },
+        { "key": "D", "text": "1979" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "One cause of military intervention was",
+      "options": [
+        { "key": "A", "text": "Political instability" },
+        { "key": "B", "text": "Strong democracy" },
+        { "key": "C", "text": "Economic prosperity" },
+        { "key": "D", "text": "National unity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 130,
+      "question": "The Nigerian Civil War lasted from",
+      "options": [
+        { "key": "A", "text": "1963–1966" },
+        { "key": "B", "text": "1966–1969" },
+        { "key": "C", "text": "1967–1970" },
+        { "key": "D", "text": "1970–1973" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 131,
+      "question": "The civil war was fought mainly to preserve",
+      "options": [
+        { "key": "A", "text": "Colonial rule" },
+        { "key": "B", "text": "National unity" },
+        { "key": "C", "text": "Military power" },
+        { "key": "D", "text": "Regional government" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "One lesson of Nigerian history is the need for",
+      "options": [
+        { "key": "A", "text": "Division" },
+        { "key": "B", "text": "Tolerance and unity" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Isolation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "History helps nations to avoid",
+      "options": [
+        { "key": "A", "text": "Progress" },
+        { "key": "B", "text": "Past mistakes" },
+        { "key": "C", "text": "Development" },
+        { "key": "D", "text": "Change" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "A major importance of studying history is to",
+      "options": [
+        { "key": "A", "text": "Understand identity" },
+        { "key": "B", "text": "Encourage hatred" },
+        { "key": "C", "text": "Promote bias" },
+        { "key": "D", "text": "Forget culture" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 135,
+      "question": "History contributes to nation building through",
+      "options": [
+        { "key": "A", "text": "Shared heritage" },
+        { "key": "B", "text": "Disunity" },
+        { "key": "C", "text": "Silence" },
+        { "key": "D", "text": "Colonial policies" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 136,
+      "question": "The study of African history corrects",
+      "options": [
+        { "key": "A", "text": "Biases about Africa" },
+        { "key": "B", "text": "Scientific errors" },
+        { "key": "C", "text": "Religious beliefs" },
+        { "key": "D", "text": "Economic theories" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "History encourages respect for",
+      "options": [
+        { "key": "A", "text": "Other cultures" },
+        { "key": "B", "text": "Violence" },
+        { "key": "C", "text": "Ignorance" },
+        { "key": "D", "text": "Bias" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 138,
+      "question": "Oral tradition is preserved mainly through",
+      "options": [
+        { "key": "A", "text": "Books" },
+        { "key": "B", "text": "Storytelling" },
+        { "key": "C", "text": "Archives" },
+        { "key": "D", "text": "Museums" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 139,
+      "question": "A limitation of oral tradition is that it",
+      "options": [
+        { "key": "A", "text": "Is always false" },
+        { "key": "B", "text": "May be distorted" },
+        { "key": "C", "text": "Has no value" },
+        { "key": "D", "text": "Is written" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Written records are useful because they",
+      "options": [
+        { "key": "A", "text": "Never change" },
+        { "key": "B", "text": "Provide verifiable evidence" },
+        { "key": "C", "text": "Are always objective" },
+        { "key": "D", "text": "Contain myths" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 141,
+      "question": "Archaeology mainly depends on",
+      "options": [
+        { "key": "A", "text": "Oral interviews" },
+        { "key": "B", "text": "Material remains" },
+        { "key": "C", "text": "Newspapers" },
+        { "key": "D", "text": "Myths" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "Artifacts are important because they",
+      "options": [
+        { "key": "A", "text": "Explain past human activities" },
+        { "key": "B", "text": "Predict the future" },
+        { "key": "C", "text": "Replace written records" },
+        { "key": "D", "text": "Create legends" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "History helps governments to",
+      "options": [
+        { "key": "A", "text": "Ignore citizens" },
+        { "key": "B", "text": "Form better policies" },
+        { "key": "C", "text": "Promote dictatorship" },
+        { "key": "D", "text": "Suppress culture" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "A historian must be objective to ensure",
+      "options": [
+        { "key": "A", "text": "Accuracy" },
+        { "key": "B", "text": "Entertainment" },
+        { "key": "C", "text": "Popularity" },
+        { "key": "D", "text": "Profit" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 145,
+      "question": "The main goal of studying history is",
+      "options": [
+        { "key": "A", "text": "Memorization" },
+        { "key": "B", "text": "Understanding human society" },
+        { "key": "C", "text": "Storytelling" },
+        { "key": "D", "text": "Entertainment" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 146,
+      "question": "History encourages students to be",
+      "options": [
+        { "key": "A", "text": "Passive" },
+        { "key": "B", "text": "Critical thinkers" },
+        { "key": "C", "text": "Biased" },
+        { "key": "D", "text": "Emotional" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 147,
+      "question": "Historical facts must be supported by",
+      "options": [
+        { "key": "A", "text": "Opinions" },
+        { "key": "B", "text": "Evidence" },
+        { "key": "C", "text": "Beliefs" },
+        { "key": "D", "text": "Rumours" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "The relevance of history to society is that it",
+      "options": [
+        { "key": "A", "text": "Explains social development" },
+        { "key": "B", "text": "Stops change" },
+        { "key": "C", "text": "Creates conflict" },
+        { "key": "D", "text": "Encourages myths" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "History promotes national integration by",
+      "options": [
+        { "key": "A", "text": "Highlighting shared past" },
+        { "key": "B", "text": "Ignoring differences" },
+        { "key": "C", "text": "Encouraging rivalry" },
+        { "key": "D", "text": "Suppressing culture" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 150,
+      "question": "The most reliable historical account is one based on",
+      "options": [
+        { "key": "A", "text": "Speculation" },
+        { "key": "B", "text": "Verifiable sources" },
+        { "key": "C", "text": "Tradition alone" },
+        { "key": "D", "text": "Opinion" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 151,
+      "question": "The preservation of history is important for",
+      "options": [
+        { "key": "A", "text": "Future generations" },
+        { "key": "B", "text": "Political power" },
+        { "key": "C", "text": "Personal gain" },
+        { "key": "D", "text": "Colonial rule" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "The study of history helps youths to develop",
+      "options": [
+        { "key": "A", "text": "Patriotism" },
+        { "key": "B", "text": "Hatred" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Ignorance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "History explains how societies",
+      "options": [
+        { "key": "A", "text": "Disappear suddenly" },
+        { "key": "B", "text": "Evolve over time" },
+        { "key": "C", "text": "Remain static" },
+        { "key": "D", "text": "Avoid change" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 154,
+      "question": "A major value of history is that it",
+      "options": [
+        { "key": "A", "text": "Builds identity" },
+        { "key": "B", "text": "Creates myths" },
+        { "key": "C", "text": "Encourages conflict" },
+        { "key": "D", "text": "Promotes bias" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 155,
+      "question": "The overall importance of history is its ability to",
+      "options": [
+        { "key": "A", "text": "Predict exact future events" },
+        { "key": "B", "text": "Guide present actions" },
+        { "key": "C", "text": "Replace science" },
+        { "key": "D", "text": "Control society" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 156,
+      "question": "The earliest form of government in African societies was",
+      "options": [
+        { "key": "A", "text": "Monarchy" },
+        { "key": "B", "text": "Republicanism" },
+        { "key": "C", "text": "Communal system" },
+        { "key": "D", "text": "Military rule" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "Age-grade system was mainly used for",
+      "options": [
+        { "key": "A", "text": "Religious worship" },
+        { "key": "B", "text": "Social control and administration" },
+        { "key": "C", "text": "Trade regulation" },
+        { "key": "D", "text": "Judicial punishment" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 158,
+      "question": "The Benin Kingdom was noted for its",
+      "options": [
+        { "key": "A", "text": "Bronze artworks" },
+        { "key": "B", "text": "Rock paintings" },
+        { "key": "C", "text": "Leather works" },
+        { "key": "D", "text": "Stone carvings" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 159,
+      "question": "The ruler of the Benin Kingdom was known as the",
+      "options": [
+        { "key": "A", "text": "Emir" },
+        { "key": "B", "text": "Oba" },
+        { "key": "C", "text": "Mansa" },
+        { "key": "D", "text": "Sarki" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "One major feature of centralized states was",
+      "options": [
+        { "key": "A", "text": "Weak authority" },
+        { "key": "B", "text": "Strong kingship" },
+        { "key": "C", "text": "Absence of laws" },
+        { "key": "D", "text": "Loose leadership" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 161,
+      "question": "Decentralized political systems were common among the",
+      "options": [
+        { "key": "A", "text": "Hausa" },
+        { "key": "B", "text": "Yoruba" },
+        { "key": "C", "text": "Igbo" },
+        { "key": "D", "text": "Kanuri" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "The main function of traditional councils was to",
+      "options": [
+        { "key": "A", "text": "Enforce colonial laws" },
+        { "key": "B", "text": "Assist rulers in governance" },
+        { "key": "C", "text": "Collect taxes for Britain" },
+        { "key": "D", "text": "Conduct elections" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "Early African education emphasized",
+      "options": [
+        { "key": "A", "text": "Formal schooling" },
+        { "key": "B", "text": "Moral training and skills" },
+        { "key": "C", "text": "Written examinations" },
+        { "key": "D", "text": "Foreign languages" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "Trans-Atlantic slave trade mainly supplied slaves to",
+      "options": [
+        { "key": "A", "text": "Asia" },
+        { "key": "B", "text": "Europe" },
+        { "key": "C", "text": "Americas" },
+        { "key": "D", "text": "Australia" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "One major effect of the slave trade on Africa was",
+      "options": [
+        { "key": "A", "text": "Population loss" },
+        { "key": "B", "text": "Industrial growth" },
+        { "key": "C", "text": "Technological advancement" },
+        { "key": "D", "text": "Educational progress" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 166,
+      "question": "Legitimate trade replaced slave trade mainly due to",
+      "options": [
+        { "key": "A", "text": "African resistance" },
+        { "key": "B", "text": "Abolition movements" },
+        { "key": "C", "text": "Natural disasters" },
+        { "key": "D", "text": "Military wars" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "Palm oil became important during legitimate trade because it was used for",
+      "options": [
+        { "key": "A", "text": "Cooking only" },
+        { "key": "B", "text": "Industrial lubrication" },
+        { "key": "C", "text": "Medicine only" },
+        { "key": "D", "text": "Religious rites" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "Christian missionaries contributed to Nigerian history by",
+      "options": [
+        { "key": "A", "text": "Promoting slave trade" },
+        { "key": "B", "text": "Introducing western education" },
+        { "key": "C", "text": "Encouraging wars" },
+        { "key": "D", "text": "Destroying culture" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "The first Christian mission in Nigeria was established in",
+      "options": [
+        { "key": "A", "text": "Badagry" },
+        { "key": "B", "text": "Calabar" },
+        { "key": "C", "text": "Lokoja" },
+        { "key": "D", "text": "Ibadan" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 170,
+      "question": "Colonial economy in Nigeria was mainly based on",
+      "options": [
+        { "key": "A", "text": "Subsistence farming" },
+        { "key": "B", "text": "Export of raw materials" },
+        { "key": "C", "text": "Industrial production" },
+        { "key": "D", "text": "Tourism" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 171,
+      "question": "Cash crops introduced by colonialists were meant to",
+      "options": [
+        { "key": "A", "text": "Help local consumption" },
+        { "key": "B", "text": "Supply European industries" },
+        { "key": "C", "text": "Reduce farming" },
+        { "key": "D", "text": "Encourage nomadism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Railways were built during colonial rule mainly to",
+      "options": [
+        { "key": "A", "text": "Improve tourism" },
+        { "key": "B", "text": "Transport raw materials" },
+        { "key": "C", "text": "Encourage unity" },
+        { "key": "D", "text": "Promote education" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "One negative impact of colonial rule was",
+      "options": [
+        { "key": "A", "text": "Development of infrastructure" },
+        { "key": "B", "text": "Cultural erosion" },
+        { "key": "C", "text": "Western education" },
+        { "key": "D", "text": "Political awareness" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Nationalism in Nigeria was encouraged by",
+      "options": [
+        { "key": "A", "text": "Colonial policies" },
+        { "key": "B", "text": "Educated elites" },
+        { "key": "C", "text": "Traditional rulers" },
+        { "key": "D", "text": "Foreign traders" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 175,
+      "question": "Nationalist leaders demanded",
+      "options": [
+        { "key": "A", "text": "More colonial control" },
+        { "key": "B", "text": "Self-government" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "Economic isolation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 176,
+      "question": "The Richards Constitution was introduced in",
+      "options": [
+        { "key": "A", "text": "1922" },
+        { "key": "B", "text": "1946" },
+        { "key": "C", "text": "1951" },
+        { "key": "D", "text": "1954" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 177,
+      "question": "The Macpherson Constitution encouraged",
+      "options": [
+        { "key": "A", "text": "Public participation" },
+        { "key": "B", "text": "Autocratic rule" },
+        { "key": "C", "text": "Military leadership" },
+        { "key": "D", "text": "Centralization only" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 178,
+      "question": "Federalism was fully adopted in Nigeria in",
+      "options": [
+        { "key": "A", "text": "1946" },
+        { "key": "B", "text": "1951" },
+        { "key": "C", "text": "1954" },
+        { "key": "D", "text": "1960" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 179,
+      "question": "The first indigenous Governor-General of Nigeria was",
+      "options": [
+        { "key": "A", "text": "Tafawa Balewa" },
+        { "key": "B", "text": "Nnamdi Azikiwe" },
+        { "key": "C", "text": "Ahmadu Bello" },
+        { "key": "D", "text": "Obafemi Awolowo" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "The symbol of authority of traditional rulers included the",
+      "options": [
+        { "key": "A", "text": "Ballot box" },
+        { "key": "B", "text": "Crown and staff" },
+        { "key": "C", "text": "Flag" },
+        { "key": "D", "text": "Uniform" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 181,
+      "question": "History promotes national consciousness by",
+      "options": [
+        { "key": "A", "text": "Dividing people" },
+        { "key": "B", "text": "Teaching common heritage" },
+        { "key": "C", "text": "Ignoring differences" },
+        { "key": "D", "text": "Encouraging bias" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "Preserving historical monuments helps to",
+      "options": [
+        { "key": "A", "text": "Erase culture" },
+        { "key": "B", "text": "Maintain heritage" },
+        { "key": "C", "text": "Encourage violence" },
+        { "key": "D", "text": "Promote colonialism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "Museums are important because they",
+      "options": [
+        { "key": "A", "text": "Store historical artifacts" },
+        { "key": "B", "text": "Conduct elections" },
+        { "key": "C", "text": "Write textbooks" },
+        { "key": "D", "text": "Enforce laws" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 184,
+      "question": "One source of Nigerian history is",
+      "options": [
+        { "key": "A", "text": "Fiction novels" },
+        { "key": "B", "text": "Archaeological findings" },
+        { "key": "C", "text": "Dreams" },
+        { "key": "D", "text": "Predictions" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 185,
+      "question": "Historical research requires",
+      "options": [
+        { "key": "A", "text": "Guesswork" },
+        { "key": "B", "text": "Evidence and analysis" },
+        { "key": "C", "text": "Personal opinion" },
+        { "key": "D", "text": "Assumptions" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 186,
+      "question": "The teaching of history encourages",
+      "options": [
+        { "key": "A", "text": "Critical reasoning" },
+        { "key": "B", "text": "Blind belief" },
+        { "key": "C", "text": "Conflict" },
+        { "key": "D", "text": "Isolation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 187,
+      "question": "A nation without history risks",
+      "options": [
+        { "key": "A", "text": "Progress" },
+        { "key": "B", "text": "Loss of identity" },
+        { "key": "C", "text": "Unity" },
+        { "key": "D", "text": "Stability" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "History helps citizens to understand",
+      "options": [
+        { "key": "A", "text": "Current issues" },
+        { "key": "B", "text": "Scientific formulas" },
+        { "key": "C", "text": "Weather patterns" },
+        { "key": "D", "text": "Chemical reactions" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 189,
+      "question": "Historical knowledge promotes",
+      "options": [
+        { "key": "A", "text": "Peaceful coexistence" },
+        { "key": "B", "text": "Intolerance" },
+        { "key": "C", "text": "Conflict" },
+        { "key": "D", "text": "Division" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 190,
+      "question": "The study of history is important because it",
+      "options": [
+        { "key": "A", "text": "Explains the past" },
+        { "key": "B", "text": "Controls the future" },
+        { "key": "C", "text": "Replaces other subjects" },
+        { "key": "D", "text": "Promotes myths only" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 191,
+      "question": "A major duty of historians is to",
+      "options": [
+        { "key": "A", "text": "Distort facts" },
+        { "key": "B", "text": "Record and interpret events" },
+        { "key": "C", "text": "Create stories" },
+        { "key": "D", "text": "Predict elections" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 192,
+      "question": "Good historical writing must be",
+      "options": [
+        { "key": "A", "text": "Emotional" },
+        { "key": "B", "text": "Objective" },
+        { "key": "C", "text": "Biased" },
+        { "key": "D", "text": "Speculative" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "History is best described as the study of",
+      "options": [
+        { "key": "A", "text": "Past events" },
+        { "key": "B", "text": "Future plans" },
+        { "key": "C", "text": "Scientific experiments" },
+        { "key": "D", "text": "Natural disasters" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "Historical facts become reliable when they are",
+      "options": [
+        { "key": "A", "text": "Widely believed" },
+        { "key": "B", "text": "Verified by evidence" },
+        { "key": "C", "text": "Repeated often" },
+        { "key": "D", "text": "Politically accepted" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 195,
+      "question": "The importance of Nigerian history lies in its role in",
+      "options": [
+        { "key": "A", "text": "Building national unity" },
+        { "key": "B", "text": "Creating division" },
+        { "key": "C", "text": "Promoting tribalism" },
+        { "key": "D", "text": "Encouraging ignorance" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 196,
+      "question": "The preservation of oral history is achieved through",
+      "options": [
+        { "key": "A", "text": "Storytelling traditions" },
+        { "key": "B", "text": "Newspapers" },
+        { "key": "C", "text": "Digital records only" },
+        { "key": "D", "text": "Diaries" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 197,
+      "question": "Historical monuments are symbols of",
+      "options": [
+        { "key": "A", "text": "Colonial oppression" },
+        { "key": "B", "text": "Cultural identity" },
+        { "key": "C", "text": "Political parties" },
+        { "key": "D", "text": "Economic power" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 198,
+      "question": "The relevance of history to leadership is that it",
+      "options": [
+        { "key": "A", "text": "Teaches lessons from the past" },
+        { "key": "B", "text": "Encourages dictatorship" },
+        { "key": "C", "text": "Limits decision-making" },
+        { "key": "D", "text": "Prevents governance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 199,
+      "question": "Understanding history helps societies to",
+      "options": [
+        { "key": "A", "text": "Repeat mistakes" },
+        { "key": "B", "text": "Plan better futures" },
+        { "key": "C", "text": "Avoid development" },
+        { "key": "D", "text": "Reject progress" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "The ultimate value of history is its ability to",
+      "options": [
+        { "key": "A", "text": "Shape informed citizens" },
+        { "key": "B", "text": "Control society" },
+        { "key": "C", "text": "Predict exact outcomes" },
+        { "key": "D", "text": "Replace governance" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 201,
+      "question": "Historical knowledge strengthens",
+      "options": [
+        { "key": "A", "text": "Civic responsibility" },
+        { "key": "B", "text": "Tribal hatred" },
+        { "key": "C", "text": "Political apathy" },
+        { "key": "D", "text": "Ignorance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 202,
+      "question": "The main focus of Nigerian history is",
+      "options": [
+        { "key": "A", "text": "Foreign nations" },
+        { "key": "B", "text": "Nigerian people and institutions" },
+        { "key": "C", "text": "Myths and legends only" },
+        { "key": "D", "text": "Colonial documents" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 203,
+      "question": "The study of history prepares students for",
+      "options": [
+        { "key": "A", "text": "Responsible citizenship" },
+        { "key": "B", "text": "Isolation" },
+        { "key": "C", "text": "Dependency" },
+        { "key": "D", "text": "Political violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 204,
+      "question": "The most important contribution of history is",
+      "options": [
+        { "key": "A", "text": "Understanding society" },
+        { "key": "B", "text": "Economic profit" },
+        { "key": "C", "text": "Political power" },
+        { "key": "D", "text": "Technological innovation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 205,
+      "question": "History remains relevant because it helps humans to",
+      "options": [
+        { "key": "A", "text": "Make informed decisions" },
+        { "key": "B", "text": "Avoid responsibility" },
+        { "key": "C", "text": "Reject the past" },
+        { "key": "D", "text": "Depend on chance" }
+      ],
+      "correct_answer": "A"
     }
   ]
 }
