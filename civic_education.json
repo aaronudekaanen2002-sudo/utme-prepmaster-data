@@ -62,6 +62,2246 @@
         { "key": "D", "text": "Maintaining law and order" }
       ],
       "correct_answer": "C"
+    },
+
+    {
+      "id": 6,
+      "question": "Civic Education is the study of",
+      "options": [
+        { "key": "A", "text": "Political parties" },
+        { "key": "B", "text": "Citizens and their duties" },
+        { "key": "C", "text": "Military training" },
+        { "key": "D", "text": "Economic systems" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "A good citizen is one who",
+      "options": [
+        { "key": "A", "text": "Disobeys laws" },
+        { "key": "B", "text": "Performs civic duties responsibly" },
+        { "key": "C", "text": "Avoids government activities" },
+        { "key": "D", "text": "Ignores national symbols" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "One major duty of a citizen is to",
+      "options": [
+        { "key": "A", "text": "Disrespect leaders" },
+        { "key": "B", "text": "Obey the constitution" },
+        { "key": "C", "text": "Reject authority" },
+        { "key": "D", "text": "Avoid paying tax" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "The Nigerian constitution is",
+      "options": [
+        { "key": "A", "text": "A religious book" },
+        { "key": "B", "text": "The supreme law of the land" },
+        { "key": "C", "text": "A party document" },
+        { "key": "D", "text": "A court judgement" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Rule of law means that",
+      "options": [
+        { "key": "A", "text": "Leaders are above the law" },
+        { "key": "B", "text": "The law rules over everyone" },
+        { "key": "C", "text": "Only judges obey the law" },
+        { "key": "D", "text": "Citizens decide laws individually" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 11,
+      "question": "One feature of democracy is",
+      "options": [
+        { "key": "A", "text": "Military rule" },
+        { "key": "B", "text": "Free and fair elections" },
+        { "key": "C", "text": "Hereditary leadership" },
+        { "key": "D", "text": "One-party system only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Fundamental human rights are",
+      "options": [
+        { "key": "A", "text": "Privileges given by leaders" },
+        { "key": "B", "text": "Rights of every citizen" },
+        { "key": "C", "text": "Court decisions only" },
+        { "key": "D", "text": "Party benefits" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Right to life means",
+      "options": [
+        { "key": "A", "text": "Freedom to commit crimes" },
+        { "key": "B", "text": "Protection from unlawful killing" },
+        { "key": "C", "text": "Right to fight" },
+        { "key": "D", "text": "Right to disobey law" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "The primary duty of government is to",
+      "options": [
+        { "key": "A", "text": "Punish citizens" },
+        { "key": "B", "text": "Ensure welfare and security" },
+        { "key": "C", "text": "Support only the rich" },
+        { "key": "D", "text": "Rule by force" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "The National Assembly is responsible for",
+      "options": [
+        { "key": "A", "text": "Executing laws" },
+        { "key": "B", "text": "Interpreting laws" },
+        { "key": "C", "text": "Making laws" },
+        { "key": "D", "text": "Arresting offenders" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "Separation of powers prevents",
+      "options": [
+        { "key": "A", "text": "Unity" },
+        { "key": "B", "text": "Abuse of power" },
+        { "key": "C", "text": "Governance" },
+        { "key": "D", "text": "Law making" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "The judiciary is responsible for",
+      "options": [
+        { "key": "A", "text": "Making laws" },
+        { "key": "B", "text": "Executing policies" },
+        { "key": "C", "text": "Interpreting laws" },
+        { "key": "D", "text": "Collecting taxes" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "The executive arm of government is headed by the",
+      "options": [
+        { "key": "A", "text": "Chief Justice" },
+        { "key": "B", "text": "Senate President" },
+        { "key": "C", "text": "President" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Voting is important because it",
+      "options": [
+        { "key": "A", "text": "Causes conflict" },
+        { "key": "B", "text": "Allows citizens choose leaders" },
+        { "key": "C", "text": "Promotes violence" },
+        { "key": "D", "text": "Weakens democracy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Political apathy means",
+      "options": [
+        { "key": "A", "text": "Active participation" },
+        { "key": "B", "text": "Lack of interest in politics" },
+        { "key": "C", "text": "Supporting candidates" },
+        { "key": "D", "text": "Peaceful protest" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 21,
+      "question": "National symbols promote",
+      "options": [
+        { "key": "A", "text": "Hatred" },
+        { "key": "B", "text": "National unity" },
+        { "key": "C", "text": "Division" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "The Nigerian coat of arms represents",
+      "options": [
+        { "key": "A", "text": "Colonialism" },
+        { "key": "B", "text": "Authority and unity" },
+        { "key": "C", "text": "Tribalism" },
+        { "key": "D", "text": "Military rule" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Peaceful coexistence means",
+      "options": [
+        { "key": "A", "text": "Living in conflict" },
+        { "key": "B", "text": "Mutual respect among citizens" },
+        { "key": "C", "text": "Avoiding cooperation" },
+        { "key": "D", "text": "Enforcing dominance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Tolerance helps society to",
+      "options": [
+        { "key": "A", "text": "Encourage hatred" },
+        { "key": "B", "text": "Promote unity" },
+        { "key": "C", "text": "Cause instability" },
+        { "key": "D", "text": "Support extremism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "The agency responsible for conducting elections in Nigeria is",
+      "options": [
+        { "key": "A", "text": "EFCC" },
+        { "key": "B", "text": "INEC" },
+        { "key": "C", "text": "ICPC" },
+        { "key": "D", "text": "NYSC" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 26,
+      "question": "Corruption is best described as",
+      "options": [
+        { "key": "A", "text": "Honest behavior" },
+        { "key": "B", "text": "Abuse of public office" },
+        { "key": "C", "text": "Good governance" },
+        { "key": "D", "text": "Fair leadership" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "One effect of corruption is",
+      "options": [
+        { "key": "A", "text": "National development" },
+        { "key": "B", "text": "Economic growth" },
+        { "key": "C", "text": "Underdevelopment" },
+        { "key": "D", "text": "Unity" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "The EFCC fights",
+      "options": [
+        { "key": "A", "text": "Electoral violence" },
+        { "key": "B", "text": "Financial crimes" },
+        { "key": "C", "text": "Religious conflict" },
+        { "key": "D", "text": "Cyber bullying" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Honesty means",
+      "options": [
+        { "key": "A", "text": "Telling lies" },
+        { "key": "B", "text": "Being truthful" },
+        { "key": "C", "text": "Avoiding responsibility" },
+        { "key": "D", "text": "Gaining unfair advantage" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Self-reliance encourages",
+      "options": [
+        { "key": "A", "text": "Dependency" },
+        { "key": "B", "text": "Hard work" },
+        { "key": "C", "text": "Laziness" },
+        { "key": "D", "text": "Corruption" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 31,
+      "question": "National consciousness promotes",
+      "options": [
+        { "key": "A", "text": "Patriotism" },
+        { "key": "B", "text": "Tribalism" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Disunity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Youth empowerment helps to reduce",
+      "options": [
+        { "key": "A", "text": "Education" },
+        { "key": "B", "text": "Crime rate" },
+        { "key": "C", "text": "Development" },
+        { "key": "D", "text": "Productivity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Conflict resolution involves",
+      "options": [
+        { "key": "A", "text": "Violence" },
+        { "key": "B", "text": "Dialogue and negotiation" },
+        { "key": "C", "text": "Suppression" },
+        { "key": "D", "text": "Force" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "The media promotes democracy by",
+      "options": [
+        { "key": "A", "text": "Spreading false news" },
+        { "key": "B", "text": "Informing the public" },
+        { "key": "C", "text": "Suppressing opinions" },
+        { "key": "D", "text": "Causing confusion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Civic responsibility includes",
+      "options": [
+        { "key": "A", "text": "Lawlessness" },
+        { "key": "B", "text": "Paying taxes" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Disobedience" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 36,
+      "question": "Respect for elders promotes",
+      "options": [
+        { "key": "A", "text": "Anarchy" },
+        { "key": "B", "text": "Discipline" },
+        { "key": "C", "text": "Lawlessness" },
+        { "key": "D", "text": "Conflict" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "One cause of drug abuse among youths is",
+      "options": [
+        { "key": "A", "text": "Peer pressure" },
+        { "key": "B", "text": "Education" },
+        { "key": "C", "text": "Employment" },
+        { "key": "D", "text": "Discipline" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Human trafficking violates",
+      "options": [
+        { "key": "A", "text": "Traffic rules" },
+        { "key": "B", "text": "Human rights" },
+        { "key": "C", "text": "Tax laws" },
+        { "key": "D", "text": "Trade laws" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Patriotism is shown by",
+      "options": [
+        { "key": "A", "text": "Hating one's country" },
+        { "key": "B", "text": "Serving the nation honestly" },
+        { "key": "C", "text": "Ignoring national issues" },
+        { "key": "D", "text": "Breaking laws" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "National integration refers to",
+      "options": [
+        { "key": "A", "text": "Ethnic conflict" },
+        { "key": "B", "text": "Unity among diverse groups" },
+        { "key": "C", "text": "Tribal superiority" },
+        { "key": "D", "text": "Political exclusion" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "Social justice promotes",
+      "options": [
+        { "key": "A", "text": "Fairness and equality" },
+        { "key": "B", "text": "Oppression" },
+        { "key": "C", "text": "Discrimination" },
+        { "key": "D", "text": "Favoritism" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Responsible leadership requires",
+      "options": [
+        { "key": "A", "text": "Transparency" },
+        { "key": "B", "text": "Corruption" },
+        { "key": "C", "text": "Greed" },
+        { "key": "D", "text": "Selfishness" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "National values include",
+      "options": [
+        { "key": "A", "text": "Dishonesty" },
+        { "key": "B", "text": "Integrity" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Lawlessness" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "The NYSC scheme promotes",
+      "options": [
+        { "key": "A", "text": "Division" },
+        { "key": "B", "text": "National unity" },
+        { "key": "C", "text": "Political rivalry" },
+        { "key": "D", "text": "Economic inequality" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Respect for the constitution ensures",
+      "options": [
+        { "key": "A", "text": "Dictatorship" },
+        { "key": "B", "text": "Orderliness" },
+        { "key": "C", "text": "Chaos" },
+        { "key": "D", "text": "Oppression" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 46,
+      "question": "The fight against corruption requires",
+      "options": [
+        { "key": "A", "text": "Silence" },
+        { "key": "B", "text": "Collective effort" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Indifference" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Civic participation strengthens",
+      "options": [
+        { "key": "A", "text": "Autocracy" },
+        { "key": "B", "text": "Democracy" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "Oppression" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "One role of citizens in governance is to",
+      "options": [
+        { "key": "A", "text": "Ignore public affairs" },
+        { "key": "B", "text": "Hold leaders accountable" },
+        { "key": "C", "text": "Encourage corruption" },
+        { "key": "D", "text": "Promote lawlessness" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Peace education teaches",
+      "options": [
+        { "key": "A", "text": "Violence" },
+        { "key": "B", "text": "Conflict resolution" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Revenge" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "The ultimate goal of Civic Education is to",
+      "options": [
+        { "key": "A", "text": "Produce obedient citizens only" },
+        { "key": "B", "text": "Build responsible and patriotic citizens" },
+        { "key": "C", "text": "Encourage politics alone" },
+        { "key": "D", "text": "Promote authority fear" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 51,
+      "question": "Active citizenship promotes",
+      "options": [
+        { "key": "A", "text": "Development" },
+        { "key": "B", "text": "Conflict" },
+        { "key": "C", "text": "Corruption" },
+        { "key": "D", "text": "Disunity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Respect for national symbols shows",
+      "options": [
+        { "key": "A", "text": "Disloyalty" },
+        { "key": "B", "text": "Patriotism" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Indifference" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Good governance leads to",
+      "options": [
+        { "key": "A", "text": "Instability" },
+        { "key": "B", "text": "National development" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Conflict" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "The constitution protects citizens against",
+      "options": [
+        { "key": "A", "text": "Foreign travel" },
+        { "key": "B", "text": "Abuse of power" },
+        { "key": "C", "text": "Education" },
+        { "key": "D", "text": "Freedom" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Civic Education prepares citizens for",
+      "options": [
+        { "key": "A", "text": "Irresponsible behavior" },
+        { "key": "B", "text": "Active participation in society" },
+        { "key": "C", "text": "Lawlessness" },
+        { "key": "D", "text": "Political violence" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 56,
+      "question": "Civic Education helps citizens to understand",
+      "options": [
+        { "key": "A", "text": "Sports activities" },
+        { "key": "B", "text": "Their rights and responsibilities" },
+        { "key": "C", "text": "Foreign cultures only" },
+        { "key": "D", "text": "Military strategies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "A responsible citizen must always",
+      "options": [
+        { "key": "A", "text": "Break the law" },
+        { "key": "B", "text": "Respect constituted authority" },
+        { "key": "C", "text": "Reject national symbols" },
+        { "key": "D", "text": "Avoid voting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Democracy is best defined as government",
+      "options": [
+        { "key": "A", "text": "By the rich" },
+        { "key": "B", "text": "By the military" },
+        { "key": "C", "text": "Of the people, by the people and for the people" },
+        { "key": "D", "text": "By traditional rulers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "One benefit of rule of law is",
+      "options": [
+        { "key": "A", "text": "Fear in society" },
+        { "key": "B", "text": "Equality before the law" },
+        { "key": "C", "text": "Military dominance" },
+        { "key": "D", "text": "Tribal favoritism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "The constitution spells out the",
+      "options": [
+        { "key": "A", "text": "History of Nigeria" },
+        { "key": "B", "text": "Rights and duties of citizens" },
+        { "key": "C", "text": "Names of political parties" },
+        { "key": "D", "text": "Powers of communities only" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 61,
+      "question": "Fundamental human rights are",
+      "options": [
+        { "key": "A", "text": "Optional privileges" },
+        { "key": "B", "text": "Rights inherent in every person" },
+        { "key": "C", "text": "Limited to politicians" },
+        { "key": "D", "text": "Given by political parties" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Right to freedom of expression allows citizens to",
+      "options": [
+        { "key": "A", "text": "Incite violence" },
+        { "key": "B", "text": "Express opinions freely" },
+        { "key": "C", "text": "Disrespect leaders" },
+        { "key": "D", "text": "Break the law" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "An example of civic duty is",
+      "options": [
+        { "key": "A", "text": "Tax evasion" },
+        { "key": "B", "text": "Voting during elections" },
+        { "key": "C", "text": "Hooliganism" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "The arm of government that implements laws is the",
+      "options": [
+        { "key": "A", "text": "Legislative" },
+        { "key": "B", "text": "Judicial" },
+        { "key": "C", "text": "Executive" },
+        { "key": "D", "text": "Traditional" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "The legislature is responsible for",
+      "options": [
+        { "key": "A", "text": "Making laws" },
+        { "key": "B", "text": "Interpreting laws" },
+        { "key": "C", "text": "Enforcing laws" },
+        { "key": "D", "text": "Judging criminals" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 66,
+      "question": "Separation of powers encourages",
+      "options": [
+        { "key": "A", "text": "Power abuse" },
+        { "key": "B", "text": "Checks and balances" },
+        { "key": "C", "text": "Dictatorship" },
+        { "key": "D", "text": "Tribal dominance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "INEC is responsible for",
+      "options": [
+        { "key": "A", "text": "Judging court cases" },
+        { "key": "B", "text": "Conducting elections" },
+        { "key": "C", "text": "Making laws" },
+        { "key": "D", "text": "Collecting taxes" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Political participation includes",
+      "options": [
+        { "key": "A", "text": "Voting and campaigning" },
+        { "key": "B", "text": "Armed robbery" },
+        { "key": "C", "text": "Cultism" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Apathy in politics leads to",
+      "options": [
+        { "key": "A", "text": "Good governance" },
+        { "key": "B", "text": "Poor leadership" },
+        { "key": "C", "text": "Citizen control" },
+        { "key": "D", "text": "Development" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "National symbols are meant to promote",
+      "options": [
+        { "key": "A", "text": "Ethnic rivalry" },
+        { "key": "B", "text": "National identity" },
+        { "key": "C", "text": "Political conflict" },
+        { "key": "D", "text": "Regionalism" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 71,
+      "question": "Corruption can best be described as",
+      "options": [
+        { "key": "A", "text": "Hard work" },
+        { "key": "B", "text": "Abuse of entrusted power" },
+        { "key": "C", "text": "Patriotism" },
+        { "key": "D", "text": "National service" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "One effect of corruption on society is",
+      "options": [
+        { "key": "A", "text": "Economic growth" },
+        { "key": "B", "text": "Underdevelopment" },
+        { "key": "C", "text": "Unity" },
+        { "key": "D", "text": "Peace" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Integrity means",
+      "options": [
+        { "key": "A", "text": "Dishonesty" },
+        { "key": "B", "text": "Moral uprightness" },
+        { "key": "C", "text": "Favoritism" },
+        { "key": "D", "text": "Selfishness" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Self-reliance discourages",
+      "options": [
+        { "key": "A", "text": "Hard work" },
+        { "key": "B", "text": "Creativity" },
+        { "key": "C", "text": "Dependency" },
+        { "key": "D", "text": "Productivity" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Youth restiveness can be reduced through",
+      "options": [
+        { "key": "A", "text": "Unemployment" },
+        { "key": "B", "text": "Empowerment programs" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Neglect" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "Peaceful coexistence is promoted by",
+      "options": [
+        { "key": "A", "text": "Intolerance" },
+        { "key": "B", "text": "Mutual understanding" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Hatred" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Tolerance means",
+      "options": [
+        { "key": "A", "text": "Acceptance of differences" },
+        { "key": "B", "text": "Forcing beliefs" },
+        { "key": "C", "text": "Aggression" },
+        { "key": "D", "text": "Suppression" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "National unity is strengthened through",
+      "options": [
+        { "key": "A", "text": "Tribalism" },
+        { "key": "B", "text": "Equal treatment of citizens" },
+        { "key": "C", "text": "Discrimination" },
+        { "key": "D", "text": "Nepotism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "The NYSC scheme encourages",
+      "options": [
+        { "key": "A", "text": "Regionalism" },
+        { "key": "B", "text": "National integration" },
+        { "key": "C", "text": "Disunity" },
+        { "key": "D", "text": "Political rivalry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Human rights abuse results in",
+      "options": [
+        { "key": "A", "text": "Peace" },
+        { "key": "B", "text": "Social instability" },
+        { "key": "C", "text": "Harmony" },
+        { "key": "D", "text": "Unity" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "The media contributes to democracy by",
+      "options": [
+        { "key": "A", "text": "Spreading misinformation" },
+        { "key": "B", "text": "Educating citizens" },
+        { "key": "C", "text": "Inciting violence" },
+        { "key": "D", "text": "Suppressing views" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Responsible leadership requires",
+      "options": [
+        { "key": "A", "text": "Accountability" },
+        { "key": "B", "text": "Greed" },
+        { "key": "C", "text": "Corruption" },
+        { "key": "D", "text": "Oppression" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Social justice ensures",
+      "options": [
+        { "key": "A", "text": "Fairness in society" },
+        { "key": "B", "text": "Discrimination" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Favoritism" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Patriotism can be shown by",
+      "options": [
+        { "key": "A", "text": "Serving the nation selflessly" },
+        { "key": "B", "text": "Destroying public property" },
+        { "key": "C", "text": "Avoiding civic duties" },
+        { "key": "D", "text": "Disobeying laws" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Civic responsibility includes",
+      "options": [
+        { "key": "A", "text": "Tax evasion" },
+        { "key": "B", "text": "Law obedience" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Corruption" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 86,
+      "question": "Community development requires",
+      "options": [
+        { "key": "A", "text": "Collective effort" },
+        { "key": "B", "text": "Individualism only" },
+        { "key": "C", "text": "Neglect" },
+        { "key": "D", "text": "Conflict" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "Drug abuse negatively affects",
+      "options": [
+        { "key": "A", "text": "Health and productivity" },
+        { "key": "B", "text": "Education only" },
+        { "key": "C", "text": "Sports" },
+        { "key": "D", "text": "Leisure" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "Human trafficking is",
+      "options": [
+        { "key": "A", "text": "Legal trade" },
+        { "key": "B", "text": "Violation of human dignity" },
+        { "key": "C", "text": "Employment opportunity" },
+        { "key": "D", "text": "Tourism activity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Conflict can best be resolved through",
+      "options": [
+        { "key": "A", "text": "Violence" },
+        { "key": "B", "text": "Dialogue" },
+        { "key": "C", "text": "Intimidation" },
+        { "key": "D", "text": "Suppression" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Civic Education promotes",
+      "options": [
+        { "key": "A", "text": "Irresponsibility" },
+        { "key": "B", "text": "Democratic values" },
+        { "key": "C", "text": "Dictatorship" },
+        { "key": "D", "text": "Lawlessness" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 91,
+      "question": "National development depends largely on",
+      "options": [
+        { "key": "A", "text": "Active citizens" },
+        { "key": "B", "text": "Foreign aid only" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "Natural disasters" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Respect for elders promotes",
+      "options": [
+        { "key": "A", "text": "Discipline" },
+        { "key": "B", "text": "Anarchy" },
+        { "key": "C", "text": "Rebellion" },
+        { "key": "D", "text": "Conflict" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Good governance is characterized by",
+      "options": [
+        { "key": "A", "text": "Transparency" },
+        { "key": "B", "text": "Corruption" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Secrecy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 94,
+      "question": "Civic Education prepares citizens for",
+      "options": [
+        { "key": "A", "text": "Active participation in governance" },
+        { "key": "B", "text": "Political violence" },
+        { "key": "C", "text": "Law breaking" },
+        { "key": "D", "text": "Irresponsibility" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Obedience to law promotes",
+      "options": [
+        { "key": "A", "text": "Peace and order" },
+        { "key": "B", "text": "Chaos" },
+        { "key": "C", "text": "Instability" },
+        { "key": "D", "text": "Lawlessness" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 96,
+      "question": "Citizenship education enhances",
+      "options": [
+        { "key": "A", "text": "Ignorance" },
+        { "key": "B", "text": "National consciousness" },
+        { "key": "C", "text": "Tribalism" },
+        { "key": "D", "text": "Extremism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Law enforcement agencies exist to",
+      "options": [
+        { "key": "A", "text": "Punish innocent citizens" },
+        { "key": "B", "text": "Maintain law and order" },
+        { "key": "C", "text": "Create fear" },
+        { "key": "D", "text": "Encourage crime" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Citizens can contribute to peace by",
+      "options": [
+        { "key": "A", "text": "Spreading rumors" },
+        { "key": "B", "text": "Respecting others" },
+        { "key": "C", "text": "Inciting violence" },
+        { "key": "D", "text": "Promoting hatred" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "The ultimate aim of Civic Education is to produce",
+      "options": [
+        { "key": "A", "text": "Political leaders only" },
+        { "key": "B", "text": "Responsible citizens" },
+        { "key": "C", "text": "Soldiers" },
+        { "key": "D", "text": "Law breakers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "National values help to build",
+      "options": [
+        { "key": "A", "text": "A stable society" },
+        { "key": "B", "text": "Conflict" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Division" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 101,
+      "question": "Active participation in civic life strengthens",
+      "options": [
+        { "key": "A", "text": "Dictatorship" },
+        { "key": "B", "text": "Democracy" },
+        { "key": "C", "text": "Autocracy" },
+        { "key": "D", "text": "Oppression" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Citizens should protect public property because it is",
+      "options": [
+        { "key": "A", "text": "Government owned" },
+        { "key": "B", "text": "For collective use" },
+        { "key": "C", "text": "Useless" },
+        { "key": "D", "text": "Foreign property" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "National unity is essential for",
+      "options": [
+        { "key": "A", "text": "Development" },
+        { "key": "B", "text": "Conflict" },
+        { "key": "C", "text": "Instability" },
+        { "key": "D", "text": "Disintegration" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "Civic competence refers to the ability to",
+      "options": [
+        { "key": "A", "text": "Disobey laws" },
+        { "key": "B", "text": "Participate effectively in civic life" },
+        { "key": "C", "text": "Cause disorder" },
+        { "key": "D", "text": "Avoid responsibility" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Citizens show loyalty to the nation by",
+      "options": [
+        { "key": "A", "text": "Sabotaging the economy" },
+        { "key": "B", "text": "Obeying laws and serving honestly" },
+        { "key": "C", "text": "Ignoring national issues" },
+        { "key": "D", "text": "Breaking public trust" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 106,
+      "question": "Civic responsibility refers to the",
+      "options": [
+        { "key": "A", "text": "Privileges enjoyed by leaders" },
+        { "key": "B", "text": "Duties expected of citizens" },
+        { "key": "C", "text": "Power of the government" },
+        { "key": "D", "text": "Role of the judiciary" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "One way citizens can promote democracy is by",
+      "options": [
+        { "key": "A", "text": "Rigging elections" },
+        { "key": "B", "text": "Participating in elections" },
+        { "key": "C", "text": "Inciting violence" },
+        { "key": "D", "text": "Rejecting the constitution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "The main purpose of the constitution is to",
+      "options": [
+        { "key": "A", "text": "Create political parties" },
+        { "key": "B", "text": "Provide rules for governance" },
+        { "key": "C", "text": "Punish citizens" },
+        { "key": "D", "text": "Encourage dictatorship" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "Respect for national symbols shows",
+      "options": [
+        { "key": "A", "text": "Patriotism" },
+        { "key": "B", "text": "Fear" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Political bias" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 110,
+      "question": "A major cause of conflict in society is",
+      "options": [
+        { "key": "A", "text": "Justice" },
+        { "key": "B", "text": "Corruption" },
+        { "key": "C", "text": "Fairness" },
+        { "key": "D", "text": "Equality" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 111,
+      "question": "National values are important because they",
+      "options": [
+        { "key": "A", "text": "Encourage division" },
+        { "key": "B", "text": "Promote unity and development" },
+        { "key": "C", "text": "Create rivalry" },
+        { "key": "D", "text": "Promote corruption" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "A good citizen must be law-abiding because",
+      "options": [
+        { "key": "A", "text": "Laws restrict freedom" },
+        { "key": "B", "text": "Laws ensure order and stability" },
+        { "key": "C", "text": "Laws favor politicians" },
+        { "key": "D", "text": "Laws encourage crime" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 113,
+      "question": "Political apathy can be reduced through",
+      "options": [
+        { "key": "A", "text": "Civic education" },
+        { "key": "B", "text": "Oppression" },
+        { "key": "C", "text": "Threats" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 114,
+      "question": "The judiciary is responsible for",
+      "options": [
+        { "key": "A", "text": "Making laws" },
+        { "key": "B", "text": "Interpreting laws" },
+        { "key": "C", "text": "Executing laws" },
+        { "key": "D", "text": "Collecting taxes" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Human rights should be protected because they",
+      "options": [
+        { "key": "A", "text": "Promote anarchy" },
+        { "key": "B", "text": "Ensure human dignity" },
+        { "key": "C", "text": "Encourage violence" },
+        { "key": "D", "text": "Favor criminals" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 116,
+      "question": "The fight against corruption requires",
+      "options": [
+        { "key": "A", "text": "Citizen cooperation" },
+        { "key": "B", "text": "Silence" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Ethnic loyalty" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 117,
+      "question": "One effect of indiscipline is",
+      "options": [
+        { "key": "A", "text": "Development" },
+        { "key": "B", "text": "Social disorder" },
+        { "key": "C", "text": "Peace" },
+        { "key": "D", "text": "Unity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Tolerance in a multi-ethnic society encourages",
+      "options": [
+        { "key": "A", "text": "Peaceful coexistence" },
+        { "key": "B", "text": "Conflict" },
+        { "key": "C", "text": "Discrimination" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 119,
+      "question": "Civic engagement means",
+      "options": [
+        { "key": "A", "text": "Avoiding public affairs" },
+        { "key": "B", "text": "Active participation in community issues" },
+        { "key": "C", "text": "Political violence" },
+        { "key": "D", "text": "Lawlessness" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Rule of law prevents",
+      "options": [
+        { "key": "A", "text": "Arbitrary use of power" },
+        { "key": "B", "text": "Justice" },
+        { "key": "C", "text": "Freedom" },
+        { "key": "D", "text": "Equality" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 121,
+      "question": "Citizens should pay taxes because it helps in",
+      "options": [
+        { "key": "A", "text": "National development" },
+        { "key": "B", "text": "Personal profit" },
+        { "key": "C", "text": "Political rivalry" },
+        { "key": "D", "text": "Election rigging" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "Democratic governance encourages",
+      "options": [
+        { "key": "A", "text": "Participation and accountability" },
+        { "key": "B", "text": "Oppression" },
+        { "key": "C", "text": "Secrecy" },
+        { "key": "D", "text": "Fear" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 123,
+      "question": "Youth empowerment reduces",
+      "options": [
+        { "key": "A", "text": "Unemployment and crime" },
+        { "key": "B", "text": "Education" },
+        { "key": "C", "text": "Development" },
+        { "key": "D", "text": "Productivity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 124,
+      "question": "Media freedom is important because it",
+      "options": [
+        { "key": "A", "text": "Promotes accountability" },
+        { "key": "B", "text": "Encourages corruption" },
+        { "key": "C", "text": "Spreads hatred" },
+        { "key": "D", "text": "Creates fear" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 125,
+      "question": "Good citizenship requires",
+      "options": [
+        { "key": "A", "text": "Obedience to laws" },
+        { "key": "B", "text": "Disobedience" },
+        { "key": "C", "text": "Corruption" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 126,
+      "question": "National integration can be achieved through",
+      "options": [
+        { "key": "A", "text": "Fairness and equality" },
+        { "key": "B", "text": "Tribalism" },
+        { "key": "C", "text": "Discrimination" },
+        { "key": "D", "text": "Marginalization" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 127,
+      "question": "The right to life means",
+      "options": [
+        { "key": "A", "text": "Freedom from unlawful killing" },
+        { "key": "B", "text": "Freedom to harm others" },
+        { "key": "C", "text": "Political power" },
+        { "key": "D", "text": "Economic privilege" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 128,
+      "question": "Citizens contribute to security by",
+      "options": [
+        { "key": "A", "text": "Reporting suspicious activities" },
+        { "key": "B", "text": "Shielding criminals" },
+        { "key": "C", "text": "Inciting violence" },
+        { "key": "D", "text": "Breaking laws" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 129,
+      "question": "Social responsibility involves",
+      "options": [
+        { "key": "A", "text": "Caring for the community" },
+        { "key": "B", "text": "Selfishness" },
+        { "key": "C", "text": "Neglect" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 130,
+      "question": "Peace building requires",
+      "options": [
+        { "key": "A", "text": "Dialogue and cooperation" },
+        { "key": "B", "text": "Hatred" },
+        { "key": "C", "text": "Force" },
+        { "key": "D", "text": "Fear" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 131,
+      "question": "Citizenship implies",
+      "options": [
+        { "key": "A", "text": "Rights and responsibilities" },
+        { "key": "B", "text": "Only privileges" },
+        { "key": "C", "text": "Only obedience" },
+        { "key": "D", "text": "Political power" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 132,
+      "question": "Community service encourages",
+      "options": [
+        { "key": "A", "text": "Unity and cooperation" },
+        { "key": "B", "text": "Division" },
+        { "key": "C", "text": "Conflict" },
+        { "key": "D", "text": "Hatred" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 133,
+      "question": "Election credibility depends on",
+      "options": [
+        { "key": "A", "text": "Free and fair conduct" },
+        { "key": "B", "text": "Rigging" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Intimidation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 134,
+      "question": "Civil society organizations help in",
+      "options": [
+        { "key": "A", "text": "Promoting accountability" },
+        { "key": "B", "text": "Encouraging corruption" },
+        { "key": "C", "text": "Suppressing voices" },
+        { "key": "D", "text": "Creating chaos" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 135,
+      "question": "A peaceful society is built on",
+      "options": [
+        { "key": "A", "text": "Justice and fairness" },
+        { "key": "B", "text": "Oppression" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Force" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 136,
+      "question": "Citizens should respect the rule of law to",
+      "options": [
+        { "key": "A", "text": "Maintain order" },
+        { "key": "B", "text": "Promote anarchy" },
+        { "key": "C", "text": "Encourage lawlessness" },
+        { "key": "D", "text": "Suppress freedom" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "The duty of the executive arm is to",
+      "options": [
+        { "key": "A", "text": "Implement government policies" },
+        { "key": "B", "text": "Interpret laws" },
+        { "key": "C", "text": "Make laws" },
+        { "key": "D", "text": "Judge cases" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 138,
+      "question": "Citizenship training promotes",
+      "options": [
+        { "key": "A", "text": "Responsible behavior" },
+        { "key": "B", "text": "Crime" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Indiscipline" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 139,
+      "question": "Ethical leadership is based on",
+      "options": [
+        { "key": "A", "text": "Honesty and integrity" },
+        { "key": "B", "text": "Greed" },
+        { "key": "C", "text": "Selfishness" },
+        { "key": "D", "text": "Corruption" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 140,
+      "question": "National consciousness encourages",
+      "options": [
+        { "key": "A", "text": "Loyalty to the nation" },
+        { "key": "B", "text": "Regional hatred" },
+        { "key": "C", "text": "Tribal conflict" },
+        { "key": "D", "text": "Disunity" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 141,
+      "question": "Rights come with",
+      "options": [
+        { "key": "A", "text": "Responsibilities" },
+        { "key": "B", "text": "No obligations" },
+        { "key": "C", "text": "Freedom to offend" },
+        { "key": "D", "text": "Lawlessness" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 142,
+      "question": "Citizens should resist corruption by",
+      "options": [
+        { "key": "A", "text": "Reporting corrupt acts" },
+        { "key": "B", "text": "Supporting it" },
+        { "key": "C", "text": "Ignoring it" },
+        { "key": "D", "text": "Encouraging it" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "Public accountability ensures",
+      "options": [
+        { "key": "A", "text": "Transparency in governance" },
+        { "key": "B", "text": "Secrecy" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Fear" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "Peace education teaches",
+      "options": [
+        { "key": "A", "text": "Conflict resolution skills" },
+        { "key": "B", "text": "Violence" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Aggression" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 145,
+      "question": "Civic values guide citizens to",
+      "options": [
+        { "key": "A", "text": "Act responsibly" },
+        { "key": "B", "text": "Disobey laws" },
+        { "key": "C", "text": "Encourage chaos" },
+        { "key": "D", "text": "Promote violence" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 146,
+      "question": "Respect for diversity promotes",
+      "options": [
+        { "key": "A", "text": "Unity in diversity" },
+        { "key": "B", "text": "Division" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Conflict" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 147,
+      "question": "Citizenship education reduces",
+      "options": [
+        { "key": "A", "text": "Ignorance" },
+        { "key": "B", "text": "Development" },
+        { "key": "C", "text": "Peace" },
+        { "key": "D", "text": "Unity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 148,
+      "question": "Effective leadership is achieved through",
+      "options": [
+        { "key": "A", "text": "Service to the people" },
+        { "key": "B", "text": "Oppression" },
+        { "key": "C", "text": "Fear" },
+        { "key": "D", "text": "Intimidation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "Civic Education prepares youths for",
+      "options": [
+        { "key": "A", "text": "Responsible citizenship" },
+        { "key": "B", "text": "Political violence" },
+        { "key": "C", "text": "Crime" },
+        { "key": "D", "text": "Lawlessness" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 150,
+      "question": "National development thrives where there is",
+      "options": [
+        { "key": "A", "text": "Peace and good governance" },
+        { "key": "B", "text": "Conflict" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Corruption" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 151,
+      "question": "Civic awareness empowers citizens to",
+      "options": [
+        { "key": "A", "text": "Demand accountability" },
+        { "key": "B", "text": "Remain silent" },
+        { "key": "C", "text": "Encourage abuse of power" },
+        { "key": "D", "text": "Promote corruption" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "Social harmony depends on",
+      "options": [
+        { "key": "A", "text": "Mutual respect" },
+        { "key": "B", "text": "Hatred" },
+        { "key": "C", "text": "Discrimination" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "Citizens contribute to democracy by",
+      "options": [
+        { "key": "A", "text": "Participating in governance" },
+        { "key": "B", "text": "Avoiding public affairs" },
+        { "key": "C", "text": "Spreading rumors" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 154,
+      "question": "Peaceful elections require",
+      "options": [
+        { "key": "A", "text": "Tolerance and fairness" },
+        { "key": "B", "text": "Rigging" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Intimidation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 155,
+      "question": "The ultimate goal of Civic Education is",
+      "options": [
+        { "key": "A", "text": "National stability and development" },
+        { "key": "B", "text": "Political rivalry" },
+        { "key": "C", "text": "Personal gain" },
+        { "key": "D", "text": "Disunity" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 156,
+      "question": "Democracy is best described as a government of the",
+      "options": [
+        { "key": "A", "text": "Rich" },
+        { "key": "B", "text": "Military" },
+        { "key": "C", "text": "People" },
+        { "key": "D", "text": "Elders" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "One major feature of democracy is",
+      "options": [
+        { "key": "A", "text": "Rule of law" },
+        { "key": "B", "text": "Absolute power" },
+        { "key": "C", "text": "Censorship" },
+        { "key": "D", "text": "Military rule" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 158,
+      "question": "The responsibility of citizens during elections is to",
+      "options": [
+        { "key": "A", "text": "Rig votes" },
+        { "key": "B", "text": "Vote responsibly" },
+        { "key": "C", "text": "Avoid polling units" },
+        { "key": "D", "text": "Disrupt voting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "A constitution is important because it",
+      "options": [
+        { "key": "A", "text": "Guides government actions" },
+        { "key": "B", "text": "Encourages dictatorship" },
+        { "key": "C", "text": "Promotes corruption" },
+        { "key": "D", "text": "Abolishes rights" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 160,
+      "question": "National unity can be promoted through",
+      "options": [
+        { "key": "A", "text": "Justice and fairness" },
+        { "key": "B", "text": "Tribalism" },
+        { "key": "C", "text": "Ethnic hatred" },
+        { "key": "D", "text": "Favoritism" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 161,
+      "question": "The right to freedom of expression means",
+      "options": [
+        { "key": "A", "text": "Freedom to insult others" },
+        { "key": "B", "text": "Freedom to express opinions responsibly" },
+        { "key": "C", "text": "Freedom to cause violence" },
+        { "key": "D", "text": "Freedom to break laws" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 162,
+      "question": "Citizenship education helps people to",
+      "options": [
+        { "key": "A", "text": "Understand their rights and duties" },
+        { "key": "B", "text": "Ignore laws" },
+        { "key": "C", "text": "Promote violence" },
+        { "key": "D", "text": "Reject authority" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 163,
+      "question": "An act of patriotism is shown when a citizen",
+      "options": [
+        { "key": "A", "text": "Destroys public property" },
+        { "key": "B", "text": "Protects national interest" },
+        { "key": "C", "text": "Evades taxes" },
+        { "key": "D", "text": "Incites violence" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "One effect of corruption is",
+      "options": [
+        { "key": "A", "text": "National development" },
+        { "key": "B", "text": "Economic growth" },
+        { "key": "C", "text": "Underdevelopment" },
+        { "key": "D", "text": "Unity" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "The legislative arm of government is responsible for",
+      "options": [
+        { "key": "A", "text": "Making laws" },
+        { "key": "B", "text": "Executing laws" },
+        { "key": "C", "text": "Interpreting laws" },
+        { "key": "D", "text": "Enforcing judgments" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 166,
+      "question": "Tolerance means",
+      "options": [
+        { "key": "A", "text": "Acceptance of others' differences" },
+        { "key": "B", "text": "Hatred of others" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Discrimination" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 167,
+      "question": "One responsibility of a good citizen is to",
+      "options": [
+        { "key": "A", "text": "Respect the law" },
+        { "key": "B", "text": "Disobey authority" },
+        { "key": "C", "text": "Avoid civic duties" },
+        { "key": "D", "text": "Cause unrest" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 168,
+      "question": "Democratic governance encourages",
+      "options": [
+        { "key": "A", "text": "Citizen participation" },
+        { "key": "B", "text": "Oppression" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "Secrecy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 169,
+      "question": "Peaceful coexistence can be achieved through",
+      "options": [
+        { "key": "A", "text": "Dialogue" },
+        { "key": "B", "text": "Violence" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "War" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 170,
+      "question": "Public accountability means that leaders",
+      "options": [
+        { "key": "A", "text": "Are answerable to the people" },
+        { "key": "B", "text": "Rule by force" },
+        { "key": "C", "text": "Ignore citizens" },
+        { "key": "D", "text": "Act without transparency" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 171,
+      "question": "The rule of law protects citizens from",
+      "options": [
+        { "key": "A", "text": "Oppression" },
+        { "key": "B", "text": "Justice" },
+        { "key": "C", "text": "Equality" },
+        { "key": "D", "text": "Freedom" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 172,
+      "question": "One way youths can contribute to national development is through",
+      "options": [
+        { "key": "A", "text": "Hard work" },
+        { "key": "B", "text": "Crime" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Drug abuse" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 173,
+      "question": "Good governance is based on",
+      "options": [
+        { "key": "A", "text": "Transparency and accountability" },
+        { "key": "B", "text": "Corruption" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Fear" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 174,
+      "question": "Fundamental human rights are",
+      "options": [
+        { "key": "A", "text": "Inherent to every citizen" },
+        { "key": "B", "text": "Given only to leaders" },
+        { "key": "C", "text": "Optional" },
+        { "key": "D", "text": "Unimportant" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 175,
+      "question": "National symbols should be respected because they",
+      "options": [
+        { "key": "A", "text": "Represent national identity" },
+        { "key": "B", "text": "Promote fear" },
+        { "key": "C", "text": "Encourage disunity" },
+        { "key": "D", "text": "Have no meaning" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 176,
+      "question": "Civic education helps to reduce",
+      "options": [
+        { "key": "A", "text": "Political apathy" },
+        { "key": "B", "text": "Unity" },
+        { "key": "C", "text": "Peace" },
+        { "key": "D", "text": "Development" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 177,
+      "question": "Social justice promotes",
+      "options": [
+        { "key": "A", "text": "Fairness in society" },
+        { "key": "B", "text": "Oppression" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Corruption" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 178,
+      "question": "Responsible leadership requires",
+      "options": [
+        { "key": "A", "text": "Integrity" },
+        { "key": "B", "text": "Greed" },
+        { "key": "C", "text": "Selfishness" },
+        { "key": "D", "text": "Oppression" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 179,
+      "question": "Citizens should obey traffic rules to",
+      "options": [
+        { "key": "A", "text": "Ensure safety" },
+        { "key": "B", "text": "Cause accidents" },
+        { "key": "C", "text": "Delay movement" },
+        { "key": "D", "text": "Avoid responsibility" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 180,
+      "question": "National development is hindered by",
+      "options": [
+        { "key": "A", "text": "Corruption" },
+        { "key": "B", "text": "Unity" },
+        { "key": "C", "text": "Peace" },
+        { "key": "D", "text": "Education" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 181,
+      "question": "Civic values encourage citizens to be",
+      "options": [
+        { "key": "A", "text": "Responsible and patriotic" },
+        { "key": "B", "text": "Violent" },
+        { "key": "C", "text": "Corrupt" },
+        { "key": "D", "text": "Lawless" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 182,
+      "question": "Electoral malpractices can be reduced through",
+      "options": [
+        { "key": "A", "text": "Voter education" },
+        { "key": "B", "text": "Rigging" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Intimidation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 183,
+      "question": "Citizens have the duty to protect",
+      "options": [
+        { "key": "A", "text": "Public property" },
+        { "key": "B", "text": "Only private property" },
+        { "key": "C", "text": "Illegal activities" },
+        { "key": "D", "text": "Criminals" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 184,
+      "question": "Peaceful protest is a form of",
+      "options": [
+        { "key": "A", "text": "Civic participation" },
+        { "key": "B", "text": "Violence" },
+        { "key": "C", "text": "Crime" },
+        { "key": "D", "text": "Rebellion" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 185,
+      "question": "The main purpose of government is to",
+      "options": [
+        { "key": "A", "text": "Ensure welfare of the people" },
+        { "key": "B", "text": "Oppress citizens" },
+        { "key": "C", "text": "Favor few individuals" },
+        { "key": "D", "text": "Encourage conflict" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 186,
+      "question": "National loyalty means",
+      "options": [
+        { "key": "A", "text": "Commitment to national interest" },
+        { "key": "B", "text": "Tribal loyalty" },
+        { "key": "C", "text": "Personal interest" },
+        { "key": "D", "text": "Political bias" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 187,
+      "question": "Citizens should reject bribery because it",
+      "options": [
+        { "key": "A", "text": "Undermines integrity" },
+        { "key": "B", "text": "Promotes honesty" },
+        { "key": "C", "text": "Encourages growth" },
+        { "key": "D", "text": "Improves society" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 188,
+      "question": "The executive arm of government is headed by the",
+      "options": [
+        { "key": "A", "text": "President" },
+        { "key": "B", "text": "Chief Judge" },
+        { "key": "C", "text": "Senate President" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 189,
+      "question": "Conflict resolution can be achieved through",
+      "options": [
+        { "key": "A", "text": "Dialogue and negotiation" },
+        { "key": "B", "text": "Violence" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Force" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 190,
+      "question": "Citizens should cooperate with security agencies to",
+      "options": [
+        { "key": "A", "text": "Maintain peace" },
+        { "key": "B", "text": "Hide criminals" },
+        { "key": "C", "text": "Promote crime" },
+        { "key": "D", "text": "Encourage violence" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 191,
+      "question": "A major goal of national unity is to",
+      "options": [
+        { "key": "A", "text": "Promote peaceful coexistence" },
+        { "key": "B", "text": "Encourage division" },
+        { "key": "C", "text": "Favor one group" },
+        { "key": "D", "text": "Promote conflict" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 192,
+      "question": "Civic responsibility includes",
+      "options": [
+        { "key": "A", "text": "Voting in elections" },
+        { "key": "B", "text": "Avoiding national duties" },
+        { "key": "C", "text": "Breaking laws" },
+        { "key": "D", "text": "Causing unrest" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 193,
+      "question": "A peaceful society is sustained by",
+      "options": [
+        { "key": "A", "text": "Justice and equity" },
+        { "key": "B", "text": "Hatred" },
+        { "key": "C", "text": "Violence" },
+        { "key": "D", "text": "Corruption" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "One benefit of civic education is",
+      "options": [
+        { "key": "A", "text": "Informed citizenship" },
+        { "key": "B", "text": "Political violence" },
+        { "key": "C", "text": "Ignorance" },
+        { "key": "D", "text": "Crime" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 195,
+      "question": "Citizenship implies belonging to a",
+      "options": [
+        { "key": "A", "text": "Nation or state" },
+        { "key": "B", "text": "Family only" },
+        { "key": "C", "text": "Political party" },
+        { "key": "D", "text": "Community only" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 196,
+      "question": "Equality before the law means",
+      "options": [
+        { "key": "A", "text": "No one is above the law" },
+        { "key": "B", "text": "Leaders are exempted" },
+        { "key": "C", "text": "The rich are favored" },
+        { "key": "D", "text": "The poor are punished" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 197,
+      "question": "Citizens should respect other people's opinions to promote",
+      "options": [
+        { "key": "A", "text": "Peace" },
+        { "key": "B", "text": "Conflict" },
+        { "key": "C", "text": "Hatred" },
+        { "key": "D", "text": "Violence" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 198,
+      "question": "One danger of political intolerance is",
+      "options": [
+        { "key": "A", "text": "Violence" },
+        { "key": "B", "text": "Unity" },
+        { "key": "C", "text": "Peace" },
+        { "key": "D", "text": "Stability" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 199,
+      "question": "Citizens should engage in community development to",
+      "options": [
+        { "key": "A", "text": "Improve living conditions" },
+        { "key": "B", "text": "Cause conflict" },
+        { "key": "C", "text": "Promote crime" },
+        { "key": "D", "text": "Encourage disunity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 200,
+      "question": "National security is the responsibility of",
+      "options": [
+        { "key": "A", "text": "Government and citizens" },
+        { "key": "B", "text": "Government only" },
+        { "key": "C", "text": "Foreign bodies" },
+        { "key": "D", "text": "Security agencies alone" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 201,
+      "question": "Peace education helps individuals to",
+      "options": [
+        { "key": "A", "text": "Resolve conflicts peacefully" },
+        { "key": "B", "text": "Encourage violence" },
+        { "key": "C", "text": "Promote hatred" },
+        { "key": "D", "text": "Support crime" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 202,
+      "question": "Citizenship rights are protected by the",
+      "options": [
+        { "key": "A", "text": "Constitution" },
+        { "key": "B", "text": "Police alone" },
+        { "key": "C", "text": "Military rule" },
+        { "key": "D", "text": "Community leaders" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 203,
+      "question": "A society without law will experience",
+      "options": [
+        { "key": "A", "text": "Chaos" },
+        { "key": "B", "text": "Order" },
+        { "key": "C", "text": "Peace" },
+        { "key": "D", "text": "Stability" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 204,
+      "question": "Active citizenship strengthens",
+      "options": [
+        { "key": "A", "text": "Democracy" },
+        { "key": "B", "text": "Dictatorship" },
+        { "key": "C", "text": "Oppression" },
+        { "key": "D", "text": "Authoritarian rule" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 205,
+      "question": "The essence of Civic Education is to produce",
+      "options": [
+        { "key": "A", "text": "Responsible citizens" },
+        { "key": "B", "text": "Political thugs" },
+        { "key": "C", "text": "Law breakers" },
+        { "key": "D", "text": "Corrupt leaders" }
+      ],
+      "correct_answer": "A"
     }
   ]
 }
