@@ -1955,7 +1955,567 @@
       { "key": "D", "text": "Brave" }
     ],
     "correct_answer": "B"
-  }
- ]
-}
+  },
+
+  {
+      "id": 176,
+      "question": "Choose the option that best completes the sentence:\nShe speaks ______ confidence.",
+      "options": [
+        { "key": "A", "text": "with" },
+        { "key": "B", "text": "in" },
+        { "key": "C", "text": "by" },
+        { "key": "D", "text": "on" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 177,
+      "question": "Choose the word nearest in meaning to 'abandon'.",
+      "options": [
+        { "key": "A", "text": "Leave" },
+        { "key": "B", "text": "Begin" },
+        { "key": "C", "text": "Hold" },
+        { "key": "D", "text": "Support" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 178,
+      "question": "Choose the opposite of 'scarce'.",
+      "options": [
+        { "key": "A", "text": "Rare" },
+        { "key": "B", "text": "Limited" },
+        { "key": "C", "text": "Plentiful" },
+        { "key": "D", "text": "Small" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 179,
+      "question": "Choose the correct stress pattern for the word 'import' (noun).",
+      "options": [
+        { "key": "A", "text": "IMport" },
+        { "key": "B", "text": "imPORT" },
+        { "key": "C", "text": "ImPort" },
+        { "key": "D", "text": "Import" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 180,
+      "question": "Choose the option that best completes the sentence:\nNeither of the boys ______ late.",
+      "options": [
+        { "key": "A", "text": "are" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "is" },
+        { "key": "D", "text": "have" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 181,
+      "question": "Choose the word that best fits:\nShe was praised for her ______ conduct.",
+      "options": [
+        { "key": "A", "text": "honest" },
+        { "key": "B", "text": "honesty" },
+        { "key": "C", "text": "honestly" },
+        { "key": "D", "text": "honour" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "Choose the option nearest in meaning to 'reluctant'.",
+      "options": [
+        { "key": "A", "text": "Willing" },
+        { "key": "B", "text": "Eager" },
+        { "key": "C", "text": "Unwilling" },
+        { "key": "D", "text": "Happy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 183,
+      "question": "Choose the correct vowel sound similar to the underlined sound in 'seat'.",
+      "options": [
+        { "key": "A", "text": "sit" },
+        { "key": "B", "text": "beat" },
+        { "key": "C", "text": "set" },
+        { "key": "D", "text": "sat" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Choose the option that best completes the sentence:\nHe has lived here ______ 2015.",
+      "options": [
+        { "key": "A", "text": "since" },
+        { "key": "B", "text": "for" },
+        { "key": "C", "text": "from" },
+        { "key": "D", "text": "during" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 185,
+      "question": "Choose the word opposite in meaning to 'expand'.",
+      "options": [
+        { "key": "A", "text": "Increase" },
+        { "key": "B", "text": "Grow" },
+        { "key": "C", "text": "Reduce" },
+        { "key": "D", "text": "Develop" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 186,
+      "question": "Choose the option that best completes the sentence:\nThe news ______ shocking.",
+      "options": [
+        { "key": "A", "text": "are" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "is" },
+        { "key": "D", "text": "have" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 187,
+      "question": "Choose the word nearest in meaning to 'assist'.",
+      "options": [
+        { "key": "A", "text": "Help" },
+        { "key": "B", "text": "Stop" },
+        { "key": "C", "text": "Delay" },
+        { "key": "D", "text": "Refuse" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 188,
+      "question": "Choose the option that best completes the sentence:\nShe arrived ______ than expected.",
+      "options": [
+        { "key": "A", "text": "early" },
+        { "key": "B", "text": "earlier" },
+        { "key": "C", "text": "earliest" },
+        { "key": "D", "text": "more early" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 189,
+      "question": "Choose the correct plural of 'analysis'.",
+      "options": [
+        { "key": "A", "text": "Analysises" },
+        { "key": "B", "text": "Analysis" },
+        { "key": "C", "text": "Analyses" },
+        { "key": "D", "text": "Analysys" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 190,
+      "question": "Choose the option that best completes the sentence:\nThe teacher, as well as the students, ______ ready.",
+      "options": [
+        { "key": "A", "text": "are" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "is" },
+        { "key": "D", "text": "have" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 191,
+      "question": "Choose the word opposite in meaning to 'victory'.",
+      "options": [
+        { "key": "A", "text": "Defeat" },
+        { "key": "B", "text": "Success" },
+        { "key": "C", "text": "Achievement" },
+        { "key": "D", "text": "Glory" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 192,
+      "question": "Choose the option nearest in meaning to 'generous'.",
+      "options": [
+        { "key": "A", "text": "Kind" },
+        { "key": "B", "text": "Greedy" },
+        { "key": "C", "text": "Lazy" },
+        { "key": "D", "text": "Cruel" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 193,
+      "question": "Choose the correct word:\nThe committee has submitted ______ report.",
+      "options": [
+        { "key": "A", "text": "its" },
+        { "key": "B", "text": "their" },
+        { "key": "C", "text": "his" },
+        { "key": "D", "text": "her" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "Choose the option that best interprets the proverb:\n\"Actions speak louder than words.\"",
+      "options": [
+        { "key": "A", "text": "Talking is important" },
+        { "key": "B", "text": "Promises matter" },
+        { "key": "C", "text": "What you do matters more" },
+        { "key": "D", "text": "Speech is powerful" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Choose the option that best completes the sentence:\nHe succeeded ______ hard work.",
+      "options": [
+        { "key": "A", "text": "by" },
+        { "key": "B", "text": "with" },
+        { "key": "C", "text": "through" },
+        { "key": "D", "text": "in" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 196,
+      "question": "Choose the word nearest in meaning to 'brief'.",
+      "options": [
+        { "key": "A", "text": "Short" },
+        { "key": "B", "text": "Long" },
+        { "key": "C", "text": "Wide" },
+        { "key": "D", "text": "Heavy" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 197,
+      "question": "Choose the option that best completes the sentence:\nShe prefers tea ______ coffee.",
+      "options": [
+        { "key": "A", "text": "from" },
+        { "key": "B", "text": "than" },
+        { "key": "C", "text": "to" },
+        { "key": "D", "text": "with" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 198,
+      "question": "Choose the correct spelling.",
+      "options": [
+        { "key": "A", "text": "Accomodation" },
+        { "key": "B", "text": "Acommodation" },
+        { "key": "C", "text": "Accommodation" },
+        { "key": "D", "text": "Acomodation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 199,
+      "question": "Choose the word opposite in meaning to 'ancient'.",
+      "options": [
+        { "key": "A", "text": "Old" },
+        { "key": "B", "text": "Antique" },
+        { "key": "C", "text": "Modern" },
+        { "key": "D", "text": "Past" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 200,
+      "question": "Choose the option that best completes the sentence:\nThe child cried because he was ______.",
+      "options": [
+        { "key": "A", "text": "hungry" },
+        { "key": "B", "text": "hunger" },
+        { "key": "C", "text": "hungrily" },
+        { "key": "D", "text": "hungrier" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 201,
+      "question": "Choose the word nearest in meaning to 'permit'.",
+      "options": [
+        { "key": "A", "text": "Allow" },
+        { "key": "B", "text": "Reject" },
+        { "key": "C", "text": "Stop" },
+        { "key": "D", "text": "Delay" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 202,
+      "question": "Choose the option that best completes the sentence:\nThey have been friends ______ childhood.",
+      "options": [
+        { "key": "A", "text": "since" },
+        { "key": "B", "text": "for" },
+        { "key": "C", "text": "from" },
+        { "key": "D", "text": "during" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 203,
+      "question": "Choose the word opposite in meaning to 'accept'.",
+      "options": [
+        { "key": "A", "text": "Receive" },
+        { "key": "B", "text": "Reject" },
+        { "key": "C", "text": "Admit" },
+        { "key": "D", "text": "Agree" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 204,
+      "question": "Choose the option that best completes the sentence:\nThe audience listened ______.",
+      "options": [
+        { "key": "A", "text": "attentive" },
+        { "key": "B", "text": "attention" },
+        { "key": "C", "text": "attentively" },
+        { "key": "D", "text": "attend" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 205,
+      "question": "Choose the option that best interprets the proverb:\n\"Better late than never.\"",
+      "options": [
+        { "key": "A", "text": "Never be late" },
+        { "key": "B", "text": "Late actions are useless" },
+        { "key": "C", "text": "Doing something late is better than not at all" },
+        { "key": "D", "text": "Time is valuable" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 206,
+      "question": "Choose the word nearest in meaning to 'silent'.",
+      "options": [
+        { "key": "A", "text": "Quiet" },
+        { "key": "B", "text": "Loud" },
+        { "key": "C", "text": "Noisy" },
+        { "key": "D", "text": "Vocal" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 207,
+      "question": "Choose the option that best completes the sentence:\nHardly had he arrived ______ it started raining.",
+      "options": [
+        { "key": "A", "text": "than" },
+        { "key": "B", "text": "when" },
+        { "key": "C", "text": "before" },
+        { "key": "D", "text": "while" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 208,
+      "question": "Choose the correct plural of 'datum'.",
+      "options": [
+        { "key": "A", "text": "Datums" },
+        { "key": "B", "text": "Data" },
+        { "key": "C", "text": "Datus" },
+        { "key": "D", "text": "Datas" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 209,
+      "question": "Choose the option that best completes the sentence:\nHe behaves as if he ______ the owner.",
+      "options": [
+        { "key": "A", "text": "is" },
+        { "key": "B", "text": "was" },
+        { "key": "C", "text": "were" },
+        { "key": "D", "text": "be" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 210,
+      "question": "Choose the word opposite in meaning to 'generous'.",
+      "options": [
+        { "key": "A", "text": "Kind" },
+        { "key": "B", "text": "Selfish" },
+        { "key": "C", "text": "Helpful" },
+        { "key": "D", "text": "Friendly" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 211,
+      "question": "Choose the option that best completes the sentence:\nThe book is ______ the table.",
+      "options": [
+        { "key": "A", "text": "in" },
+        { "key": "B", "text": "on" },
+        { "key": "C", "text": "at" },
+        { "key": "D", "text": "by" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 212,
+      "question": "Choose the word nearest in meaning to 'accurate'.",
+      "options": [
+        { "key": "A", "text": "Correct" },
+        { "key": "B", "text": "False" },
+        { "key": "C", "text": "Wrong" },
+        { "key": "D", "text": "Rough" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 213,
+      "question": "Choose the option that best completes the sentence:\nEveryone must bring ______ materials.",
+      "options": [
+        { "key": "A", "text": "their" },
+        { "key": "B", "text": "his" },
+        { "key": "C", "text": "her" },
+        { "key": "D", "text": "its" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 214,
+      "question": "Choose the word opposite in meaning to 'temporary'.",
+      "options": [
+        { "key": "A", "text": "Brief" },
+        { "key": "B", "text": "Short" },
+        { "key": "C", "text": "Permanent" },
+        { "key": "D", "text": "Quick" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 215,
+      "question": "Choose the option that best interprets the proverb:\n\"No pain, no gain.\"",
+      "options": [
+        { "key": "A", "text": "Pain is dangerous" },
+        { "key": "B", "text": "Success requires effort" },
+        { "key": "C", "text": "Gain brings pain" },
+        { "key": "D", "text": "Avoid stress" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 216,
+      "question": "Choose the word nearest in meaning to 'obey'.",
+      "options": [
+        { "key": "A", "text": "Disobey" },
+        { "key": "B", "text": "Follow" },
+        { "key": "C", "text": "Ignore" },
+        { "key": "D", "text": "Refuse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 217,
+      "question": "Choose the option that best completes the sentence:\nHe was accused ______ stealing.",
+      "options": [
+        { "key": "A", "text": "for" },
+        { "key": "B", "text": "with" },
+        { "key": "C", "text": "of" },
+        { "key": "D", "text": "on" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 218,
+      "question": "Choose the word opposite in meaning to 'careless'.",
+      "options": [
+        { "key": "A", "text": "Lazy" },
+        { "key": "B", "text": "Careful" },
+        { "key": "C", "text": "Weak" },
+        { "key": "D", "text": "Slow" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 219,
+      "question": "Choose the option that best completes the sentence:\nThe journey was ______ tiring.",
+      "options": [
+        { "key": "A", "text": "too" },
+        { "key": "B", "text": "very" },
+        { "key": "C", "text": "much" },
+        { "key": "D", "text": "more" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 220,
+      "question": "Choose the word nearest in meaning to 'fragile'.",
+      "options": [
+        { "key": "A", "text": "Strong" },
+        { "key": "B", "text": "Delicate" },
+        { "key": "C", "text": "Heavy" },
+        { "key": "D", "text": "Hard" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 221,
+      "question": "Choose the option that best completes the sentence:\nShe speaks ______ softly.",
+      "options": [
+        { "key": "A", "text": "too" },
+        { "key": "B", "text": "very" },
+        { "key": "C", "text": "much" },
+        { "key": "D", "text": "many" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 222,
+      "question": "Choose the word opposite in meaning to 'difficult'.",
+      "options": [
+        { "key": "A", "text": "Hard" },
+        { "key": "B", "text": "Easy" },
+        { "key": "C", "text": "Rough" },
+        { "key": "D", "text": "Tough" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 223,
+      "question": "Choose the option that best completes the sentence:\nHe ran ______ fast to catch the bus.",
+      "options": [
+        { "key": "A", "text": "too" },
+        { "key": "B", "text": "very" },
+        { "key": "C", "text": "so" },
+        { "key": "D", "text": "much" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 224,
+      "question": "Choose the word nearest in meaning to 'announce'.",
+      "options": [
+        { "key": "A", "text": "Declare" },
+        { "key": "B", "text": "Hide" },
+        { "key": "C", "text": "Cover" },
+        { "key": "D", "text": "Delay" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 225,
+      "question": "Choose the option that best completes the sentence:\nThe meeting was postponed ______ next week.",
+      "options": [
+        { "key": "A", "text": "to" },
+        { "key": "B", "text": "till" },
+        { "key": "C", "text": "until" },
+        { "key": "D", "text": "for" }
+      ],
+      "correct_answer": "C"
+    }
+  ]
+} 
 
