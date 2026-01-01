@@ -62,6 +62,2179 @@
         { "key": "D", "text": "Dirge" }
       ],
       "correct_answer": "C"
+    },
+
+    {
+      "id": 6,
+      "question": "Literature can best be described as",
+      "options": [
+        { "key": "A", "text": "scientific writings" },
+        { "key": "B", "text": "creative expression of ideas" },
+        { "key": "C", "text": "historical records" },
+        { "key": "D", "text": "religious doctrines" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a genre of literature?",
+      "options": [
+        { "key": "A", "text": "Novel" },
+        { "key": "B", "text": "Grammar" },
+        { "key": "C", "text": "Dictionary" },
+        { "key": "D", "text": "Syllabus" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "A poem that tells a story is called",
+      "options": [
+        { "key": "A", "text": "lyric" },
+        { "key": "B", "text": "sonnet" },
+        { "key": "C", "text": "narrative poem" },
+        { "key": "D", "text": "ode" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "The major purpose of drama is to be",
+      "options": [
+        { "key": "A", "text": "read silently" },
+        { "key": "B", "text": "memorized" },
+        { "key": "C", "text": "performed on stage" },
+        { "key": "D", "text": "written in verse" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "A long fictional narrative written in prose is a",
+      "options": [
+        { "key": "A", "text": "drama" },
+        { "key": "B", "text": "novel" },
+        { "key": "C", "text": "poem" },
+        { "key": "D", "text": "essay" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 11,
+      "question": "The person who writes a play is called a",
+      "options": [
+        { "key": "A", "text": "poet" },
+        { "key": "B", "text": "novelist" },
+        { "key": "C", "text": "dramatist" },
+        { "key": "D", "text": "critic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "A short poem that expresses personal feelings is a",
+      "options": [
+        { "key": "A", "text": "lyric" },
+        { "key": "B", "text": "ballad" },
+        { "key": "C", "text": "epic" },
+        { "key": "D", "text": "satire" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an element of prose?",
+      "options": [
+        { "key": "A", "text": "Plot" },
+        { "key": "B", "text": "Rhyme" },
+        { "key": "C", "text": "Meter" },
+        { "key": "D", "text": "Stanza" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "The struggle between opposing forces in a literary work is",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "conflict" },
+        { "key": "C", "text": "climax" },
+        { "key": "D", "text": "setting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "The time and place of a literary work is known as",
+      "options": [
+        { "key": "A", "text": "plot" },
+        { "key": "B", "text": "theme" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "tone" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 16,
+      "question": "A character who opposes the hero is the",
+      "options": [
+        { "key": "A", "text": "protagonist" },
+        { "key": "B", "text": "narrator" },
+        { "key": "C", "text": "antagonist" },
+        { "key": "D", "text": "chorus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "The central idea in a literary work is called the",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "An exaggerated statement used for emphasis is",
+      "options": [
+        { "key": "A", "text": "irony" },
+        { "key": "B", "text": "hyperbole" },
+        { "key": "C", "text": "metaphor" },
+        { "key": "D", "text": "simile" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "A comparison using 'like' or 'as' is called",
+      "options": [
+        { "key": "A", "text": "metaphor" },
+        { "key": "B", "text": "simile" },
+        { "key": "C", "text": "personification" },
+        { "key": "D", "text": "symbolism" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "When non-living things are given human qualities, it is",
+      "options": [
+        { "key": "A", "text": "imagery" },
+        { "key": "B", "text": "metaphor" },
+        { "key": "C", "text": "personification" },
+        { "key": "D", "text": "alliteration" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 21,
+      "question": "The turning point of a story is the",
+      "options": [
+        { "key": "A", "text": "exposition" },
+        { "key": "B", "text": "resolution" },
+        { "key": "C", "text": "climax" },
+        { "key": "D", "text": "denouement" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "The final outcome of a story is known as",
+      "options": [
+        { "key": "A", "text": "climax" },
+        { "key": "B", "text": "resolution" },
+        { "key": "C", "text": "conflict" },
+        { "key": "D", "text": "exposition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "A poem of praise is an",
+      "options": [
+        { "key": "A", "text": "ode" },
+        { "key": "B", "text": "elegy" },
+        { "key": "C", "text": "sonnet" },
+        { "key": "D", "text": "ballad" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "A poem written to mourn the dead is",
+      "options": [
+        { "key": "A", "text": "ode" },
+        { "key": "B", "text": "lyric" },
+        { "key": "C", "text": "elegy" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "An African oral literature performed with music is",
+      "options": [
+        { "key": "A", "text": "novel" },
+        { "key": "B", "text": "drama" },
+        { "key": "C", "text": "folktale" },
+        { "key": "D", "text": "song" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 26,
+      "question": "A long poem celebrating heroic deeds is an",
+      "options": [
+        { "key": "A", "text": "epic" },
+        { "key": "B", "text": "ode" },
+        { "key": "C", "text": "ballad" },
+        { "key": "D", "text": "sonnet" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "The moral lesson in a story is its",
+      "options": [
+        { "key": "A", "text": "plot" },
+        { "key": "B", "text": "theme" },
+        { "key": "C", "text": "tone" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Stories passed down orally are called",
+      "options": [
+        { "key": "A", "text": "novels" },
+        { "key": "B", "text": "myths" },
+        { "key": "C", "text": "oral literature" },
+        { "key": "D", "text": "plays" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "The language choice of a writer is referred to as",
+      "options": [
+        { "key": "A", "text": "plot" },
+        { "key": "B", "text": "style" },
+        { "key": "C", "text": "theme" },
+        { "key": "D", "text": "character" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "A sonnet has how many lines?",
+      "options": [
+        { "key": "A", "text": "10" },
+        { "key": "B", "text": "12" },
+        { "key": "C", "text": "14" },
+        { "key": "D", "text": "16" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 31,
+      "question": "The repetition of initial consonant sounds is",
+      "options": [
+        { "key": "A", "text": "assonance" },
+        { "key": "B", "text": "alliteration" },
+        { "key": "C", "text": "rhyme" },
+        { "key": "D", "text": "meter" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "A tragic hero usually has a",
+      "options": [
+        { "key": "A", "text": "comic nature" },
+        { "key": "B", "text": "fatal flaw" },
+        { "key": "C", "text": "happy ending" },
+        { "key": "D", "text": "minor role" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Comedy aims mainly to",
+      "options": [
+        { "key": "A", "text": "educate" },
+        { "key": "B", "text": "frighten" },
+        { "key": "C", "text": "entertain" },
+        { "key": "D", "text": "mourn" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "The hero of a story is the",
+      "options": [
+        { "key": "A", "text": "antagonist" },
+        { "key": "B", "text": "protagonist" },
+        { "key": "C", "text": "chorus" },
+        { "key": "D", "text": "villain" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Drama mainly presents its story through",
+      "options": [
+        { "key": "A", "text": "description" },
+        { "key": "B", "text": "dialogue" },
+        { "key": "C", "text": "narration" },
+        { "key": "D", "text": "imagery" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 36,
+      "question": "The narrator who knows all characters is",
+      "options": [
+        { "key": "A", "text": "first-person narrator" },
+        { "key": "B", "text": "second-person narrator" },
+        { "key": "C", "text": "omniscient narrator" },
+        { "key": "D", "text": "limited narrator" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "A story with animals that behave like humans is",
+      "options": [
+        { "key": "A", "text": "myth" },
+        { "key": "B", "text": "legend" },
+        { "key": "C", "text": "fable" },
+        { "key": "D", "text": "novel" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "The mood of a literary work refers to its",
+      "options": [
+        { "key": "A", "text": "language" },
+        { "key": "B", "text": "feeling or atmosphere" },
+        { "key": "C", "text": "plot" },
+        { "key": "D", "text": "characters" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "The author’s attitude toward a subject is the",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "tone" },
+        { "key": "C", "text": "plot" },
+        { "key": "D", "text": "setting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "A story with a lesson is called a",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "fable" },
+        { "key": "C", "text": "epic" },
+        { "key": "D", "text": "drama" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "The organization of events in a story is the",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "tone" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "A play with a sad ending is a",
+      "options": [
+        { "key": "A", "text": "comedy" },
+        { "key": "B", "text": "farce" },
+        { "key": "C", "text": "tragedy" },
+        { "key": "D", "text": "satire" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "Satire is used mainly to",
+      "options": [
+        { "key": "A", "text": "praise society" },
+        { "key": "B", "text": "entertain children" },
+        { "key": "C", "text": "criticize societal vices" },
+        { "key": "D", "text": "tell folktales" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is NOT a literary genre?",
+      "options": [
+        { "key": "A", "text": "Drama" },
+        { "key": "B", "text": "Poetry" },
+        { "key": "C", "text": "Prose" },
+        { "key": "D", "text": "Grammar" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 45,
+      "question": "Imagery appeals mainly to the",
+      "options": [
+        { "key": "A", "text": "sense organs" },
+        { "key": "B", "text": "grammar rules" },
+        { "key": "C", "text": "characters" },
+        { "key": "D", "text": "plot structure" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 46,
+      "question": "A short story usually focuses on",
+      "options": [
+        { "key": "A", "text": "many events" },
+        { "key": "B", "text": "one major event" },
+        { "key": "C", "text": "historical facts" },
+        { "key": "D", "text": "long narration" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "An author's choice of words is called",
+      "options": [
+        { "key": "A", "text": "diction" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "theme" },
+        { "key": "D", "text": "setting" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "The rhythm of a poem is determined by its",
+      "options": [
+        { "key": "A", "text": "rhyme" },
+        { "key": "B", "text": "meter" },
+        { "key": "C", "text": "imagery" },
+        { "key": "D", "text": "theme" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "A play meant to make people laugh is",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "epic" },
+        { "key": "C", "text": "comedy" },
+        { "key": "D", "text": "ode" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Literature helps readers mainly to",
+      "options": [
+        { "key": "A", "text": "memorize facts" },
+        { "key": "B", "text": "develop imagination and values" },
+        { "key": "C", "text": "learn calculations" },
+        { "key": "D", "text": "study science" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 52,
+      "question": "The person through whose eyes a story is told is the",
+      "options": [
+        { "key": "A", "text": "antagonist" },
+        { "key": "B", "text": "author" },
+        { "key": "C", "text": "narrator" },
+        { "key": "D", "text": "chorus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "A novel that portrays real-life situations closely is",
+      "options": [
+        { "key": "A", "text": "romantic" },
+        { "key": "B", "text": "didactic" },
+        { "key": "C", "text": "realistic" },
+        { "key": "D", "text": "fantastic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "The main character in a tragedy usually experiences",
+      "options": [
+        { "key": "A", "text": "success" },
+        { "key": "B", "text": "downfall" },
+        { "key": "C", "text": "promotion" },
+        { "key": "D", "text": "reward" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "A comic play often ends with",
+      "options": [
+        { "key": "A", "text": "death" },
+        { "key": "B", "text": "conflict" },
+        { "key": "C", "text": "sadness" },
+        { "key": "D", "text": "happiness" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 56,
+      "question": "An author’s unique way of expression is known as",
+      "options": [
+        { "key": "A", "text": "plot" },
+        { "key": "B", "text": "theme" },
+        { "key": "C", "text": "style" },
+        { "key": "D", "text": "conflict" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "The repeated use of vowel sounds is",
+      "options": [
+        { "key": "A", "text": "alliteration" },
+        { "key": "B", "text": "assonance" },
+        { "key": "C", "text": "consonance" },
+        { "key": "D", "text": "rhyme" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "A story meant to teach moral lessons is",
+      "options": [
+        { "key": "A", "text": "romance" },
+        { "key": "B", "text": "satire" },
+        { "key": "C", "text": "didactic literature" },
+        { "key": "D", "text": "fantasy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "The sequence of events in a play is the",
+      "options": [
+        { "key": "A", "text": "plot" },
+        { "key": "B", "text": "theme" },
+        { "key": "C", "text": "conflict" },
+        { "key": "D", "text": "mood" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "A story with supernatural elements is",
+      "options": [
+        { "key": "A", "text": "historical fiction" },
+        { "key": "B", "text": "science fiction" },
+        { "key": "C", "text": "fantasy" },
+        { "key": "D", "text": "biography" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 61,
+      "question": "When an author hints at future events, it is",
+      "options": [
+        { "key": "A", "text": "irony" },
+        { "key": "B", "text": "suspense" },
+        { "key": "C", "text": "foreshadowing" },
+        { "key": "D", "text": "flashback" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "A reference to past events in a story is a",
+      "options": [
+        { "key": "A", "text": "flashback" },
+        { "key": "B", "text": "climax" },
+        { "key": "C", "text": "conflict" },
+        { "key": "D", "text": "resolution" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "The atmosphere created in a literary work is the",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "mood" },
+        { "key": "C", "text": "plot" },
+        { "key": "D", "text": "tone" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "A poem without regular rhyme or rhythm is",
+      "options": [
+        { "key": "A", "text": "sonnet" },
+        { "key": "B", "text": "ballad" },
+        { "key": "C", "text": "free verse" },
+        { "key": "D", "text": "ode" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "The message conveyed by a literary work is its",
+      "options": [
+        { "key": "A", "text": "tone" },
+        { "key": "B", "text": "setting" },
+        { "key": "C", "text": "theme" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 66,
+      "question": "A play intended to criticize society humorously is",
+      "options": [
+        { "key": "A", "text": "farce" },
+        { "key": "B", "text": "satire" },
+        { "key": "C", "text": "tragedy" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "The language used by characters in a play is",
+      "options": [
+        { "key": "A", "text": "monologue" },
+        { "key": "B", "text": "dialogue" },
+        { "key": "C", "text": "narration" },
+        { "key": "D", "text": "aside" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "A long speech by one character is a",
+      "options": [
+        { "key": "A", "text": "chorus" },
+        { "key": "B", "text": "aside" },
+        { "key": "C", "text": "monologue" },
+        { "key": "D", "text": "dialogue" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "An aside is spoken so that",
+      "options": [
+        { "key": "A", "text": "all characters hear it" },
+        { "key": "B", "text": "only the audience hears it" },
+        { "key": "C", "text": "the narrator hears it" },
+        { "key": "D", "text": "the antagonist hears it" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "A work that tells the life story of its author is an",
+      "options": [
+        { "key": "A", "text": "autobiography" },
+        { "key": "B", "text": "biography" },
+        { "key": "C", "text": "memoir" },
+        { "key": "D", "text": "novel" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 71,
+      "question": "A biography is the life story written by",
+      "options": [
+        { "key": "A", "text": "the subject" },
+        { "key": "B", "text": "a critic" },
+        { "key": "C", "text": "another person" },
+        { "key": "D", "text": "a narrator" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 72,
+      "question": "Literary criticism involves",
+      "options": [
+        { "key": "A", "text": "writing stories" },
+        { "key": "B", "text": "judging literary works" },
+        { "key": "C", "text": "acting plays" },
+        { "key": "D", "text": "memorizing poems" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "The opening part of a story is the",
+      "options": [
+        { "key": "A", "text": "climax" },
+        { "key": "B", "text": "resolution" },
+        { "key": "C", "text": "exposition" },
+        { "key": "D", "text": "conflict" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "A story set in the past but fictional is",
+      "options": [
+        { "key": "A", "text": "biography" },
+        { "key": "B", "text": "historical fiction" },
+        { "key": "C", "text": "myth" },
+        { "key": "D", "text": "tragedy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Literature mainly reflects",
+      "options": [
+        { "key": "A", "text": "science" },
+        { "key": "B", "text": "mathematics" },
+        { "key": "C", "text": "human experiences" },
+        { "key": "D", "text": "technology" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 76,
+      "question": "The turning point in a story is known as the",
+      "options": [
+        { "key": "A", "text": "exposition" },
+        { "key": "B", "text": "climax" },
+        { "key": "C", "text": "resolution" },
+        { "key": "D", "text": "conflict" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "A dramatic speech delivered when a character is alone is a",
+      "options": [
+        { "key": "A", "text": "dialogue" },
+        { "key": "B", "text": "monologue" },
+        { "key": "C", "text": "chorus" },
+        { "key": "D", "text": "aside" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "A story with animals as characters is a",
+      "options": [
+        { "key": "A", "text": "myth" },
+        { "key": "B", "text": "legend" },
+        { "key": "C", "text": "fable" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "The use of exaggerated characters to amuse is",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "farce" },
+        { "key": "C", "text": "satire" },
+        { "key": "D", "text": "irony" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "A work dealing with heroes and legendary events is an",
+      "options": [
+        { "key": "A", "text": "ode" },
+        { "key": "B", "text": "epic" },
+        { "key": "C", "text": "sonnet" },
+        { "key": "D", "text": "elegy" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "The emotional attitude of the writer toward the subject is the",
+      "options": [
+        { "key": "A", "text": "mood" },
+        { "key": "B", "text": "tone" },
+        { "key": "C", "text": "theme" },
+        { "key": "D", "text": "setting" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "A poem written to mourn the dead is an",
+      "options": [
+        { "key": "A", "text": "epic" },
+        { "key": "B", "text": "elegy" },
+        { "key": "C", "text": "ode" },
+        { "key": "D", "text": "ballad" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "A sonnet usually has",
+      "options": [
+        { "key": "A", "text": "10 lines" },
+        { "key": "B", "text": "12 lines" },
+        { "key": "C", "text": "14 lines" },
+        { "key": "D", "text": "16 lines" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 84,
+      "question": "A poem that expresses personal feelings is a",
+      "options": [
+        { "key": "A", "text": "lyric" },
+        { "key": "B", "text": "epic" },
+        { "key": "C", "text": "ballad" },
+        { "key": "D", "text": "drama" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "The struggle between opposing forces is",
+      "options": [
+        { "key": "A", "text": "setting" },
+        { "key": "B", "text": "conflict" },
+        { "key": "C", "text": "theme" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 86,
+      "question": "When a writer compares two things using 'like' or 'as', it is",
+      "options": [
+        { "key": "A", "text": "metaphor" },
+        { "key": "B", "text": "simile" },
+        { "key": "C", "text": "personification" },
+        { "key": "D", "text": "irony" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Giving human qualities to non-human things is",
+      "options": [
+        { "key": "A", "text": "irony" },
+        { "key": "B", "text": "symbolism" },
+        { "key": "C", "text": "personification" },
+        { "key": "D", "text": "imagery" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "A comparison without using 'like' or 'as' is a",
+      "options": [
+        { "key": "A", "text": "simile" },
+        { "key": "B", "text": "metaphor" },
+        { "key": "C", "text": "alliteration" },
+        { "key": "D", "text": "hyperbole" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Exaggeration for emphasis is known as",
+      "options": [
+        { "key": "A", "text": "hyperbole" },
+        { "key": "B", "text": "irony" },
+        { "key": "C", "text": "satire" },
+        { "key": "D", "text": "symbolism" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Irony occurs when",
+      "options": [
+        { "key": "A", "text": "words mean what they say" },
+        { "key": "B", "text": "actions match expectations" },
+        { "key": "C", "text": "the opposite of expectation happens" },
+        { "key": "D", "text": "characters agree" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 91,
+      "question": "A play performed without dialogue is a",
+      "options": [
+        { "key": "A", "text": "farce" },
+        { "key": "B", "text": "mime" },
+        { "key": "C", "text": "satire" },
+        { "key": "D", "text": "tragedy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "A speech revealing a character’s thoughts is a",
+      "options": [
+        { "key": "A", "text": "soliloquy" },
+        { "key": "B", "text": "chorus" },
+        { "key": "C", "text": "dialogue" },
+        { "key": "D", "text": "aside" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Literature that is sung or chanted is",
+      "options": [
+        { "key": "A", "text": "written literature" },
+        { "key": "B", "text": "oral literature" },
+        { "key": "C", "text": "drama" },
+        { "key": "D", "text": "prose" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "A trickster figure is common in",
+      "options": [
+        { "key": "A", "text": "oral literature" },
+        { "key": "B", "text": "biography" },
+        { "key": "C", "text": "tragedy" },
+        { "key": "D", "text": "sonnet" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "A story explaining the origin of a people is a",
+      "options": [
+        { "key": "A", "text": "myth" },
+        { "key": "B", "text": "fable" },
+        { "key": "C", "text": "novel" },
+        { "key": "D", "text": "farce" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 96,
+      "question": "A legend is mainly based on",
+      "options": [
+        { "key": "A", "text": "imagination only" },
+        { "key": "B", "text": "historical facts" },
+        { "key": "C", "text": "religion" },
+        { "key": "D", "text": "science" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Drama is meant primarily for",
+      "options": [
+        { "key": "A", "text": "reading" },
+        { "key": "B", "text": "acting" },
+        { "key": "C", "text": "memorizing" },
+        { "key": "D", "text": "singing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "The place where a story happens is the",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "tone" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 99,
+      "question": "The time when a story takes place is part of the",
+      "options": [
+        { "key": "A", "text": "style" },
+        { "key": "B", "text": "setting" },
+        { "key": "C", "text": "mood" },
+        { "key": "D", "text": "conflict" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "Literature serves mainly to",
+      "options": [
+        { "key": "A", "text": "entertain, educate and inform" },
+        { "key": "B", "text": "confuse readers" },
+        { "key": "C", "text": "replace history" },
+        { "key": "D", "text": "oppose culture" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 101,
+      "question": "A story that teaches a moral lesson is called a",
+      "options": [
+        { "key": "A", "text": "myth" },
+        { "key": "B", "text": "fable" },
+        { "key": "C", "text": "legend" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "A character who opposes the hero is the",
+      "options": [
+        { "key": "A", "text": "protagonist" },
+        { "key": "B", "text": "foil" },
+        { "key": "C", "text": "antagonist" },
+        { "key": "D", "text": "narrator" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "The hero of a story is known as the",
+      "options": [
+        { "key": "A", "text": "antagonist" },
+        { "key": "B", "text": "protagonist" },
+        { "key": "C", "text": "chorus" },
+        { "key": "D", "text": "spectator" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "A character that remains unchanged throughout a story is",
+      "options": [
+        { "key": "A", "text": "dynamic" },
+        { "key": "B", "text": "static" },
+        { "key": "C", "text": "round" },
+        { "key": "D", "text": "complex" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "A character that develops as the story progresses is",
+      "options": [
+        { "key": "A", "text": "static" },
+        { "key": "B", "text": "flat" },
+        { "key": "C", "text": "dynamic" },
+        { "key": "D", "text": "symbolic" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 106,
+      "question": "The person who tells a story is the",
+      "options": [
+        { "key": "A", "text": "writer" },
+        { "key": "B", "text": "actor" },
+        { "key": "C", "text": "narrator" },
+        { "key": "D", "text": "chorus" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 107,
+      "question": "A first-person narrative uses",
+      "options": [
+        { "key": "A", "text": "he" },
+        { "key": "B", "text": "she" },
+        { "key": "C", "text": "they" },
+        { "key": "D", "text": "I" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 108,
+      "question": "A story told by an all-knowing narrator uses",
+      "options": [
+        { "key": "A", "text": "first-person narration" },
+        { "key": "B", "text": "second-person narration" },
+        { "key": "C", "text": "omniscient narration" },
+        { "key": "D", "text": "dramatic narration" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "The lesson learnt from a literary work is its",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "moral" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "The sequence of events in a story is the",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "conflict" },
+        { "key": "D", "text": "setting" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 111,
+      "question": "A long narrative poem celebrating heroic deeds is an",
+      "options": [
+        { "key": "A", "text": "elegy" },
+        { "key": "B", "text": "ode" },
+        { "key": "C", "text": "epic" },
+        { "key": "D", "text": "lyric" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "An exaggerated statement used for emphasis is",
+      "options": [
+        { "key": "A", "text": "irony" },
+        { "key": "B", "text": "metaphor" },
+        { "key": "C", "text": "hyperbole" },
+        { "key": "D", "text": "simile" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "A literary work that exposes societal evils humorously is",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "satire" },
+        { "key": "C", "text": "romance" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "The repetition of initial consonant sounds is",
+      "options": [
+        { "key": "A", "text": "assonance" },
+        { "key": "B", "text": "alliteration" },
+        { "key": "C", "text": "consonance" },
+        { "key": "D", "text": "rhyme" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "The repetition of vowel sounds is",
+      "options": [
+        { "key": "A", "text": "assonance" },
+        { "key": "B", "text": "rhyme" },
+        { "key": "C", "text": "alliteration" },
+        { "key": "D", "text": "metaphor" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 116,
+      "question": "A tragedy usually ends with",
+      "options": [
+        { "key": "A", "text": "celebration" },
+        { "key": "B", "text": "wedding" },
+        { "key": "C", "text": "death or downfall" },
+        { "key": "D", "text": "humor" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Comedy is mainly intended to",
+      "options": [
+        { "key": "A", "text": "educate only" },
+        { "key": "B", "text": "criticize politics" },
+        { "key": "C", "text": "amuse and entertain" },
+        { "key": "D", "text": "create fear" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 118,
+      "question": "A dramatic pause where an actor speaks to the audience is an",
+      "options": [
+        { "key": "A", "text": "aside" },
+        { "key": "B", "text": "epilogue" },
+        { "key": "C", "text": "chorus" },
+        { "key": "D", "text": "monologue" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 119,
+      "question": "The concluding part of a play is the",
+      "options": [
+        { "key": "A", "text": "prologue" },
+        { "key": "B", "text": "climax" },
+        { "key": "C", "text": "epilogue" },
+        { "key": "D", "text": "conflict" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "A song-like poem is a",
+      "options": [
+        { "key": "A", "text": "ballad" },
+        { "key": "B", "text": "lyric" },
+        { "key": "C", "text": "ode" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 121,
+      "question": "A poem that tells a story is a",
+      "options": [
+        { "key": "A", "text": "ballad" },
+        { "key": "B", "text": "elegy" },
+        { "key": "C", "text": "ode" },
+        { "key": "D", "text": "sonnet" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "A dramatic work with exaggerated humor is a",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "farce" },
+        { "key": "C", "text": "epic" },
+        { "key": "D", "text": "romance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 123,
+      "question": "An autobiography is written by the",
+      "options": [
+        { "key": "A", "text": "publisher" },
+        { "key": "B", "text": "author himself" },
+        { "key": "C", "text": "historian" },
+        { "key": "D", "text": "journalist" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 124,
+      "question": "A biography is written by",
+      "options": [
+        { "key": "A", "text": "the subject" },
+        { "key": "B", "text": "the author" },
+        { "key": "C", "text": "another person" },
+        { "key": "D", "text": "the editor" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Literature reflects a society’s",
+      "options": [
+        { "key": "A", "text": "laws only" },
+        { "key": "B", "text": "culture and values" },
+        { "key": "C", "text": "economy only" },
+        { "key": "D", "text": "technology only" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 126,
+      "question": "A poem of mourning for the dead is called an",
+      "options": [
+        { "key": "A", "text": "ode" },
+        { "key": "B", "text": "elegy" },
+        { "key": "C", "text": "ballad" },
+        { "key": "D", "text": "sonnet" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "A fourteen-line poem is known as a",
+      "options": [
+        { "key": "A", "text": "lyric" },
+        { "key": "B", "text": "ode" },
+        { "key": "C", "text": "sonnet" },
+        { "key": "D", "text": "ballad" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "The turning point in a story is the",
+      "options": [
+        { "key": "A", "text": "conflict" },
+        { "key": "B", "text": "climax" },
+        { "key": "C", "text": "resolution" },
+        { "key": "D", "text": "exposition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 129,
+      "question": "A story based on traditional beliefs is a",
+      "options": [
+        { "key": "A", "text": "novel" },
+        { "key": "B", "text": "myth" },
+        { "key": "C", "text": "drama" },
+        { "key": "D", "text": "biography" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "A comparison using 'like' or 'as' is a",
+      "options": [
+        { "key": "A", "text": "metaphor" },
+        { "key": "B", "text": "personification" },
+        { "key": "C", "text": "simile" },
+        { "key": "D", "text": "symbol" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 131,
+      "question": "Giving human qualities to non-living things is",
+      "options": [
+        { "key": "A", "text": "irony" },
+        { "key": "B", "text": "simile" },
+        { "key": "C", "text": "personification" },
+        { "key": "D", "text": "metonymy" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 132,
+      "question": "A play intended to teach a moral lesson is a",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "comedy" },
+        { "key": "C", "text": "morality play" },
+        { "key": "D", "text": "farce" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "A dramatic speech spoken by one character is a",
+      "options": [
+        { "key": "A", "text": "dialogue" },
+        { "key": "B", "text": "soliloquy" },
+        { "key": "C", "text": "chorus" },
+        { "key": "D", "text": "aside" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "When events in a story do not follow chronological order, it is",
+      "options": [
+        { "key": "A", "text": "flashback" },
+        { "key": "B", "text": "foreshadowing" },
+        { "key": "C", "text": "summary" },
+        { "key": "D", "text": "resolution" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 135,
+      "question": "The atmosphere or emotional feeling of a literary work is its",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "tone" },
+        { "key": "C", "text": "mood" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 136,
+      "question": "The writer’s attitude toward the subject is called",
+      "options": [
+        { "key": "A", "text": "mood" },
+        { "key": "B", "text": "tone" },
+        { "key": "C", "text": "theme" },
+        { "key": "D", "text": "plot" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "A tragedy arouses feelings of",
+      "options": [
+        { "key": "A", "text": "joy and laughter" },
+        { "key": "B", "text": "fear and pity" },
+        { "key": "C", "text": "anger only" },
+        { "key": "D", "text": "surprise only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "A character with only one dominant trait is",
+      "options": [
+        { "key": "A", "text": "round" },
+        { "key": "B", "text": "dynamic" },
+        { "key": "C", "text": "flat" },
+        { "key": "D", "text": "complex" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 139,
+      "question": "A narrative with animals as characters is a",
+      "options": [
+        { "key": "A", "text": "myth" },
+        { "key": "B", "text": "fable" },
+        { "key": "C", "text": "legend" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "The background information at the beginning of a story is",
+      "options": [
+        { "key": "A", "text": "climax" },
+        { "key": "B", "text": "resolution" },
+        { "key": "C", "text": "exposition" },
+        { "key": "D", "text": "conflict" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 141,
+      "question": "When hints about future events are given, it is",
+      "options": [
+        { "key": "A", "text": "flashback" },
+        { "key": "B", "text": "foreshadowing" },
+        { "key": "C", "text": "irony" },
+        { "key": "D", "text": "satire" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "Drama is primarily written to be",
+      "options": [
+        { "key": "A", "text": "read silently" },
+        { "key": "B", "text": "memorized" },
+        { "key": "C", "text": "performed on stage" },
+        { "key": "D", "text": "studied alone" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 143,
+      "question": "A sudden change in fortune for the worse is",
+      "options": [
+        { "key": "A", "text": "resolution" },
+        { "key": "B", "text": "catastrophe" },
+        { "key": "C", "text": "climax" },
+        { "key": "D", "text": "conflict" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "A literary work that praises something is an",
+      "options": [
+        { "key": "A", "text": "ode" },
+        { "key": "B", "text": "elegy" },
+        { "key": "C", "text": "satire" },
+        { "key": "D", "text": "ballad" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 145,
+      "question": "The main idea explored in a literary work is its",
+      "options": [
+        { "key": "A", "text": "plot" },
+        { "key": "B", "text": "theme" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 146,
+      "question": "A play with serious subject matter but humorous treatment is",
+      "options": [
+        { "key": "A", "text": "farce" },
+        { "key": "B", "text": "tragicomedy" },
+        { "key": "C", "text": "tragedy" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 147,
+      "question": "A symbolic object in literature represents",
+      "options": [
+        { "key": "A", "text": "itself only" },
+        { "key": "B", "text": "hidden meanings" },
+        { "key": "C", "text": "characters" },
+        { "key": "D", "text": "events only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "A story handed down orally is",
+      "options": [
+        { "key": "A", "text": "written literature" },
+        { "key": "B", "text": "oral literature" },
+        { "key": "C", "text": "drama" },
+        { "key": "D", "text": "prose" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "A novel differs from a short story mainly in",
+      "options": [
+        { "key": "A", "text": "language" },
+        { "key": "B", "text": "length and detail" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "character type" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "Literature helps readers to better understand",
+      "options": [
+        { "key": "A", "text": "mathematics" },
+        { "key": "B", "text": "technology" },
+        { "key": "C", "text": "human experiences" },
+        { "key": "D", "text": "science laws" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 151,
+      "question": "A narrative poem that tells a story is called a",
+      "options": [
+        { "key": "A", "text": "lyric" },
+        { "key": "B", "text": "ballad" },
+        { "key": "C", "text": "sonnet" },
+        { "key": "D", "text": "ode" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "A long poem celebrating heroic deeds is an",
+      "options": [
+        { "key": "A", "text": "epic" },
+        { "key": "B", "text": "ode" },
+        { "key": "C", "text": "elegy" },
+        { "key": "D", "text": "ballad" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "The villain in a story is the",
+      "options": [
+        { "key": "A", "text": "hero" },
+        { "key": "B", "text": "protagonist" },
+        { "key": "C", "text": "antagonist" },
+        { "key": "D", "text": "confidant" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "A character who changes significantly is",
+      "options": [
+        { "key": "A", "text": "static" },
+        { "key": "B", "text": "flat" },
+        { "key": "C", "text": "dynamic" },
+        { "key": "D", "text": "minor" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 155,
+      "question": "A humorous imitation of a serious work is",
+      "options": [
+        { "key": "A", "text": "parody" },
+        { "key": "B", "text": "satire" },
+        { "key": "C", "text": "farce" },
+        { "key": "D", "text": "tragedy" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 156,
+      "question": "Satire is best defined as the use of humour to",
+      "options": [
+        { "key": "A", "text": "entertain children" },
+        { "key": "B", "text": "criticize society" },
+        { "key": "C", "text": "tell fairy tales" },
+        { "key": "D", "text": "praise leaders" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 157,
+      "question": "A brief comment made directly to the audience is an",
+      "options": [
+        { "key": "A", "text": "aside" },
+        { "key": "B", "text": "epilogue" },
+        { "key": "C", "text": "dialogue" },
+        { "key": "D", "text": "chorus" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 158,
+      "question": "The opening section of a play is the",
+      "options": [
+        { "key": "A", "text": "epilogue" },
+        { "key": "B", "text": "prologue" },
+        { "key": "C", "text": "climax" },
+        { "key": "D", "text": "resolution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "The concluding part of a literary work is the",
+      "options": [
+        { "key": "A", "text": "exposition" },
+        { "key": "B", "text": "conflict" },
+        { "key": "C", "text": "epilogue" },
+        { "key": "D", "text": "plot" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 160,
+      "question": "A short play meant to entertain is a",
+      "options": [
+        { "key": "A", "text": "comedy" },
+        { "key": "B", "text": "farce" },
+        { "key": "C", "text": "tragedy" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 161,
+      "question": "A novel written in letters is an",
+      "options": [
+        { "key": "A", "text": "allegory" },
+        { "key": "B", "text": "epistolary novel" },
+        { "key": "C", "text": "biography" },
+        { "key": "D", "text": "memoir" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 162,
+      "question": "An indirect comparison without 'like' or 'as' is a",
+      "options": [
+        { "key": "A", "text": "simile" },
+        { "key": "B", "text": "metaphor" },
+        { "key": "C", "text": "irony" },
+        { "key": "D", "text": "symbol" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "A recurring idea in a literary work is a",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "motif" },
+        { "key": "C", "text": "plot" },
+        { "key": "D", "text": "tone" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "A play that ends happily is a",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "comedy" },
+        { "key": "C", "text": "melodrama" },
+        { "key": "D", "text": "satire" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "The major character in a story is the",
+      "options": [
+        { "key": "A", "text": "minor character" },
+        { "key": "B", "text": "antagonist" },
+        { "key": "C", "text": "protagonist" },
+        { "key": "D", "text": "confidant" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 166,
+      "question": "An author’s choice of words is referred to as",
+      "options": [
+        { "key": "A", "text": "diction" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "theme" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 167,
+      "question": "When an audience knows more than the character, it is",
+      "options": [
+        { "key": "A", "text": "verbal irony" },
+        { "key": "B", "text": "dramatic irony" },
+        { "key": "C", "text": "situational irony" },
+        { "key": "D", "text": "sarcasm" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "A play written to arouse strong emotions is a",
+      "options": [
+        { "key": "A", "text": "farce" },
+        { "key": "B", "text": "melodrama" },
+        { "key": "C", "text": "comedy" },
+        { "key": "D", "text": "satire" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "A story that teaches a moral lesson is a",
+      "options": [
+        { "key": "A", "text": "fable" },
+        { "key": "B", "text": "epic" },
+        { "key": "C", "text": "novel" },
+        { "key": "D", "text": "drama" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 170,
+      "question": "The events of a story arranged sequentially form the",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "tone" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 171,
+      "question": "A poem expressing personal feelings is a",
+      "options": [
+        { "key": "A", "text": "ballad" },
+        { "key": "B", "text": "epic" },
+        { "key": "C", "text": "lyric" },
+        { "key": "D", "text": "ode" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "Conflict within a character is known as",
+      "options": [
+        { "key": "A", "text": "external conflict" },
+        { "key": "B", "text": "internal conflict" },
+        { "key": "C", "text": "climax" },
+        { "key": "D", "text": "resolution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "A narrator who is part of the story tells it in",
+      "options": [
+        { "key": "A", "text": "third person" },
+        { "key": "B", "text": "second person" },
+        { "key": "C", "text": "first person" },
+        { "key": "D", "text": "omniscient" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 174,
+      "question": "A narrator who knows all characters’ thoughts is",
+      "options": [
+        { "key": "A", "text": "limited" },
+        { "key": "B", "text": "first-person" },
+        { "key": "C", "text": "omniscient" },
+        { "key": "D", "text": "subjective" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "The repetition of consonant sounds is",
+      "options": [
+        { "key": "A", "text": "assonance" },
+        { "key": "B", "text": "alliteration" },
+        { "key": "C", "text": "onomatopoeia" },
+        { "key": "D", "text": "rhyme" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 176,
+      "question": "Words that imitate sounds are examples of",
+      "options": [
+        { "key": "A", "text": "rhyme" },
+        { "key": "B", "text": "metaphor" },
+        { "key": "C", "text": "onomatopoeia" },
+        { "key": "D", "text": "symbolism" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "A book written about someone’s life by another person is a",
+      "options": [
+        { "key": "A", "text": "biography" },
+        { "key": "B", "text": "memoir" },
+        { "key": "C", "text": "autobiography" },
+        { "key": "D", "text": "novel" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 178,
+      "question": "A book written by an author about their own life is an",
+      "options": [
+        { "key": "A", "text": "epic" },
+        { "key": "B", "text": "biography" },
+        { "key": "C", "text": "autobiography" },
+        { "key": "D", "text": "memoir" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 179,
+      "question": "A work where characters represent abstract qualities is",
+      "options": [
+        { "key": "A", "text": "satire" },
+        { "key": "B", "text": "allegory" },
+        { "key": "C", "text": "parody" },
+        { "key": "D", "text": "legend" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "The place where a story occurs is its",
+      "options": [
+        { "key": "A", "text": "theme" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "setting" },
+        { "key": "D", "text": "tone" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 181,
+      "question": "Time as an element of a story belongs to",
+      "options": [
+        { "key": "A", "text": "setting" },
+        { "key": "B", "text": "plot" },
+        { "key": "C", "text": "theme" },
+        { "key": "D", "text": "character" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 182,
+      "question": "The lesson learned from a story is the",
+      "options": [
+        { "key": "A", "text": "plot" },
+        { "key": "B", "text": "moral" },
+        { "key": "C", "text": "tone" },
+        { "key": "D", "text": "theme" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "A play with exaggerated characters for humour is",
+      "options": [
+        { "key": "A", "text": "tragedy" },
+        { "key": "B", "text": "satire" },
+        { "key": "C", "text": "farce" },
+        { "key": "D", "text": "epic" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 184,
+      "question": "A story about supernatural beings is a",
+      "options": [
+        { "key": "A", "text": "myth" },
+        { "key": "B", "text": "novel" },
+        { "key": "C", "text": "biography" },
+        { "key": "D", "text": "satire" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 185,
+      "question": "The main conflict in a story drives the",
+      "options": [
+        { "key": "A", "text": "tone" },
+        { "key": "B", "text": "theme" },
+        { "key": "C", "text": "plot" },
+        { "key": "D", "text": "style" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 186,
+      "question": "A supporting character who contrasts with the hero is a",
+      "options": [
+        { "key": "A", "text": "foil" },
+        { "key": "B", "text": "villain" },
+        { "key": "C", "text": "chorus" },
+        { "key": "D", "text": "protagonist" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 187,
+      "question": "A play written in verse is known as",
+      "options": [
+        { "key": "A", "text": "prose drama" },
+        { "key": "B", "text": "verse drama" },
+        { "key": "C", "text": "melodrama" },
+        { "key": "D", "text": "farce" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "The repetition of vowel sounds is",
+      "options": [
+        { "key": "A", "text": "alliteration" },
+        { "key": "B", "text": "assonance" },
+        { "key": "C", "text": "consonance" },
+        { "key": "D", "text": "rhyme" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 189,
+      "question": "A song of praise is an",
+      "options": [
+        { "key": "A", "text": "elegy" },
+        { "key": "B", "text": "ode" },
+        { "key": "C", "text": "ballad" },
+        { "key": "D", "text": "lyric" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 190,
+      "question": "A dramatic work intended to arouse laughter is",
+      "options": [
+        { "key": "A", "text": "comedy" },
+        { "key": "B", "text": "tragedy" },
+        { "key": "C", "text": "epic" },
+        { "key": "D", "text": "ode" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 191,
+      "question": "The moral weakness that leads to a tragic hero’s fall is",
+      "options": [
+        { "key": "A", "text": "catharsis" },
+        { "key": "B", "text": "hamartia" },
+        { "key": "C", "text": "hubris" },
+        { "key": "D", "text": "irony" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 192,
+      "question": "Excessive pride in a tragic hero is called",
+      "options": [
+        { "key": "A", "text": "irony" },
+        { "key": "B", "text": "hubris" },
+        { "key": "C", "text": "tragedy" },
+        { "key": "D", "text": "satire" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "The emotional release felt by the audience is",
+      "options": [
+        { "key": "A", "text": "conflict" },
+        { "key": "B", "text": "catharsis" },
+        { "key": "C", "text": "resolution" },
+        { "key": "D", "text": "exposition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "A short story is best described as",
+      "options": [
+        { "key": "A", "text": "long narrative" },
+        { "key": "B", "text": "brief fictional prose" },
+        { "key": "C", "text": "dramatic verse" },
+        { "key": "D", "text": "biography" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 195,
+      "question": "A work that mocks human vices is",
+      "options": [
+        { "key": "A", "text": "satire" },
+        { "key": "B", "text": "tragedy" },
+        { "key": "C", "text": "epic" },
+        { "key": "D", "text": "romance" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 196,
+      "question": "The most intense moment in a plot is the",
+      "options": [
+        { "key": "A", "text": "exposition" },
+        { "key": "B", "text": "climax" },
+        { "key": "C", "text": "resolution" },
+        { "key": "D", "text": "prologue" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "The author’s unique way of expression is",
+      "options": [
+        { "key": "A", "text": "style" },
+        { "key": "B", "text": "theme" },
+        { "key": "C", "text": "tone" },
+        { "key": "D", "text": "plot" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 198,
+      "question": "A sad song of lament is an",
+      "options": [
+        { "key": "A", "text": "ode" },
+        { "key": "B", "text": "elegy" },
+        { "key": "C", "text": "ballad" },
+        { "key": "D", "text": "lyric" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "Literature reflects",
+      "options": [
+        { "key": "A", "text": "only imagination" },
+        { "key": "B", "text": "human society and life" },
+        { "key": "C", "text": "science alone" },
+        { "key": "D", "text": "technology only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "Literature is best described as",
+      "options": [
+        { "key": "A", "text": "mere entertainment" },
+        { "key": "B", "text": "written scientific facts" },
+        { "key": "C", "text": "creative expression of ideas" },
+        { "key": "D", "text": "historical records only" }
+      ],
+      "correct_answer": "C"
     }
   ]
 }
