@@ -62,6 +62,1518 @@
         { "key": "D", "text": "PowerPoint" }
       ],
       "correct_answer": "C"
+    },
+
+    {
+      "id": 6,
+      "question": "A computer is best described as a machine that",
+      "options": [
+        { "key": "A", "text": "Processes data into information" },
+        { "key": "B", "text": "Stores books" },
+        { "key": "C", "text": "Repairs itself" },
+        { "key": "D", "text": "Produces electricity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an input device?",
+      "options": [
+        { "key": "A", "text": "Printer" },
+        { "key": "B", "text": "Monitor" },
+        { "key": "C", "text": "Keyboard" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "The brain of the computer is the",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "CPU" },
+        { "key": "C", "text": "Keyboard" },
+        { "key": "D", "text": "Mouse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a storage device?",
+      "options": [
+        { "key": "A", "text": "Scanner" },
+        { "key": "B", "text": "Flash drive" },
+        { "key": "C", "text": "Microphone" },
+        { "key": "D", "text": "Joystick" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Computer data is processed in the",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "CPU" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "UPS" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 11,
+      "question": "Which of these is an output device?",
+      "options": [
+        { "key": "A", "text": "Mouse" },
+        { "key": "B", "text": "Scanner" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Keyboard" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "The full meaning of CPU is",
+      "options": [
+        { "key": "A", "text": "Central Processing Unit" },
+        { "key": "B", "text": "Computer Personal Unit" },
+        { "key": "C", "text": "Central Program Utility" },
+        { "key": "D", "text": "Control Processing Unit" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following stores data permanently?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "ROM" },
+        { "key": "C", "text": "Cache" },
+        { "key": "D", "text": "Register" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "A computer program is a set of",
+      "options": [
+        { "key": "A", "text": "Hardware devices" },
+        { "key": "B", "text": "Instructions" },
+        { "key": "C", "text": "Data files" },
+        { "key": "D", "text": "Electric signals" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is an example of system software?",
+      "options": [
+        { "key": "A", "text": "Microsoft Word" },
+        { "key": "B", "text": "Windows Operating System" },
+        { "key": "C", "text": "Google Chrome" },
+        { "key": "D", "text": "Calculator" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 16,
+      "question": "The physical parts of a computer are called",
+      "options": [
+        { "key": "A", "text": "Software" },
+        { "key": "B", "text": "Firmware" },
+        { "key": "C", "text": "Hardware" },
+        { "key": "D", "text": "Programs" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which of these is NOT a hardware device?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Operating system" },
+        { "key": "D", "text": "Mouse" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "What does ICT stand for?",
+      "options": [
+        { "key": "A", "text": "Information and Communication Technology" },
+        { "key": "B", "text": "Internet Computer Technology" },
+        { "key": "C", "text": "Information Central Technology" },
+        { "key": "D", "text": "Internal Computer Tools" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which device is used to connect a computer to the internet?",
+      "options": [
+        { "key": "A", "text": "Modem" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Scanner" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "The main function of an operating system is to",
+      "options": [
+        { "key": "A", "text": "Control computer operations" },
+        { "key": "B", "text": "Print documents" },
+        { "key": "C", "text": "Browse the internet" },
+        { "key": "D", "text": "Create files only" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 21,
+      "question": "Which of these is a programming language?",
+      "options": [
+        { "key": "A", "text": "HTML" },
+        { "key": "B", "text": "Windows" },
+        { "key": "C", "text": "Android" },
+        { "key": "D", "text": "Linux" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "A virus in computing is a",
+      "options": [
+        { "key": "A", "text": "Hardware fault" },
+        { "key": "B", "text": "Malicious software" },
+        { "key": "C", "text": "Useful program" },
+        { "key": "D", "text": "Input device" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which device produces a hard copy?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Speaker" },
+        { "key": "D", "text": "Mouse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which unit measures computer speed?",
+      "options": [
+        { "key": "A", "text": "Hertz" },
+        { "key": "B", "text": "Byte" },
+        { "key": "C", "text": "Pixel" },
+        { "key": "D", "text": "Inch" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which of these is an example of application software?",
+      "options": [
+        { "key": "A", "text": "MS Word" },
+        { "key": "B", "text": "Linux" },
+        { "key": "C", "text": "Windows" },
+        { "key": "D", "text": "BIOS" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 26,
+      "question": "The main memory of a computer is",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "Hard disk" },
+        { "key": "C", "text": "Flash drive" },
+        { "key": "D", "text": "DVD" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is used to type text into a computer?",
+      "options": [
+        { "key": "A", "text": "Mouse" },
+        { "key": "B", "text": "Keyboard" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Monitor" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "A computer without software is",
+      "options": [
+        { "key": "A", "text": "Useless" },
+        { "key": "B", "text": "Fast" },
+        { "key": "C", "text": "Powerful" },
+        { "key": "D", "text": "Complete" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Which part of the CPU performs calculations?",
+      "options": [
+        { "key": "A", "text": "Control Unit" },
+        { "key": "B", "text": "ALU" },
+        { "key": "C", "text": "Register" },
+        { "key": "D", "text": "Cache" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which storage device has the highest capacity?",
+      "options": [
+        { "key": "A", "text": "Hard disk" },
+        { "key": "B", "text": "CD-ROM" },
+        { "key": "C", "text": "Diskette" },
+        { "key": "D", "text": "DVD" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 31,
+      "question": "What is the binary number system based on?",
+      "options": [
+        { "key": "A", "text": "2 digits" },
+        { "key": "B", "text": "10 digits" },
+        { "key": "C", "text": "8 digits" },
+        { "key": "D", "text": "16 digits" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is a secondary storage device?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "ROM" },
+        { "key": "C", "text": "Hard disk" },
+        { "key": "D", "text": "Cache" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which device converts soft copy to hard copy?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Scanner" },
+        { "key": "D", "text": "Mouse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "The internet is best described as",
+      "options": [
+        { "key": "A", "text": "A global network of computers" },
+        { "key": "B", "text": "A single computer" },
+        { "key": "C", "text": "A software program" },
+        { "key": "D", "text": "An input device" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which of these is used for online communication?",
+      "options": [
+        { "key": "A", "text": "Email" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Flash drive" },
+        { "key": "D", "text": "Scanner" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 36,
+      "question": "Computer ethics deals with",
+      "options": [
+        { "key": "A", "text": "Proper use of computers" },
+        { "key": "B", "text": "Hardware repairs" },
+        { "key": "C", "text": "Computer speed" },
+        { "key": "D", "text": "Programming only" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is a disadvantage of computers?",
+      "options": [
+        { "key": "A", "text": "Job loss" },
+        { "key": "B", "text": "Accuracy" },
+        { "key": "C", "text": "Speed" },
+        { "key": "D", "text": "Storage" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "The small pictures on a computer screen are called",
+      "options": [
+        { "key": "A", "text": "Icons" },
+        { "key": "B", "text": "Files" },
+        { "key": "C", "text": "Programs" },
+        { "key": "D", "text": "Folders" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is used to protect a computer from power failure?",
+      "options": [
+        { "key": "A", "text": "UPS" },
+        { "key": "B", "text": "Scanner" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Modem" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "A computer that fits on a desk is called",
+      "options": [
+        { "key": "A", "text": "Desktop" },
+        { "key": "B", "text": "Laptop" },
+        { "key": "C", "text": "Mainframe" },
+        { "key": "D", "text": "Supercomputer" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 41,
+      "question": "Which device is used to capture images into a computer?",
+      "options": [
+        { "key": "A", "text": "Scanner" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Speaker" },
+        { "key": "D", "text": "Monitor" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is an example of computer misuse?",
+      "options": [
+        { "key": "A", "text": "Hacking" },
+        { "key": "B", "text": "Typing documents" },
+        { "key": "C", "text": "Browsing" },
+        { "key": "D", "text": "Emailing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which software is used for spreadsheet calculations?",
+      "options": [
+        { "key": "A", "text": "MS Excel" },
+        { "key": "B", "text": "MS Word" },
+        { "key": "C", "text": "MS PowerPoint" },
+        { "key": "D", "text": "Paint" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is NOT an advantage of computers?",
+      "options": [
+        { "key": "A", "text": "Speed" },
+        { "key": "B", "text": "Accuracy" },
+        { "key": "C", "text": "Fatigue" },
+        { "key": "D", "text": "Reliability" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Which device is used to listen to sound from a computer?",
+      "options": [
+        { "key": "A", "text": "Speaker" },
+        { "key": "B", "text": "Scanner" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Keyboard" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 46,
+      "question": "Which key combination is used to copy?",
+      "options": [
+        { "key": "A", "text": "Ctrl + C" },
+        { "key": "B", "text": "Ctrl + V" },
+        { "key": "C", "text": "Ctrl + X" },
+        { "key": "D", "text": "Ctrl + Z" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which key is used to delete a character?",
+      "options": [
+        { "key": "A", "text": "Delete key" },
+        { "key": "B", "text": "Shift key" },
+        { "key": "C", "text": "Alt key" },
+        { "key": "D", "text": "Caps Lock" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which storage device uses magnetic technology?",
+      "options": [
+        { "key": "A", "text": "Hard disk" },
+        { "key": "B", "text": "CD-ROM" },
+        { "key": "C", "text": "DVD" },
+        { "key": "D", "text": "Flash drive" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a computer network?",
+      "options": [
+        { "key": "A", "text": "LAN" },
+        { "key": "B", "text": "CPU" },
+        { "key": "C", "text": "UPS" },
+        { "key": "D", "text": "ROM" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Which of these is an example of computer security?",
+      "options": [
+        { "key": "A", "text": "Password" },
+        { "key": "B", "text": "Keyboard" },
+        { "key": "C", "text": "Mouse" },
+        { "key": "D", "text": "Monitor" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 51,
+      "question": "Which device displays visual output?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Keyboard" },
+        { "key": "C", "text": "Scanner" },
+        { "key": "D", "text": "Mouse" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Which software helps in making presentations?",
+      "options": [
+        { "key": "A", "text": "MS PowerPoint" },
+        { "key": "B", "text": "MS Word" },
+        { "key": "C", "text": "MS Excel" },
+        { "key": "D", "text": "Notepad" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which key is used to type capital letters continuously?",
+      "options": [
+        { "key": "A", "text": "Caps Lock" },
+        { "key": "B", "text": "Shift" },
+        { "key": "C", "text": "Ctrl" },
+        { "key": "D", "text": "Alt" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Which of the following is a social networking site?",
+      "options": [
+        { "key": "A", "text": "Facebook" },
+        { "key": "B", "text": "MS Word" },
+        { "key": "C", "text": "Paint" },
+        { "key": "D", "text": "Notepad" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Which component holds instructions during processing?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "Hard disk" },
+        { "key": "C", "text": "DVD" },
+        { "key": "D", "text": "Flash drive" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 56,
+      "question": "Which of the following is a handheld input device?",
+      "options": [
+        { "key": "A", "text": "Mouse" },
+        { "key": "B", "text": "Monitor" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "The main purpose of a firewall is to",
+      "options": [
+        { "key": "A", "text": "Increase internet speed" },
+        { "key": "B", "text": "Protect a network from unauthorized access" },
+        { "key": "C", "text": "Store data" },
+        { "key": "D", "text": "Display web pages" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Which of the following devices is used for video communication?",
+      "options": [
+        { "key": "A", "text": "Webcam" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Plotter" },
+        { "key": "D", "text": "Scanner" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Which unit of the CPU controls all operations?",
+      "options": [
+        { "key": "A", "text": "ALU" },
+        { "key": "B", "text": "Control Unit" },
+        { "key": "C", "text": "RAM" },
+        { "key": "D", "text": "ROM" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "A computer that can be easily carried is called a",
+      "options": [
+        { "key": "A", "text": "Desktop" },
+        { "key": "B", "text": "Mainframe" },
+        { "key": "C", "text": "Laptop" },
+        { "key": "D", "text": "Supercomputer" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 61,
+      "question": "Which of the following is used to draw pictures on a computer?",
+      "options": [
+        { "key": "A", "text": "MS Paint" },
+        { "key": "B", "text": "MS Excel" },
+        { "key": "C", "text": "MS Word" },
+        { "key": "D", "text": "Notepad" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is NOT a type of computer?",
+      "options": [
+        { "key": "A", "text": "Supercomputer" },
+        { "key": "B", "text": "Mainframe" },
+        { "key": "C", "text": "Typewriter" },
+        { "key": "D", "text": "Laptop" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "What does GUI stand for?",
+      "options": [
+        { "key": "A", "text": "Graphical User Interface" },
+        { "key": "B", "text": "General Utility Interface" },
+        { "key": "C", "text": "Global User Internet" },
+        { "key": "D", "text": "Graphic Unit Instruction" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which of the following uses touch technology?",
+      "options": [
+        { "key": "A", "text": "Touch screen" },
+        { "key": "B", "text": "Keyboard" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Which software is best for typing letters?",
+      "options": [
+        { "key": "A", "text": "MS Word" },
+        { "key": "B", "text": "MS Excel" },
+        { "key": "C", "text": "Paint" },
+        { "key": "D", "text": "Calculator" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 66,
+      "question": "Which device is used to play audio from a computer?",
+      "options": [
+        { "key": "A", "text": "Speaker" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Scanner" },
+        { "key": "D", "text": "Plotter" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Which memory is volatile?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "ROM" },
+        { "key": "C", "text": "Hard disk" },
+        { "key": "D", "text": "DVD" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which of these is an example of e-mail service?",
+      "options": [
+        { "key": "A", "text": "Gmail" },
+        { "key": "B", "text": "Facebook" },
+        { "key": "C", "text": "WhatsApp" },
+        { "key": "D", "text": "Twitter" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Which unit displays information visually?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Keyboard" },
+        { "key": "C", "text": "Mouse" },
+        { "key": "D", "text": "CPU" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is a benefit of computers?",
+      "options": [
+        { "key": "A", "text": "Speed" },
+        { "key": "B", "text": "Fatigue" },
+        { "key": "C", "text": "Health risk" },
+        { "key": "D", "text": "Job loss" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 71,
+      "question": "Which key is used to start a new line in a document?",
+      "options": [
+        { "key": "A", "text": "Enter" },
+        { "key": "B", "text": "Shift" },
+        { "key": "C", "text": "Ctrl" },
+        { "key": "D", "text": "Tab" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "The process of correcting errors in a program is called",
+      "options": [
+        { "key": "A", "text": "Debugging" },
+        { "key": "B", "text": "Compiling" },
+        { "key": "C", "text": "Formatting" },
+        { "key": "D", "text": "Loading" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is NOT an input device?",
+      "options": [
+        { "key": "A", "text": "Scanner" },
+        { "key": "B", "text": "Mouse" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Keyboard" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Which of these stores computer instructions permanently?",
+      "options": [
+        { "key": "A", "text": "ROM" },
+        { "key": "B", "text": "RAM" },
+        { "key": "C", "text": "Cache" },
+        { "key": "D", "text": "Register" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 75,
+      "question": "Which of the following is used to access websites?",
+      "options": [
+        { "key": "A", "text": "Browser" },
+        { "key": "B", "text": "Compiler" },
+        { "key": "C", "text": "Firewall" },
+        { "key": "D", "text": "Driver" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 76,
+      "question": "Which of the following is an example of a browser?",
+      "options": [
+        { "key": "A", "text": "Google Chrome" },
+        { "key": "B", "text": "MS Excel" },
+        { "key": "C", "text": "Windows" },
+        { "key": "D", "text": "Linux" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Which device supplies power to a computer temporarily?",
+      "options": [
+        { "key": "A", "text": "UPS" },
+        { "key": "B", "text": "Router" },
+        { "key": "C", "text": "Modem" },
+        { "key": "D", "text": "Switch" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "The physical layout of a keyboard is called",
+      "options": [
+        { "key": "A", "text": "QWERTY" },
+        { "key": "B", "text": "Hardware" },
+        { "key": "C", "text": "Software" },
+        { "key": "D", "text": "Firmware" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following best describes a database?",
+      "options": [
+        { "key": "A", "text": "An organized collection of data" },
+        { "key": "B", "text": "A computer virus" },
+        { "key": "C", "text": "An output device" },
+        { "key": "D", "text": "A power source" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 80,
+      "question": "Which of the following is used to connect multiple computers?",
+      "options": [
+        { "key": "A", "text": "Network" },
+        { "key": "B", "text": "CPU" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "UPS" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 81,
+      "question": "Which of the following is an example of online storage?",
+      "options": [
+        { "key": "A", "text": "Google Drive" },
+        { "key": "B", "text": "Hard disk" },
+        { "key": "C", "text": "Flash drive" },
+        { "key": "D", "text": "DVD" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Which of the following is used for video conferencing?",
+      "options": [
+        { "key": "A", "text": "Zoom" },
+        { "key": "B", "text": "Notepad" },
+        { "key": "C", "text": "Paint" },
+        { "key": "D", "text": "Calculator" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Which part of the computer stores data temporarily?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "ROM" },
+        { "key": "C", "text": "Hard disk" },
+        { "key": "D", "text": "DVD" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Which device converts digital data to printed form?",
+      "options": [
+        { "key": "A", "text": "Printer" },
+        { "key": "B", "text": "Monitor" },
+        { "key": "C", "text": "Scanner" },
+        { "key": "D", "text": "Keyboard" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following is an example of cybercrime?",
+      "options": [
+        { "key": "A", "text": "Phishing" },
+        { "key": "B", "text": "Typing" },
+        { "key": "C", "text": "Printing" },
+        { "key": "D", "text": "Browsing" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 86,
+      "question": "Which device is used to scan documents into a computer?",
+      "options": [
+        { "key": "A", "text": "Scanner" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Monitor" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "The brain of the computer is the",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "CPU" },
+        { "key": "C", "text": "Keyboard" },
+        { "key": "D", "text": "Mouse" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Which of the following is a pointing device?",
+      "options": [
+        { "key": "A", "text": "Mouse" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Speaker" },
+        { "key": "D", "text": "Monitor" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Which memory is non-volatile?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "Cache" },
+        { "key": "C", "text": "ROM" },
+        { "key": "D", "text": "Register" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is an operating system?",
+      "options": [
+        { "key": "A", "text": "Windows" },
+        { "key": "B", "text": "MS Word" },
+        { "key": "C", "text": "Google Chrome" },
+        { "key": "D", "text": "Excel" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 91,
+      "question": "Which key is used to erase characters to the left of the cursor?",
+      "options": [
+        { "key": "A", "text": "Delete" },
+        { "key": "B", "text": "Backspace" },
+        { "key": "C", "text": "Enter" },
+        { "key": "D", "text": "Shift" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "What does ICT stand for?",
+      "options": [
+        { "key": "A", "text": "Information and Communication Technology" },
+        { "key": "B", "text": "Internet Computer Technology" },
+        { "key": "C", "text": "Integrated Computer Tool" },
+        { "key": "D", "text": "Internal Communication Terminal" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following is NOT hardware?",
+      "options": [
+        { "key": "A", "text": "Keyboard" },
+        { "key": "B", "text": "Mouse" },
+        { "key": "C", "text": "Monitor" },
+        { "key": "D", "text": "MS Excel" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following is used to protect data from virus attacks?",
+      "options": [
+        { "key": "A", "text": "Antivirus software" },
+        { "key": "B", "text": "Browser" },
+        { "key": "C", "text": "Compiler" },
+        { "key": "D", "text": "UPS" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Which of the following is an output device?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Keyboard" },
+        { "key": "C", "text": "Mouse" },
+        { "key": "D", "text": "Scanner" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 96,
+      "question": "Which unit performs arithmetic operations?",
+      "options": [
+        { "key": "A", "text": "ALU" },
+        { "key": "B", "text": "Control Unit" },
+        { "key": "C", "text": "RAM" },
+        { "key": "D", "text": "ROM" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "Which of the following stores data permanently?",
+      "options": [
+        { "key": "A", "text": "Hard disk" },
+        { "key": "B", "text": "RAM" },
+        { "key": "C", "text": "Cache" },
+        { "key": "D", "text": "Register" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 98,
+      "question": "Which of these is used to type text into the computer?",
+      "options": [
+        { "key": "A", "text": "Keyboard" },
+        { "key": "B", "text": "Monitor" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Speaker" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following is a search engine?",
+      "options": [
+        { "key": "A", "text": "Google" },
+        { "key": "B", "text": "Windows" },
+        { "key": "C", "text": "Excel" },
+        { "key": "D", "text": "Linux" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Which of these is an example of system software?",
+      "options": [
+        { "key": "A", "text": "Operating system" },
+        { "key": "B", "text": "Word processor" },
+        { "key": "C", "text": "Spreadsheet" },
+        { "key": "D", "text": "Presentation software" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 101,
+      "question": "Which key combination is used to copy text?",
+      "options": [
+        { "key": "A", "text": "Ctrl + C" },
+        { "key": "B", "text": "Ctrl + V" },
+        { "key": "C", "text": "Ctrl + X" },
+        { "key": "D", "text": "Ctrl + Z" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 102,
+      "question": "Which of these is a storage device?",
+      "options": [
+        { "key": "A", "text": "Flash drive" },
+        { "key": "B", "text": "Mouse" },
+        { "key": "C", "text": "Keyboard" },
+        { "key": "D", "text": "Monitor" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 103,
+      "question": "What is the function of a modem?",
+      "options": [
+        { "key": "A", "text": "Connect to the internet" },
+        { "key": "B", "text": "Print documents" },
+        { "key": "C", "text": "Store files" },
+        { "key": "D", "text": "Display images" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following is an example of malware?",
+      "options": [
+        { "key": "A", "text": "Virus" },
+        { "key": "B", "text": "Browser" },
+        { "key": "C", "text": "Operating system" },
+        { "key": "D", "text": "Spreadsheet" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following is used to shut down a computer safely?",
+      "options": [
+        { "key": "A", "text": "Shutdown command" },
+        { "key": "B", "text": "Power cable" },
+        { "key": "C", "text": "Reset button" },
+        { "key": "D", "text": "Monitor" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 136,
+      "question": "Which of the following is used to display soft copy output?",
+      "options": [
+        { "key": "A", "text": "Monitor" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Scanner" },
+        { "key": "D", "text": "Plotter" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "The part of the computer that interprets instructions is the",
+      "options": [
+        { "key": "A", "text": "ALU" },
+        { "key": "B", "text": "Control Unit" },
+        { "key": "C", "text": "RAM" },
+        { "key": "D", "text": "Hard disk" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "Which of the following is NOT a type of printer?",
+      "options": [
+        { "key": "A", "text": "Inkjet" },
+        { "key": "B", "text": "Laser" },
+        { "key": "C", "text": "Dot matrix" },
+        { "key": "D", "text": "Joystick" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 139,
+      "question": "Which key is used to move to the beginning of a line?",
+      "options": [
+        { "key": "A", "text": "End" },
+        { "key": "B", "text": "Home" },
+        { "key": "C", "text": "Tab" },
+        { "key": "D", "text": "Esc" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Which of the following is an example of application software?",
+      "options": [
+        { "key": "A", "text": "Microsoft Word" },
+        { "key": "B", "text": "Windows" },
+        { "key": "C", "text": "Linux" },
+        { "key": "D", "text": "BIOS" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 141,
+      "question": "Which of these is used to connect multiple computers together?",
+      "options": [
+        { "key": "A", "text": "Network" },
+        { "key": "B", "text": "Spreadsheet" },
+        { "key": "C", "text": "Database" },
+        { "key": "D", "text": "Browser" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 142,
+      "question": "What does CPU stand for?",
+      "options": [
+        { "key": "A", "text": "Central Processing Unit" },
+        { "key": "B", "text": "Central Program Unit" },
+        { "key": "C", "text": "Computer Processing Unit" },
+        { "key": "D", "text": "Control Program Unit" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "Which of the following is an input device?",
+      "options": [
+        { "key": "A", "text": "Scanner" },
+        { "key": "B", "text": "Printer" },
+        { "key": "C", "text": "Speaker" },
+        { "key": "D", "text": "Monitor" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "Which of the following storage devices has the largest capacity?",
+      "options": [
+        { "key": "A", "text": "Hard disk" },
+        { "key": "B", "text": "Floppy disk" },
+        { "key": "C", "text": "CD-ROM" },
+        { "key": "D", "text": "DVD" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 145,
+      "question": "What type of software is antivirus?",
+      "options": [
+        { "key": "A", "text": "Utility software" },
+        { "key": "B", "text": "Application software" },
+        { "key": "C", "text": "Hardware software" },
+        { "key": "D", "text": "Firmware" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 146,
+      "question": "Which of the following is used to browse the internet?",
+      "options": [
+        { "key": "A", "text": "Web browser" },
+        { "key": "B", "text": "Compiler" },
+        { "key": "C", "text": "Assembler" },
+        { "key": "D", "text": "Interpreter" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 147,
+      "question": "Which key combination is used to paste copied text?",
+      "options": [
+        { "key": "A", "text": "Ctrl + V" },
+        { "key": "B", "text": "Ctrl + C" },
+        { "key": "C", "text": "Ctrl + X" },
+        { "key": "D", "text": "Ctrl + Z" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 148,
+      "question": "Which of these is a portable computer?",
+      "options": [
+        { "key": "A", "text": "Laptop" },
+        { "key": "B", "text": "Desktop" },
+        { "key": "C", "text": "Mainframe" },
+        { "key": "D", "text": "Supercomputer" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "Which of the following is a benefit of computer networking?",
+      "options": [
+        { "key": "A", "text": "Resource sharing" },
+        { "key": "B", "text": "Virus spread" },
+        { "key": "C", "text": "High cost" },
+        { "key": "D", "text": "Power failure" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 150,
+      "question": "Which part of the computer stores instructions temporarily?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "ROM" },
+        { "key": "C", "text": "Hard disk" },
+        { "key": "D", "text": "Flash drive" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 186,
+      "question": "Which device is used to convert digital signals to analog signals?",
+      "options": [
+        { "key": "A", "text": "Router" },
+        { "key": "B", "text": "Modem" },
+        { "key": "C", "text": "Switch" },
+        { "key": "D", "text": "Hub" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 187,
+      "question": "What does ICT stand for?",
+      "options": [
+        { "key": "A", "text": "Information and Communication Technology" },
+        { "key": "B", "text": "International Computer Technology" },
+        { "key": "C", "text": "Integrated Communication Technique" },
+        { "key": "D", "text": "Information Control Technology" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 188,
+      "question": "Which of the following is NOT an example of system software?",
+      "options": [
+        { "key": "A", "text": "Windows" },
+        { "key": "B", "text": "Linux" },
+        { "key": "C", "text": "MS Excel" },
+        { "key": "D", "text": "UNIX" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "The physical parts of a computer are collectively known as",
+      "options": [
+        { "key": "A", "text": "Software" },
+        { "key": "B", "text": "Firmware" },
+        { "key": "C", "text": "Hardware" },
+        { "key": "D", "text": "Programs" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 190,
+      "question": "Which key combination is used to save a document?",
+      "options": [
+        { "key": "A", "text": "Ctrl + S" },
+        { "key": "B", "text": "Ctrl + P" },
+        { "key": "C", "text": "Ctrl + A" },
+        { "key": "D", "text": "Ctrl + Z" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 191,
+      "question": "Which of the following is a volatile memory?",
+      "options": [
+        { "key": "A", "text": "ROM" },
+        { "key": "B", "text": "Hard disk" },
+        { "key": "C", "text": "RAM" },
+        { "key": "D", "text": "Flash drive" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 192,
+      "question": "What is the main function of the ALU?",
+      "options": [
+        { "key": "A", "text": "Data storage" },
+        { "key": "B", "text": "Arithmetic and logic operations" },
+        { "key": "C", "text": "Input processing" },
+        { "key": "D", "text": "Data transmission" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "Which of the following is an example of secondary storage?",
+      "options": [
+        { "key": "A", "text": "RAM" },
+        { "key": "B", "text": "Cache" },
+        { "key": "C", "text": "Hard disk" },
+        { "key": "D", "text": "Register" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 194,
+      "question": "Which of these is used to protect a computer from viruses?",
+      "options": [
+        { "key": "A", "text": "Spreadsheet" },
+        { "key": "B", "text": "Antivirus software" },
+        { "key": "C", "text": "Browser" },
+        { "key": "D", "text": "Compiler" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 195,
+      "question": "Which device is mainly used for typing?",
+      "options": [
+        { "key": "A", "text": "Mouse" },
+        { "key": "B", "text": "Keyboard" },
+        { "key": "C", "text": "Scanner" },
+        { "key": "D", "text": "Light pen" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 196,
+      "question": "Which unit controls the operations of a computer?",
+      "options": [
+        { "key": "A", "text": "ALU" },
+        { "key": "B", "text": "Control Unit" },
+        { "key": "C", "text": "RAM" },
+        { "key": "D", "text": "Hard disk" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 197,
+      "question": "The smallest unit of data in a computer is",
+      "options": [
+        { "key": "A", "text": "Byte" },
+        { "key": "B", "text": "Bit" },
+        { "key": "C", "text": "Nibble" },
+        { "key": "D", "text": "Word" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 198,
+      "question": "Which of the following is used to create tables and calculations?",
+      "options": [
+        { "key": "A", "text": "Word processor" },
+        { "key": "B", "text": "Spreadsheet" },
+        { "key": "C", "text": "Database" },
+        { "key": "D", "text": "Browser" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "Which of the following is an example of output device?",
+      "options": [
+        { "key": "A", "text": "Scanner" },
+        { "key": "B", "text": "Microphone" },
+        { "key": "C", "text": "Printer" },
+        { "key": "D", "text": "Joystick" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 200,
+      "question": "Which software helps to manage computer hardware?",
+      "options": [
+        { "key": "A", "text": "Utility software" },
+        { "key": "B", "text": "Application software" },
+        { "key": "C", "text": "Operating system" },
+        { "key": "D", "text": "Spreadsheet" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 201,
+      "question": "Which of the following is NOT a function of an operating system?",
+      "options": [
+        { "key": "A", "text": "File management" },
+        { "key": "B", "text": "Memory management" },
+        { "key": "C", "text": "Word processing" },
+        { "key": "D", "text": "Process management" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 202,
+      "question": "Which type of computer is most powerful?",
+      "options": [
+        { "key": "A", "text": "Microcomputer" },
+        { "key": "B", "text": "Minicomputer" },
+        { "key": "C", "text": "Mainframe" },
+        { "key": "D", "text": "Supercomputer" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 203,
+      "question": "Which of the following is an example of e-mail service?",
+      "options": [
+        { "key": "A", "text": "Gmail" },
+        { "key": "B", "text": "Google Chrome" },
+        { "key": "C", "text": "MS Word" },
+        { "key": "D", "text": "Windows" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 204,
+      "question": "Which key is used to erase characters to the left of the cursor?",
+      "options": [
+        { "key": "A", "text": "Delete" },
+        { "key": "B", "text": "Insert" },
+        { "key": "C", "text": "Backspace" },
+        { "key": "D", "text": "Shift" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 205,
+      "question": "Which of these is a search engine?",
+      "options": [
+        { "key": "A", "text": "Facebook" },
+        { "key": "B", "text": "Yahoo" },
+        { "key": "C", "text": "WhatsApp" },
+        { "key": "D", "text": "Twitter" }
+      ],
+      "correct_answer": "B"
     }
   ]
 }
