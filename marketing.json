@@ -62,6 +62,2251 @@
         { "key": "D", "text": "Building factories" }
       ],
       "correct_answer": "B"
+    },
+
+    {
+      "id": 6,
+      "question": "Marketing is best defined as the process of",
+      "options": [
+        { "key": "A", "text": "producing goods only" },
+        { "key": "B", "text": "selling goods at a profit" },
+        { "key": "C", "text": "identifying and satisfying customer needs" },
+        { "key": "D", "text": "advertising products" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "The four Ps of marketing include all except",
+      "options": [
+        { "key": "A", "text": "product" },
+        { "key": "B", "text": "price" },
+        { "key": "C", "text": "profit" },
+        { "key": "D", "text": "promotion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT a function of marketing?",
+      "options": [
+        { "key": "A", "text": "buying" },
+        { "key": "B", "text": "selling" },
+        { "key": "C", "text": "production" },
+        { "key": "D", "text": "transportation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "The exchange of goods for money is known as",
+      "options": [
+        { "key": "A", "text": "production" },
+        { "key": "B", "text": "marketing" },
+        { "key": "C", "text": "selling" },
+        { "key": "D", "text": "advertising" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "The place where buyers and sellers meet is called",
+      "options": [
+        { "key": "A", "text": "factory" },
+        { "key": "B", "text": "warehouse" },
+        { "key": "C", "text": "market" },
+        { "key": "D", "text": "shop" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 11,
+      "question": "Advertising mainly aims at",
+      "options": [
+        { "key": "A", "text": "storing goods" },
+        { "key": "B", "text": "persuading consumers to buy" },
+        { "key": "C", "text": "transporting goods" },
+        { "key": "D", "text": "producing goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of these is a personal selling technique?",
+      "options": [
+        { "key": "A", "text": "radio advert" },
+        { "key": "B", "text": "television advert" },
+        { "key": "C", "text": "sales representative visit" },
+        { "key": "D", "text": "newspaper advert" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "A product is best described as",
+      "options": [
+        { "key": "A", "text": "anything offered for sale" },
+        { "key": "B", "text": "only manufactured goods" },
+        { "key": "C", "text": "only services" },
+        { "key": "D", "text": "raw materials" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "The amount charged for a product is its",
+      "options": [
+        { "key": "A", "text": "value" },
+        { "key": "B", "text": "price" },
+        { "key": "C", "text": "cost" },
+        { "key": "D", "text": "profit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following affects demand?",
+      "options": [
+        { "key": "A", "text": "price of the product" },
+        { "key": "B", "text": "weather only" },
+        { "key": "C", "text": "age of seller" },
+        { "key": "D", "text": "store size" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 16,
+      "question": "A market dominated by a few sellers is",
+      "options": [
+        { "key": "A", "text": "perfect competition" },
+        { "key": "B", "text": "monopoly" },
+        { "key": "C", "text": "oligopoly" },
+        { "key": "D", "text": "duopoly" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "The movement of goods from producer to consumer is",
+      "options": [
+        { "key": "A", "text": "transportation" },
+        { "key": "B", "text": "communication" },
+        { "key": "C", "text": "advertising" },
+        { "key": "D", "text": "pricing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Wholesalers mainly sell goods to",
+      "options": [
+        { "key": "A", "text": "final consumers" },
+        { "key": "B", "text": "retailers" },
+        { "key": "C", "text": "manufacturers" },
+        { "key": "D", "text": "farmers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Retailers sell goods mainly in",
+      "options": [
+        { "key": "A", "text": "large quantities" },
+        { "key": "B", "text": "bulk" },
+        { "key": "C", "text": "small quantities" },
+        { "key": "D", "text": "containers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "A channel of distribution refers to",
+      "options": [
+        { "key": "A", "text": "advertising media" },
+        { "key": "B", "text": "path goods follow to consumers" },
+        { "key": "C", "text": "storage facilities" },
+        { "key": "D", "text": "pricing policy" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 21,
+      "question": "The process of grouping consumers is",
+      "options": [
+        { "key": "A", "text": "market segmentation" },
+        { "key": "B", "text": "advertising" },
+        { "key": "C", "text": "pricing" },
+        { "key": "D", "text": "branding" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Branding helps to",
+      "options": [
+        { "key": "A", "text": "increase storage cost" },
+        { "key": "B", "text": "identify products easily" },
+        { "key": "C", "text": "reduce quality" },
+        { "key": "D", "text": "confuse buyers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is a form of promotion?",
+      "options": [
+        { "key": "A", "text": "warehousing" },
+        { "key": "B", "text": "advertising" },
+        { "key": "C", "text": "financing" },
+        { "key": "D", "text": "packaging" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "The standard of a product refers to its",
+      "options": [
+        { "key": "A", "text": "brand name" },
+        { "key": "B", "text": "quality" },
+        { "key": "C", "text": "price" },
+        { "key": "D", "text": "design only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Goods kept for future use are",
+      "options": [
+        { "key": "A", "text": "sold goods" },
+        { "key": "B", "text": "stock" },
+        { "key": "C", "text": "waste" },
+        { "key": "D", "text": "samples" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 26,
+      "question": "An increase in price usually leads to",
+      "options": [
+        { "key": "A", "text": "increase in demand" },
+        { "key": "B", "text": "decrease in demand" },
+        { "key": "C", "text": "no change in demand" },
+        { "key": "D", "text": "increase in supply only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "The buying of goods from other countries is",
+      "options": [
+        { "key": "A", "text": "export" },
+        { "key": "B", "text": "import" },
+        { "key": "C", "text": "entrepot trade" },
+        { "key": "D", "text": "wholesaling" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "The selling of goods to other countries is",
+      "options": [
+        { "key": "A", "text": "import" },
+        { "key": "B", "text": "export" },
+        { "key": "C", "text": "retailing" },
+        { "key": "D", "text": "barter" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Which of these is an aid to trade?",
+      "options": [
+        { "key": "A", "text": "production" },
+        { "key": "B", "text": "manufacturing" },
+        { "key": "C", "text": "banking" },
+        { "key": "D", "text": "farming" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Insurance mainly helps to",
+      "options": [
+        { "key": "A", "text": "store goods" },
+        { "key": "B", "text": "advertise goods" },
+        { "key": "C", "text": "reduce business risks" },
+        { "key": "D", "text": "set prices" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 31,
+      "question": "A trademark helps to",
+      "options": [
+        { "key": "A", "text": "increase transport cost" },
+        { "key": "B", "text": "distinguish products" },
+        { "key": "C", "text": "reduce production" },
+        { "key": "D", "text": "increase competition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "The physical protection of goods is ensured by",
+      "options": [
+        { "key": "A", "text": "advertising" },
+        { "key": "B", "text": "packaging" },
+        { "key": "C", "text": "branding" },
+        { "key": "D", "text": "pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which group is involved in buying goods for use?",
+      "options": [
+        { "key": "A", "text": "manufacturers" },
+        { "key": "B", "text": "retailers" },
+        { "key": "C", "text": "consumers" },
+        { "key": "D", "text": "middlemen" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Promotion helps mainly to",
+      "options": [
+        { "key": "A", "text": "store goods" },
+        { "key": "B", "text": "create awareness" },
+        { "key": "C", "text": "reduce transport cost" },
+        { "key": "D", "text": "manufacture goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is NOT a market?",
+      "options": [
+        { "key": "A", "text": "online market" },
+        { "key": "B", "text": "weekly market" },
+        { "key": "C", "text": "bank" },
+        { "key": "D", "text": "commodity market" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 36,
+      "question": "Middlemen exist mainly to",
+      "options": [
+        { "key": "A", "text": "increase prices" },
+        { "key": "B", "text": "ease distribution" },
+        { "key": "C", "text": "stop production" },
+        { "key": "D", "text": "reduce quality" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Sales promotion includes",
+      "options": [
+        { "key": "A", "text": "free samples" },
+        { "key": "B", "text": "warehousing" },
+        { "key": "C", "text": "bank loans" },
+        { "key": "D", "text": "insurance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following affects consumer behaviour?",
+      "options": [
+        { "key": "A", "text": "culture" },
+        { "key": "B", "text": "weather only" },
+        { "key": "C", "text": "factory size" },
+        { "key": "D", "text": "warehouse" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "A seller’s market occurs when",
+      "options": [
+        { "key": "A", "text": "supply exceeds demand" },
+        { "key": "B", "text": "demand equals supply" },
+        { "key": "C", "text": "demand exceeds supply" },
+        { "key": "D", "text": "prices fall" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "A buyer’s market occurs when",
+      "options": [
+        { "key": "A", "text": "demand exceeds supply" },
+        { "key": "B", "text": "supply exceeds demand" },
+        { "key": "C", "text": "prices rise" },
+        { "key": "D", "text": "goods are scarce" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 41,
+      "question": "Marketing research involves",
+      "options": [
+        { "key": "A", "text": "guessing consumer needs" },
+        { "key": "B", "text": "collecting market information" },
+        { "key": "C", "text": "selling goods" },
+        { "key": "D", "text": "advertising products" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a durable good?",
+      "options": [
+        { "key": "A", "text": "bread" },
+        { "key": "B", "text": "soap" },
+        { "key": "C", "text": "television" },
+        { "key": "D", "text": "milk" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "Goods that perish easily are",
+      "options": [
+        { "key": "A", "text": "durable goods" },
+        { "key": "B", "text": "capital goods" },
+        { "key": "C", "text": "perishable goods" },
+        { "key": "D", "text": "consumer goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which pricing strategy involves selling below cost?",
+      "options": [
+        { "key": "A", "text": "skimming pricing" },
+        { "key": "B", "text": "penetration pricing" },
+        { "key": "C", "text": "cost-plus pricing" },
+        { "key": "D", "text": "competitive pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Cost-plus pricing involves",
+      "options": [
+        { "key": "A", "text": "adding profit to cost" },
+        { "key": "B", "text": "selling below cost" },
+        { "key": "C", "text": "ignoring cost" },
+        { "key": "D", "text": "setting price by demand only" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 46,
+      "question": "A good marketer must understand",
+      "options": [
+        { "key": "A", "text": "consumer behaviour" },
+        { "key": "B", "text": "only production" },
+        { "key": "C", "text": "factory management" },
+        { "key": "D", "text": "accounting only" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which of these is an example of after-sales service?",
+      "options": [
+        { "key": "A", "text": "advertising" },
+        { "key": "B", "text": "warranty" },
+        { "key": "C", "text": "pricing" },
+        { "key": "D", "text": "packaging" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Sales forecasting helps a firm to",
+      "options": [
+        { "key": "A", "text": "guess prices" },
+        { "key": "B", "text": "plan production" },
+        { "key": "C", "text": "reduce advertising" },
+        { "key": "D", "text": "stop competition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is an intangible product?",
+      "options": [
+        { "key": "A", "text": "car" },
+        { "key": "B", "text": "haircut" },
+        { "key": "C", "text": "shoe" },
+        { "key": "D", "text": "radio" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Customer satisfaction leads to",
+      "options": [
+        { "key": "A", "text": "loss of goodwill" },
+        { "key": "B", "text": "repeat purchase" },
+        { "key": "C", "text": "reduced sales" },
+        { "key": "D", "text": "poor image" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 51,
+      "question": "Marketing orientation focuses on",
+      "options": [
+        { "key": "A", "text": "production efficiency" },
+        { "key": "B", "text": "sales volume only" },
+        { "key": "C", "text": "customer satisfaction" },
+        { "key": "D", "text": "profit alone" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 52,
+      "question": "Which of the following is a consumer good?",
+      "options": [
+        { "key": "A", "text": "machine" },
+        { "key": "B", "text": "tractor" },
+        { "key": "C", "text": "bread" },
+        { "key": "D", "text": "generator for factory" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "A firm’s public image is maintained through",
+      "options": [
+        { "key": "A", "text": "pricing only" },
+        { "key": "B", "text": "public relations" },
+        { "key": "C", "text": "distribution" },
+        { "key": "D", "text": "production" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Which of these increases sales volume?",
+      "options": [
+        { "key": "A", "text": "poor quality" },
+        { "key": "B", "text": "effective promotion" },
+        { "key": "C", "text": "high prices only" },
+        { "key": "D", "text": "low supply" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Marketing ends when",
+      "options": [
+        { "key": "A", "text": "goods are produced" },
+        { "key": "B", "text": "goods are advertised" },
+        { "key": "C", "text": "customer needs are satisfied" },
+        { "key": "D", "text": "profits are made" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "The main goal of marketing is to",
+      "options": [
+        { "key": "A", "text": "make sales at all costs" },
+        { "key": "B", "text": "satisfy customers profitably" },
+        { "key": "C", "text": "increase production only" },
+        { "key": "D", "text": "eliminate competition" }
+      ],
+      "correct_answer": "B"
+    }
+{
+  "questions": [
+    {
+      "id": 57,
+      "question": "Which of the following best describes a market leader?",
+      "options": [
+        { "key": "A", "text": "A firm with the lowest prices" },
+        { "key": "B", "text": "A firm with the largest market share" },
+        { "key": "C", "text": "A new firm in the market" },
+        { "key": "D", "text": "A firm with no competitors" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "The act of persuading customers to buy a product is known as",
+      "options": [
+        { "key": "A", "text": "distribution" },
+        { "key": "B", "text": "promotion" },
+        { "key": "C", "text": "production" },
+        { "key": "D", "text": "branding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is a pricing objective?",
+      "options": [
+        { "key": "A", "text": "maximizing profit" },
+        { "key": "B", "text": "increasing storage" },
+        { "key": "C", "text": "branding products" },
+        { "key": "D", "text": "transporting goods" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "A product life cycle begins with",
+      "options": [
+        { "key": "A", "text": "growth" },
+        { "key": "B", "text": "decline" },
+        { "key": "C", "text": "introduction" },
+        { "key": "D", "text": "maturity" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 61,
+      "question": "Which marketing strategy focuses on a specific group of consumers?",
+      "options": [
+        { "key": "A", "text": "mass marketing" },
+        { "key": "B", "text": "target marketing" },
+        { "key": "C", "text": "undifferentiated marketing" },
+        { "key": "D", "text": "random marketing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Packaging performs all the following functions except",
+      "options": [
+        { "key": "A", "text": "protecting the product" },
+        { "key": "B", "text": "attracting customers" },
+        { "key": "C", "text": "determining wages" },
+        { "key": "D", "text": "providing information" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is an example of impulse buying?",
+      "options": [
+        { "key": "A", "text": "planned purchase of a car" },
+        { "key": "B", "text": "buying bread when hungry" },
+        { "key": "C", "text": "ordering goods in bulk" },
+        { "key": "D", "text": "importing machinery" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "A monopolistic market is characterized by",
+      "options": [
+        { "key": "A", "text": "many identical products" },
+        { "key": "B", "text": "one seller only" },
+        { "key": "C", "text": "product differentiation" },
+        { "key": "D", "text": "government price control" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "Which of the following helps in reaching a wide audience quickly?",
+      "options": [
+        { "key": "A", "text": "personal selling" },
+        { "key": "B", "text": "radio advertising" },
+        { "key": "C", "text": "door-to-door selling" },
+        { "key": "D", "text": "sales visit" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 66,
+      "question": "The introduction stage of product life cycle is usually marked by",
+      "options": [
+        { "key": "A", "text": "high profit" },
+        { "key": "B", "text": "low sales volume" },
+        { "key": "C", "text": "many competitors" },
+        { "key": "D", "text": "price reduction" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "Which factor influences consumer buying decisions?",
+      "options": [
+        { "key": "A", "text": "culture" },
+        { "key": "B", "text": "family" },
+        { "key": "C", "text": "income" },
+        { "key": "D", "text": "all of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is NOT a type of consumer market?",
+      "options": [
+        { "key": "A", "text": "industrial market" },
+        { "key": "B", "text": "government market" },
+        { "key": "C", "text": "reseller market" },
+        { "key": "D", "text": "service market" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 69,
+      "question": "A market survey mainly helps to",
+      "options": [
+        { "key": "A", "text": "advertise products" },
+        { "key": "B", "text": "gather information" },
+        { "key": "C", "text": "store goods" },
+        { "key": "D", "text": "fix prices" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is an example of direct distribution?",
+      "options": [
+        { "key": "A", "text": "producer to consumer" },
+        { "key": "B", "text": "producer to wholesaler" },
+        { "key": "C", "text": "wholesaler to retailer" },
+        { "key": "D", "text": "retailer to consumer" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 71,
+      "question": "Brand loyalty refers to",
+      "options": [
+        { "key": "A", "text": "customers changing brands" },
+        { "key": "B", "text": "consistent purchase of a brand" },
+        { "key": "C", "text": "cheap products" },
+        { "key": "D", "text": "high advertising cost" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Which of the following goods are bought frequently?",
+      "options": [
+        { "key": "A", "text": "television" },
+        { "key": "B", "text": "land" },
+        { "key": "C", "text": "toothpaste" },
+        { "key": "D", "text": "car" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "A product that requires careful buying decision is",
+      "options": [
+        { "key": "A", "text": "convenience good" },
+        { "key": "B", "text": "shopping good" },
+        { "key": "C", "text": "impulse good" },
+        { "key": "D", "text": "free good" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "The maturity stage of product life cycle is characterized by",
+      "options": [
+        { "key": "A", "text": "rapid sales growth" },
+        { "key": "B", "text": "sales stability" },
+        { "key": "C", "text": "product disappearance" },
+        { "key": "D", "text": "zero competition" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Which pricing method is based on competitors' prices?",
+      "options": [
+        { "key": "A", "text": "cost-plus pricing" },
+        { "key": "B", "text": "penetration pricing" },
+        { "key": "C", "text": "competitive pricing" },
+        { "key": "D", "text": "skimming pricing" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 76,
+      "question": "Which of the following is a disadvantage of advertising?",
+      "options": [
+        { "key": "A", "text": "creates awareness" },
+        { "key": "B", "text": "is costly" },
+        { "key": "C", "text": "increases sales" },
+        { "key": "D", "text": "promotes brand image" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Which aid to trade helps businesses to access funds?",
+      "options": [
+        { "key": "A", "text": "banking" },
+        { "key": "B", "text": "transport" },
+        { "key": "C", "text": "insurance" },
+        { "key": "D", "text": "advertising" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Which of the following promotes goodwill?",
+      "options": [
+        { "key": "A", "text": "public relations" },
+        { "key": "B", "text": "pricing" },
+        { "key": "C", "text": "distribution" },
+        { "key": "D", "text": "production" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "The decline stage of a product life cycle is marked by",
+      "options": [
+        { "key": "A", "text": "increasing sales" },
+        { "key": "B", "text": "falling demand" },
+        { "key": "C", "text": "new market entry" },
+        { "key": "D", "text": "high profit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Which of the following is a marketing intermediary?",
+      "options": [
+        { "key": "A", "text": "manufacturer" },
+        { "key": "B", "text": "consumer" },
+        { "key": "C", "text": "retailer" },
+        { "key": "D", "text": "farmer" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 81,
+      "question": "A well-known brand name helps to",
+      "options": [
+        { "key": "A", "text": "increase confusion" },
+        { "key": "B", "text": "build customer trust" },
+        { "key": "C", "text": "reduce quality" },
+        { "key": "D", "text": "increase cost only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Which of these is an example of a service?",
+      "options": [
+        { "key": "A", "text": "shirt" },
+        { "key": "B", "text": "shoe" },
+        { "key": "C", "text": "banking" },
+        { "key": "D", "text": "bag" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following is a promotional tool?",
+      "options": [
+        { "key": "A", "text": "pricing" },
+        { "key": "B", "text": "advertising" },
+        { "key": "C", "text": "production" },
+        { "key": "D", "text": "warehousing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "A good packaging should be",
+      "options": [
+        { "key": "A", "text": "attractive" },
+        { "key": "B", "text": "protective" },
+        { "key": "C", "text": "informative" },
+        { "key": "D", "text": "all of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 85,
+      "question": "The main aim of marketing research is to",
+      "options": [
+        { "key": "A", "text": "increase storage" },
+        { "key": "B", "text": "collect relevant data" },
+        { "key": "C", "text": "sell products" },
+        { "key": "D", "text": "set prices" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 86,
+      "question": "Which of the following encourages repeat buying?",
+      "options": [
+        { "key": "A", "text": "poor quality" },
+        { "key": "B", "text": "customer satisfaction" },
+        { "key": "C", "text": "high prices" },
+        { "key": "D", "text": "limited supply" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "The final consumer is the person who",
+      "options": [
+        { "key": "A", "text": "resells goods" },
+        { "key": "B", "text": "uses the goods" },
+        { "key": "C", "text": "manufactures goods" },
+        { "key": "D", "text": "transports goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Which market structure has many sellers and buyers?",
+      "options": [
+        { "key": "A", "text": "monopoly" },
+        { "key": "B", "text": "oligopoly" },
+        { "key": "C", "text": "perfect competition" },
+        { "key": "D", "text": "duopoly" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following best describes demand?",
+      "options": [
+        { "key": "A", "text": "want for goods" },
+        { "key": "B", "text": "ability and willingness to buy" },
+        { "key": "C", "text": "goods available" },
+        { "key": "D", "text": "price of goods" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "An increase in consumer income will likely",
+      "options": [
+        { "key": "A", "text": "reduce demand" },
+        { "key": "B", "text": "increase demand" },
+        { "key": "C", "text": "stop consumption" },
+        { "key": "D", "text": "reduce supply" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 91,
+      "question": "Marketing includes activities before and after",
+      "options": [
+        { "key": "A", "text": "consumption" },
+        { "key": "B", "text": "production" },
+        { "key": "C", "text": "advertising" },
+        { "key": "D", "text": "transportation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Which of these is an example of a capital good?",
+      "options": [
+        { "key": "A", "text": "bread" },
+        { "key": "B", "text": "shoe" },
+        { "key": "C", "text": "machine" },
+        { "key": "D", "text": "milk" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "A consumer who buys goods for resale is a",
+      "options": [
+        { "key": "A", "text": "producer" },
+        { "key": "B", "text": "middleman" },
+        { "key": "C", "text": "final consumer" },
+        { "key": "D", "text": "manufacturer" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Which marketing activity involves informing consumers?",
+      "options": [
+        { "key": "A", "text": "advertising" },
+        { "key": "B", "text": "transportation" },
+        { "key": "C", "text": "financing" },
+        { "key": "D", "text": "production" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Which of these is an example of sales promotion?",
+      "options": [
+        { "key": "A", "text": "radio advert" },
+        { "key": "B", "text": "price discount" },
+        { "key": "C", "text": "market research" },
+        { "key": "D", "text": "personal selling" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 96,
+      "question": "Which factor determines consumer choice most?",
+      "options": [
+        { "key": "A", "text": "quality" },
+        { "key": "B", "text": "price" },
+        { "key": "C", "text": "availability" },
+        { "key": "D", "text": "all of the above" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 97,
+      "question": "Marketing helps producers to",
+      "options": [
+        { "key": "A", "text": "identify consumer needs" },
+        { "key": "B", "text": "reduce production" },
+        { "key": "C", "text": "avoid competition" },
+        { "key": "D", "text": "ignore demand" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 98,
+      "question": "Which is a disadvantage of middlemen?",
+      "options": [
+        { "key": "A", "text": "they increase distribution efficiency" },
+        { "key": "B", "text": "they reduce producers’ workload" },
+        { "key": "C", "text": "they may increase prices" },
+        { "key": "D", "text": "they create employment" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following is a core marketing activity?",
+      "options": [
+        { "key": "A", "text": "needs identification" },
+        { "key": "B", "text": "factory management" },
+        { "key": "C", "text": "accounting" },
+        { "key": "D", "text": "auditing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "The success of a product largely depends on",
+      "options": [
+        { "key": "A", "text": "marketing strategy" },
+        { "key": "B", "text": "factory size" },
+        { "key": "C", "text": "number of workers" },
+        { "key": "D", "text": "location only" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 101,
+      "question": "Which of the following best defines consumer behaviour?",
+      "options": [
+        { "key": "A", "text": "how goods are produced" },
+        { "key": "B", "text": "how consumers make buying decisions" },
+        { "key": "C", "text": "how prices are set" },
+        { "key": "D", "text": "how goods are transported" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Which of these helps goods reach remote areas?",
+      "options": [
+        { "key": "A", "text": "banking" },
+        { "key": "B", "text": "communication" },
+        { "key": "C", "text": "transportation" },
+        { "key": "D", "text": "insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Which promotional tool involves face-to-face interaction?",
+      "options": [
+        { "key": "A", "text": "advertising" },
+        { "key": "B", "text": "personal selling" },
+        { "key": "C", "text": "sales promotion" },
+        { "key": "D", "text": "public relations" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Which of these is an example of industrial goods?",
+      "options": [
+        { "key": "A", "text": "bread" },
+        { "key": "B", "text": "cement" },
+        { "key": "C", "text": "milk" },
+        { "key": "D", "text": "soap" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Which element of marketing mix deals with communication?",
+      "options": [
+        { "key": "A", "text": "product" },
+        { "key": "B", "text": "price" },
+        { "key": "C", "text": "promotion" },
+        { "key": "D", "text": "place" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "The overall aim of marketing is to",
+      "options": [
+        { "key": "A", "text": "make profit only" },
+        { "key": "B", "text": "satisfy customer needs profitably" },
+        { "key": "C", "text": "sell goods quickly" },
+        { "key": "D", "text": "eliminate competitors" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 107,
+      "question": "Which of the following is a function of marketing?",
+      "options": [
+        { "key": "A", "text": "risk bearing" },
+        { "key": "B", "text": "auditing" },
+        { "key": "C", "text": "bookkeeping" },
+        { "key": "D", "text": "manufacturing only" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 108,
+      "question": "The movement of goods from producers to consumers is known as",
+      "options": [
+        { "key": "A", "text": "production" },
+        { "key": "B", "text": "distribution" },
+        { "key": "C", "text": "financing" },
+        { "key": "D", "text": "grading" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "Which pricing strategy involves setting a low price to enter the market?",
+      "options": [
+        { "key": "A", "text": "price skimming" },
+        { "key": "B", "text": "penetration pricing" },
+        { "key": "C", "text": "competitive pricing" },
+        { "key": "D", "text": "cost-plus pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 110,
+      "question": "Which of the following is a characteristic of services?",
+      "options": [
+        { "key": "A", "text": "tangible" },
+        { "key": "B", "text": "can be stored" },
+        { "key": "C", "text": "intangible" },
+        { "key": "D", "text": "can be touched" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 111,
+      "question": "Wholesalers mainly sell goods to",
+      "options": [
+        { "key": "A", "text": "manufacturers" },
+        { "key": "B", "text": "final consumers" },
+        { "key": "C", "text": "retailers" },
+        { "key": "D", "text": "government" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 112,
+      "question": "Which of the following is NOT an element of marketing mix?",
+      "options": [
+        { "key": "A", "text": "product" },
+        { "key": "B", "text": "price" },
+        { "key": "C", "text": "profit" },
+        { "key": "D", "text": "promotion" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Advertising through newspapers is classified as",
+      "options": [
+        { "key": "A", "text": "electronic media" },
+        { "key": "B", "text": "print media" },
+        { "key": "C", "text": "outdoor media" },
+        { "key": "D", "text": "direct media" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Which of the following is an aid to trade?",
+      "options": [
+        { "key": "A", "text": "production" },
+        { "key": "B", "text": "insurance" },
+        { "key": "C", "text": "consumption" },
+        { "key": "D", "text": "manufacturing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "The main objective of promotion is to",
+      "options": [
+        { "key": "A", "text": "store goods" },
+        { "key": "B", "text": "transport goods" },
+        { "key": "C", "text": "inform and persuade buyers" },
+        { "key": "D", "text": "produce goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 116,
+      "question": "Which of the following markets deals with raw materials?",
+      "options": [
+        { "key": "A", "text": "consumer market" },
+        { "key": "B", "text": "industrial market" },
+        { "key": "C", "text": "service market" },
+        { "key": "D", "text": "financial market" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 117,
+      "question": "The process of dividing a market into groups is known as",
+      "options": [
+        { "key": "A", "text": "market research" },
+        { "key": "B", "text": "market segmentation" },
+        { "key": "C", "text": "branding" },
+        { "key": "D", "text": "pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Which of these is a benefit of branding?",
+      "options": [
+        { "key": "A", "text": "confuses consumers" },
+        { "key": "B", "text": "identifies products easily" },
+        { "key": "C", "text": "increases imitation" },
+        { "key": "D", "text": "reduces quality" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 119,
+      "question": "Which of the following promotes sales in the short run?",
+      "options": [
+        { "key": "A", "text": "branding" },
+        { "key": "B", "text": "sales promotion" },
+        { "key": "C", "text": "packaging" },
+        { "key": "D", "text": "market research" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Which factor affects demand directly?",
+      "options": [
+        { "key": "A", "text": "consumer income" },
+        { "key": "B", "text": "warehouse size" },
+        { "key": "C", "text": "number of workers" },
+        { "key": "D", "text": "factory location" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 121,
+      "question": "Which of the following is a disadvantage of direct distribution?",
+      "options": [
+        { "key": "A", "text": "high distribution cost" },
+        { "key": "B", "text": "reduced control" },
+        { "key": "C", "text": "low profit" },
+        { "key": "D", "text": "slow sales" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 122,
+      "question": "Which market involves buying and selling of shares?",
+      "options": [
+        { "key": "A", "text": "commodity market" },
+        { "key": "B", "text": "money market" },
+        { "key": "C", "text": "capital market" },
+        { "key": "D", "text": "consumer market" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "Which of the following ensures continuity of business after loss?",
+      "options": [
+        { "key": "A", "text": "transport" },
+        { "key": "B", "text": "advertising" },
+        { "key": "C", "text": "insurance" },
+        { "key": "D", "text": "warehousing" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Which type of goods have stable demand?",
+      "options": [
+        { "key": "A", "text": "luxury goods" },
+        { "key": "B", "text": "inferior goods" },
+        { "key": "C", "text": "necessaries" },
+        { "key": "D", "text": "capital goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Which of the following encourages brand switching?",
+      "options": [
+        { "key": "A", "text": "high customer satisfaction" },
+        { "key": "B", "text": "poor product quality" },
+        { "key": "C", "text": "strong brand loyalty" },
+        { "key": "D", "text": "good packaging" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 126,
+      "question": "Which of the following is NOT a function of wholesalers?",
+      "options": [
+        { "key": "A", "text": "bulk breaking" },
+        { "key": "B", "text": "storage" },
+        { "key": "C", "text": "final consumption" },
+        { "key": "D", "text": "distribution" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 127,
+      "question": "Which type of advertising is done at the point of purchase?",
+      "options": [
+        { "key": "A", "text": "outdoor advertising" },
+        { "key": "B", "text": "retail advertising" },
+        { "key": "C", "text": "print advertising" },
+        { "key": "D", "text": "electronic advertising" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Which of the following can increase demand?",
+      "options": [
+        { "key": "A", "text": "increase in price" },
+        { "key": "B", "text": "decrease in consumer income" },
+        { "key": "C", "text": "effective advertising" },
+        { "key": "D", "text": "increase in taxes" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 129,
+      "question": "Which is an example of durable goods?",
+      "options": [
+        { "key": "A", "text": "bread" },
+        { "key": "B", "text": "television" },
+        { "key": "C", "text": "milk" },
+        { "key": "D", "text": "salt" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Which concept focuses on customer satisfaction?",
+      "options": [
+        { "key": "A", "text": "production concept" },
+        { "key": "B", "text": "selling concept" },
+        { "key": "C", "text": "marketing concept" },
+        { "key": "D", "text": "product concept" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 131,
+      "question": "Which of the following is a feature of monopolistic competition?",
+      "options": [
+        { "key": "A", "text": "single seller" },
+        { "key": "B", "text": "identical products" },
+        { "key": "C", "text": "product differentiation" },
+        { "key": "D", "text": "price control by government" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 132,
+      "question": "Which activity links producers and consumers?",
+      "options": [
+        { "key": "A", "text": "marketing" },
+        { "key": "B", "text": "manufacturing" },
+        { "key": "C", "text": "accounting" },
+        { "key": "D", "text": "auditing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 133,
+      "question": "Which factor influences price most?",
+      "options": [
+        { "key": "A", "text": "demand and supply" },
+        { "key": "B", "text": "advertising" },
+        { "key": "C", "text": "packaging" },
+        { "key": "D", "text": "promotion" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 134,
+      "question": "Which of the following goods satisfy wants directly?",
+      "options": [
+        { "key": "A", "text": "capital goods" },
+        { "key": "B", "text": "producer goods" },
+        { "key": "C", "text": "consumer goods" },
+        { "key": "D", "text": "industrial goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Which of these is a reason for conducting market research?",
+      "options": [
+        { "key": "A", "text": "increase taxes" },
+        { "key": "B", "text": "understand consumer needs" },
+        { "key": "C", "text": "reduce competition" },
+        { "key": "D", "text": "close the market" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 136,
+      "question": "Which of the following is an advantage of advertising?",
+      "options": [
+        { "key": "A", "text": "it is expensive" },
+        { "key": "B", "text": "it creates awareness" },
+        { "key": "C", "text": "it deceives consumers" },
+        { "key": "D", "text": "it increases cost only" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 137,
+      "question": "Which marketing activity adds time utility?",
+      "options": [
+        { "key": "A", "text": "financing" },
+        { "key": "B", "text": "warehousing" },
+        { "key": "C", "text": "transportation" },
+        { "key": "D", "text": "promotion" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "Which of the following is a retail function?",
+      "options": [
+        { "key": "A", "text": "manufacturing" },
+        { "key": "B", "text": "breaking bulk" },
+        { "key": "C", "text": "production planning" },
+        { "key": "D", "text": "importation only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 139,
+      "question": "Which of the following best explains supply?",
+      "options": [
+        { "key": "A", "text": "total demand" },
+        { "key": "B", "text": "quantity offered for sale at a price" },
+        { "key": "C", "text": "consumer income" },
+        { "key": "D", "text": "price of goods only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Which of these is an example of outdoor advertising?",
+      "options": [
+        { "key": "A", "text": "radio" },
+        { "key": "B", "text": "television" },
+        { "key": "C", "text": "billboard" },
+        { "key": "D", "text": "newspaper" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 141,
+      "question": "Which of the following increases customer loyalty?",
+      "options": [
+        { "key": "A", "text": "poor service" },
+        { "key": "B", "text": "customer satisfaction" },
+        { "key": "C", "text": "high prices" },
+        { "key": "D", "text": "limited availability" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 142,
+      "question": "Which of these is a benefit of middlemen?",
+      "options": [
+        { "key": "A", "text": "increase cost of goods" },
+        { "key": "B", "text": "reduce producer workload" },
+        { "key": "C", "text": "create scarcity" },
+        { "key": "D", "text": "reduce demand" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 143,
+      "question": "Which type of market sells directly to consumers?",
+      "options": [
+        { "key": "A", "text": "wholesale market" },
+        { "key": "B", "text": "retail market" },
+        { "key": "C", "text": "capital market" },
+        { "key": "D", "text": "money market" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Which of the following is a reason for product failure?",
+      "options": [
+        { "key": "A", "text": "effective promotion" },
+        { "key": "B", "text": "poor market research" },
+        { "key": "C", "text": "good packaging" },
+        { "key": "D", "text": "fair pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Which of the following describes consumer sovereignty?",
+      "options": [
+        { "key": "A", "text": "producers decide what to produce" },
+        { "key": "B", "text": "government controls production" },
+        { "key": "C", "text": "consumers determine what is produced" },
+        { "key": "D", "text": "retailers control prices" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 146,
+      "question": "Which of the following adds place utility?",
+      "options": [
+        { "key": "A", "text": "advertising" },
+        { "key": "B", "text": "transportation" },
+        { "key": "C", "text": "warehousing" },
+        { "key": "D", "text": "financing" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 147,
+      "question": "Which of these is an objective of pricing?",
+      "options": [
+        { "key": "A", "text": "increase losses" },
+        { "key": "B", "text": "maximize profit" },
+        { "key": "C", "text": "reduce quality" },
+        { "key": "D", "text": "eliminate customers" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Which of the following is a promotional strategy?",
+      "options": [
+        { "key": "A", "text": "branding" },
+        { "key": "B", "text": "discount" },
+        { "key": "C", "text": "warehousing" },
+        { "key": "D", "text": "financing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "Which of these is an example of inferior goods?",
+      "options": [
+        { "key": "A", "text": "luxury cars" },
+        { "key": "B", "text": "used clothes" },
+        { "key": "C", "text": "television" },
+        { "key": "D", "text": "refrigerator" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "Which of the following helps firms retain customers?",
+      "options": [
+        { "key": "A", "text": "poor service" },
+        { "key": "B", "text": "effective after-sales service" },
+        { "key": "C", "text": "high prices" },
+        { "key": "D", "text": "limited supply" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 151,
+      "question": "Which market involves government purchases?",
+      "options": [
+        { "key": "A", "text": "consumer market" },
+        { "key": "B", "text": "industrial market" },
+        { "key": "C", "text": "government market" },
+        { "key": "D", "text": "retail market" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 152,
+      "question": "Which of the following is a feature of perfect competition?",
+      "options": [
+        { "key": "A", "text": "price control by firms" },
+        { "key": "B", "text": "many buyers and sellers" },
+        { "key": "C", "text": "product differentiation" },
+        { "key": "D", "text": "barrier to entry" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 153,
+      "question": "Which of these increases sales volume?",
+      "options": [
+        { "key": "A", "text": "price increase" },
+        { "key": "B", "text": "effective promotion" },
+        { "key": "C", "text": "poor distribution" },
+        { "key": "D", "text": "scarcity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 154,
+      "question": "Which of the following is a major objective of advertising?",
+      "options": [
+        { "key": "A", "text": "discourage competition" },
+        { "key": "B", "text": "inform and remind consumers" },
+        { "key": "C", "text": "reduce quality" },
+        { "key": "D", "text": "increase storage" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Which of the following ensures product availability?",
+      "options": [
+        { "key": "A", "text": "promotion" },
+        { "key": "B", "text": "distribution" },
+        { "key": "C", "text": "branding" },
+        { "key": "D", "text": "pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 156,
+      "question": "Marketing ends when",
+      "options": [
+        { "key": "A", "text": "goods are produced" },
+        { "key": "B", "text": "goods are advertised" },
+        { "key": "C", "text": "customers are satisfied" },
+        { "key": "D", "text": "prices are fixed" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 157,
+      "question": "Marketing is best defined as the process of",
+      "options": [
+        { "key": "A", "text": "selling goods at high prices" },
+        { "key": "B", "text": "producing goods for consumers" },
+        { "key": "C", "text": "identifying and satisfying consumer needs profitably" },
+        { "key": "D", "text": "advertising goods and services" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 158,
+      "question": "Which of the following is NOT a function of marketing?",
+      "options": [
+        { "key": "A", "text": "Buying" },
+        { "key": "B", "text": "Selling" },
+        { "key": "C", "text": "Production" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "The element of marketing mix that deals with distribution is",
+      "options": [
+        { "key": "A", "text": "Product" },
+        { "key": "B", "text": "Price" },
+        { "key": "C", "text": "Promotion" },
+        { "key": "D", "text": "Place" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 160,
+      "question": "An agent who sells goods on behalf of a producer and earns commission is called a",
+      "options": [
+        { "key": "A", "text": "Retailer" },
+        { "key": "B", "text": "Wholesaler" },
+        { "key": "C", "text": "Broker" },
+        { "key": "D", "text": "Consumer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 161,
+      "question": "Which of the following is a modern method of marketing?",
+      "options": [
+        { "key": "A", "text": "Hawking" },
+        { "key": "B", "text": "Barter" },
+        { "key": "C", "text": "E-commerce" },
+        { "key": "D", "text": "Peddling" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "The marketing function that involves storing goods until they are needed is",
+      "options": [
+        { "key": "A", "text": "Transportation" },
+        { "key": "B", "text": "Warehousing" },
+        { "key": "C", "text": "Promotion" },
+        { "key": "D", "text": "Standardization" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "Which of the following is an example of a durable good?",
+      "options": [
+        { "key": "A", "text": "Bread" },
+        { "key": "B", "text": "Milk" },
+        { "key": "C", "text": "Television" },
+        { "key": "D", "text": "Soap" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "Advertising through radio and television is called",
+      "options": [
+        { "key": "A", "text": "Outdoor advertising" },
+        { "key": "B", "text": "Print advertising" },
+        { "key": "C", "text": "Broadcast advertising" },
+        { "key": "D", "text": "Transit advertising" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "Which pricing strategy involves selling goods below cost price?",
+      "options": [
+        { "key": "A", "text": "Skimming pricing" },
+        { "key": "B", "text": "Penetration pricing" },
+        { "key": "C", "text": "Cost-plus pricing" },
+        { "key": "D", "text": "Psychological pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 166,
+      "question": "The group of people a firm directs its marketing efforts toward is known as",
+      "options": [
+        { "key": "A", "text": "Market structure" },
+        { "key": "B", "text": "Target market" },
+        { "key": "C", "text": "Market segment" },
+        { "key": "D", "text": "Consumer group" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 167,
+      "question": "The process of identifying consumer needs and satisfying them profitably is known as",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Marketing" },
+        { "key": "C", "text": "Selling" },
+        { "key": "D", "text": "Distribution" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "Which of the following is an example of durable goods?",
+      "options": [
+        { "key": "A", "text": "Bread" },
+        { "key": "B", "text": "Milk" },
+        { "key": "C", "text": "Television" },
+        { "key": "D", "text": "Soap" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 169,
+      "question": "A person who buys goods in small quantities for resale is a",
+      "options": [
+        { "key": "A", "text": "Wholesaler" },
+        { "key": "B", "text": "Retailer" },
+        { "key": "C", "text": "Producer" },
+        { "key": "D", "text": "Agent" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 170,
+      "question": "The main aim of packaging is to",
+      "options": [
+        { "key": "A", "text": "Increase prices" },
+        { "key": "B", "text": "Attract consumers and protect goods" },
+        { "key": "C", "text": "Reduce advertising" },
+        { "key": "D", "text": "Encourage hoarding" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 171,
+      "question": "Which of the following is NOT a function of advertising?",
+      "options": [
+        { "key": "A", "text": "Creating awareness" },
+        { "key": "B", "text": "Persuading buyers" },
+        { "key": "C", "text": "Increasing production" },
+        { "key": "D", "text": "Providing information" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "Goods bought for further production are called",
+      "options": [
+        { "key": "A", "text": "Consumer goods" },
+        { "key": "B", "text": "Finished goods" },
+        { "key": "C", "text": "Industrial goods" },
+        { "key": "D", "text": "Convenience goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 173,
+      "question": "Which of the following is a factor affecting consumer demand?",
+      "options": [
+        { "key": "A", "text": "Advertising cost" },
+        { "key": "B", "text": "Consumer income" },
+        { "key": "C", "text": "Storage cost" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "The middleman who links producers and retailers is the",
+      "options": [
+        { "key": "A", "text": "Retailer" },
+        { "key": "B", "text": "Consumer" },
+        { "key": "C", "text": "Wholesaler" },
+        { "key": "D", "text": "Manufacturer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Which of the following is a pricing strategy?",
+      "options": [
+        { "key": "A", "text": "Market penetration pricing" },
+        { "key": "B", "text": "Branding" },
+        { "key": "C", "text": "Warehousing" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 176,
+      "question": "Market research helps firms to",
+      "options": [
+        { "key": "A", "text": "Predict consumer behavior" },
+        { "key": "B", "text": "Eliminate competition" },
+        { "key": "C", "text": "Fix prices arbitrarily" },
+        { "key": "D", "text": "Avoid production" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 177,
+      "question": "Which of the following is an example of after-sales service?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Warranty" },
+        { "key": "C", "text": "Branding" },
+        { "key": "D", "text": "Packaging" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 178,
+      "question": "A label on a product mainly provides",
+      "options": [
+        { "key": "A", "text": "Entertainment" },
+        { "key": "B", "text": "Information" },
+        { "key": "C", "text": "Decoration" },
+        { "key": "D", "text": "Pricing only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 179,
+      "question": "Which of the following markets deals in shares and stocks?",
+      "options": [
+        { "key": "A", "text": "Money market" },
+        { "key": "B", "text": "Commodity market" },
+        { "key": "C", "text": "Capital market" },
+        { "key": "D", "text": "Retail market" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 180,
+      "question": "The act of buying goods in large quantities and selling in small quantities is",
+      "options": [
+        { "key": "A", "text": "Manufacturing" },
+        { "key": "B", "text": "Retailing" },
+        { "key": "C", "text": "Wholesaling" },
+        { "key": "D", "text": "Advertising" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 181,
+      "question": "Which of the following is a function of branding?",
+      "options": [
+        { "key": "A", "text": "Identifying products" },
+        { "key": "B", "text": "Reducing production cost" },
+        { "key": "C", "text": "Increasing storage space" },
+        { "key": "D", "text": "Eliminating competitors" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 182,
+      "question": "The demand for a product depends largely on",
+      "options": [
+        { "key": "A", "text": "Consumer income" },
+        { "key": "B", "text": "Producer profit" },
+        { "key": "C", "text": "Storage facilities" },
+        { "key": "D", "text": "Advertising agencies" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 183,
+      "question": "Which of the following is NOT a type of consumer goods?",
+      "options": [
+        { "key": "A", "text": "Convenience goods" },
+        { "key": "B", "text": "Shopping goods" },
+        { "key": "C", "text": "Industrial goods" },
+        { "key": "D", "text": "Specialty goods" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 184,
+      "question": "One advantage of advertising is that it",
+      "options": [
+        { "key": "A", "text": "Eliminates competition" },
+        { "key": "B", "text": "Creates product awareness" },
+        { "key": "C", "text": "Reduces product quality" },
+        { "key": "D", "text": "Increases storage problems" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 185,
+      "question": "The movement of goods from producer to consumer is called",
+      "options": [
+        { "key": "A", "text": "Production" },
+        { "key": "B", "text": "Marketing" },
+        { "key": "C", "text": "Distribution" },
+        { "key": "D", "text": "Advertising" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 186,
+      "question": "Which pricing strategy involves setting a low price to gain market share?",
+      "options": [
+        { "key": "A", "text": "Skimming pricing" },
+        { "key": "B", "text": "Penetration pricing" },
+        { "key": "C", "text": "Competitive pricing" },
+        { "key": "D", "text": "Cost-plus pricing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 187,
+      "question": "Retailers perform which of the following functions?",
+      "options": [
+        { "key": "A", "text": "Bulk breaking" },
+        { "key": "B", "text": "Manufacturing" },
+        { "key": "C", "text": "Brand creation" },
+        { "key": "D", "text": "Mining" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 188,
+      "question": "The reward for taking business risks is",
+      "options": [
+        { "key": "A", "text": "Salary" },
+        { "key": "B", "text": "Wages" },
+        { "key": "C", "text": "Profit" },
+        { "key": "D", "text": "Commission" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "Which of the following promotes sales directly?",
+      "options": [
+        { "key": "A", "text": "Personal selling" },
+        { "key": "B", "text": "Production" },
+        { "key": "C", "text": "Warehousing" },
+        { "key": "D", "text": "Financing" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 190,
+      "question": "Which marketing activity involves giving goods free to promote sales?",
+      "options": [
+        { "key": "A", "text": "Branding" },
+        { "key": "B", "text": "Advertising" },
+        { "key": "C", "text": "Sales promotion" },
+        { "key": "D", "text": "Packaging" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 191,
+      "question": "The person who determines what to buy and how much to buy is the",
+      "options": [
+        { "key": "A", "text": "Producer" },
+        { "key": "B", "text": "Consumer" },
+        { "key": "C", "text": "Wholesaler" },
+        { "key": "D", "text": "Agent" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 192,
+      "question": "Which of the following is an example of a service?",
+      "options": [
+        { "key": "A", "text": "Television" },
+        { "key": "B", "text": "Haircut" },
+        { "key": "C", "text": "Shoe" },
+        { "key": "D", "text": "Refrigerator" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 193,
+      "question": "The main objective of marketing is to",
+      "options": [
+        { "key": "A", "text": "Make profit through customer satisfaction" },
+        { "key": "B", "text": "Eliminate competition" },
+        { "key": "C", "text": "Control consumers" },
+        { "key": "D", "text": "Increase prices" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "Which of the following is NOT part of the marketing mix?",
+      "options": [
+        { "key": "A", "text": "Product" },
+        { "key": "B", "text": "Price" },
+        { "key": "C", "text": "Promotion" },
+        { "key": "D", "text": "Production" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 195,
+      "question": "Which market structure has many buyers and sellers?",
+      "options": [
+        { "key": "A", "text": "Monopoly" },
+        { "key": "B", "text": "Oligopoly" },
+        { "key": "C", "text": "Perfect competition" },
+        { "key": "D", "text": "Monopsony" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 196,
+      "question": "Which of the following is a persuasive advertisement?",
+      "options": [
+        { "key": "A", "text": "Public notice" },
+        { "key": "B", "text": "Political message" },
+        { "key": "C", "text": "Product comparison advert" },
+        { "key": "D", "text": "Obituary notice" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 197,
+      "question": "Which of the following increases demand for a product?",
+      "options": [
+        { "key": "A", "text": "Increase in price" },
+        { "key": "B", "text": "Effective advertising" },
+        { "key": "C", "text": "Poor quality" },
+        { "key": "D", "text": "Scarcity" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 198,
+      "question": "Which of the following sells directly to final consumers?",
+      "options": [
+        { "key": "A", "text": "Producer" },
+        { "key": "B", "text": "Wholesaler" },
+        { "key": "C", "text": "Retailer" },
+        { "key": "D", "text": "Importer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 199,
+      "question": "Which marketing activity helps to stabilize prices?",
+      "options": [
+        { "key": "A", "text": "Advertising" },
+        { "key": "B", "text": "Warehousing" },
+        { "key": "C", "text": "Branding" },
+        { "key": "D", "text": "Packaging" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 200,
+      "question": "The transfer of ownership of goods is referred to as",
+      "options": [
+        { "key": "A", "text": "Promotion" },
+        { "key": "B", "text": "Exchange" },
+        { "key": "C", "text": "Production" },
+        { "key": "D", "text": "Transportation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 201,
+      "question": "Which of the following is a feature of consumer market?",
+      "options": [
+        { "key": "A", "text": "Bulk purchase" },
+        { "key": "B", "text": "Small quantity purchase" },
+        { "key": "C", "text": "Industrial use" },
+        { "key": "D", "text": "Raw material purchase" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 202,
+      "question": "The buying and selling of goods over the internet is called",
+      "options": [
+        { "key": "A", "text": "Retailing" },
+        { "key": "B", "text": "E-marketing" },
+        { "key": "C", "text": "Wholesaling" },
+        { "key": "D", "text": "Barter" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 203,
+      "question": "Which of the following is a disadvantage of advertising?",
+      "options": [
+        { "key": "A", "text": "Creates awareness" },
+        { "key": "B", "text": "Encourages competition" },
+        { "key": "C", "text": "Can be misleading" },
+        { "key": "D", "text": "Improves sales" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 204,
+      "question": "What determines the price of goods under perfect competition?",
+      "options": [
+        { "key": "A", "text": "Government" },
+        { "key": "B", "text": "Producer" },
+        { "key": "C", "text": "Demand and supply" },
+        { "key": "D", "text": "Retailers" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 205,
+      "question": "Which of the following is a modern method of advertising?",
+      "options": [
+        { "key": "A", "text": "Town crier" },
+        { "key": "B", "text": "Internet" },
+        { "key": "C", "text": "Trade fair" },
+        { "key": "D", "text": "Hawking" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 206,
+      "question": "Which of the following encourages brand loyalty?",
+      "options": [
+        { "key": "A", "text": "Consistent quality" },
+        { "key": "B", "text": "High prices" },
+        { "key": "C", "text": "Scarcity" },
+        { "key": "D", "text": "Poor service" }
+      ],
+      "correct_answer": "A"
     }
   ]
 }
