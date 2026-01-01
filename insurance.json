@@ -62,6 +62,1937 @@
         { "key": "D", "text": "Accident insurance" }
       ],
       "correct_answer": "C"
+    },
+
+    {
+      "id": 6,
+      "question": "Insurance is a contract between the insurer and the",
+      "options": [
+        { "key": "A", "text": "Broker" },
+        { "key": "B", "text": "Agent" },
+        { "key": "C", "text": "Insured" },
+        { "key": "D", "text": "Government" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "The party that provides compensation in an insurance contract is the",
+      "options": [
+        { "key": "A", "text": "Insurer" },
+        { "key": "B", "text": "Insured" },
+        { "key": "C", "text": "Beneficiary" },
+        { "key": "D", "text": "Broker" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "The payment made by the insured to keep an insurance policy active is called",
+      "options": [
+        { "key": "A", "text": "Commission" },
+        { "key": "B", "text": "Bonus" },
+        { "key": "C", "text": "Premium" },
+        { "key": "D", "text": "Indemnity" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "The principle which states that only actual loss should be compensated is",
+      "options": [
+        { "key": "A", "text": "Utmost good faith" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Contribution" },
+        { "key": "D", "text": "Subrogation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT an insurable risk?",
+      "options": [
+        { "key": "A", "text": "Fire" },
+        { "key": "B", "text": "Accident" },
+        { "key": "C", "text": "Speculation" },
+        { "key": "D", "text": "Theft" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Insurance that covers losses caused by fire outbreak is known as",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Liability insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "The principle of insurance that requires disclosure of all material facts is",
+      "options": [
+        { "key": "A", "text": "Indemnity" },
+        { "key": "B", "text": "Subrogation" },
+        { "key": "C", "text": "Utmost good faith" },
+        { "key": "D", "text": "Contribution" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which insurance policy compensates dependants after the death of the insured?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Insurance helps business mainly by",
+      "options": [
+        { "key": "A", "text": "Increasing profit" },
+        { "key": "B", "text": "Reducing risk" },
+        { "key": "C", "text": "Increasing competition" },
+        { "key": "D", "text": "Eliminating losses" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "An insurance policy that covers goods in transit by sea is",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "The right of an insurer to take over the legal rights of the insured is called",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Subrogation" },
+        { "key": "C", "text": "Indemnity" },
+        { "key": "D", "text": "Insurable interest" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "The person who arranges insurance policies for clients is the",
+      "options": [
+        { "key": "A", "text": "Insurer" },
+        { "key": "B", "text": "Agent" },
+        { "key": "C", "text": "Beneficiary" },
+        { "key": "D", "text": "Insured" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following must exist before insurance can be effected?",
+      "options": [
+        { "key": "A", "text": "Premium" },
+        { "key": "B", "text": "Risk" },
+        { "key": "C", "text": "Compensation" },
+        { "key": "D", "text": "Profit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Insurance that protects against third party claims is",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Liability insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "The document which outlines the terms of an insurance contract is called",
+      "options": [
+        { "key": "A", "text": "Certificate" },
+        { "key": "B", "text": "Policy" },
+        { "key": "C", "text": "Premium note" },
+        { "key": "D", "text": "Cover note" }
+      ],
+      "correct_answer": "B"
+    },
+
+    { "id": 21, "question": "Motor insurance mainly covers", "options": [ { "key": "A", "text": "Life" }, { "key": "B", "text": "Vehicles" }, { "key": "C", "text": "Buildings" }, { "key": "D", "text": "Goods" } ], "correct_answer": "B" },
+    { "id": 22, "question": "Which principle prevents the insured from profiting from a loss?", "options": [ { "key": "A", "text": "Contribution" }, { "key": "B", "text": "Indemnity" }, { "key": "C", "text": "Subrogation" }, { "key": "D", "text": "Utmost good faith" } ], "correct_answer": "B" },
+    { "id": 23, "question": "The collective sharing of risk by many people is known as", "options": [ { "key": "A", "text": "Pooling of risks" }, { "key": "B", "text": "Risk avoidance" }, { "key": "C", "text": "Risk elimination" }, { "key": "D", "text": "Risk creation" } ], "correct_answer": "A" },
+    { "id": 24, "question": "Which insurance is compulsory for vehicle owners in Nigeria?", "options": [ { "key": "A", "text": "Fire" }, { "key": "B", "text": "Comprehensive" }, { "key": "C", "text": "Third party" }, { "key": "D", "text": "Life" } ], "correct_answer": "C" },
+    { "id": 25, "question": "The amount payable after a loss is assessed is called", "options": [ { "key": "A", "text": "Premium" }, { "key": "B", "text": "Claim" }, { "key": "C", "text": "Bonus" }, { "key": "D", "text": "Commission" } ], "correct_answer": "B" },
+    { "id": 26, "question": "Insurance does NOT cover losses that are", "options": [ { "key": "A", "text": "Accidental" }, { "key": "B", "text": "Measurable" }, { "key": "C", "text": "Speculative" }, { "key": "D", "text": "Uncertain" } ], "correct_answer": "C" },
+    { "id": 27, "question": "Which insurance covers employees against workplace injuries?", "options": [ { "key": "A", "text": "Life" }, { "key": "B", "text": "Workmen compensation" }, { "key": "C", "text": "Fire" }, { "key": "D", "text": "Marine" } ], "correct_answer": "B" },
+    { "id": 28, "question": "The benefit paid to the beneficiaries of life insurance is called", "options": [ { "key": "A", "text": "Indemnity" }, { "key": "B", "text": "Sum assured" }, { "key": "C", "text": "Premium" }, { "key": "D", "text": "Commission" } ], "correct_answer": "B" },
+    { "id": 29, "question": "Which of the following is an advantage of insurance?", "options": [ { "key": "A", "text": "Eliminates risk" }, { "key": "B", "text": "Reduces uncertainty" }, { "key": "C", "text": "Guarantees profit" }, { "key": "D", "text": "Stops accidents" } ], "correct_answer": "B" },
+    { "id": 30, "question": "Insurance premium is usually paid", "options": [ { "key": "A", "text": "After loss" }, { "key": "B", "text": "Before loss" }, { "key": "C", "text": "During loss" }, { "key": "D", "text": "At maturity" } ], "correct_answer": "B" },
+
+    { "id": 31, "question": "Which of the following is not a function of insurance?", "options": [ { "key": "A", "text": "Risk spreading" }, { "key": "B", "text": "Compensation" }, { "key": "C", "text": "Profit sharing" }, { "key": "D", "text": "Loss recovery" } ], "correct_answer": "C" },
+    { "id": 32, "question": "The first step in effecting insurance is", "options": [ { "key": "A", "text": "Payment of claims" }, { "key": "B", "text": "Proposal form" }, { "key": "C", "text": "Issuing policy" }, { "key": "D", "text": "Risk inspection" } ], "correct_answer": "B" },
+    { "id": 33, "question": "Which insurance policy pays after a fixed period or death?", "options": [ { "key": "A", "text": "Fire" }, { "key": "B", "text": "Whole life" }, { "key": "C", "text": "Endowment" }, { "key": "D", "text": "Marine" } ], "correct_answer": "C" },
+    { "id": 34, "question": "The amount stated in a life insurance policy is called", "options": [ { "key": "A", "text": "Indemnity" }, { "key": "B", "text": "Premium" }, { "key": "C", "text": "Sum assured" }, { "key": "D", "text": "Claim" } ], "correct_answer": "C" },
+    { "id": 35, "question": "An insurance company makes profit from", "options": [ { "key": "A", "text": "Claims" }, { "key": "B", "text": "Premiums" }, { "key": "C", "text": "Compensation" }, { "key": "D", "text": "Losses" } ], "correct_answer": "B" },
+    { "id": 36, "question": "Which principle applies when more than one insurer covers the same risk?", "options": [ { "key": "A", "text": "Indemnity" }, { "key": "B", "text": "Contribution" }, { "key": "C", "text": "Subrogation" }, { "key": "D", "text": "Good faith" } ], "correct_answer": "B" },
+    { "id": 37, "question": "Insurance cannot be taken on property without", "options": [ { "key": "A", "text": "Premium" }, { "key": "B", "text": "Insurable interest" }, { "key": "C", "text": "Policy" }, { "key": "D", "text": "Compensation" } ], "correct_answer": "B" },
+    { "id": 38, "question": "Marine insurance covers loss by", "options": [ { "key": "A", "text": "Fire only" }, { "key": "B", "text": "Storm and piracy" }, { "key": "C", "text": "Accident only" }, { "key": "D", "text": "Theft only" } ], "correct_answer": "B" },
+    { "id": 39, "question": "The major purpose of insurance is to", "options": [ { "key": "A", "text": "Make profit" }, { "key": "B", "text": "Reduce risk" }, { "key": "C", "text": "Create risk" }, { "key": "D", "text": "Encourage loss" } ], "correct_answer": "B" },
+    { "id": 40, "question": "Insurance against loss of income due to illness is", "options": [ { "key": "A", "text": "Health insurance" }, { "key": "B", "text": "Fire insurance" }, { "key": "C", "text": "Life insurance" }, { "key": "D", "text": "Marine insurance" } ], "correct_answer": "A" },
+
+    { "id": 41, "question": "Which of the following is NOT a type of insurance?", "options": [ { "key": "A", "text": "Life" }, { "key": "B", "text": "Fire" }, { "key": "C", "text": "Trading" }, { "key": "D", "text": "Marine" } ], "correct_answer": "C" },
+    { "id": 42, "question": "The insurer’s promise to compensate is called", "options": [ { "key": "A", "text": "Policy" }, { "key": "B", "text": "Indemnity" }, { "key": "C", "text": "Proposal" }, { "key": "D", "text": "Premium" } ], "correct_answer": "B" },
+    { "id": 43, "question": "Which insurance protects against legal claims?", "options": [ { "key": "A", "text": "Life" }, { "key": "B", "text": "Liability" }, { "key": "C", "text": "Fire" }, { "key": "D", "text": "Marine" } ], "correct_answer": "B" },
+    { "id": 44, "question": "Insurance encourages savings through", "options": [ { "key": "A", "text": "Premium payment" }, { "key": "B", "text": "Claims" }, { "key": "C", "text": "Loss" }, { "key": "D", "text": "Fire" } ], "correct_answer": "A" },
+    { "id": 45, "question": "Which insurance covers aircraft?", "options": [ { "key": "A", "text": "Aviation insurance" }, { "key": "B", "text": "Marine insurance" }, { "key": "C", "text": "Fire insurance" }, { "key": "D", "text": "Motor insurance" } ], "correct_answer": "A" },
+    { "id": 46, "question": "Which of these is NOT a principle of insurance?", "options": [ { "key": "A", "text": "Utmost good faith" }, { "key": "B", "text": "Contribution" }, { "key": "C", "text": "Indemnity" }, { "key": "D", "text": "Profit maximization" } ], "correct_answer": "D" },
+    { "id": 47, "question": "An insurance cover for business premises is", "options": [ { "key": "A", "text": "Fire insurance" }, { "key": "B", "text": "Life insurance" }, { "key": "C", "text": "Motor insurance" }, { "key": "D", "text": "Marine insurance" } ], "correct_answer": "A" },
+    { "id": 48, "question": "The insured must have financial interest in the subject matter. This is called",
+      "options": [
+        { "key": "A", "text": "Utmost good faith" },
+        { "key": "B", "text": "Insurable interest" },
+        { "key": "C", "text": "Contribution" },
+        { "key": "D", "text": "Subrogation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "The compensation paid by an insurance company is known as",
+      "options": [
+        { "key": "A", "text": "Premium" },
+        { "key": "B", "text": "Claim" },
+        { "key": "C", "text": "Bonus" },
+        { "key": "D", "text": "Commission" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following best describes insurance?",
+      "options": [
+        { "key": "A", "text": "Profit making contract" },
+        { "key": "B", "text": "Risk management arrangement" },
+        { "key": "C", "text": "Saving scheme" },
+        { "key": "D", "text": "Loan agreement" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "The person who benefits from a life insurance policy is the",
+      "options": [
+        { "key": "A", "text": "Agent" },
+        { "key": "B", "text": "Beneficiary" },
+        { "key": "C", "text": "Insurer" },
+        { "key": "D", "text": "Broker" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Insurance helps to encourage investment by",
+      "options": [
+        { "key": "A", "text": "Increasing risk" },
+        { "key": "B", "text": "Reducing fear of loss" },
+        { "key": "C", "text": "Guaranteeing profit" },
+        { "key": "D", "text": "Preventing accidents" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Which of the following insurances is compulsory in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Third party motor insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "The insurer compensates the insured after",
+      "options": [
+        { "key": "A", "text": "Profit" },
+        { "key": "B", "text": "Loss occurs" },
+        { "key": "C", "text": "Premium payment only" },
+        { "key": "D", "text": "Policy signing" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Insurance promotes economic stability mainly by",
+      "options": [
+        { "key": "A", "text": "Eliminating losses" },
+        { "key": "B", "text": "Sharing risk" },
+        { "key": "C", "text": "Stopping accidents" },
+        { "key": "D", "text": "Increasing prices" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 56,
+      "question": "Insurance is best described as a contract between",
+      "options": [
+        { "key": "A", "text": "Two friends" },
+        { "key": "B", "text": "The insurer and the insured" },
+        { "key": "C", "text": "Buyer and seller" },
+        { "key": "D", "text": "Employer and employee" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "The person who takes an insurance policy is called the",
+      "options": [
+        { "key": "A", "text": "Insurer" },
+        { "key": "B", "text": "Beneficiary" },
+        { "key": "C", "text": "Insured" },
+        { "key": "D", "text": "Underwriter" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "The amount paid periodically to keep an insurance policy active is known as",
+      "options": [
+        { "key": "A", "text": "Commission" },
+        { "key": "B", "text": "Dividend" },
+        { "key": "C", "text": "Premium" },
+        { "key": "D", "text": "Claim" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is NOT a principle of insurance?",
+      "options": [
+        { "key": "A", "text": "Utmost good faith" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Profit maximization" },
+        { "key": "D", "text": "Insurable interest" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 60,
+      "question": "The principle that requires both parties to disclose all material facts is known as",
+      "options": [
+        { "key": "A", "text": "Indemnity" },
+        { "key": "B", "text": "Utmost good faith" },
+        { "key": "C", "text": "Contribution" },
+        { "key": "D", "text": "Subrogation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "Which insurance policy provides compensation for loss by fire?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Insurance helps businesses mainly by",
+      "options": [
+        { "key": "A", "text": "Increasing profits" },
+        { "key": "B", "text": "Eliminating risks" },
+        { "key": "C", "text": "Reducing financial losses" },
+        { "key": "D", "text": "Avoiding taxes" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Which of the following risks is insurable?",
+      "options": [
+        { "key": "A", "text": "Speculative risk" },
+        { "key": "B", "text": "Gambling risk" },
+        { "key": "C", "text": "Pure risk" },
+        { "key": "D", "text": "Business competition" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "The document that gives details of an insurance contract is called",
+      "options": [
+        { "key": "A", "text": "Proposal form" },
+        { "key": "B", "text": "Cover note" },
+        { "key": "C", "text": "Policy document" },
+        { "key": "D", "text": "Claim form" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "Which insurance policy covers risks related to sea transport?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 66,
+      "question": "Indemnity in insurance means",
+      "options": [
+        { "key": "A", "text": "Making profit from loss" },
+        { "key": "B", "text": "Restoring the insured to original position" },
+        { "key": "C", "text": "Sharing risks" },
+        { "key": "D", "text": "Paying double compensation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "Which insurance policy is compulsory for vehicle owners in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Third party motor insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 68,
+      "question": "The process of evaluating risks before accepting insurance is called",
+      "options": [
+        { "key": "A", "text": "Underwriting" },
+        { "key": "B", "text": "Reinsurance" },
+        { "key": "C", "text": "Subrogation" },
+        { "key": "D", "text": "Indemnity" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Which party receives compensation when a loss occurs?",
+      "options": [
+        { "key": "A", "text": "Insurer" },
+        { "key": "B", "text": "Broker" },
+        { "key": "C", "text": "Insured" },
+        { "key": "D", "text": "Agent" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Life insurance is different from other insurance policies because it",
+      "options": [
+        { "key": "A", "text": "Is compulsory" },
+        { "key": "B", "text": "Covers property" },
+        { "key": "C", "text": "Does not strictly follow indemnity" },
+        { "key": "D", "text": "Covers only accidents" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 71,
+      "question": "Which of the following is an advantage of insurance?",
+      "options": [
+        { "key": "A", "text": "Encourages gambling" },
+        { "key": "B", "text": "Promotes risk taking" },
+        { "key": "C", "text": "Provides peace of mind" },
+        { "key": "D", "text": "Eliminates loss completely" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 72,
+      "question": "An insurance agent mainly acts on behalf of the",
+      "options": [
+        { "key": "A", "text": "Insured" },
+        { "key": "B", "text": "Insurer" },
+        { "key": "C", "text": "Government" },
+        { "key": "D", "text": "Broker" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is NOT an insurance document?",
+      "options": [
+        { "key": "A", "text": "Policy document" },
+        { "key": "B", "text": "Cover note" },
+        { "key": "C", "text": "Receipt" },
+        { "key": "D", "text": "Waybill" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "Reinsurance refers to",
+      "options": [
+        { "key": "A", "text": "Insuring an already insured risk" },
+        { "key": "B", "text": "Transfer of risk by insured" },
+        { "key": "C", "text": "Sharing risk among insurers" },
+        { "key": "D", "text": "Avoiding insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Which insurance policy protects workers against workplace injuries?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Employer’s liability insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 76,
+      "question": "The right of an insurer to recover from a third party after compensation is called",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Subrogation" },
+        { "key": "D", "text": "Underwriting" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 77,
+      "question": "Which of the following is NOT covered under fire insurance?",
+      "options": [
+        { "key": "A", "text": "Lightning" },
+        { "key": "B", "text": "Explosion" },
+        { "key": "C", "text": "War" },
+        { "key": "D", "text": "Fire outbreak" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "The organization that regulates insurance business in Nigeria is",
+      "options": [
+        { "key": "A", "text": "CBN" },
+        { "key": "B", "text": "SEC" },
+        { "key": "C", "text": "NAICOM" },
+        { "key": "D", "text": "NDIC" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Which insurance policy covers loss of goods in transit by air?",
+      "options": [
+        { "key": "A", "text": "Motor insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Aviation insurance" },
+        { "key": "D", "text": "Life insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "The amount stated in an insurance policy as maximum compensation is called",
+      "options": [
+        { "key": "A", "text": "Premium" },
+        { "key": "B", "text": "Sum insured" },
+        { "key": "C", "text": "Indemnity" },
+        { "key": "D", "text": "Claim" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 81,
+      "question": "Which of the following risks is usually NOT insurable?",
+      "options": [
+        { "key": "A", "text": "Fire" },
+        { "key": "B", "text": "Death" },
+        { "key": "C", "text": "War" },
+        { "key": "D", "text": "Theft" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "Which policy protects against burglary?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Burglary insurance" },
+        { "key": "C", "text": "Life insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Insurance helps to promote savings mainly through",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "The proposal form in insurance is mainly used to",
+      "options": [
+        { "key": "A", "text": "Pay claims" },
+        { "key": "B", "text": "Assess risk" },
+        { "key": "C", "text": "Issue receipt" },
+        { "key": "D", "text": "Cancel policy" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "Which insurance policy compensates for loss of life?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Burglary insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 86,
+      "question": "Which of the following best describes an insurance claim?",
+      "options": [
+        { "key": "A", "text": "Amount paid as premium" },
+        { "key": "B", "text": "Request for compensation" },
+        { "key": "C", "text": "Transfer of risk" },
+        { "key": "D", "text": "Insurance proposal" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Which factor does NOT influence premium calculation?",
+      "options": [
+        { "key": "A", "text": "Nature of risk" },
+        { "key": "B", "text": "Age of insured" },
+        { "key": "C", "text": "Colour of property" },
+        { "key": "D", "text": "Value insured" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "The sharing of loss among many insured persons is called",
+      "options": [
+        { "key": "A", "text": "Risk pooling" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Subrogation" },
+        { "key": "D", "text": "Underwriting" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Which insurance policy covers damage caused by flood?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Flood insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is a benefit of reinsurance?",
+      "options": [
+        { "key": "A", "text": "Higher risk" },
+        { "key": "B", "text": "Reduced premium" },
+        { "key": "C", "text": "Reduced insurer's liability" },
+        { "key": "D", "text": "More claims" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 91,
+      "question": "Which insurance policy covers accidents involving vehicles?",
+      "options": [
+        { "key": "A", "text": "Motor insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Life insurance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Insurance brokerage firms mainly",
+      "options": [
+        { "key": "A", "text": "Work for insurers" },
+        { "key": "B", "text": "Work for insured persons" },
+        { "key": "C", "text": "Pay premiums" },
+        { "key": "D", "text": "Underwrite policies" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "The main aim of insurance is to",
+      "options": [
+        { "key": "A", "text": "Make profits" },
+        { "key": "B", "text": "Reduce uncertainty" },
+        { "key": "C", "text": "Create jobs" },
+        { "key": "D", "text": "Encourage spending" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Which policy protects goods stored in a warehouse?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Burglary insurance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Which insurance policy is long-term in nature?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Motor insurance" },
+        { "key": "D", "text": "Burglary insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 96,
+      "question": "Which insurance principle prevents double compensation?",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Utmost good faith" },
+        { "key": "C", "text": "Insurable interest" },
+        { "key": "D", "text": "Subrogation" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "An insurance contract becomes valid when",
+      "options": [
+        { "key": "A", "text": "Policy is proposed" },
+        { "key": "B", "text": "Premium is paid" },
+        { "key": "C", "text": "Loss occurs" },
+        { "key": "D", "text": "Agent is paid" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Which insurance policy compensates dependents after death?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Motor insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following best explains insurable interest?",
+      "options": [
+        { "key": "A", "text": "Desire to insure" },
+        { "key": "B", "text": "Financial interest in subject matter" },
+        { "key": "C", "text": "Possession of property" },
+        { "key": "D", "text": "Payment of premium" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "Which insurance policy covers professional negligence?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Professional indemnity insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 101,
+      "question": "The insurer’s promise to compensate is stated in the",
+      "options": [
+        { "key": "A", "text": "Proposal form" },
+        { "key": "B", "text": "Policy document" },
+        { "key": "C", "text": "Receipt" },
+        { "key": "D", "text": "Cover note" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Which type of insurance is compulsory for employers?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Employees’ compensation insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Insurance reduces fear mainly by",
+      "options": [
+        { "key": "A", "text": "Preventing accidents" },
+        { "key": "B", "text": "Providing compensation" },
+        { "key": "C", "text": "Avoiding risks" },
+        { "key": "D", "text": "Eliminating hazards" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Which insurance policy covers aircraft?",
+      "options": [
+        { "key": "A", "text": "Marine insurance" },
+        { "key": "B", "text": "Motor insurance" },
+        { "key": "C", "text": "Aviation insurance" },
+        { "key": "D", "text": "Life insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following best describes insurance?",
+      "options": [
+        { "key": "A", "text": "Profit making business" },
+        { "key": "B", "text": "Risk transfer mechanism" },
+        { "key": "C", "text": "Government activity" },
+        { "key": "D", "text": "Savings scheme" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 106,
+      "question": "Insurance can best be described as a method of",
+      "options": [
+        { "key": "A", "text": "Risk elimination" },
+        { "key": "B", "text": "Risk sharing" },
+        { "key": "C", "text": "Risk creation" },
+        { "key": "D", "text": "Profit making only" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Which of the following is NOT a function of insurance?",
+      "options": [
+        { "key": "A", "text": "Risk pooling" },
+        { "key": "B", "text": "Financial protection" },
+        { "key": "C", "text": "Wealth redistribution" },
+        { "key": "D", "text": "Investment guarantee" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 108,
+      "question": "The party that undertakes to compensate for loss is the",
+      "options": [
+        { "key": "A", "text": "Insured" },
+        { "key": "B", "text": "Agent" },
+        { "key": "C", "text": "Broker" },
+        { "key": "D", "text": "Insurer" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 109,
+      "question": "Which of the following risks is most suitable for insurance?",
+      "options": [
+        { "key": "A", "text": "Business loss due to competition" },
+        { "key": "B", "text": "Loss from gambling" },
+        { "key": "C", "text": "Fire outbreak" },
+        { "key": "D", "text": "Speculative investment loss" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "Which principle of insurance prevents the insured from making profit?",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Utmost good faith" },
+        { "key": "D", "text": "Subrogation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 111,
+      "question": "A person who helps clients find suitable insurance policies is called a",
+      "options": [
+        { "key": "A", "text": "Underwriter" },
+        { "key": "B", "text": "Loss adjuster" },
+        { "key": "C", "text": "Insurance broker" },
+        { "key": "D", "text": "Claim officer" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Which document serves as temporary evidence of insurance?",
+      "options": [
+        { "key": "A", "text": "Policy document" },
+        { "key": "B", "text": "Proposal form" },
+        { "key": "C", "text": "Cover note" },
+        { "key": "D", "text": "Receipt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Which insurance policy is compulsory for employers in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Employees’ compensation insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "The transfer of rights from the insured to the insurer is known as",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Subrogation" },
+        { "key": "C", "text": "Indemnity" },
+        { "key": "D", "text": "Reinsurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Which of the following policies covers risks on land and sea?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Life insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 116,
+      "question": "Which of the following best explains insurable interest?",
+      "options": [
+        { "key": "A", "text": "Ownership of property" },
+        { "key": "B", "text": "Financial loss if damage occurs" },
+        { "key": "C", "text": "Payment of premium" },
+        { "key": "D", "text": "Signing of proposal form" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 117,
+      "question": "Which type of insurance policy covers theft by force?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Burglary insurance" },
+        { "key": "C", "text": "Life insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Which of the following is a benefit of insurance to businesses?",
+      "options": [
+        { "key": "A", "text": "Guaranteed profit" },
+        { "key": "B", "text": "Elimination of risks" },
+        { "key": "C", "text": "Continuity of business" },
+        { "key": "D", "text": "Price control" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "The organization that supervises insurance companies in Nigeria is",
+      "options": [
+        { "key": "A", "text": "CBN" },
+        { "key": "B", "text": "SEC" },
+        { "key": "C", "text": "NAICOM" },
+        { "key": "D", "text": "NDIC" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 120,
+      "question": "Which insurance policy provides compensation at death or maturity?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Burglary insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 121,
+      "question": "Which class of insurance provides compensation for damage to vehicles?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Motor insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "The amount paid periodically to keep an insurance policy active is called",
+      "options": [
+        { "key": "A", "text": "Claim" },
+        { "key": "B", "text": "Premium" },
+        { "key": "C", "text": "Commission" },
+        { "key": "D", "text": "Bonus" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 123,
+      "question": "Which insurance principle requires full disclosure of facts?",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Subrogation" },
+        { "key": "C", "text": "Utmost good faith" },
+        { "key": "D", "text": "Indemnity" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Which policy covers loss of goods while in transit by sea?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Motor insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": 125,
+      "question": "Insurance that compensates injured workers is known as",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Employees’ compensation insurance" },
+        { "key": "D", "text": "Fire insurance" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 126,
+      "question": "Which of the following risks is NOT insurable?",
+      "options": [
+        { "key": "A", "text": "Fire outbreak" },
+        { "key": "B", "text": "Flood disaster" },
+        { "key": "C", "text": "Speculative risk" },
+        { "key": "D", "text": "Accidental death" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 127,
+      "question": "Which insurance policy protects against third-party claims?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Third-party motor insurance" },
+        { "key": "D", "text": "Burglary insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 128,
+      "question": "The individual who assesses insurance losses is known as the",
+      "options": [
+        { "key": "A", "text": "Underwriter" },
+        { "key": "B", "text": "Loss adjuster" },
+        { "key": "C", "text": "Insurance broker" },
+        { "key": "D", "text": "Actuary" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 129,
+      "question": "Which insurance principle ensures fairness when multiple policies exist?",
+      "options": [
+        { "key": "A", "text": "Indemnity" },
+        { "key": "B", "text": "Subrogation" },
+        { "key": "C", "text": "Contribution" },
+        { "key": "D", "text": "Utmost good faith" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 130,
+      "question": "Which document contains the full terms of an insurance contract?",
+      "options": [
+        { "key": "A", "text": "Cover note" },
+        { "key": "B", "text": "Proposal form" },
+        { "key": "C", "text": "Policy document" },
+        { "key": "D", "text": "Premium receipt" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 131,
+      "question": "Which insurance policy combines savings and protection?",
+      "options": [
+        { "key": "A", "text": "Term life insurance" },
+        { "key": "B", "text": "Endowment policy" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Burglary insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Which type of insurance covers factory machinery?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Motor insurance" },
+        { "key": "D", "text": "Travel insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "Which insurance policy is compulsory for all vehicles in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Comprehensive motor insurance" },
+        { "key": "B", "text": "Third-party motor insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Life insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Insurance helps businesses mainly by",
+      "options": [
+        { "key": "A", "text": "Creating profits" },
+        { "key": "B", "text": "Eliminating risks totally" },
+        { "key": "C", "text": "Reducing financial uncertainty" },
+        { "key": "D", "text": "Increasing production cost" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Which of the following is NOT a party to an insurance contract?",
+      "options": [
+        { "key": "A", "text": "Insurer" },
+        { "key": "B", "text": "Insured" },
+        { "key": "C", "text": "Beneficiary" },
+        { "key": "D", "text": "Consumer advocate" }
+      ],
+      "correct_answer": "D"
+    },
+
+    {
+      "id": 136,
+      "question": "Reinsurance is best described as insurance of",
+      "options": [
+        { "key": "A", "text": "Individuals" },
+        { "key": "B", "text": "Businesses" },
+        { "key": "C", "text": "Insurance companies" },
+        { "key": "D", "text": "Government assets" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 137,
+      "question": "Which insurance policy protects against loss due to theft?",
+      "options": [
+        { "key": "A", "text": "Burglary insurance" },
+        { "key": "B", "text": "Life insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Travel insurance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 138,
+      "question": "Insurance that covers risk during air travel is known as",
+      "options": [
+        { "key": "A", "text": "Aviation insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Life insurance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 139,
+      "question": "Which type of insurance protects traders against fire loss?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Travel insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Which document initiates the insurance contract?",
+      "options": [
+        { "key": "A", "text": "Policy document" },
+        { "key": "B", "text": "Cover note" },
+        { "key": "C", "text": "Proposal form" },
+        { "key": "D", "text": "Receipt" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 141,
+      "question": "Which insurance policy pays beneficiaries on death only?",
+      "options": [
+        { "key": "A", "text": "Endowment policy" },
+        { "key": "B", "text": "Whole life policy" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "Which party pays commission to insurance agents?",
+      "options": [
+        { "key": "A", "text": "Insured" },
+        { "key": "B", "text": "Insurer" },
+        { "key": "C", "text": "Broker" },
+        { "key": "D", "text": "Beneficiary" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 143,
+      "question": "Insurance reduces the fear of loss mainly through",
+      "options": [
+        { "key": "A", "text": "Risk sharing" },
+        { "key": "B", "text": "Profit maximization" },
+        { "key": "C", "text": "Tax reduction" },
+        { "key": "D", "text": "Market control" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "The study of risk evaluation in insurance is handled by the",
+      "options": [
+        { "key": "A", "text": "Broker" },
+        { "key": "B", "text": "Underwriter" },
+        { "key": "C", "text": "Agent" },
+        { "key": "D", "text": "Loss adjuster" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Insurance companies make profits mainly through",
+      "options": [
+        { "key": "A", "text": "Premiums and investments" },
+        { "key": "B", "text": "Claims payments" },
+        { "key": "C", "text": "Compensation" },
+        { "key": "D", "text": "Risk elimination" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 146,
+      "question": "Which policy protects business goods against fire and burglary?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Travel insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 147,
+      "question": "The insurer’s promise to compensate is stated in the",
+      "options": [
+        { "key": "A", "text": "Proposal form" },
+        { "key": "B", "text": "Cover note" },
+        { "key": "C", "text": "Policy document" },
+        { "key": "D", "text": "Receipt" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 148,
+      "question": "Which type of insurance covers professional negligence?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Professional indemnity insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 149,
+      "question": "Which policy compensates losses caused by flood?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Property insurance" },
+        { "key": "D", "text": "Life insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "Which insurance principle applies when multiple insurers exist?",
+      "options": [
+        { "key": "A", "text": "Indemnity" },
+        { "key": "B", "text": "Contribution" },
+        { "key": "C", "text": "Subrogation" },
+        { "key": "D", "text": "Good faith" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 151,
+      "question": "Which insurance policy covers accidental injury to passengers?",
+      "options": [
+        { "key": "A", "text": "Life insurance" },
+        { "key": "B", "text": "Personal accident insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Which type of insurance covers exporters and importers?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Life insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 153,
+      "question": "Which insurance policy protects against loss of income due to illness?",
+      "options": [
+        { "key": "A", "text": "Health insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Travel insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": 154,
+      "question": "Insurance promotes economic development mainly by",
+      "options": [
+        { "key": "A", "text": "Encouraging gambling" },
+        { "key": "B", "text": "Mobilizing savings" },
+        { "key": "C", "text": "Reducing population" },
+        { "key": "D", "text": "Fixing prices" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Which insurance principle ensures honesty between parties?",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Utmost good faith" },
+        { "key": "D", "text": "Subrogation" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 156,
+      "question": "Insurance is best defined as",
+      "options": [
+        { "key": "A", "text": "A means of saving money" },
+        { "key": "B", "text": "A contract to indemnify against loss" },
+        { "key": "C", "text": "A gambling agreement" },
+        { "key": "D", "text": "A method of taxation" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 157,
+      "question": "The person who takes out an insurance policy is called the",
+      "options": [
+        { "key": "A", "text": "Insurer" },
+        { "key": "B", "text": "Assured" },
+        { "key": "C", "text": "Broker" },
+        { "key": "D", "text": "Underwriter" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 158,
+      "question": "The principle that requires utmost good faith in insurance is known as",
+      "options": [
+        { "key": "A", "text": "Subrogation" },
+        { "key": "B", "text": "Indemnity" },
+        { "key": "C", "text": "Uberrimae fidei" },
+        { "key": "D", "text": "Contribution" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "An insurance policy that covers loss arising from fire outbreak is",
+      "options": [
+        { "key": "A", "text": "Life assurance" },
+        { "key": "B", "text": "Marine insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 160,
+      "question": "The consideration paid periodically by the insured is called",
+      "options": [
+        { "key": "A", "text": "Claim" },
+        { "key": "B", "text": "Premium" },
+        { "key": "C", "text": "Dividend" },
+        { "key": "D", "text": "Commission" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 161,
+      "question": "Insurance against loss of profits due to fire is called",
+      "options": [
+        { "key": "A", "text": "Fire policy" },
+        { "key": "B", "text": "Fidelity guarantee" },
+        { "key": "C", "text": "Consequential loss insurance" },
+        { "key": "D", "text": "Liability insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "The person who evaluates insurance risks is the",
+      "options": [
+        { "key": "A", "text": "Loss adjuster" },
+        { "key": "B", "text": "Broker" },
+        { "key": "C", "text": "Underwriter" },
+        { "key": "D", "text": "Agent" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 163,
+      "question": "A policy that pays a fixed sum on death is",
+      "options": [
+        { "key": "A", "text": "Motor insurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Life assurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 164,
+      "question": "Which insurance covers theft of goods in transit?",
+      "options": [
+        { "key": "A", "text": "Life assurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Accident insurance" }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "The party that pays compensation to the insured is the",
+      "options": [
+        { "key": "A", "text": "Broker" },
+        { "key": "B", "text": "Insurer" },
+        { "key": "C", "text": "Agent" },
+        { "key": "D", "text": "Adjuster" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 166,
+      "question": "Insurance helps to reduce",
+      "options": [
+        { "key": "A", "text": "Risk" },
+        { "key": "B", "text": "Uncertainty" },
+        { "key": "C", "text": "Loss" },
+        { "key": "D", "text": "Profit" }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "Insurance contracts are enforceable only when there is",
+      "options": [
+        { "key": "A", "text": "Gambling intention" },
+        { "key": "B", "text": "Insurable interest" },
+        { "key": "C", "text": "High premium" },
+        { "key": "D", "text": "Profit expectation" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 168,
+      "question": "Which of the following is compulsory in Nigeria?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Motor third party insurance" },
+        { "key": "C", "text": "Life assurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 169,
+      "question": "The policy document issued by an insurer is called",
+      "options": [
+        { "key": "A", "text": "Certificate" },
+        { "key": "B", "text": "Cover note" },
+        { "key": "C", "text": "Policy" },
+        { "key": "D", "text": "Proposal form" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 170,
+      "question": "The principle of indemnity ensures that the insured",
+      "options": [
+        { "key": "A", "text": "Makes profit" },
+        { "key": "B", "text": "Is fully compensated" },
+        { "key": "C", "text": "Is overpaid" },
+        { "key": "D", "text": "Avoids loss" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 171,
+      "question": "Insurance companies operate mainly to",
+      "options": [
+        { "key": "A", "text": "Avoid claims" },
+        { "key": "B", "text": "Provide security" },
+        { "key": "C", "text": "Make profits" },
+        { "key": "D", "text": "Reduce taxation" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 172,
+      "question": "The body regulating insurance companies in Nigeria is",
+      "options": [
+        { "key": "A", "text": "CBN" },
+        { "key": "B", "text": "NDIC" },
+        { "key": "C", "text": "NAICOM" },
+        { "key": "D", "text": "SEC" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 173,
+      "question": "A loss adjuster is responsible for",
+      "options": [
+        { "key": "A", "text": "Selling policies" },
+        { "key": "B", "text": "Assessing claims" },
+        { "key": "C", "text": "Collecting premiums" },
+        { "key": "D", "text": "Issuing cover notes" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 174,
+      "question": "Which of the following is not a principle of insurance?",
+      "options": [
+        { "key": "A", "text": "Indemnity" },
+        { "key": "B", "text": "Subrogation" },
+        { "key": "C", "text": "Nationalization" },
+        { "key": "D", "text": "Utmost good faith" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 175,
+      "question": "Insurance that protects employers against employee dishonesty is",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Fidelity guarantee" },
+        { "key": "C", "text": "Life assurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 176,
+      "question": "A person who arranges insurance on behalf of clients is",
+      "options": [
+        { "key": "A", "text": "An agent" },
+        { "key": "B", "text": "A broker" },
+        { "key": "C", "text": "An underwriter" },
+        { "key": "D", "text": "A loss adjuster" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 177,
+      "question": "Which insurance policy is suitable for business premises?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life assurance" },
+        { "key": "C", "text": "Motor insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 178,
+      "question": "Insurance encourages business growth by",
+      "options": [
+        { "key": "A", "text": "Increasing profits" },
+        { "key": "B", "text": "Eliminating risk" },
+        { "key": "C", "text": "Providing protection" },
+        { "key": "D", "text": "Avoiding losses" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 179,
+      "question": "The amount payable upon maturity of a life policy is called",
+      "options": [
+        { "key": "A", "text": "Premium" },
+        { "key": "B", "text": "Bonus" },
+        { "key": "C", "text": "Sum assured" },
+        { "key": "D", "text": "Claim" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 180,
+      "question": "Which insurance policy covers damages caused by accidents?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Motor insurance" },
+        { "key": "C", "text": "Life assurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 181,
+      "question": "Insurance companies invest premiums mainly to",
+      "options": [
+        { "key": "A", "text": "Reduce risk" },
+        { "key": "B", "text": "Pay salaries" },
+        { "key": "C", "text": "Earn income" },
+        { "key": "D", "text": "Avoid claims" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 182,
+      "question": "Which of the following involves sharing risk among many people?",
+      "options": [
+        { "key": "A", "text": "Insurance" },
+        { "key": "B", "text": "Savings" },
+        { "key": "C", "text": "Taxation" },
+        { "key": "D", "text": "Gambling" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 183,
+      "question": "A temporary evidence of insurance cover is called",
+      "options": [
+        { "key": "A", "text": "Policy" },
+        { "key": "B", "text": "Cover note" },
+        { "key": "C", "text": "Certificate" },
+        { "key": "D", "text": "Proposal form" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 184,
+      "question": "Which insurance is suitable for cargo shipment?",
+      "options": [
+        { "key": "A", "text": "Life assurance" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 185,
+      "question": "The compensation paid to the insured is called",
+      "options": [
+        { "key": "A", "text": "Premium" },
+        { "key": "B", "text": "Claim" },
+        { "key": "C", "text": "Bonus" },
+        { "key": "D", "text": "Commission" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 186,
+      "question": "Which policy combines savings and protection?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Life assurance" },
+        { "key": "C", "text": "Motor insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 187,
+      "question": "Insurance companies are examples of",
+      "options": [
+        { "key": "A", "text": "Manufacturing firms" },
+        { "key": "B", "text": "Service providers" },
+        { "key": "C", "text": "Retailers" },
+        { "key": "D", "text": "Wholesalers" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 188,
+      "question": "Which insurance covers employer’s liability?",
+      "options": [
+        { "key": "A", "text": "Life assurance" },
+        { "key": "B", "text": "Liability insurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 189,
+      "question": "The pooling of risks is a major function of",
+      "options": [
+        { "key": "A", "text": "Insurance" },
+        { "key": "B", "text": "Banking" },
+        { "key": "C", "text": "Trade" },
+        { "key": "D", "text": "Advertising" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 190,
+      "question": "Which party receives commission for selling insurance?",
+      "options": [
+        { "key": "A", "text": "Broker" },
+        { "key": "B", "text": "Insured" },
+        { "key": "C", "text": "Underwriter" },
+        { "key": "D", "text": "Policyholder" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 191,
+      "question": "A risk that cannot be insured is",
+      "options": [
+        { "key": "A", "text": "Fire risk" },
+        { "key": "B", "text": "Business risk" },
+        { "key": "C", "text": "Gambling risk" },
+        { "key": "D", "text": "Marine risk" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 192,
+      "question": "Which insurance protects passengers in a vehicle?",
+      "options": [
+        { "key": "A", "text": "Motor third party" },
+        { "key": "B", "text": "Fire insurance" },
+        { "key": "C", "text": "Life assurance" },
+        { "key": "D", "text": "Marine insurance" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 193,
+      "question": "Insurance helps stabilize the economy by",
+      "options": [
+        { "key": "A", "text": "Increasing inflation" },
+        { "key": "B", "text": "Encouraging savings" },
+        { "key": "C", "text": "Reducing unemployment" },
+        { "key": "D", "text": "Funding government" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 194,
+      "question": "The transfer of insured’s rights to the insurer is",
+      "options": [
+        { "key": "A", "text": "Contribution" },
+        { "key": "B", "text": "Subrogation" },
+        { "key": "C", "text": "Indemnity" },
+        { "key": "D", "text": "Reinsurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 195,
+      "question": "Which insurance involves sharing risk among insurers?",
+      "options": [
+        { "key": "A", "text": "Life assurance" },
+        { "key": "B", "text": "Reinsurance" },
+        { "key": "C", "text": "Fire insurance" },
+        { "key": "D", "text": "Motor insurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 196,
+      "question": "Which of the following is an advantage of insurance?",
+      "options": [
+        { "key": "A", "text": "Encourages risk taking" },
+        { "key": "B", "text": "Eliminates risk" },
+        { "key": "C", "text": "Ensures profit" },
+        { "key": "D", "text": "Prevents accidents" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 197,
+      "question": "The insured must disclose all material facts based on",
+      "options": [
+        { "key": "A", "text": "Indemnity" },
+        { "key": "B", "text": "Contribution" },
+        { "key": "C", "text": "Utmost good faith" },
+        { "key": "D", "text": "Reinsurance" }
+      ],
+      "correct_answer": "C"
+    },
+
+    {
+      "id": 198,
+      "question": "Which policy covers loss due to burglary?",
+      "options": [
+        { "key": "A", "text": "Fire insurance" },
+        { "key": "B", "text": "Theft insurance" },
+        { "key": "C", "text": "Marine insurance" },
+        { "key": "D", "text": "Life assurance" }
+      ],
+      "correct_answer": "B"
+    },
+
+    {
+      "id": 199,
+      "question": "Insurance premiums are calculated based on",
+      "options": [
+        { "key": "A", "text": "Risk level" },
+        { "key": "B", "text": "Profit margin" },
+        { "key": "C", "text": "Government policy" },
+        { "key": "D", "text": "Market forces" }
+      ],
+      "correct_answer": "A"
+    },
+
+    {
+      "id": 200,
+      "question": "Insurance reduces the financial impact of",
+      "options": [
+        { "key": "A", "text": "Profit" },
+        { "key": "B", "text": "Uncertainty" },
+        { "key": "C", "text": "Growth" },
+        { "key": "D", "text": "Investment" }
+      ],
+      "correct_answer": "B"
     }
   ]
 }
